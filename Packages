@@ -14,6 +14,22 @@ Description: 解决更改很大分辨率后键盘缩小和移位的问题
 Author: 来了老弟
 Name: phonefix
 
+Package: cn.llld.kztm
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/控制中心透明_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 4212
+MD5sum: 73d2fea946ef9dae69a89fa443b8692d
+SHA1: 9c6a31e27a34f33d8dcb2a9988ce942ae3b1b2aa
+SHA256: 27fa13c3928a50b3548d9501930622855be26250854133a1f34b847be2946146
+Section: Tweaks
+Description: 仅控制中心背景透明到桌面（单个模块没透），配合coolcc效果更好（全透）
+Author: 来了老弟
+Name: 控制中心透明
+
 Package: cn.llld.ycvpn
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
