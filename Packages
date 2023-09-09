@@ -109,6 +109,22 @@ Description: flex3--(dopamine版本)简体中文包___(装插件包多费劲，�
 Author: 来了老弟
 Name: flex汉化包
 
+Package: com.llld.fugap
+Version: 2.2.4
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 584
+Depends: mobilesubstrate
+Filename: ./debs/FUGap-控制中心间距调节.deb
+Size: 143544
+MD5sum: 2a9b32f98d757d98a6ddd3681018b28c
+SHA1: 48795859196151badb083eeae38d3f3c52a60c73
+SHA256: fbdc6680490e2796b2c147d1e74f8f856be0632f61325e9d8063e3a580ea19c7
+Section: 修复插件
+Description: 调节控制中心空白部分以及隐藏状态栏_________仅测试，有问题请卸载
+Author: smokin1337
+Name: FUGap控制中心间距
+
 Package: llld.callkitkt
 Version: 0.1
 Architecture: iphoneos-arm64
