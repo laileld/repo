@@ -1,3 +1,19 @@
+Package: apt.llld.conditional
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/增加网络控制@来了老弟.deb
+Size: 3112
+MD5sum: cdf62e81c31ffa2fe3a77dcd4f1a228a
+SHA1: 3548dd91359d54b05b571633914dc2e1cea97967
+SHA256: 5893d7fa401e3a791d3b30a96cd892c80faa4f280104ce7169bbd89d40b88625
+Section: 修复插件
+Description: 设置中添加APP的WiFi和数据的网络权限控制，只推荐非国行手机安装。本意是模仿国行手机。_________仅测试用,有问题卸载
+Author: daniel
+Name: Conditional网络控制
+
 Package: cn.llld.fixdh
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
@@ -30,6 +46,37 @@ Description: 仅控制中心背景透明到桌面（单个模块没透），配�
 Author: 来了老弟
 Name: 控制中心透明
 
+Package: cn.llld.searchy
+Version: 3.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debs/最近通话增加搜索栏@laileld.deb
+Size: 6716
+MD5sum: 5e7f05dec76efff22040da679d21bc22
+SHA1: 292c0fa61fdceeae2e564e339ff4a9dedd5ff57d
+SHA256: bef87e08720e19a362286a045d2dfe3f85baf3b45fd9650b6b1566b96c29e7d2
+Section: 插件
+Description: 最近通话添加(搜索栏)，无设置，直接生效。
+Author: 来了老弟
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: 最近通话增加搜索框
+
+Package: cn.llld.statusbarlunardate
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Filename: ./debs/点击时间显示农历@来了老弟.deb
+Size: 7748
+MD5sum: 48146472e995e3fd8e160b5e8083e3bb
+SHA1: 39aaf5091c32f2208250e19b7eace825ea666b36
+SHA256: 61282241c42ba2eb1b8f9f7d60687bc1c5c660b95e02194d1f308a680a7b9c7c
+Section: 插件
+Description: 点击iOS顶部时间栏显示今日中国农历。_______来了老弟·修复兼容dopamine
+Author: Snail
+Name: 点击时间「显示农历」
+
 Package: cn.llld.ycvpn
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
@@ -61,4 +108,36 @@ Section: Tweaks
 Description: flex3--(dopamine版本)简体中文包___(装插件包多费劲，把dylib和plist文件放入flex3包或者越狱插件路径下就行了)
 Author: 来了老弟
 Name: flex汉化包
+
+Package: llld.callkitkt
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: firmware (>=14.0), mobilesubstrate
+Filename: ./debs/单独开启callkit.deb
+Size: 3256
+MD5sum: fe8b806739043ab568bd49c7b75d48cb
+SHA1: 6621507359caa42e93bf58d2042c63f461b716eb
+SHA256: e1cbd121207e9944d0e652bd171ebadab37d8dadb82566a054a8b4c4a5610351
+Section: 微信插件
+Description: 单独开启callkit，锁屏状态如同接正常电话一般接语音或者视频电话，也方便通话录音，无设置项
+Author: 来了老弟 laileld
+Name: 开启CallKit
+
+Package: netskao.doubleclickwake
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 140
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/双击唤醒(多巴胺rootless).deb
+Size: 3836
+MD5sum: 0bdaad614cea34abc908e41450c16a2e
+SHA1: e5b0d6aed0603198d137f4a9d82f4cda591cfc8a
+SHA256: d134d5a8cbec2a88c69b9bd4d062a13bc8ffab406cf8359deb52dfcd0ec35f34
+Section: 修复插件
+Description: 单击唤醒改为双击唤醒(设置-辅助功能-触控-轻点唤醒)_________仅测试用,有问题卸载
+Author: Netskao <netskao@gmail.com>
+Dev: netskao
+Name: DoubleClickWake
 
