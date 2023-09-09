@@ -30,3 +30,19 @@ Description: An awesome MobileSubstrate tweak!
 Author: 来了老弟
 Name: ycvpn
 
+Package: com.llld.177
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/flex汉化包_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 11312
+MD5sum: 85daa42494406cb4905c8d6ba4404ffd
+SHA1: 565dcce831f813b48ef364975a25e1299d6144db
+SHA256: d9976ca91bfe280fa09df37311822e07875047020d07d65405de5cfd13f1fa66
+Section: Tweaks
+Description: flex3--(dopamine版本)简体中文包___(装插件包多费劲，把dylib和plist文件放入flex3包或者越狱插件路径下就行了)
+Author: 来了老弟
+Name: flex汉化包
+
