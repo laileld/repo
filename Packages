@@ -1,0 +1,16 @@
+Package: cn.llld.ycvpn
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/ycvpn-iphoneos-arm64.deb
+Size: 4362
+MD5sum: 2f0fbeaeb9532f21ea2619e5ae657de9
+SHA1: 580e2ad095951959294dbaa8a2e4bd9f20959cb6
+SHA256: eb221f2b4b2d970787df73ea2c038223ee0cd8d7d8025e5ec05accbd80c9cf70
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: 来了老弟
+Name: ycvpn
+
