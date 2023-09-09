@@ -94,17 +94,17 @@ Author: 来了老弟
 Name: ycvpn
 
 Package: com.llld.177
-Version: 0.0.1-1+debug
+Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/flex汉化包_0.0.1-1+debug_iphoneos-arm64.deb
-Size: 11312
-MD5sum: 85daa42494406cb4905c8d6ba4404ffd
-SHA1: 565dcce831f813b48ef364975a25e1299d6144db
-SHA256: d9976ca91bfe280fa09df37311822e07875047020d07d65405de5cfd13f1fa66
-Section: Tweaks
+Filename: ./debs/flex汉化包_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 11316
+MD5sum: 541ab3e2f243aa2d34949932ef6ad2f2
+SHA1: 90397cede87515b4b2dd9087591ce2c104028508
+SHA256: c932f87bec5e05165a498118b41d0909b98f9bf2965290a5971ad53ebf09eb3b
+Section: 汉化补丁
 Description: flex3--(dopamine版本)简体中文包___(装插件包多费劲，把dylib和plist文件放入flex3包或者越狱插件路径下就行了)
 Author: 来了老弟
 Name: flex汉化包
