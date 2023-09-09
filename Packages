@@ -78,18 +78,18 @@ Author: Snail
 Name: 点击时间「显示农历」
 
 Package: cn.llld.ycvpn
-Version: 0.0.1-1+debug
+Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/ycvpn-iphoneos-arm64.deb
-Size: 4362
-MD5sum: 2f0fbeaeb9532f21ea2619e5ae657de9
-SHA1: 580e2ad095951959294dbaa8a2e4bd9f20959cb6
-SHA256: eb221f2b4b2d970787df73ea2c038223ee0cd8d7d8025e5ec05accbd80c9cf70
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Filename: ./debs/ycvpn_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 4430
+MD5sum: 51e9d1ae12753338570f9c83352c6e74
+SHA1: 4cc83482ecfcacb3f4a187ecdca051d05412f83c
+SHA256: 5c1a5f3eeea1bbc27e7ef3f9ad8b08322c6bd34ea4487472076493b5f4cd7aa9
+Section: 隐藏专区
+Description: 隐藏手机设置内VPN（个别查机的城市用的到，有没隐藏的及时反馈）
 Author: 来了老弟
 Name: ycvpn
 
