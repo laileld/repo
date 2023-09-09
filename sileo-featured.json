@@ -1,0 +1,31 @@
+{
+ "class": "FeaturedBannersView",
+ "itemSize": "{263, 148}",
+ "itemCornerRadius": 10,
+ "banners": [
+  {
+   "url": "https://invalidunit.github.io/sileodepiction/Default/top_0.png",
+   "title": "Local SSH",
+   "package": "com.nan.localhostssh",
+   "hideShadow": false
+  },
+  {
+   "url": "https://invalidunit.github.io/sileodepiction/Default/top_1.png",
+   "title": "deb",
+   "package": "com.nan.deb",
+   "hideShadow": false
+  },
+  {
+   "url": "https://invalidunit.github.io/sileodepiction/com.nan.theme/aential/top.png",
+   "title": "Aential",
+   "package": "com.nan.aential",
+   "hideShadow": false
+  },
+  {
+   "url": "https://invalidunit.github.io/sileodepiction/com.nan.enableccmutemodule/top.png",
+   "title": "Mute Module",
+   "package": "com.nan.enableccmutemodule",
+   "hideShadow": false
+  }
+ ]
+}
