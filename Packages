@@ -1,3 +1,19 @@
+Package: cn.llld.fixdh
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/更改大分辨率后移位处理-arm64的副本.deb
+Size: 4756
+MD5sum: b0949e85351bb2e5918b631b9a90fae7
+SHA1: 33e3ebce47f3d9c656e537851917860f194a06f3
+SHA256: 9a3c9c064cbd2d9b65b95a962f96fd5aad56923cda84f7e780bee998021b5fec
+Section: Tweaks
+Description: 解决更改很大分辨率后键盘缩小和移位的问题
+Author: 来了老弟
+Name: phonefix
+
 Package: cn.llld.ycvpn
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
