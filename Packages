@@ -220,6 +220,21 @@ Description: 朗读任何通知消息_________仅测试，有问题请卸载
 Author: merdok
 Name: Speak Notification 通知朗读
 
+Package: com.llld.thsj
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/最近通话详细时间(rootless) .deb
+Size: 5600
+MD5sum: 16b5818aa73ab765766ff6d93b04226f
+SHA1: fa2c655624f80c6dde4d95d56b3d8a67b625dd90
+SHA256: c0a6242648362e8a8f6563b2899aed09833c6a6af842586d05af68ae245c60b4
+Section: 插件
+Description: 最近通话增加具体时间
+Author: 来了老弟
+Name: 最近通话增加具体时间
+
 Package: com.miguelaka95.bettercc
 Version: 0.0.5
 Architecture: iphoneos-arm64
