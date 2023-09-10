@@ -288,6 +288,22 @@ Description: 单独开启callkit，锁屏状态如同接正常电话一般接语
 Author: 来了老弟 laileld
 Name: 开启CallKit
 
+Package: llld.keyboard
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/强制使用第三方键盘(rootless).deb
+Size: 5840
+MD5sum: e309c9fe8b48f0c561643d6fbe4877f5
+SHA1: eb9ed0fa50d4fee440f1b44e64148907afb41caf
+SHA256: 9c6da1376a7d80b79eef0e368003306a6e71e2380bd9adb186f7b291500c31bf
+Section: 插件
+Description: 在很多时候输入，手机总默认自带键盘，且不能更换第三方，有了这插件，你想用啥键盘用啥键盘(第三方输入法都可以，使用场景：密码框)
+Author: 来了老弟
+Name: 强制密码框第三方键盘(rootless)
+Sponsor: 33225753@qq.com
+
 Package: netskao.doubleclickwake
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -304,4 +320,19 @@ Description: 单击唤醒改为双击唤醒(设置-辅助功能-触控-轻点唤
 Author: Netskao <netskao@gmail.com>
 Dev: netskao
 Name: DoubleClickWake
+
+Package: qcjpyc.llld
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/去除第三方键盘延迟(rootless).deb
+Size: 3460
+MD5sum: e1ed5e04c62b83181555e06bc95667a7
+SHA1: 377309c114b112f9962385c3444aa172fdde6b4b
+SHA256: f747508fb2ebee9bd65bd5dcdf9859d5e46e147d871619c8230c651611d994fc
+Section: 巨魔商店
+Description: 去除键盘的延迟(主用作于第三方，若没有延迟，则不用装)，安装即生效。无设置选项
+Author: 来了老弟
+Name: 去除键盘延迟
 
