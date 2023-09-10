@@ -109,6 +109,22 @@ Description: 仅控制中心背景透明到桌面（单个模块没透），配�
 Author: 来了老弟
 Name: 控制中心透明
 
+Package: cn.llld.nlrq
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/放大锁屏农历日期(rootless).deb
+Size: 3828
+MD5sum: 21c9c6a347d6da3e2cfbd4c4ab1c0c46
+SHA1: 75a23777a80bf567f0e2e695c9b4f9bcb7f595fe
+SHA256: 64f392d528e37fa551cc6ac617d0d904b3f433879f66f5424b7ed0690dd6ade1
+Section: Tweaks
+Description: 放大自带的农历和日期（默认的有点小）
+Author: 来了老弟
+Name: 放大农历日期
+
 Package: cn.llld.searchy
 Version: 3.2
 Architecture: iphoneos-arm64
