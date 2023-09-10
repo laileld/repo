@@ -265,14 +265,14 @@ h1 {
 
 p.legend {
     color: #4e4d4d;
-    font-size: 22px;
+    font-size: 20px;
     text-align: center;
     margin-bottom: 1.2em;
 }
 
 p.legend span {
     color: #000;
-    margin-left: 10px;
+    margin-left: 9px;
 }
 
 .input {
@@ -458,7 +458,7 @@ a.bottom-text-w3ls {
     }
 
     p.legend {
-        font-size: 22px;
+        font-size: 20px;
     }
 
     a.bottom-text-w3ls {
