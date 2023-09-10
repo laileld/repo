@@ -267,6 +267,22 @@ Description: 最近通话增加具体时间
 Author: 来了老弟
 Name: 最近通话增加具体时间
 
+Package: com.llld.ycfyd
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/隐藏桌面翻页点(rootless).deb
+Size: 3120
+MD5sum: dc12059571ffaece866de66d42dc5fbc
+SHA1: 024ab85201de33620b7d10a6deede2380fd184bf
+SHA256: 8096974349fdb3152c359b5538004f9f6a20ec888ea7d9976a3a753658bf1003
+Section: 隐藏专区
+Description: 隐藏桌面翻页小白点
+Author: 来了老弟
+Name: 隐藏桌面点
+
 Package: com.miguelaka95.bettercc
 Version: 0.0.5
 Architecture: iphoneos-arm64
