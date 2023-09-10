@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/增加网络控制@来了老弟.deb
+Filename: ./debs/增加网络控制(rootless).deb
 Size: 3112
 MD5sum: cdf62e81c31ffa2fe3a77dcd4f1a228a
 SHA1: 3548dd91359d54b05b571633914dc2e1cea97967
@@ -14,13 +14,44 @@ Description: 设置中添加APP的WiFi和数据的网络权限控制，只推荐
 Author: daniel
 Name: Conditional网络控制
 
+Package: apt.llld.smartlight
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Filename: ./debs/快捷手电筒(音量-和电源)-(rootless).deb
+Size: 5584
+MD5sum: 866ced3d77cd093befab174b6416304e
+SHA1: cc7374c32541550ed168c76ee006edb4f403b8bb
+SHA256: 31a5cd55153cafa6b564ae73751ebce9e3e39e80b2e495a2f813275761d5708e
+Section: 插件
+Description: 用VolumeDown +激活手电筒，并通过音量加和音量减锁定更改亮度级别！
+Author: smokin1337
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: SmartLight快捷手电
+
+Package: apt.llld.systeminfo
+Version: 2.7.2-2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Filename: ./debs/Systeminfo_2.7.2(rootless).deb
+Size: 272472
+MD5sum: e5df21d96835072f9f3cebaa6d07bcfe
+SHA1: 43bd40e69dcfefa229b3dd87b5e106b2141023f8
+SHA256: 0288b95454737ce2d2ce415ca322f040e3347e470d9849c99a91da39d5e24d02
+Section: 修复插件
+Description: 显示 iOS 所有系统信息，不用装Legacy arm64e Support_________仅测试，有问题请卸载
+Author: ARX8x
+Name: System Info 系统信息
+
 Package: cn.llld.fixdh
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/更改大分辨率后移位处理-arm64的副本.deb
+Filename: ./debs/改分辨率后电话移位处理,高度3000+(rootless).deb
 Size: 4756
 MD5sum: b0949e85351bb2e5918b631b9a90fae7
 SHA1: 33e3ebce47f3d9c656e537851917860f194a06f3
@@ -30,13 +61,45 @@ Description: 解决更改很大分辨率后键盘缩小和移位的问题
 Author: 来了老弟
 Name: phonefix
 
+Package: cn.llld.fixdh1
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/改分辨率后电话移位处理,高度2800+(rootless).deb
+Size: 4790
+MD5sum: 2df16db0dba9ead3468b1b9a645078d6
+SHA1: 18bd3abc859d4aaa96d5ba18c09d22b8d431590e
+SHA256: 7ffd78365b81be36880831ba20954601b7eb479078b528cda427291c013423b0
+Section: Tweaks
+Description: 解决更改很大分辨率后键盘缩小和移位的问题（适用于分辨率高度2800-3050）
+Author: 来了老弟
+Name: phonefix
+
+Package: cn.llld.jjyh
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/东莞银行去检测越狱弹窗(rootless).deb
+Size: 3228
+MD5sum: 509215b53fb05f9d5b112a16904dce56
+SHA1: dfc2df0afcc294f3a00d616b54cfb2839034c393
+SHA256: 0215a3a109651721e097dd260a3cfc189634027336dfda1e224092b5ab4889fb
+Section: 屏蔽弹窗
+Description: 解决银行越狱检测弹窗(东莞银行)，不用注销
+Author: 来了老弟
+Name: 东莞银行
+
 Package: cn.llld.kztm
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/控制中心透明_0.0.1-1+debug_iphoneos-arm64.deb
+Filename: ./debs/控制中心透明(rootless).deb
 Size: 4212
 MD5sum: 73d2fea946ef9dae69a89fa443b8692d
 SHA1: 9c6a31e27a34f33d8dcb2a9988ce942ae3b1b2aa
@@ -51,7 +114,7 @@ Version: 3.2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: firmware (>=13.0), mobilesubstrate
-Filename: ./debs/最近通话增加搜索栏@laileld.deb
+Filename: ./debs/最近通话增加搜索栏(rootless).deb
 Size: 6716
 MD5sum: 5e7f05dec76efff22040da679d21bc22
 SHA1: 292c0fa61fdceeae2e564e339ff4a9dedd5ff57d
@@ -67,7 +130,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: mobilesubstrate
-Filename: ./debs/点击时间显示农历@来了老弟.deb
+Filename: ./debs/点击时间显示农历(rootless).deb
 Size: 7748
 MD5sum: 48146472e995e3fd8e160b5e8083e3bb
 SHA1: 39aaf5091c32f2208250e19b7eace825ea666b36
@@ -83,7 +146,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/ycvpn_0.0.1-2+debug_iphoneos-arm64.deb
+Filename: ./debs/隐藏设置中vpn(rootless).deb
 Size: 4430
 MD5sum: 51e9d1ae12753338570f9c83352c6e74
 SHA1: 4cc83482ecfcacb3f4a187ecdca051d05412f83c
@@ -99,7 +162,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/flex汉化包_0.0.1-2+debug_iphoneos-arm64.deb
+Filename: ./debs/flex汉化包(rootless).deb
 Size: 11316
 MD5sum: 541ab3e2f243aa2d34949932ef6ad2f2
 SHA1: 90397cede87515b4b2dd9087591ce2c104028508
@@ -109,13 +172,29 @@ Description: flex3--(dopamine版本)简体中文包___(装插件包多费劲，�
 Author: 来了老弟
 Name: flex汉化包
 
+Package: com.llld.deleteapp
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/桌面便捷删除app(rootless).deb
+Size: 14324
+MD5sum: e69bfb3f47ddd8c4f7a146ebb5ee3ee7
+SHA1: 12eb0e9a7c956bb5b32c3180beab28d940435c33
+SHA256: e03a71030e73a097ee71977ef94d107676305741736703f56834e05af6badbf5
+Section: 修复插件
+Priority: optional
+Description: 适用于iOS14删除App时不用脱裤子放屁一样的选择移除App后在选择删除_________转的，不用arm64e
+Author: Mao
+Name: 删除App
+
 Package: com.llld.fugap
 Version: 2.2.4
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 584
 Depends: mobilesubstrate
-Filename: ./debs/FUGap-控制中心间距调节.deb
+Filename: ./debs/FUGap-控制中心间距调节(rootless).deb
 Size: 143544
 MD5sum: 2a9b32f98d757d98a6ddd3681018b28c
 SHA1: 48795859196151badb083eeae38d3f3c52a60c73
@@ -125,12 +204,66 @@ Description: 调节控制中心空白部分以及隐藏状态栏_________仅测�
 Author: smokin1337
 Name: FUGap控制中心间距
 
+Package: com.llld.speaknotification
+Version: 1.8.19
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 888
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./debs/Speak语言播报各种通知来电等(rootless).deb
+Size: 250388
+MD5sum: abb12ab0a6e4aa1c5f71e08361b2d513
+SHA1: 68a3d1926049811e17b5589af756904401b7973b
+SHA256: a7e814a5afe6177f333fc740f4c134af14d62218dfff2eb465cef03b49f34f6b
+Section: 修复插件
+Description: 朗读任何通知消息_________仅测试，有问题请卸载
+Author: merdok
+Name: Speak Notification 通知朗读
+
+Package: com.miguelaka95.bettercc
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 1828
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
+Filename: ./debs/BetterCC带天气功能(rootless).deb
+Size: 149256
+MD5sum: 39768901dc8fa7665a12b6bdcc813716
+SHA1: c8415498ca99b1883a68638b09d114e5bc78db79
+SHA256: 9129d095f5beb9a7c666e300cbc677c265c9573f68ac57b28c0886207b30c916
+Section: 修复插件
+Description: Customize your Control Center!_________仅测试，有问题请卸载
+ Invisible Modules.
+ Rearrange Connectivity Toggles.
+ Change Modules Size.
+ Weather Widget.
+Author: Miguelaka95 <miguelaka95@gmail.com>
+Name: BetterCC
+
+Package: com.tomaszpoliszuk.alertcontroller
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 350
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/Alert修改弹窗样式已半汉化(rootless).deb
+Size: 75496
+MD5sum: 320026028baad2038a7ced5e42121974
+SHA1: f44646793cdd9b80cafdcb6e1d1fe7588c320008
+SHA256: 72a38c4bf7a1a6983d12f0f82bc7010f09348b9cc001c02ddfb02dcb96f58047
+Section: 修复插件
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=alertcontrollerDp
+Description: Alert Controller - Control UX and UI of your Alerts and Action Sheets_________仅测试，有问题请卸载
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Dev: tomaszpoliszuk
+Name: Alert Controller
+
 Package: llld.callkitkt
 Version: 0.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: firmware (>=14.0), mobilesubstrate
-Filename: ./debs/单独开启callkit.deb
+Filename: ./debs/单独开启callkit(rootless).deb
 Size: 3256
 MD5sum: fe8b806739043ab568bd49c7b75d48cb
 SHA1: 6621507359caa42e93bf58d2042c63f461b716eb
@@ -146,7 +279,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 140
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/双击唤醒(多巴胺rootless).deb
+Filename: ./debs/双击唤醒(rootless).deb
 Size: 3836
 MD5sum: 0bdaad614cea34abc908e41450c16a2e
 SHA1: e5b0d6aed0603198d137f4a9d82f4cda591cfc8a
