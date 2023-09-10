@@ -9,6 +9,11 @@
 			function hideURLbar() {
 				window.scrollTo(0, 1);
 			}
+			
+			window.addEventListener('DOMContentLoaded', (event) => {
+        const bgMusic = document.getElementById('bg-music');
+        bgMusic.play();
+    });
 		</script>
 		<link rel="stylesheet" href="./css/style.css" type="text/css" media="all" />
 		<link href="css/font-awesome.min.css" rel="stylesheet">
@@ -16,7 +21,8 @@
 	<body>
 		<div class="main-bg"/>
 		<h1>来了老弟-Repo</h1>
-		<div class="sub-main-w3"/>
+		<div class="sub-main-w3" style="text-align: center;">
+		<audio id="bg-music" src="music.mp3" loop autoplay controls></audio>
 		<div class="bg-content-w3pvt"/>
 		<div class="top-content-style"/>
 		<img src="./images/laileld.png" alt=""/>
@@ -30,6 +36,10 @@
 				<p class="legend"></span></p>
                <p class="legend">添加什么都测试Q群<span class="fa fa-hand-o-down"></span></p>
 				<a href="https://qm.qq.com/q/Kt5R1xyFiy">添加</a>
+				<p class="legend"></span></p>
+               <p class="legend">关注来了老弟Twitter<span class="fa fa-hand-o-down"></span></p>
+				<a href="https://twitter.com/h_h_x_t">关注</a>
+
 			</form>
 		</br>
 		</br>
