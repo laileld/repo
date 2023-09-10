@@ -204,6 +204,22 @@ Description: 调节控制中心空白部分以及隐藏状态栏_________仅测�
 Author: smokin1337
 Name: FUGap控制中心间距
 
+Package: com.llld.shelly
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/shelly汉化(rootless).deb
+Size: 15230
+MD5sum: 563884955a4fb9bd217f60dd5ff13165
+SHA1: 82b2cd8d22c6b6bdc45d0f94a454f68772e49fb7
+SHA256: a4bd99e7eb9cc277a7696718d9d6acb4e1ef4eee4dfa22123056bd12546b3110
+Section: 汉化补丁
+Description: Shelly--(rootess)简体中文包
+Author: 来了老弟
+Name: shelly汉化
+
 Package: com.llld.speaknotification
 Version: 1.8.19
 Architecture: iphoneos-arm64
