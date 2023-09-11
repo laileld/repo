@@ -45,6 +45,22 @@ Description: 显示 iOS 所有系统信息，不用装Legacy arm64e Support_____
 Author: ARX8x
 Name: System Info 系统信息
 
+Package: cn.llld.cocoatop
+Version: 0.0.1-16+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 208
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/CocoaTop汉化(rootless).deb
+Size: 18812
+MD5sum: 8b420096a52dcbdc1697ff1209dbbeb5
+SHA1: 250d19f46f4e99fd68146f82b14bc53bcde751b7
+SHA256: 3909247085c2687e106e84d1c2779200e62bd2e9b9ecb0faf16807f7a1979d2a
+Section: 汉化补丁
+Description: CocoaTop简易汉化（多巴胺专用）
+Author: 来了老弟
+Name: CocoaTop汉化
+
 Package: cn.llld.fixdh
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
