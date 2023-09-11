@@ -46,16 +46,32 @@ Author: ARX8x
 Name: System Info 系统信息
 
 Package: cn.llld.cocoatop
-Version: 0.0.1-16+debug
+Version: 0.0.1-21+debug
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
-Installed-Size: 208
+Installed-Size: 240
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/CocoaTop汉化(rootless).deb
-Size: 18812
-MD5sum: 8b420096a52dcbdc1697ff1209dbbeb5
-SHA1: 250d19f46f4e99fd68146f82b14bc53bcde751b7
-SHA256: 3909247085c2687e106e84d1c2779200e62bd2e9b9ecb0faf16807f7a1979d2a
+Filename: ./debs/CocoaTop汉化_0.0.1-21(rootless).deb
+Size: 20268
+MD5sum: 54c26d9f2c23a2c2d1fff767c8ea76ae
+SHA1: 80c9ac5528d68c69cd2bb3d7032c40b6f84b5704
+SHA256: 4da8dd0dce5925db6b60228a9881675de37ae1e4f1d96196708270fa616bae51
+Section: 汉化补丁
+Description: CocoaTop简易汉化（多巴胺专用）
+Author: 来了老弟
+Name: CocoaTop汉化
+
+Package: cn.llld.cocoatop
+Version: 0.0.1-22+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/CocoaTop汉化_0.0.1-22(rootless).deb
+Size: 19620
+MD5sum: fc7e67bd3a5f0bcb38a543af96df05c8
+SHA1: 8334d1a2ece89452b780e6db90ac5b00d46c71ec
+SHA256: 4cc44074fb380dfbaf562404361c8727f80797968d0e5b13612c96ea01d30b6f
 Section: 汉化补丁
 Description: CocoaTop简易汉化（多巴胺专用）
 Author: 来了老弟
