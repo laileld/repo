@@ -93,6 +93,22 @@ Description: You can long-press to copy any visible text. Currently, we are in t
 Author: 来了老弟
 Name: copy-text
 
+Package: cn.llld.copy
+Version: 0.0.1-7+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/copy-text_复制文本(rootless).deb
+Size: 7416
+MD5sum: b120a65d3bdcc13e17496dd221b0375e
+SHA1: 803b26b53603e1f073b400a6a3100410dc158d08
+SHA256: 423232517ac87811c933dfdf2d2a0dc2526556ec68df9bec69b5a1a1a1497c8e
+Section: 插件
+Description: Individual text can be copied by long-pressing in the settings, currently in the testing phase, and more support will be added in future updates.设置中个别文本长按可复制，现处于测试阶段等后续更新支持更多
+Author: 来了老弟
+Name: copy-text
+
 Package: cn.llld.fixdh
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
