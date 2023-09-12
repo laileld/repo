@@ -1,0 +1,434 @@
+Package: apt.llld.conditional
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/增加网络控制(rootless).deb
+Size: 3112
+MD5sum: cdf62e81c31ffa2fe3a77dcd4f1a228a
+SHA1: 3548dd91359d54b05b571633914dc2e1cea97967
+SHA256: 5893d7fa401e3a791d3b30a96cd892c80faa4f280104ce7169bbd89d40b88625
+Section: 修复插件
+Description: 设置中添加APP的WiFi和数据的网络权限控制，只推荐非国行手机安装。本意是模仿国行手机。_________仅测试用,有问题卸载
+Author: daniel
+Name: Conditional网络控制
+
+Package: apt.llld.smartlight
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Filename: ./debs/快捷手电筒(音量-和电源)-(rootless).deb
+Size: 5584
+MD5sum: 866ced3d77cd093befab174b6416304e
+SHA1: cc7374c32541550ed168c76ee006edb4f403b8bb
+SHA256: 31a5cd55153cafa6b564ae73751ebce9e3e39e80b2e495a2f813275761d5708e
+Section: 插件
+Description: 用VolumeDown +激活手电筒，并通过音量加和音量减锁定更改亮度级别！
+Author: smokin1337
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: SmartLight快捷手电
+
+Package: apt.llld.systeminfo
+Version: 2.7.2-2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Filename: ./debs/Systeminfo_2.7.2(rootless).deb
+Size: 272472
+MD5sum: e5df21d96835072f9f3cebaa6d07bcfe
+SHA1: 43bd40e69dcfefa229b3dd87b5e106b2141023f8
+SHA256: 0288b95454737ce2d2ce415ca322f040e3347e470d9849c99a91da39d5e24d02
+Section: 修复插件
+Description: 显示 iOS 所有系统信息，不用装Legacy arm64e Support_________仅测试，有问题请卸载
+Author: ARX8x
+Name: System Info 系统信息
+
+Package: cn.llld.cocoatop
+Version: 0.0.1-21+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/CocoaTop汉化_0.0.1-21(rootless).deb
+Size: 20268
+MD5sum: 54c26d9f2c23a2c2d1fff767c8ea76ae
+SHA1: 80c9ac5528d68c69cd2bb3d7032c40b6f84b5704
+SHA256: 4da8dd0dce5925db6b60228a9881675de37ae1e4f1d96196708270fa616bae51
+Section: 汉化补丁
+Description: CocoaTop简易汉化（多巴胺专用）
+Author: 来了老弟
+Name: CocoaTop汉化
+
+Package: cn.llld.cocoatop
+Version: 0.0.1-22+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/CocoaTop汉化_0.0.1-22(rootless).deb
+Size: 19620
+MD5sum: fc7e67bd3a5f0bcb38a543af96df05c8
+SHA1: 8334d1a2ece89452b780e6db90ac5b00d46c71ec
+SHA256: 4cc44074fb380dfbaf562404361c8727f80797968d0e5b13612c96ea01d30b6f
+Section: 汉化补丁
+Description: CocoaTop简易汉化（多巴胺专用）
+Author: 来了老弟
+Name: CocoaTop汉化
+
+Package: cn.llld.copy
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/copy-text复制文本(rootless).deb
+Size: 6404
+MD5sum: 4297e577ce45190656b4bac01699520d
+SHA1: 0bf77807a6f3f59b5a9d17edba1e0f34d67fc707
+SHA256: 48958059a9387396512bb61b3921f8f431ba74f851ed4242b7ba22d9e3ba8d25
+Section: 插件
+Description: You can long-press to copy any visible text. Currently, we are in the testing phase, and further updates will be released.一切可以看到的文本都可以长按复制，现处于测试阶段等后续更新
+Author: 来了老弟
+Name: copy-text
+
+Package: cn.llld.fixdh
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/改分辨率后电话移位处理,高度3000+(rootless).deb
+Size: 4756
+MD5sum: b0949e85351bb2e5918b631b9a90fae7
+SHA1: 33e3ebce47f3d9c656e537851917860f194a06f3
+SHA256: 9a3c9c064cbd2d9b65b95a962f96fd5aad56923cda84f7e780bee998021b5fec
+Section: Tweaks
+Description: 解决更改很大分辨率后键盘缩小和移位的问题
+Author: 来了老弟
+Name: phonefix
+
+Package: cn.llld.fixdh1
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/改分辨率后电话移位处理,高度2800+(rootless).deb
+Size: 4790
+MD5sum: 2df16db0dba9ead3468b1b9a645078d6
+SHA1: 18bd3abc859d4aaa96d5ba18c09d22b8d431590e
+SHA256: 7ffd78365b81be36880831ba20954601b7eb479078b528cda427291c013423b0
+Section: Tweaks
+Description: 解决更改很大分辨率后键盘缩小和移位的问题（适用于分辨率高度2800-3050）
+Author: 来了老弟
+Name: phonefix
+
+Package: cn.llld.jjyh
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/东莞银行去检测越狱弹窗(rootless).deb
+Size: 3228
+MD5sum: 509215b53fb05f9d5b112a16904dce56
+SHA1: dfc2df0afcc294f3a00d616b54cfb2839034c393
+SHA256: 0215a3a109651721e097dd260a3cfc189634027336dfda1e224092b5ab4889fb
+Section: 屏蔽弹窗
+Description: 解决银行越狱检测弹窗(东莞银行)，不用注销
+Author: 来了老弟
+Name: 东莞银行
+
+Package: cn.llld.kztm
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/控制中心透明(rootless).deb
+Size: 4212
+MD5sum: 73d2fea946ef9dae69a89fa443b8692d
+SHA1: 9c6a31e27a34f33d8dcb2a9988ce942ae3b1b2aa
+SHA256: 27fa13c3928a50b3548d9501930622855be26250854133a1f34b847be2946146
+Section: Tweaks
+Description: 仅控制中心背景透明到桌面（单个模块没透），配合coolcc效果更好（全透）
+Author: 来了老弟
+Name: 控制中心透明
+
+Package: cn.llld.nlrq
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/放大锁屏农历日期(rootless).deb
+Size: 3828
+MD5sum: 21c9c6a347d6da3e2cfbd4c4ab1c0c46
+SHA1: 75a23777a80bf567f0e2e695c9b4f9bcb7f595fe
+SHA256: 64f392d528e37fa551cc6ac617d0d904b3f433879f66f5424b7ed0690dd6ade1
+Section: Tweaks
+Description: 放大自带的农历和日期（默认的有点小）
+Author: 来了老弟
+Name: 放大农历日期
+
+Package: cn.llld.searchy
+Version: 3.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debs/最近通话增加搜索栏(rootless).deb
+Size: 6716
+MD5sum: 5e7f05dec76efff22040da679d21bc22
+SHA1: 292c0fa61fdceeae2e564e339ff4a9dedd5ff57d
+SHA256: bef87e08720e19a362286a045d2dfe3f85baf3b45fd9650b6b1566b96c29e7d2
+Section: 插件
+Description: 最近通话添加(搜索栏)，无设置，直接生效。
+Author: 来了老弟
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: 最近通话增加搜索框
+
+Package: cn.llld.statusbarlunardate
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Filename: ./debs/点击时间显示农历(rootless).deb
+Size: 7748
+MD5sum: 48146472e995e3fd8e160b5e8083e3bb
+SHA1: 39aaf5091c32f2208250e19b7eace825ea666b36
+SHA256: 61282241c42ba2eb1b8f9f7d60687bc1c5c660b95e02194d1f308a680a7b9c7c
+Section: 插件
+Description: 点击iOS顶部时间栏显示今日中国农历。_______来了老弟·修复兼容dopamine
+Author: Snail
+Name: 点击时间「显示农历」
+
+Package: cn.llld.ycvpn
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/隐藏设置中vpn(rootless).deb
+Size: 4430
+MD5sum: 51e9d1ae12753338570f9c83352c6e74
+SHA1: 4cc83482ecfcacb3f4a187ecdca051d05412f83c
+SHA256: 5c1a5f3eeea1bbc27e7ef3f9ad8b08322c6bd34ea4487472076493b5f4cd7aa9
+Section: 隐藏专区
+Description: 隐藏手机设置内VPN（个别查机的城市用的到，有没隐藏的及时反馈）
+Author: 来了老弟
+Name: ycvpn
+
+Package: com.llld.177
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/flex汉化包(rootless).deb
+Size: 11316
+MD5sum: 541ab3e2f243aa2d34949932ef6ad2f2
+SHA1: 90397cede87515b4b2dd9087591ce2c104028508
+SHA256: c932f87bec5e05165a498118b41d0909b98f9bf2965290a5971ad53ebf09eb3b
+Section: 汉化补丁
+Description: flex3--(dopamine版本)简体中文包___(装插件包多费劲，把dylib和plist文件放入flex3包或者越狱插件路径下就行了)
+Author: 来了老弟
+Name: flex汉化包
+
+Package: com.llld.deleteapp
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/桌面便捷删除app(rootless).deb
+Size: 14324
+MD5sum: e69bfb3f47ddd8c4f7a146ebb5ee3ee7
+SHA1: 12eb0e9a7c956bb5b32c3180beab28d940435c33
+SHA256: e03a71030e73a097ee71977ef94d107676305741736703f56834e05af6badbf5
+Section: 修复插件
+Priority: optional
+Description: 适用于iOS14删除App时不用脱裤子放屁一样的选择移除App后在选择删除_________转的，不用arm64e
+Author: Mao
+Name: 删除App
+
+Package: com.llld.fugap
+Version: 2.2.4
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 584
+Depends: mobilesubstrate
+Filename: ./debs/FUGap-控制中心间距调节(rootless).deb
+Size: 143544
+MD5sum: 2a9b32f98d757d98a6ddd3681018b28c
+SHA1: 48795859196151badb083eeae38d3f3c52a60c73
+SHA256: fbdc6680490e2796b2c147d1e74f8f856be0632f61325e9d8063e3a580ea19c7
+Section: 修复插件
+Description: 调节控制中心空白部分以及隐藏状态栏_________仅测试，有问题请卸载
+Author: smokin1337
+Name: FUGap控制中心间距
+
+Package: com.llld.shelly
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/shelly汉化(rootless).deb
+Size: 15230
+MD5sum: 563884955a4fb9bd217f60dd5ff13165
+SHA1: 82b2cd8d22c6b6bdc45d0f94a454f68772e49fb7
+SHA256: a4bd99e7eb9cc277a7696718d9d6acb4e1ef4eee4dfa22123056bd12546b3110
+Section: 汉化补丁
+Description: Shelly--(rootess)简体中文包
+Author: 来了老弟
+Name: shelly汉化
+
+Package: com.llld.speaknotification
+Version: 1.8.19
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 888
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./debs/Speak语言播报各种通知来电等(rootless).deb
+Size: 250388
+MD5sum: abb12ab0a6e4aa1c5f71e08361b2d513
+SHA1: 68a3d1926049811e17b5589af756904401b7973b
+SHA256: a7e814a5afe6177f333fc740f4c134af14d62218dfff2eb465cef03b49f34f6b
+Section: 修复插件
+Description: 朗读任何通知消息_________仅测试，有问题请卸载
+Author: merdok
+Name: Speak Notification 通知朗读
+
+Package: com.llld.thsj
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/最近通话详细时间(rootless) .deb
+Size: 5600
+MD5sum: 16b5818aa73ab765766ff6d93b04226f
+SHA1: fa2c655624f80c6dde4d95d56b3d8a67b625dd90
+SHA256: c0a6242648362e8a8f6563b2899aed09833c6a6af842586d05af68ae245c60b4
+Section: 插件
+Description: 最近通话增加具体时间
+Author: 来了老弟
+Name: 最近通话增加具体时间
+
+Package: com.llld.ycfyd
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/隐藏桌面翻页点(rootless).deb
+Size: 3120
+MD5sum: dc12059571ffaece866de66d42dc5fbc
+SHA1: 024ab85201de33620b7d10a6deede2380fd184bf
+SHA256: 8096974349fdb3152c359b5538004f9f6a20ec888ea7d9976a3a753658bf1003
+Section: 隐藏专区
+Description: 隐藏桌面翻页小白点
+Author: 来了老弟
+Name: 隐藏桌面点
+
+Package: com.miguelaka95.bettercc
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 1828
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
+Filename: ./debs/BetterCC带天气功能(rootless).deb
+Size: 149256
+MD5sum: 39768901dc8fa7665a12b6bdcc813716
+SHA1: c8415498ca99b1883a68638b09d114e5bc78db79
+SHA256: 9129d095f5beb9a7c666e300cbc677c265c9573f68ac57b28c0886207b30c916
+Section: 修复插件
+Description: Customize your Control Center!_________仅测试，有问题请卸载
+ Invisible Modules.
+ Rearrange Connectivity Toggles.
+ Change Modules Size.
+ Weather Widget.
+Author: Miguelaka95 <miguelaka95@gmail.com>
+Name: BetterCC
+
+Package: com.tomaszpoliszuk.alertcontroller
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 350
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/Alert修改弹窗样式已半汉化(rootless).deb
+Size: 75496
+MD5sum: 320026028baad2038a7ced5e42121974
+SHA1: f44646793cdd9b80cafdcb6e1d1fe7588c320008
+SHA256: 72a38c4bf7a1a6983d12f0f82bc7010f09348b9cc001c02ddfb02dcb96f58047
+Section: 修复插件
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=alertcontrollerDp
+Description: Alert Controller - Control UX and UI of your Alerts and Action Sheets_________仅测试，有问题请卸载
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Dev: tomaszpoliszuk
+Name: Alert Controller
+
+Package: llld.callkitkt
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: firmware (>=14.0), mobilesubstrate
+Filename: ./debs/单独开启callkit(rootless).deb
+Size: 3256
+MD5sum: fe8b806739043ab568bd49c7b75d48cb
+SHA1: 6621507359caa42e93bf58d2042c63f461b716eb
+SHA256: e1cbd121207e9944d0e652bd171ebadab37d8dadb82566a054a8b4c4a5610351
+Section: 微信插件
+Description: 单独开启callkit，锁屏状态如同接正常电话一般接语音或者视频电话，也方便通话录音，无设置项
+Author: 来了老弟 laileld
+Name: 开启CallKit
+
+Package: llld.keyboard
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/强制使用第三方键盘(rootless).deb
+Size: 5840
+MD5sum: e309c9fe8b48f0c561643d6fbe4877f5
+SHA1: eb9ed0fa50d4fee440f1b44e64148907afb41caf
+SHA256: 9c6da1376a7d80b79eef0e368003306a6e71e2380bd9adb186f7b291500c31bf
+Section: 插件
+Description: 在很多时候输入，手机总默认自带键盘，且不能更换第三方，有了这插件，你想用啥键盘用啥键盘(第三方输入法都可以，使用场景：密码框)
+Author: 来了老弟
+Name: 强制密码框第三方键盘(rootless)
+Sponsor: 33225753@qq.com
+
+Package: netskao.doubleclickwake
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 140
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/双击唤醒(rootless).deb
+Size: 3836
+MD5sum: 0bdaad614cea34abc908e41450c16a2e
+SHA1: e5b0d6aed0603198d137f4a9d82f4cda591cfc8a
+SHA256: d134d5a8cbec2a88c69b9bd4d062a13bc8ffab406cf8359deb52dfcd0ec35f34
+Section: 修复插件
+Description: 单击唤醒改为双击唤醒(设置-辅助功能-触控-轻点唤醒)_________仅测试用,有问题卸载
+Author: Netskao <netskao@gmail.com>
+Dev: netskao
+Name: DoubleClickWake
+
+Package: qcjpyc.llld
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/去除第三方键盘延迟(rootless).deb
+Size: 3460
+MD5sum: e1ed5e04c62b83181555e06bc95667a7
+SHA1: 377309c114b112f9962385c3444aa172fdde6b4b
+SHA256: f747508fb2ebee9bd65bd5dcdf9859d5e46e147d871619c8230c651611d994fc
+Section: 巨魔商店
+Description: 去除键盘的延迟(主用作于第三方，若没有延迟，则不用装)，安装即生效。无设置选项
+Author: 来了老弟
+Name: 去除键盘延迟
+
