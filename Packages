@@ -78,6 +78,22 @@ Author: 来了老弟
 Name: CocoaTop汉化
 
 Package: cn.llld.copy
+Version: 0.0.1-12+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 180
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/copy-text复制文本第3版本(rootless).deb
+Size: 10206
+MD5sum: 7058861edd88d438a31667703a57f276
+SHA1: 84a79fae5362ce3588b2bcaea90c029e27e547ef
+SHA256: 6845d09484b9025189ac36cfa2b0e13886fc1670bd402cc6ac76581a75f36ecd
+Section: 插件
+Description: Individual text can be copied by long-pressing in the (settings and appstore and message), currently in the testing phase, and more support will be added in future updates.（设置,appstore,短信）个别文本长按可复制，现处于测试阶段等后续更新支持更多
+Author: 来了老弟
+Name: copy-text
+
+Package: cn.llld.copy
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
