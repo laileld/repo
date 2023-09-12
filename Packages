@@ -94,6 +94,22 @@ Author: 来了老弟
 Name: copy-text
 
 Package: cn.llld.copy
+Version: 0.0.1-13+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/copy-text_复制文本4版本(rootless).deb
+Size: 8820
+MD5sum: 2d72bb6aab1cbc622535e2cb8d5a8fff
+SHA1: febd05ceb6ba6d01ab93980ce635569e25e80921
+SHA256: 726d32663505a441f20fbc168c0fae723bed0fd0124235aefed4373158ad90d8
+Section: 插件
+Description: Individual text can be copied by long-pressing in the (settings and appstore and message), currently in the testing phase, and more support will be added in future updates.（设置,appstore,短信）个别文本长按可复制，现处于测试阶段等后续更新支持更多
+Author: 来了老弟
+Name: copy-text
+
+Package: cn.llld.copy
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
