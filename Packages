@@ -221,6 +221,22 @@ Description: 仅控制中心背景透明到桌面（单个模块没透），配�
 Author: 来了老弟
 Name: 控制中心透明
 
+Package: cn.llld.nc
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/隐藏更早的通知_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 3130
+MD5sum: 2ce18907a1211ce643a5fd274b1f369e
+SHA1: 7be094b7e5dd91fe6b07aedc1426d4fda6ab07ee
+SHA256: dc09cbe41d51364a277677b60c693bd39ac9e0a16acecbc471f0458a189a6c7a
+Section: 隐藏专区
+Description: 隐藏没有更早的通知文字
+Author: 来了老弟
+Name: 隐藏更早的通知
+
 Package: cn.llld.nlrq
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
