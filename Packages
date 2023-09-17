@@ -253,6 +253,22 @@ Description: 放大自带的农历和日期（默认的有点小）
 Author: 来了老弟
 Name: 放大农历日期
 
+Package: cn.llld.sdxj
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/隐藏手电相机_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 3210
+MD5sum: 6319f2ff3330489506504690a72f4071
+SHA1: 6f10bb1dbf0ec4148b8e1a3acd925aa59ea6c55e
+SHA256: 93f4d59aabc5b3b0b6a9b90b8d70e09c2f5662759dfe8b813d6b2eab991534bf
+Section: 隐藏专区
+Description: Hide flashlights and cameras，Keep the left sliding negative screen and the right sliding camera.（隐藏手电筒和相机,保留左滑负一屏和右滑相机）
+Author: 来了老弟
+Name: 隐藏手电相机
+
 Package: cn.llld.searchy
 Version: 3.2
 Architecture: iphoneos-arm64
