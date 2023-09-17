@@ -348,6 +348,22 @@ Description: 适用于iOS14删除App时不用脱裤子放屁一样的选择移�
 Author: Mao
 Name: 删除App
 
+Package: com.llld.flexlist
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/flexlist汉化_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 10442
+MD5sum: 877765828b381b45860a58d780834573
+SHA1: f1674a25223f86c18f7e6494212a70422d388ab5
+SHA256: 0c420faa1c29ab40e31e7bc32656c6333767021f28e62b0540732cf2751418a1
+Section: 汉化补丁
+Description: flexlist--(rootess)简体中文包
+Author: 来了老弟
+Name: flexlist汉化
+
 Package: com.llld.fugap
 Version: 2.2.4
 Architecture: iphoneos-arm64
