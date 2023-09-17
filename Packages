@@ -428,6 +428,22 @@ Description: 朗读任何通知消息_________仅测试，有问题请卸载
 Author: merdok
 Name: Speak Notification 通知朗读
 
+Package: com.llld.swipeextenderx
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/swipeextenderx汉化_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 11794
+MD5sum: b69d4d10173ea77d594df6192181b532
+SHA1: f547d214f68540a9b0c2ac3e541d184986bb5130
+SHA256: 25d19d4912f1dfb3c76c57c6cec0f5e95663eeab243381e54fd6af193f1e7e98
+Section: 汉化补丁
+Description: swipeextenderx汉化汉化--(rootess)简体中文包
+Author: 来了老弟
+Name: swipeextenderx汉化
+
 Package: com.llld.thsj
 Version: 0.1-1
 Architecture: iphoneos-arm64
