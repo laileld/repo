@@ -444,6 +444,22 @@ Description: swipeextenderx汉化汉化--(rootess)简体中文包
 Author: 来了老弟
 Name: swipeextenderx汉化
 
+Package: com.llld.swipeextenderx
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/swipeextenderx汉化_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 11816
+MD5sum: ed1477a784adfe2ce7e55b1ead5c90e9
+SHA1: 144c0884e436673a989b610436a87e5c76cf9a18
+SHA256: c3527af738c50e4207daa3e04cb4905fa5efadcb148ace7a34bbdc8c9be6e4b8
+Section: 汉化补丁
+Description: SwipeExtenderX汉化，swipeextenderx汉化--(rootess)简体中文包
+Author: 来了老弟
+Name: SwipeExtenderX汉化
+
 Package: com.llld.thsj
 Version: 0.1-1
 Architecture: iphoneos-arm64
