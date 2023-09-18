@@ -332,6 +332,22 @@ Description: flex3--(dopamine版本)简体中文包___(装插件包多费劲，�
 Author: 来了老弟
 Name: flex汉化包
 
+Package: com.llld.177
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/flex汉化包_0.0.1-3+debug_iphoneos-arm64.deb
+Size: 11248
+MD5sum: 695dc70933000102b0cdca5298b6b54f
+SHA1: 4cb6b3ee1f1a884473202557831eb70b702da5d2
+SHA256: 6f6d85c65e6d640f916131ccb400f0b6cea85ac885d3aabe4b5b7b13774687e4
+Section: 汉化补丁
+Description: flex3--(dopamine版本)简体中文包
+Author: 来了老弟
+Name: flex汉化包
+
 Package: com.llld.deleteapp
 Version: 0.1-1
 Architecture: iphoneos-arm64
