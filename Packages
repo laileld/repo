@@ -46,64 +46,16 @@ Author: ARX8x
 Name: System Info 系统信息
 
 Package: cn.llld.cocoatop
-Version: 0.0.1-21+debug
+Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 240
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/CocoaTop汉化_0.0.1-21(rootless).deb
-Size: 20268
-MD5sum: 54c26d9f2c23a2c2d1fff767c8ea76ae
-SHA1: 80c9ac5528d68c69cd2bb3d7032c40b6f84b5704
-SHA256: 4da8dd0dce5925db6b60228a9881675de37ae1e4f1d96196708270fa616bae51
-Section: 汉化补丁
-Description: CocoaTop简易汉化（多巴胺专用）
-Author: 来了老弟
-Name: CocoaTop汉化
-
-Package: cn.llld.cocoatop
-Version: 0.0.1-22+debug
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 240
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/CocoaTop汉化_0.0.1-22(rootless).deb
-Size: 19620
-MD5sum: fc7e67bd3a5f0bcb38a543af96df05c8
-SHA1: 8334d1a2ece89452b780e6db90ac5b00d46c71ec
-SHA256: 4cc44074fb380dfbaf562404361c8727f80797968d0e5b13612c96ea01d30b6f
-Section: 汉化补丁
-Description: CocoaTop简易汉化（多巴胺专用）
-Author: 来了老弟
-Name: CocoaTop汉化
-
-Package: cn.llld.cocoatop
-Version: 0.0.1-24+debug
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 240
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/CocoaTop汉化_0.0.1-24+debug_iphoneos-arm64.deb
-Size: 20000
-MD5sum: 95c2da783dfe405b72526a1d33424610
-SHA1: ef9a929fc64f84f5922564ce2bc16dc24add184c
-SHA256: bdf68a473c9e644953254449e2ad70e9819538a37693dcdcf2e760fcb27f668d
-Section: 汉化补丁
-Description: CocoaTop简易汉化（多巴胺专用）
-Author: 来了老弟
-Name: CocoaTop汉化
-
-Package: cn.llld.cocoatop
-Version: 0.0.1-25+debug
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 240
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/CocoaTop汉化_0.0.1-25+debug_iphoneos-arm64.deb
-Size: 20722
-MD5sum: 9d9c129e80d27fd956f811d3d4fa8db1
-SHA1: 7a90d8c8885c2549826546ff5e670a81b734cfd3
-SHA256: 11b7622847107aa8663e33e2cc7e5ec1a0ab62f5262aa43e9e38e0af45d3f7f1
+Filename: ./debs/CocoaTop汉化_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 19984
+MD5sum: 96ec5db4b28b05d9f78bf5bd50dede53
+SHA1: 27f420980219406a5c0cbf372139ec86d55fafda
+SHA256: cb393bba35524327d831384ce1c86bb1a9df9397caec1339ebaa677a0dd14a4d
 Section: 汉化补丁
 Description: CocoaTop简易汉化（多巴胺专用）
 Author: 来了老弟
