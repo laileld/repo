@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/增加网络控制(rootless).deb
+Filename: ./debs/rootless/增加网络控制(rootless).deb
 Size: 3112
 MD5sum: cdf62e81c31ffa2fe3a77dcd4f1a228a
 SHA1: 3548dd91359d54b05b571633914dc2e1cea97967
@@ -19,7 +19,7 @@ Version: 1.0.5
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
-Filename: ./debs/快捷手电筒(音量-和电源)-(rootless).deb
+Filename: ./debs/rootless/快捷手电筒(音量-和电源)-(rootless).deb
 Size: 5584
 MD5sum: 866ced3d77cd093befab174b6416304e
 SHA1: cc7374c32541550ed168c76ee006edb4f403b8bb
@@ -35,7 +35,7 @@ Version: 2.7.2-2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: mobilesubstrate
-Filename: ./debs/Systeminfo_2.7.2(rootless).deb
+Filename: ./debs/rootless/Systeminfo_2.7.2(rootless).deb
 Size: 272472
 MD5sum: e5df21d96835072f9f3cebaa6d07bcfe
 SHA1: 43bd40e69dcfefa229b3dd87b5e106b2141023f8
@@ -47,11 +47,27 @@ Name: System Info 系统信息
 
 Package: cn.llld.cocoatop
 Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/cocoatop汉化- roothide.deb
+Size: 19930
+MD5sum: 8e6733d9e83589388055880d0a0b984a
+SHA1: ddfb867bb64a348cdcaf73511e4bead00548b1f4
+SHA256: e735d36ec9a2b1f66e3c76f8e1d2f3dbe965bb2c7c9f2ad4fde340c79ebbe26c
+Section: roothide汉化补丁
+Description: CocoaTop简易汉化（roothide专用）
+Author: 来了老弟
+Name: CocoaTop汉化
+
+Package: cn.llld.cocoatop
+Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 240
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/CocoaTop汉化_0.0.1-1+debug_iphoneos-arm64.deb
+Filename: ./debs/rootless/CocoaTop汉化_0.0.1-1+debug_iphoneos-arm64.deb
 Size: 19984
 MD5sum: 96ec5db4b28b05d9f78bf5bd50dede53
 SHA1: 27f420980219406a5c0cbf372139ec86d55fafda
@@ -67,7 +83,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/copy-text_0.0.1-1+debug_iphoneos-arm64.deb
+Filename: ./debs/rootless/copy-text_0.0.1-1+debug_iphoneos-arm64.deb
 Size: 5066
 MD5sum: 55d0b799207d0da3805bdb43ce9e9952
 SHA1: 2d4ba90b9e84848552286dc1a0a63bc6404ef5fe
@@ -83,7 +99,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/copy-text_0.0.1-2+debug_iphoneos-arm64.deb
+Filename: ./debs/rootless/copy-text_0.0.1-2+debug_iphoneos-arm64.deb
 Size: 5272
 MD5sum: 949296de8db38ae69a8df13e8aac704f
 SHA1: 120496139747422f89cb3787041f26b0e326f022
@@ -99,7 +115,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/copy-text_0.0.1-3+debug_iphoneos-arm64.deb
+Filename: ./debs/rootless/copy-text_0.0.1-3+debug_iphoneos-arm64.deb
 Size: 5196
 MD5sum: 3815d7915b8a8292ac8341d21b1ee720
 SHA1: 6681da18d75f34c814e22110635be603c57b0daa
@@ -115,7 +131,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/copy-text_0.0.1-4+debug_iphoneos-arm64.deb
+Filename: ./debs/rootless/copy-text_0.0.1-4+debug_iphoneos-arm64.deb
 Size: 5464
 MD5sum: 766d93a6d1082ae295bd0fe1d35c6bea
 SHA1: ab1a3f7b5aa3110277bc1b40915ef3aa34682552
@@ -131,7 +147,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/改分辨率后电话移位处理,高度3000+(rootless).deb
+Filename: ./debs/rootless/改分辨率后电话移位处理,高度3000+(rootless).deb
 Size: 4756
 MD5sum: b0949e85351bb2e5918b631b9a90fae7
 SHA1: 33e3ebce47f3d9c656e537851917860f194a06f3
@@ -147,7 +163,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/改分辨率后电话移位处理,高度2800+(rootless).deb
+Filename: ./debs/rootless/改分辨率后电话移位处理,高度2800+(rootless).deb
 Size: 4790
 MD5sum: 2df16db0dba9ead3468b1b9a645078d6
 SHA1: 18bd3abc859d4aaa96d5ba18c09d22b8d431590e
@@ -163,7 +179,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/东莞银行去检测越狱弹窗(rootless).deb
+Filename: ./debs/rootless/东莞银行去检测越狱弹窗(rootless).deb
 Size: 3228
 MD5sum: 509215b53fb05f9d5b112a16904dce56
 SHA1: dfc2df0afcc294f3a00d616b54cfb2839034c393
@@ -179,7 +195,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/控制中心透明(rootless).deb
+Filename: ./debs/rootless/控制中心透明(rootless).deb
 Size: 4212
 MD5sum: 73d2fea946ef9dae69a89fa443b8692d
 SHA1: 9c6a31e27a34f33d8dcb2a9988ce942ae3b1b2aa
@@ -195,7 +211,7 @@ Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/控制中心透明-roothide.deb
+Filename: ./debs/roothide/控制中心透明-roothide.deb
 Size: 4262
 MD5sum: 2734be2b0c79805428858f2781a7cc44
 SHA1: 68a7a5963400c6495ae2d299ca26e0746aa481a3
@@ -211,7 +227,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/隐藏更早的通知_0.0.1-1+debug_iphoneos-arm64.deb
+Filename: ./debs/rootless/隐藏更早的通知_0.0.1-1+debug_iphoneos-arm64.deb
 Size: 3162
 MD5sum: 69ee529eae3ccd7315841c58f04ee56a
 SHA1: 830df9c98808b7c0273d021f0e2386ef69fc3527
@@ -227,7 +243,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/放大锁屏农历日期(rootless).deb
+Filename: ./debs/rootless/放大锁屏农历日期(rootless).deb
 Size: 3828
 MD5sum: 21c9c6a347d6da3e2cfbd4c4ab1c0c46
 SHA1: 75a23777a80bf567f0e2e695c9b4f9bcb7f595fe
@@ -243,7 +259,7 @@ Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/放大锁屏农历日期-rootlhide.deb
+Filename: ./debs/roothide/放大锁屏农历日期-rootlhide.deb
 Size: 3842
 MD5sum: b4865468576ffcda849c83602d8e7e58
 SHA1: ef4f32fdc56ed3592553371f2d6823cffc3d0412
@@ -259,7 +275,7 @@ Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/隐藏通知中心手电相机-roothide.deb
+Filename: ./debs/roothide/隐藏通知中心手电相机-roothide.deb
 Size: 3160
 MD5sum: dbba7ed88b8c39769fbebd5dd4ea8005
 SHA1: 57f21f78eaab536032d998a4a7726550f331db6d
@@ -275,7 +291,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/隐藏手电相机_0.0.1-1+debug_iphoneos-arm64.deb
+Filename: ./debs/rootless/隐藏手电相机_0.0.1-1+debug_iphoneos-arm64.deb
 Size: 3210
 MD5sum: 6319f2ff3330489506504690a72f4071
 SHA1: 6f10bb1dbf0ec4148b8e1a3acd925aa59ea6c55e
@@ -290,7 +306,7 @@ Version: 3.2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: firmware (>=13.0), mobilesubstrate
-Filename: ./debs/最近通话增加搜索栏(rootless).deb
+Filename: ./debs/rootless/最近通话增加搜索栏(rootless).deb
 Size: 6716
 MD5sum: 5e7f05dec76efff22040da679d21bc22
 SHA1: 292c0fa61fdceeae2e564e339ff4a9dedd5ff57d
@@ -306,7 +322,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: mobilesubstrate
-Filename: ./debs/点击时间显示农历(rootless).deb
+Filename: ./debs/rootless/点击时间显示农历(rootless).deb
 Size: 7748
 MD5sum: 48146472e995e3fd8e160b5e8083e3bb
 SHA1: 39aaf5091c32f2208250e19b7eace825ea666b36
@@ -322,7 +338,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/隐藏设置中vpn(rootless).deb
+Filename: ./debs/rootless/隐藏设置中vpn(rootless).deb
 Size: 4430
 MD5sum: 51e9d1ae12753338570f9c83352c6e74
 SHA1: 4cc83482ecfcacb3f4a187ecdca051d05412f83c
@@ -338,7 +354,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/flex汉化包(rootless).deb
+Filename: ./debs/rootless/flex汉化包(rootless).deb
 Size: 11316
 MD5sum: 541ab3e2f243aa2d34949932ef6ad2f2
 SHA1: 90397cede87515b4b2dd9087591ce2c104028508
@@ -350,11 +366,27 @@ Name: flex汉化包
 
 Package: com.llld.177
 Version: 0.0.1-3+debug
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/flex汉化-roothide.deb
+Size: 11200
+MD5sum: b799e80c86174fbde61eae87dca2672f
+SHA1: a2fd86ea227261f6f70eb222941ad6e8201ce5c2
+SHA256: 23d4d577896c0a541e490ac91c57cc3578fa09978953355757537d682fff19e6
+Section: roothide汉化补丁
+Description: flex3--(roothide专用)简体中文包
+Author: 来了老弟
+Name: flex汉化包
+
+Package: com.llld.177
+Version: 0.0.1-3+debug
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/flex汉化包_0.0.1-3+debug_iphoneos-arm64.deb
+Filename: ./debs/rootless/flex汉化包_0.0.1-3+debug_iphoneos-arm64.deb
 Size: 11248
 MD5sum: 695dc70933000102b0cdca5298b6b54f
 SHA1: 4cb6b3ee1f1a884473202557831eb70b702da5d2
@@ -369,7 +401,7 @@ Version: 0.1-1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/桌面便捷删除app(rootless).deb
+Filename: ./debs/rootless/桌面便捷删除app(rootless).deb
 Size: 14324
 MD5sum: e69bfb3f47ddd8c4f7a146ebb5ee3ee7
 SHA1: 12eb0e9a7c956bb5b32c3180beab28d940435c33
@@ -386,7 +418,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/flexlist汉化_0.0.1-2+debug_iphoneos-arm64.deb
+Filename: ./debs/rootless/flexlist汉化_0.0.1-2+debug_iphoneos-arm64.deb
 Size: 10442
 MD5sum: 877765828b381b45860a58d780834573
 SHA1: f1674a25223f86c18f7e6494212a70422d388ab5
@@ -402,7 +434,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/flexlist汉化_0.0.1-3+debug_iphoneos-arm64.deb
+Filename: ./debs/rootless/flexlist汉化_0.0.1-3+debug_iphoneos-arm64.deb
 Size: 11734
 MD5sum: 75635bfd5bf1942ae01b10926c5616a1
 SHA1: 01ca99a5df6be40b8d0a88f41838d95a23ca9b71
@@ -418,7 +450,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 584
 Depends: mobilesubstrate
-Filename: ./debs/FUGap-控制中心间距调节(rootless).deb
+Filename: ./debs/rootless/FUGap-控制中心间距调节(rootless).deb
 Size: 143544
 MD5sum: 2a9b32f98d757d98a6ddd3681018b28c
 SHA1: 48795859196151badb083eeae38d3f3c52a60c73
@@ -434,7 +466,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/shelly汉化(rootless).deb
+Filename: ./debs/rootless/shelly汉化(rootless).deb
 Size: 15230
 MD5sum: 563884955a4fb9bd217f60dd5ff13165
 SHA1: 82b2cd8d22c6b6bdc45d0f94a454f68772e49fb7
@@ -450,7 +482,7 @@ Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/shelly汉化-roothide.deb
+Filename: ./debs/roothide/shelly汉化-roothide.deb
 Size: 15186
 MD5sum: 6f3721c926aab495de85021e80998a15
 SHA1: 558dc1f81a6fb6318b4f2d5f2600d9d2dac18bde
@@ -466,7 +498,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 888
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Filename: ./debs/Speak语言播报各种通知来电等(rootless).deb
+Filename: ./debs/rootless/Speak语言播报各种通知来电等(rootless).deb
 Size: 250388
 MD5sum: abb12ab0a6e4aa1c5f71e08361b2d513
 SHA1: 68a3d1926049811e17b5589af756904401b7973b
@@ -482,7 +514,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/swipeextenderx汉化_0.0.1-1+debug_iphoneos-arm64.deb
+Filename: ./debs/rootless/swipeextenderx汉化_0.0.1-1+debug_iphoneos-arm64.deb
 Size: 11794
 MD5sum: b69d4d10173ea77d594df6192181b532
 SHA1: f547d214f68540a9b0c2ac3e541d184986bb5130
@@ -498,7 +530,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/swipeextenderx汉化_0.0.1-2+debug_iphoneos-arm64.deb
+Filename: ./debs/rootless/swipeextenderx汉化_0.0.1-2+debug_iphoneos-arm64.deb
 Size: 11816
 MD5sum: ed1477a784adfe2ce7e55b1ead5c90e9
 SHA1: 144c0884e436673a989b610436a87e5c76cf9a18
@@ -513,7 +545,7 @@ Version: 0.1-1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/最近通话详细时间(rootless) .deb
+Filename: ./debs/rootless/最近通话详细时间(rootless) .deb
 Size: 5600
 MD5sum: 16b5818aa73ab765766ff6d93b04226f
 SHA1: fa2c655624f80c6dde4d95d56b3d8a67b625dd90
@@ -529,7 +561,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/隐藏桌面翻页点(rootless).deb
+Filename: ./debs/rootless/隐藏桌面翻页点(rootless).deb
 Size: 3120
 MD5sum: dc12059571ffaece866de66d42dc5fbc
 SHA1: 024ab85201de33620b7d10a6deede2380fd184bf
@@ -545,7 +577,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 1828
 Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
-Filename: ./debs/BetterCC带天气功能(rootless).deb
+Filename: ./debs/rootless/BetterCC带天气功能(rootless).deb
 Size: 149256
 MD5sum: 39768901dc8fa7665a12b6bdcc813716
 SHA1: c8415498ca99b1883a68638b09d114e5bc78db79
@@ -565,7 +597,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 350
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/Alert修改弹窗样式已半汉化(rootless).deb
+Filename: ./debs/rootless/Alert修改弹窗样式已半汉化(rootless).deb
 Size: 75496
 MD5sum: 320026028baad2038a7ced5e42121974
 SHA1: f44646793cdd9b80cafdcb6e1d1fe7588c320008
@@ -582,7 +614,7 @@ Version: 0.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: firmware (>=14.0), mobilesubstrate
-Filename: ./debs/单独开启callkit(rootless).deb
+Filename: ./debs/rootless/单独开启callkit(rootless).deb
 Size: 3256
 MD5sum: fe8b806739043ab568bd49c7b75d48cb
 SHA1: 6621507359caa42e93bf58d2042c63f461b716eb
@@ -597,7 +629,7 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/强制使用第三方键盘(rootless).deb
+Filename: ./debs/rootless/强制使用第三方键盘(rootless).deb
 Size: 5840
 MD5sum: e309c9fe8b48f0c561643d6fbe4877f5
 SHA1: eb9ed0fa50d4fee440f1b44e64148907afb41caf
@@ -614,7 +646,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 140
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/双击唤醒(rootless).deb
+Filename: ./debs/rootless/双击唤醒(rootless).deb
 Size: 3836
 MD5sum: 0bdaad614cea34abc908e41450c16a2e
 SHA1: e5b0d6aed0603198d137f4a9d82f4cda591cfc8a
@@ -630,7 +662,7 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/去除第三方键盘延迟(rootless).deb
+Filename: ./debs/rootless/去除第三方键盘延迟(rootless).deb
 Size: 3460
 MD5sum: e1ed5e04c62b83181555e06bc95667a7
 SHA1: 377309c114b112f9962385c3444aa172fdde6b4b
