@@ -221,6 +221,22 @@ Description: 放大自带的农历和日期（默认的有点小）
 Author: 来了老弟
 Name: 放大农历日期
 
+Package: cn.llld.nlrq
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/放大锁屏农历日期-rootlhide.deb
+Size: 3834
+MD5sum: b1a61d746e350232f4b368a3c5771415
+SHA1: 5aaf268c36de1c66cb6805a585b875532a254362
+SHA256: 64189b4bb9b9e7dcbbaa1d2ee394b733bf705618e520698a86abe43a1fdcd1ef
+Section: roothide
+Description: Enlarge the built-in lunar calendar and date (the default is a little small)放大自带的农历和日期（默认的有点小）
+Author: 来了老弟
+Name: 放大农历日期
+
 Package: cn.llld.sdxj
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64e
