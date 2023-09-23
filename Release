@@ -3,6 +3,6 @@ Label: 来了老弟-repo
 Suite: stable
 Version: 1.0
 Codename: llld
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 自用+开发+修复+转插+汉化（慢慢来，啥都有），源里现有的都不用Legacy arm64e Support,后续若增加会单独立区且描述写明
