@@ -189,6 +189,22 @@ Description: 仅控制中心背景透明到桌面（单个模块没透），配�
 Author: 来了老弟
 Name: 控制中心透明
 
+Package: cn.llld.kztm
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/控制中心透明-roothide.deb
+Size: 4254
+MD5sum: eff0950e27aaa2176e1eccc0df8f6c03
+SHA1: 12949bb6652509a27e6ea892eb1e1d6cc636a952
+SHA256: 9711e63228e028d0178c12724ea637f60f581e7c59e551ae67e6ccc454522b26
+Section: roothide
+Description: Only the background of the control center is transparent to the desktop (a single module is not transparent), and it is better to use it with coolcc.仅控制中心背景透明到桌面（单个模块没透明），和coolcc一起使用效果更好
+Author: 来了老弟
+Name: 控制中心透明
+
 Package: cn.llld.nc
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
