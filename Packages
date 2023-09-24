@@ -238,6 +238,22 @@ Author: 来了老弟
 Name: 控制中心透明
 
 Package: cn.llld.nc
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/隐藏没有更早的通知-roothide.deb
+Size: 2790
+MD5sum: d108077664049ccaacf5af8dd2fbe9e6
+SHA1: bcd7489afc93a787453958adcd4566964459ce0c
+SHA256: 46cd37893899db8f72c68015946d45476fba0be630e78ae25501ee0013e4866d
+Section: roothide隐藏专区
+Description: Hide no earlier notification text（隐藏-没有更早的通知文字）——roothide
+Author: 来了老弟
+Name: 隐藏更早的通知
+
+Package: cn.llld.nc
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
