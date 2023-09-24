@@ -234,6 +234,21 @@ Description: 解决更改很大分辨率后键盘缩小和移位的问题（适�
 Author: 来了老弟
 Name: phonefix
 
+Package: cn.llld.hideallbar
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: mobilesubstrate,oldabi
+Filename: ./debs/roothide/隐藏底部横条-roothide.deb
+Size: 4080
+MD5sum: 92eccc8828dd16e7733ca3a8ae60b6dc
+SHA1: 1a23cb6355d74b69d0d50dbe4a1e6b676496ca6b
+SHA256: 6a660e9f4981fce885766bd012ae1d5142bc7cdfd0e10837be9706f4b3a5d61b
+Section: roothide隐藏专区
+Description: Hide home bar隐藏底部横条，需要安装Legacy arm64e Support，介意卸载---roothide
+Author: netskao
+Name: 隐藏底部横条-roothide
+
 Package: cn.llld.hidepagedots
 Version: 1.0
 Architecture: iphoneos-arm64e
