@@ -205,6 +205,22 @@ Description: 解决银行越狱检测弹窗(东莞银行)，不用注销
 Author: 来了老弟
 Name: 东莞银行
 
+Package: cn.llld.keyboard
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Filename: ./debs/roothide/强制密码框第三方键盘roothide.deb
+Size: 4652
+MD5sum: 1995c4e99a6161e6bad82413d6be8ffe
+SHA1: e670d0a5011eab7872c38db2fcd44038d0a5f735
+SHA256: d60c844a7ded1c26ccd38e3f970d28b9bc041af487331da7681a1c83fcfe5f9b
+Section: roothide插件
+Description: The password box can be used with third-party input methods密码框可用第三方输入---roothide
+Author: 来了老弟
+Name: 强制第三方输入法
+Sponsor: 来了老弟
+
 Package: cn.llld.kztm
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
@@ -348,6 +364,22 @@ Description: 最近通话添加(搜索栏)，无设置，直接生效。
 Author: 来了老弟
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: 最近通话增加搜索框
+
+Package: cn.llld.sjhx
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/双击唤醒-roothide.deb
+Size: 3124
+MD5sum: b2a208741ec75cfb60dbfd103e2f75d0
+SHA1: 8855d70fa3a0c5002d92bca6296fcaa2afca2705
+SHA256: cd244ed14b0641558e47e5eb4a82ece2e974a4169de2b8a16ae913f0e1b409b1
+Section: roothide插件
+Description: Change single-click to wake to double-click to wake (Settings-Accessibility-Touch-Tap to wake)单击唤醒改为双击唤醒(设置-辅助功能-触控-轻点唤醒)---roothide
+Author: 来了老弟
+Dev: 来了老弟
+Name: 双击唤醒-roothide
 
 Package: cn.llld.statusbarlunardate
 Version: 1.0.0
