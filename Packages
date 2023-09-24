@@ -76,6 +76,21 @@ Description: Playing photos and videos in the album can produce picture-in-pictu
 Author: MiRO 来了老弟
 Name: AVPhotos照片视频画中画-roothide
 
+Package: cn.llld.avphotos
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: firmware (>=14.0), mobilesubstrate
+Filename: ./debs/rootless/AVPhotos照片视频画中画-rootless.deb
+Size: 7236
+MD5sum: 76788a114fd08e6fbe80bcd6e1814547
+SHA1: 4231f91617606fbea2eec5e8ba9b5f89b91f3d8d
+SHA256: 82210592c27fecbd80a5aa41825cab0230261246af656f93e36621432af499ae
+Section: 修复插件
+Description: Playing photos and videos in the album can produce picture-in-picture effects!在相册中播放照片视频可以画中画效果！_________仅测试，有问题请卸载
+Author: MiRO 来了老弟
+Name: AVPhotos照片视频画中画-rootless
+
 Package: cn.llld.cocoatop
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64e
@@ -263,6 +278,21 @@ Section: roothide隐藏专区
 Description: hide page dots隐藏页面点---roothide
 Author: 来了老弟
 Name: 隐藏桌面翻页点-roothide
+
+Package: cn.llld.hidepagedots
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/隐藏页面点2-rootless.deb
+Size: 3188
+MD5sum: 052bb8c240ce9359d1cb6692ec9aba72
+SHA1: 32bd9ea88ad1e9121a86822b95a2ea2f5dda279d
+SHA256: 6fd9b3e15856d395e1e98dc4253f2f6aa501f7a8141fb375c8576b4229f4ee74
+Section: 隐藏专区
+Description: hide page dots隐藏页面点(rootless)
+Author: 来了老弟
+Name: 隐藏桌面翻页点-rootless
 
 Package: cn.llld.jjyh
 Version: 0.0.1-1+debug
