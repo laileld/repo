@@ -381,6 +381,21 @@ Author: 来了老弟
 Dev: 来了老弟
 Name: 双击唤醒-roothide
 
+Package: cn.llld.sjsp
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Filename: ./debs/roothide/双击锁屏-roothide.deb
+Size: 8596
+MD5sum: 724999d297ae2f285daeee788b1c4699
+SHA1: 97b677efc379da23adf97ad257fcad9c57e72406
+SHA256: f22185d6e5150054f6cf01e27973371a6e5c84e717e8d17a0ee42ae269e79f43
+Section: roothide插件
+Description: Double-click the home screen to lock the device双击锁屏---roothide
+Author: 来了老弟
+Name: 双击锁屏-roothide
+
 Package: cn.llld.statusbarlunardate
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -395,6 +410,21 @@ Section: 插件
 Description: 点击iOS顶部时间栏显示今日中国农历。_______来了老弟·修复兼容dopamine
 Author: Snail
 Name: 点击时间「显示农历」
+
+Package: cn.llld.ycdock
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Filename: ./debs/roothide/隐藏dock背景-roothide.deb
+Size: 3796
+MD5sum: 775189d4574f80701d3005c134f75725
+SHA1: 32ddb6931ec62aac6af926506ed16b9f02b03ed9
+SHA256: 1f59bffbf88e387c01512fc3236b98d0ca8bff5e795186f92b4f6f0afc48a343
+Section: roothide隐藏专区
+Description: Hide Dock Bar Background透明Dock栏背景---roothide
+Author: 来了老弟
+Name: 隐藏Dock背景-roothide
 
 Package: cn.llld.ycvpn
 Version: 0.0.1-2+debug
