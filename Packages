@@ -45,6 +45,22 @@ Description: 显示 iOS 所有系统信息，不用装Legacy arm64e Support_____
 Author: ARX8x
 Name: System Info 系统信息
 
+Package: cn.llld.appdata
+Version: 0.0.1-4+debug
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/appdata汉化-roothide.deb
+Size: 10602
+MD5sum: cbc064419170182617a59e645c2644be
+SHA1: baa414194b5fb128b69f155b53f7fdafcd70ac8a
+SHA256: 4a425d40cd0bf3be0ae756cab2b7f9aabba9945de87044e4fdb5fc29e16df4a7
+Section: roothide汉化补丁
+Description: appdata汉化（roothide专用）
+Author: 来了老弟
+Name: appdata汉化
+
 Package: cn.llld.cocoatop
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64e
