@@ -501,6 +501,21 @@ Description: Double-click the home screen to lock the device双击锁屏---rooth
 Author: 来了老弟
 Name: 双击锁屏-roothide
 
+Package: cn.llld.sjsp
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Filename: ./debs/rootless/双击锁屏-rootless.deb
+Size: 8488
+MD5sum: 495870ddc28f64b2d748890331a77e29
+SHA1: e73fa29da1ab912aef5e8c3bc3e3b2f2af963a35
+SHA256: 4b907eea074ea65767fc4c70cc88be0a2d55077922997607eae420188339f971
+Section: 插件
+Description: Double-click the home screen to lock the device双击锁屏-rootless
+Author: 来了老弟
+Name: 双击锁屏-rootless
+
 Package: cn.llld.statusbarlunardate
 Version: 1.0.0
 Architecture: iphoneos-arm64
