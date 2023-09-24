@@ -61,6 +61,21 @@ Description: appdata汉化（roothide专用）
 Author: 来了老弟
 Name: appdata汉化
 
+Package: cn.llld.avphotos
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: firmware (>=14.0), mobilesubstrate
+Filename: ./debs/roothide/AVPhotos照片视频画中画-roothide.deb
+Size: 5496
+MD5sum: 050f2e17143a87ee6fd34a75185df237
+SHA1: 49142a1f675386a94b949018edd0243f5b9b34c8
+SHA256: 3a732836f2da2288fd2ebf223d9897af5a693c11f033551346ccd41cfe4438a9
+Section: roothide修复插件
+Description: Playing photos and videos in the album can produce picture-in-picture effects!在相册中播放照片视频可以画中画效果！_________仅测试用,有问题卸载---roothide
+Author: MiRO 来了老弟
+Name: AVPhotos照片视频画中画-roothide
+
 Package: cn.llld.cocoatop
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64e
@@ -157,6 +172,36 @@ Description: Individual text can be copied by long-pressing in the (settings and
 Author: 来了老弟
 Name: copy-text
 
+Package: cn.llld.deletephotoscompletely
+Version: 1.2-2
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/roothide/deletephotoscompletely彻底删除照片-roothide.deb
+Size: 4532
+MD5sum: 926a1cdc6ff7cc082bd4628f9d82ce76
+SHA1: 2052104e6329b2ef714ee3704241cb22640a7849
+SHA256: 956dd7459de38cce4cafad9a9053c6eb8a135e18ad7f52201a347ae5a71ff0ea
+Section: roothide修复插件
+Description: Add option to completely delete photos from albums为相册添加彻底删除照片选项_________仅测试用,有问题卸载---roothide
+Author: Netskao 来了老弟
+Name: DeletePhotosCompletely彻底删除照片-roothide
+
+Package: cn.llld.ersatz
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Filename: ./debs/roothide/Ersatz替换文本插件-roothide.deb
+Size: 40388
+MD5sum: df184a3e9868ddec63036fc9fd9ca9ec
+SHA1: 87201d88c85ca31cdea57136a11f42153d0ded89
+SHA256: 6d793f1c0ed68e110dff5a049754731acc9b28f2f11c45128de4704253848dd8
+Section: roothide修复插件
+Description: Replace any text system-wide!替换系统范围内的任何文本！_________仅测试用,有问题卸载---roothide
+Author: Skitty 来了老弟
+Name: Ersatz替换文本插件-roothide
+
 Package: cn.llld.fixdh
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
@@ -188,6 +233,21 @@ Section: Tweaks
 Description: 解决更改很大分辨率后键盘缩小和移位的问题（适用于分辨率高度2800-3050）
 Author: 来了老弟
 Name: phonefix
+
+Package: cn.llld.hidepagedots
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/隐藏桌面翻页点-roothide.deb
+Size: 2580
+MD5sum: 97003bf11fb43c92ae97691f68ecd851
+SHA1: 5b7e03428b64b04a68e281f195263994be58e91f
+SHA256: 5ddea9f739ec92539b136e7b6dad5507bbe7fe33377bac220f0e4b6a7f0960a6
+Section: roothide隐藏专区
+Description: hide page dots隐藏页面点---roothide
+Author: 来了老弟
+Name: 隐藏桌面翻页点-roothide
 
 Package: cn.llld.jjyh
 Version: 0.0.1-1+debug
@@ -679,6 +739,26 @@ Section: 隐藏专区
 Description: 隐藏桌面翻页小白点
 Author: 来了老弟
 Name: 隐藏桌面点
+
+Package: com.miguelaka95.bettercc
+Version: 0.0.5
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 1828
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
+Filename: ./debs/roothide/Bettercc-roothide.deb
+Size: 141904
+MD5sum: 11383efb56672a7025855a4de4d7ac24
+SHA1: 31732b4a6db891f5ecc44313997c93b3d4555608
+SHA256: 2aef83325a69757dc34195ca8bf13dd80cd341981f176921e5f1d4b0b13461cf
+Section: roothide修复插件
+Description: Customize your Control Center!_________仅测试用,有问题卸载---roothide
+ Invisible Modules.
+ Rearrange Connectivity Toggles.
+ Change Modules Size.
+ Weather Widget.
+Author: Miguelaka95 <miguelaka95@gmail.com>
+Name: BetterCC
 
 Package: com.miguelaka95.bettercc
 Version: 0.0.5
