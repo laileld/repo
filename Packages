@@ -176,12 +176,12 @@ Package: cn.llld.deletephotoscompletely
 Version: 1.2-2
 Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: ./debs/roothide/deletephotoscompletely彻底删除照片-roothide.deb
-Size: 4532
-MD5sum: 926a1cdc6ff7cc082bd4628f9d82ce76
-SHA1: 2052104e6329b2ef714ee3704241cb22640a7849
-SHA256: 956dd7459de38cce4cafad9a9053c6eb8a135e18ad7f52201a347ae5a71ff0ea
+Depends: mobilesubstrate,oldabi,firmware (>= 14.0)
+Filename: ./debs/roothide/DeletePhotosCompletely彻底删除照片-roothide.deb
+Size: 4544
+MD5sum: 3f5a96b64815849053872d2af9392053
+SHA1: ee4f7140bddcbdaffa1f9b18499f2d8bb3deb61a
+SHA256: d12959c9b9308e1acce7d9291629c3bed5e07eb4c6c9ac3bd48db9dbafe908e5
 Section: roothide修复插件
 Description: Add option to completely delete photos from albums为相册添加彻底删除照片选项_________仅测试用,有问题卸载---roothide
 Author: Netskao 来了老弟
