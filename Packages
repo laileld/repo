@@ -546,6 +546,21 @@ Description: Hide Dock Bar Background透明Dock栏背景---roothide
 Author: 来了老弟
 Name: 隐藏Dock背景-roothide
 
+Package: cn.llld.ycjtyl
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/roothide/隐藏截图预览-roothide.deb
+Size: 2468
+MD5sum: d2dc2c0586e07761f1875c90c4ea695e
+SHA1: 22d6a2301b1632d29a1aff2dd717138e2ce03521
+SHA256: 3dab1162a9cbc1434fc52d4525e290eca3c7a10ce3df2bb12d7a5597dc9d4a6d
+Section: roothide隐藏专区
+Description: Hide screenshot preview 隐藏截图预览---roothide
+Author: 来了老弟
+Name: 隐藏截图预览-roothide
+
 Package: cn.llld.ycvpn
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64
