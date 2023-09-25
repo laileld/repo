@@ -906,6 +906,23 @@ Author: Netskao <netskao@gmail.com>
 Dev: netskao
 Name: DoubleClickWake
 
+Package: org.thebigboss.speaknotification
+Version: 1.8.19
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 888
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.0.2)
+Filename: ./debs/roothide/播报提示通知来电speaknotification-roothide.deb
+Size: 221648
+MD5sum: 02a9cf680ea08de8f60500c7f88c3085
+SHA1: 942534438bcb297cbf490ff563d7cf10b807a423
+SHA256: 1d4fed98b7673ce464242ddfef475366c91e25288d27ca8dc3a55ace4e4b0ba1
+Section: roothide修复插件
+Description: Siri speaks out any notifications in a fully customised way.以Siri形式朗读任何，不限于来电，短信，应用，通知等，规则可以自定义---roothide
+Author: merdok 来了老弟
+Dev: merdok
+Name: Speak Notification
+
 Package: qcjpyc.llld
 Version: 1.0
 Architecture: iphoneos-arm64
