@@ -737,6 +737,22 @@ Description: 朗读任何通知消息_________仅测试，有问题请卸载
 Author: merdok
 Name: Speak Notification 通知朗读
 
+Package: com.llld.speaknotification
+Version: 1.8.19
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 888
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.0.2)
+Filename: ./debs/rootless/Speak语言播报通知来电等(rootless).deb
+Size: 250800
+MD5sum: edebab7605b0b229fe0a1fc9fd4f8db3
+SHA1: 099295ed774d18c0a4a77e909591daee07c6c513
+SHA256: 895785173beb0c65a43492140b55eddd59158d6b4cd4a17763c53fc27c41f8fb
+Section: 修复插件
+Description: Siri speaks out any notifications in a fully customised way.以Siri形式朗读任何，不限于来电，短信，应用，通知等，规则可以自定义---rootless
+Author: merdok 来了老弟
+Name: Speak Notification 通知朗读
+
 Package: com.llld.swipeextenderx
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
