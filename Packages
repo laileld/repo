@@ -423,20 +423,20 @@ Author: 来了老弟
 Name: 放大农历日期
 
 Package: cn.llld.sdxj
-Version: 0.0.1-1+debug
+Version: 0.0.1
 Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/roothide/隐藏通知中心手电相机-roothide.deb
-Size: 3160
-MD5sum: dbba7ed88b8c39769fbebd5dd4ea8005
-SHA1: 57f21f78eaab536032d998a4a7726550f331db6d
-SHA256: 7b73acb45cb10bcf073a00d03ee26b52040a18d362c7793597d42d55551ec158
+Size: 2822
+MD5sum: 5cd5d59c36218e2639d75cf8926881b6
+SHA1: 6b7146b26d7a3a31259f19fe5208e4354a0bfc22
+SHA256: c81ae6e1238d581c0202630f06666691d8f2e310f7481a1e3965895520bd5dd4
 Section: roothide隐藏专区
 Description: Hide flashlights and cameras，Keep the left sliding negative screen and the right sliding camera.（隐藏手电筒和相机,保留左滑负一屏和右滑相机）
 Author: 来了老弟
-Name: 隐藏手电相机
+Name: 隐藏手电相机-roothide
 
 Package: cn.llld.sdxj
 Version: 0.0.1-1+debug
