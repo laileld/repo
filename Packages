@@ -421,6 +421,38 @@ Description: 仅控制中心背景透明到桌面（单个模块没透），配�
 Author: 来了老弟
 Name: 控制中心透明
 
+Package: cn.llld.minivx
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 108
+Depends: mobilesubstrate
+Filename: ./debs/roothide/微信辅助(微生物)roothide.deb
+Size: 13644
+MD5sum: a277441708e42494322be23c68f3be2c
+SHA1: ca0f9ac60bf505a9e7cbf7665894085de3c6cf24
+SHA256: b5b8f1f8e2492586c91dcd54b677d7c94a68f6c5f20d2ba7a3c2e4fb125a7a5c
+Section: roothide微信插件
+Description: 微信简洁辅助(抢红包，防撤回)-roothide
+Author: 来了老弟
+Name: 微信辅助(微生物)-roothide
+
+Package: cn.llld.minivx
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 108
+Depends: mobilesubstrate
+Filename: ./debs/rootless/微信辅助(微生物)-rootless.deb
+Size: 13694
+MD5sum: cbc9fc29e526b5f4a724a3ce77e84d7f
+SHA1: a7c20acbf612860678a80d5c1a0292c13a4dc044
+SHA256: da75e61fe26ae07f511ab6d743886bdb0a6578737cd250cbb2a33bdae9a623c8
+Section: 微信插件
+Description: 微信简洁辅助(抢红包，防撤回)-roootless
+Author: 来了老弟
+Name: 微信辅助(微生物)-rootless
+
 Package: cn.llld.nc
 Version: 0.0.1
 Architecture: iphoneos-arm64e
