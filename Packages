@@ -719,6 +719,22 @@ Description: 适用于iOS14删除App时不用脱裤子放屁一样的选择移�
 Author: Mao
 Name: 删除App
 
+Package: com.llld.dndmyrecording
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 196
+Depends: mobilesubstrate
+Filename: ./debs/rootless/DNDMyRecording录屏勿扰模式-rootless.deb
+Size: 4800
+MD5sum: 8e9b03592c9475752048b19bdbeffe00
+SHA1: 96ba3703b85b8a95c7578db68f58c8e44331c6be
+SHA256: b9ab370cd6927ba4ed75c1875b332fc69da11c4936301b61a8c20b09361956df
+Section: 修复插件
+Description: The phone automatically turns on Do Not Disturb mode when recording the screen.手机在录屏时，自动开启勿扰模式，安装无设置，注销生效_________仅测试，有问题请卸载
+Author: gilshahar7, 0xkuj
+Name: DNDMyRecording录屏勿扰模式
+
 Package: com.llld.flexlist
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64
