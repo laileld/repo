@@ -92,6 +92,22 @@ Author: MiRO 来了老弟
 Name: AVPhotos照片视频画中画-rootless
 
 Package: cn.llld.cocoatop
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/CocoaTop汉化-rootful.deb
+Size: 18186
+MD5sum: f601500c6ff9839f6de78ce30c24cd00
+SHA1: bdd2c110cd979a67635d995e05d06582f6bf8730
+SHA256: 9696d5d5b772ff6b0b2fe42935f2f45dc508e58605bb19ede503f5d270759701
+Section: rootful汉化补丁
+Description: CocoaTop简易汉化
+Author: 来了老弟
+Name: CocoaTop汉化
+
+Package: cn.llld.cocoatop
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
