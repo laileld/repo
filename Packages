@@ -626,6 +626,21 @@ Description: 点击iOS顶部时间栏显示今日中国农历。_______来了老
 Author: Snail
 Name: 点击时间「显示农历」
 
+Package: cn.llld.wxyybb
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Filename: ./debs/roothide/微信朗读文本-roothide.deb
+Size: 4484
+MD5sum: f48206de51161850d09e169b194e36a6
+SHA1: 89cf41b37566f53fe56a3fdd2f9e4ade6e6444c7
+SHA256: 286af02f354131c5d0a4b2e7501536a755b63b6f13f8735e7b422956b25d1446
+Section: roothide微信插件
+Description: 原名motherwc，作用：点击微信文本，语音播报信息_________仅测试，有问题请卸载
+Author: sunweiliang
+Name: 微信文本语音播报-roothide
+
 Package: cn.llld.ycdock
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -925,6 +940,21 @@ Section: 插件
 Description: 最近通话增加具体时间
 Author: 来了老弟
 Name: 最近通话增加具体时间
+
+Package: com.llld.wxyybb
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Filename: ./debs/rootless/微信文本播报-rootless.deb
+Size: 4488
+MD5sum: 070900dba83cdc647eec89233f32ca73
+SHA1: fc137bcc9345f24bd8faefdb6b7cb62ef0dfac9f
+SHA256: 9ec1e32e4d1edc965307c026c5ee4e3d705a0dacea5111fef8e3e56c7b604356
+Section: 微信插件
+Description: 原名motherwc，作用：点击微信文本，语音播报信息_________仅测试，有问题请卸载
+Author: sunweiliang
+Name: 微信文本语音播报-rootless
 
 Package: com.llld.ycfyd
 Version: 0.0.1-1+debug
