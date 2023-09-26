@@ -139,6 +139,22 @@ Description: CocoaTop简易汉化（多巴胺专用）
 Author: 来了老弟
 Name: CocoaTop汉化
 
+Package: cn.llld.coolcc
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 356
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/roothide/coolcc-roothide.deb
+Size: 24356
+MD5sum: 452fa7d11d41183a66eb5e899b1b6d68
+SHA1: b3ce52a947c493c6c0900240d600eb4da3e54a02
+SHA256: 5141833d5b29f7e510bc0933a7358695886252f87dec6428b8a30d287d431c1f
+Section: roothide插件
+Description: This tweak makes ControlCenter cool! Compatible with iOS 15/roothide.控制中心模块加边框
+Author: alias20
+Name: CoolCC Reborn
+
 Package: cn.llld.copy
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
