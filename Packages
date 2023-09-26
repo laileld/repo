@@ -234,6 +234,37 @@ Description: Add option to completely delete photos from albums为相册添加�
 Author: Netskao 来了老弟
 Name: DeletePhotosCompletely彻底删除照片-roothide
 
+Package: cn.llld.dndmyrecording
+Version: 1.2.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 196
+Depends: mobilesubstrate
+Filename: ./debs/roothide/DNDMyRecording录屏勿扰模式-roothide.deb
+Size: 3748
+MD5sum: 690f67c9885e332e92d7317358d3667c
+SHA1: b69e9878e4dafcf146ed6212c533ae493d93d2c2
+SHA256: 215623c0b5345528545f4770013e0a437d28450aada3b30c08b838b6e0492933
+Section: roothide修复插件
+Description: The phone automatically turns on Do Not Disturb mode when recording the screen.手机在录屏时，自动开启勿扰模式_________仅测试用,有问题卸载---roothide
+Author: gilshahar7, 0xkuj
+Name: DNDMyRecording录屏勿扰模式-roothide
+
+Package: cn.llld.dock5
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Filename: ./debs/roothide/Dock5个图标-roothide.deb
+Size: 2968
+MD5sum: 068c229d23e1a9e6943bc8013588fe73
+SHA1: bb36c7f96796fff218dab19fd3e78d3cb76fb9cc
+SHA256: cfea3cc651581dc841e28802b8914f6ea5ad4d397fda5f2427f185bbccc378cf
+Section: roothide插件
+Description: Dock 5 icons (Dock5个图标)---roothide
+Author: 来了老弟
+Name: Dock5个图标-roothide
+
 Package: cn.llld.ersatz
 Version: 1.0
 Architecture: iphoneos-arm64e
