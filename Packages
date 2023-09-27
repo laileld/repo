@@ -357,6 +357,36 @@ Description: hide page dots隐藏页面点(rootless)
 Author: 来了老弟
 Name: 隐藏桌面翻页点-rootless
 
+Package: cn.llld.janwechat
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: firmware (>=14.0), mobilesubstrate
+Filename: ./debs/rootless/wechat多功能微信-rootless.deb
+Size: 609824
+MD5sum: 06eea6b2268dcbca0d44ad64cbeb3db1
+SHA1: 0515e222ded61d987f09aa0f41ab756480837696
+SHA256: 96e06184f97a33b033e56f4d31b63dd3c6cedca9174b9dcef05ae0ac6e56bc58
+Section: 微信插件
+Description: 早期的微信工具箱，作者已停更______仅测试，有问题请卸载
+Author: Jan
+Name: wechat多功能微信-rootless
+
+Package: cn.llld.janwechat
+Version: 1.1.5
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: firmware (>=14.0), mobilesubstrate
+Filename: ./debs/roothide/wechat多功能微信-roothide.deb
+Size: 609580
+MD5sum: 7f3feecbc0e4a2817fcf8f7ec7b0e79a
+SHA1: f4057e44a10c62d3cca337277fc560b6bcc4086b
+SHA256: 847ecccc99cfabd850e3d4e5c8860b2f105f85ae86a68f49aa2c98392d48fd62
+Section: roothide微信插件
+Description: 早期的微信工具箱(多数功能还都可以用)，作者已停更______仅测试，有问题请卸载-roothide
+Author: Jan
+Name: wechat多功能微信-roothide
+
 Package: cn.llld.jjyh
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
