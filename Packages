@@ -428,12 +428,12 @@ Maintainer: 来了老弟
 Installed-Size: 108
 Depends: mobilesubstrate
 Filename: ./debs/roothide/微信辅助(微生物)roothide.deb
-Size: 13644
-MD5sum: a277441708e42494322be23c68f3be2c
-SHA1: ca0f9ac60bf505a9e7cbf7665894085de3c6cf24
-SHA256: b5b8f1f8e2492586c91dcd54b677d7c94a68f6c5f20d2ba7a3c2e4fb125a7a5c
-Section: roothide微信插件
-Description: 微信简洁辅助(抢红包，防撤回)-roothide
+Size: 13808
+MD5sum: 94b3ce23dbc77bd6f018b2299ae2bb98
+SHA1: d46eecfb17581ad8bef84e7ad4b4e31239cf364f
+SHA256: 01b0ddf07a8f1b1ea38879167bc9c808c065bfefe4dc4aa51b656605c1622276
+Section: rooothide微信插件
+Description: 微信简洁辅助(抢红包，防撤回)-rooothide
 Author: 来了老弟
 Name: 微信辅助(微生物)-roothide
 
