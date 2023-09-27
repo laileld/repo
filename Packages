@@ -444,11 +444,11 @@ Maintainer: 来了老弟
 Installed-Size: 108
 Depends: mobilesubstrate
 Filename: ./debs/rootless/微信辅助(微生物)-rootless.deb
-Size: 13848
-MD5sum: d1e5713c61f5095b5a2faae9e5172f32
-SHA1: 19f18fbf08661ad9423d3ecd554d359b036ff9fa
-SHA256: 9981cdd59c153070400ac96e5b019e3ce6673b57f8c46aab47c3077f36c61b06
-Section: roootless微信插件
+Size: 13852
+MD5sum: 537e2bf8d2a5ab7e2e9aba596a3ce8f0
+SHA1: f0bc2e2e04879f4766755570e850ef066a41fec6
+SHA256: fe854b13a7e018c9d49f20d15d4274961f58086e4067ef71620ffc94ce364eba
+Section: 微信插件
 Description: 微信简洁辅助(抢红包，防撤回)-roootless
 Author: 来了老弟
 Name: 微信辅助(微生物)-rootless
