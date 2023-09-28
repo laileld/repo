@@ -61,6 +61,24 @@ Description: appdata汉化（roothide专用）
 Author: 来了老弟
 Name: appdata汉化
 
+Package: cn.llld.arkrome
+Version: 1.012
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 111
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dpkg.batterypercent12, com.dpkg.batterypercenta12
+Filename: ./debs/roothide/arkrome电池百分比-roothide.deb
+Size: 3244
+MD5sum: 189bd25a7f5f3dd38055340555166d06
+SHA1: 6ded58d2be017530b4592cbcb70d95f8b800f823
+SHA256: 2f6b3de6ae63dbb9c068091f2182ba6716c8b1673334ef2a9ad49444df76d1e1
+Section: roothide修复插件
+Priority: optional
+Description: Add percentage inside battery icon在电池图标内添加百分比_________仅测试用,有问题卸载---roothide
+Author: Dpkg9510
+Name: Arkrome电池百分比
+
 Package: cn.llld.avphotos
 Version: 1.0.1
 Architecture: iphoneos-arm64e
@@ -138,6 +156,22 @@ Section: 汉化补丁
 Description: CocoaTop简易汉化（多巴胺专用）
 Author: 来了老弟
 Name: CocoaTop汉化
+
+Package: cn.llld.conditional
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/roothide/Conditional网络控制_0.0.1-roothide.deb
+Size: 2720
+MD5sum: 0fcc076e375801c72eaa32b976facbcb
+SHA1: ecc68ecdc1b76168ab1897e3ecf7b70951baed93
+SHA256: 106184f243da50c61d856cf261ff146b9d40d7059df4ae8b5cad0528c1644a2c
+Section: roothide修复插件
+Description: Add network permission control for APP’s WiFi and data in settings设置中添加APP的WiFi和数据的网络权限控制 只推荐非国行手机安装 本意是模仿国行手机_________仅测试用,有问题卸载---roothide
+Author: daniel
+Name: Conditional 网络控制
 
 Package: cn.llld.coolcc
 Version: 2.0
@@ -594,6 +628,22 @@ Description: 最近通话添加(搜索栏)，无设置，直接生效。
 Author: 来了老弟
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: 最近通话增加搜索框
+
+Package: cn.llld.settingsudid
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 140
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/SettingsUDID-roothide.deb
+Size: 3648
+MD5sum: 5dd5efe3d6f258f8436311ce503faae8
+SHA1: f8757f9801c94b3d1b34a3c6bde335ed35e981a3
+SHA256: 9ae03701e07b2190846e87d558dee294e31e061c04968204acb3b560dc570e33
+Section: roothide修复插件
+Description: Check your UDID from the Settings > General > About phone page!从“设置”>"通用">“关于手机”页查看您的UDID！_________仅测试用,有问题卸载---roothide
+Author: iCraze
+Name: SettingsUDID-roothide
 
 Package: cn.llld.sjhx
 Version: 1.0
