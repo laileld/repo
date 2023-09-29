@@ -14,6 +14,21 @@ Description: 设置中添加APP的WiFi和数据的网络权限控制，只推荐
 Author: daniel
 Name: Conditional网络控制
 
+Package: apt.llld.settingswallpaper
+Version: 0.0.4
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/SettingsWallpaper设置背景-roothide.deb
+Size: 54648
+MD5sum: 97f66985cc8cff80510eeb8600a32186
+SHA1: 88abda55eb78a10f6351afcf7185a67c6f5fc5dd
+SHA256: b33a9849ea118d0156fef058663f910e9c076bb7b41830966d019d6f1677eb7d
+Section: roothide修复插件
+Description: Change your settings background to your wallpaper（“设置”的背景设为锁屏或主屏幕的，可调透明度)_________仅测试用,有问题卸载---roothide
+Author: PopsicleTreehouse
+Name: SettingsWallpaper设置墙纸-roothide
+
 Package: apt.llld.smartlight
 Version: 1.0.5
 Architecture: iphoneos-arm64
@@ -78,6 +93,21 @@ Priority: optional
 Description: Add percentage inside battery icon在电池图标内添加百分比_________仅测试用,有问题卸载---roothide
 Author: Dpkg9510
 Name: Arkrome电池百分比
+
+Package: cn.llld.autoscroll
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Filename: ./debs/roothide/AutoScroll15-roothide.deb
+Size: 4268
+MD5sum: c6d575da850a3e84d68fe85d7fdc36ad
+SHA1: 313568a67562507bbd9c0411ab8124cde6b978dc
+SHA256: aaecc0653ddf096296d1fa20fc302d13c1025474a0b4e48a60e3e631e98f1bc0
+Section: roothide修复插件
+Description: Prevent finger fatigue. It will automatically continue when you slide an option or view, no need to keep touching with your finger, and the speed is determined by your strength.防止手指疲劳，在你滑动选项或视图时会自动延续，不用手指一直触摸，速度根据你的力道来决定。_________仅测试用,有问题卸载---roothide
+Author: pxcex
+Name: AutoScroll-roothide
 
 Package: cn.llld.avphotos
 Version: 1.0.1
