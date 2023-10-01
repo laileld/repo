@@ -204,7 +204,7 @@ body {
    /* background: url(../images/beijing.png) no-repeat center; */
     /*background-image: linear-gradient(0deg, #39ddff 40%, #30ddce 65%);*/
     
-       background-image: linear-gradient(0deg, #30ddce 59.3%, #39ddff 25%);
+       background-image: linear-gradient(0deg, #30ddce 0%, #39ddff 100%);
         background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -347,23 +347,23 @@ h1 {
 .bg-content-w3pvt {
     max-width: 350px;
     margin: 0 auto;
-    background: #39ddff;
-   /* background: rgba(255, 255, 255, .6);*/
+  /*  background: #39ddff;*/
+    background: rgba(255, 255, 255, .7);
   /*  backdrop-filter: blur(466px);  */
     text-align: center;
 }
 /*头像周边颜色*/
 .top-content-style {
  padding: 2vw 2vw 10vw;  
-    background: #30ddce;
+    background: #39ddff;
 }
 /*控制头像圆形还是方形 */
 .top-content-style img {
-    -webkit-border-radius: 9%;
-    -o-border-radius: 9%;
-    -ms-border-radius: 20%;
+    -webkit-border-radius: 50%;
+    -o-border-radius: 50%;
+    -ms-border-radius: 50%;
     -moz-border-radius: 20%;
-    border-radius: 9%;
+    border-radius: 50%;
    /* padding: 8vw 1vw; */ 
      /* padding: 8.6em;*/
 }
@@ -374,7 +374,7 @@ h1 {
 .sub-main-w3 form {
     /*background: #ffff;*/
     padding: 8vw 1vw; 
-        background: rgba(255, 255, 255, .8);
+        background: rgba(255, 255, 255, .95);
   /*  background: #EBEBEB;  */
     padding: 1.6em;
     -webkit-box-shadow: 2px 5px 16px 2px rgba(16, 16, 16, 0.18);
