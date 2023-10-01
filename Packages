@@ -939,6 +939,38 @@ Description: Hide folder background隐藏文件夹背景-rootless
 Author: 来了老弟
 Name: HideFolderBackground
 
+Package: cn.llld.ycxbt
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/隐藏底部小白条-roothide.deb
+Size: 2848
+MD5sum: 85de63928b3bb41613fc6356a649f250
+SHA1: 439b81672990610e13b891a6ee0a990c4e091f1e
+SHA256: d31dbe47b65662c1e49d4be99aa0d94eea1440b65c6a0e78b2ab26c2092384a2
+Section: roothide隐藏专区
+Description: HideNoHomeBar隐藏底部小白条-roothide
+Author: 来了老弟 h_h_x_t
+Name: HideNoHomeBar
+
+Package: cn.llld.ycxbt
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/隐藏底部小白条-rootless.deb
+Size: 2924
+MD5sum: d54a146c774183ba215dd43761b0cb78
+SHA1: 9536a27c56fc6326fd81a84ff7fbb6f2f2ae6690
+SHA256: 5f4bb7bec35b293f15a879d67c71075663e153e27360b6f0d7ff765030ee2337
+Section: rootless隐藏专区
+Description: HideNoHomeBar隐藏底部小白条-rootless
+Author: 来了老弟 h_h_x_t
+Name: HideNoHomeBar
+
 Package: com.llld.177
 Version: 0.0.1-2
 Architecture: iphoneos-arm64
