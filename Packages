@@ -781,6 +781,70 @@ Description: Hide screenshot preview 隐藏截图预览---roothide
 Author: 来了老弟
 Name: 隐藏截图预览-roothide
 
+Package: cn.llld.yckzzxwb
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/隐藏通知中心文本-roothide.deb
+Size: 2940
+MD5sum: aaebd6efbc6b0064397a9f1867d7b718
+SHA1: 831f271a6d89ce6af112c9336d51839fd2c03478
+SHA256: 4263db4717d1783f36d80cb4a24949a3e8c3fe5628101bfd9a3f4753f3658817
+Section: roothide隐藏专区
+Description: Hide NotificationCenter Text隐藏控制中心文本-roothide
+Author: 来了老弟
+Name: HideNotificationCenterText
+
+Package: cn.llld.yckzzxwb
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/隐藏通知中心文本-rootlss.deb
+Size: 3000
+MD5sum: 2cf7fcf8084a5421e316ad770c948f3c
+SHA1: 95f8db84bb8b52bd608f4c3200b5036cf5a8d064
+SHA256: a4b372de9e7ffe988fbe23d07f1956a2383dcf10642f513f5cb67ecd3ff06b3d
+Section: 隐藏专区
+Description: Hide NotificationCenter Text隐藏控制中心文本-rootless
+Author: 来了老弟
+Name: HideNotificationCenterText
+
+Package: cn.llld.ycst
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/隐藏锁头-roothide.deb
+Size: 2884
+MD5sum: 2f92e93eb3393dfa27038ec8c74d2982
+SHA1: 4f388e90eee36fdfe0586060b915bab539ff43a0
+SHA256: 8817505ec742b62c1e16425ea4ab687387e8febe15b3268ce72eeb6ef8514c59
+Section: roothide隐藏专区
+Description: NoPadlock隐藏锁头-roothide
+Author: 来了老弟
+Name: NoPadlock
+
+Package: cn.llld.ycst
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/隐藏锁头-rootless.deb
+Size: 2944
+MD5sum: 1cd018ac1995cf8711c12b8f9785b581
+SHA1: 367b65a3c0483f783f45821771220dddd4245a8e
+SHA256: 4da7fcd9d84b96f99102775a2717bf47b608b99f3ec205bafafa150002152d04
+Section: 隐藏专区
+Description: NoPadlock隐藏锁头-rootless
+Author: 来了老弟
+Name: NoPadlock
+
 Package: cn.llld.ycvpn
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64
@@ -796,6 +860,38 @@ Section: 隐藏专区
 Description: 隐藏手机设置内VPN（个别查机的城市用的到，有没隐藏的及时反馈）
 Author: 来了老弟
 Name: ycvpn
+
+Package: cn.llld.ycwjjbj
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/隐藏文件夹背景-roothide.deb
+Size: 2910
+MD5sum: caf916ec5217affa00f9edfcd70f1fc6
+SHA1: 88e74fd9378da3b120e6dd1ddf7d1a103bbd7ce7
+SHA256: 3f62e201439c309eec326662a4ec509aa04a01c8e8835c4d39a2c3c7593e268b
+Section: roothide隐藏专区
+Description: Hide folder background隐藏文件夹背景-roothide
+Author: 来了老弟
+Name: HideFolderBackground
+
+Package: cn.llld.ycwjjbj
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/隐藏文件夹背景-rootless.deb
+Size: 2974
+MD5sum: ce1493da30acdcc38f042ecc1b435743
+SHA1: 4d29749e0b4c71be5705c7345d29c0cbf570e7ea
+SHA256: a6967bd00474afcd51b0ba71c3ed6d836c576b1e17b00271a49a81223c27fef7
+Section: 隐藏专区
+Description: Hide folder background隐藏文件夹背景-rootless
+Author: 来了老弟
+Name: HideFolderBackground
 
 Package: com.llld.177
 Version: 0.0.1-2+debug
