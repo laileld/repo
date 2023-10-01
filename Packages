@@ -344,6 +344,22 @@ Description: 解决更改很大分辨率后电话键盘缩小和移位的问题�
 Author: 来了老弟
 Name: phonefix
 
+Package: cn.llld.fixdh1
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/改分辨率后电话移位处理,高度2800+(rootful).deb
+Size: 4010
+MD5sum: 198b10070f283efcf1b0d2b3c159f9a2
+SHA1: 4ef7fa37a4db5cdab67a9948bf7f1388db5a6590
+SHA256: 0761e849e688609e76058ffaa7904eba10c3740a09f823f304f370a1b1d1178d
+Section: rootful插件
+Description: 解决更改很大分辨率后键盘缩小和移位的问题（适用于分辨率高度2800-3050）
+Author: 来了老弟
+Name: phonefix
+
 Package: cn.llld.flexlist
 Version: 0.0.1-2
 Architecture: iphoneos-arm64
