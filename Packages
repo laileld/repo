@@ -1,19 +1,3 @@
-Package: apt.llld.conditional
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/rootless/增加网络控制(rootless).deb
-Size: 3112
-MD5sum: cdf62e81c31ffa2fe3a77dcd4f1a228a
-SHA1: 3548dd91359d54b05b571633914dc2e1cea97967
-SHA256: 5893d7fa401e3a791d3b30a96cd892c80faa4f280104ce7169bbd89d40b88625
-Section: 修复插件
-Description: 设置中添加APP的WiFi和数据的网络权限控制，只推荐非国行手机安装。本意是模仿国行手机。_________仅测试用,有问题卸载
-Author: daniel
-Name: Conditional网络控制
-
 Package: apt.llld.settingswallpaper
 Version: 0.0.4
 Architecture: iphoneos-arm64e
@@ -29,36 +13,20 @@ Description: Change your settings background to your wallpaper（“设置”的
 Author: PopsicleTreehouse
 Name: SettingsWallpaper设置墙纸-roothide
 
-Package: apt.llld.smartlight
-Version: 1.0.5
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 168
-Filename: ./debs/rootless/快捷手电筒(音量-和电源)-(rootless).deb
-Size: 5584
-MD5sum: 866ced3d77cd093befab174b6416304e
-SHA1: cc7374c32541550ed168c76ee006edb4f403b8bb
-SHA256: 31a5cd55153cafa6b564ae73751ebce9e3e39e80b2e495a2f813275761d5708e
-Section: 插件
-Description: 用VolumeDown +激活手电筒，并通过音量加和音量减锁定更改亮度级别！
-Author: smokin1337
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: SmartLight快捷手电
-
 Package: apt.llld.systeminfo
 Version: 2.7.2-2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: mobilesubstrate
 Filename: ./debs/rootless/Systeminfo_2.7.2(rootless).deb
-Size: 272472
-MD5sum: e5df21d96835072f9f3cebaa6d07bcfe
-SHA1: 43bd40e69dcfefa229b3dd87b5e106b2141023f8
-SHA256: 0288b95454737ce2d2ce415ca322f040e3347e470d9849c99a91da39d5e24d02
-Section: 修复插件
+Size: 272528
+MD5sum: 50ccb5c64acf3988ac6f27c11a5a7436
+SHA1: cea1ad3ab9c3e835a3de318a6fe5f3b2e38049dc
+SHA256: 48674c22cf02312d289c4a3ea46f7c395b011d9376c7fd1b515e87ed913e10ab
+Section: rootless修复插件
 Description: 显示 iOS 所有系统信息，不用装Legacy arm64e Support_________仅测试，有问题请卸载
 Author: ARX8x
-Name: System Info 系统信息
+Name: System Info 系统信息-rootless
 
 Package: cn.llld.appdata
 Version: 0.0.1-4+debug
@@ -130,11 +98,11 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: firmware (>=14.0), mobilesubstrate
 Filename: ./debs/rootless/AVPhotos照片视频画中画-rootless.deb
-Size: 7236
-MD5sum: 76788a114fd08e6fbe80bcd6e1814547
-SHA1: 4231f91617606fbea2eec5e8ba9b5f89b91f3d8d
-SHA256: 82210592c27fecbd80a5aa41825cab0230261246af656f93e36621432af499ae
-Section: 修复插件
+Size: 7204
+MD5sum: f237dd2f61b56af8b88d473f8812e1e6
+SHA1: eedd44d633e7bd291bc82fe3a1a9765c7e8abdbc
+SHA256: cb8b6dfc99143ee2e9bfb06800c1945a60c514de9eda793738e507e7666cfe20
+Section: rootless修复插件
 Description: Playing photos and videos in the album can produce picture-in-picture effects!在相册中播放照片视频可以画中画效果！_________仅测试，有问题请卸载
 Author: MiRO 来了老弟
 Name: AVPhotos照片视频画中画-rootless
@@ -156,6 +124,22 @@ Author: 来了老弟
 Name: CocoaTop汉化-rootful
 
 Package: cn.llld.cocoatop
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/CocoaTop汉化_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 19072
+MD5sum: 027d1d1eac443cfb20644afdf6457d09
+SHA1: 0538f99bf7423a771c3fd600fbbded023acd8728
+SHA256: e508312601c3283dd778382125d3e8f3c0307bb96fece23aafd7d299384be7d1
+Section: rootless汉化补丁
+Description: CocoaTop简易汉化（多巴胺专用）
+Author: 来了老弟
+Name: CocoaTop汉化-rootless
+
+Package: cn.llld.cocoatop
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
@@ -168,22 +152,6 @@ SHA1: ddfb867bb64a348cdcaf73511e4bead00548b1f4
 SHA256: e735d36ec9a2b1f66e3c76f8e1d2f3dbe965bb2c7c9f2ad4fde340c79ebbe26c
 Section: roothide汉化补丁
 Description: CocoaTop简易汉化（roothide专用）
-Author: 来了老弟
-Name: CocoaTop汉化
-
-Package: cn.llld.cocoatop
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 240
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/CocoaTop汉化_0.0.1-1+debug_iphoneos-arm64.deb
-Size: 19984
-MD5sum: 96ec5db4b28b05d9f78bf5bd50dede53
-SHA1: 27f420980219406a5c0cbf372139ec86d55fafda
-SHA256: cb393bba35524327d831384ce1c86bb1a9df9397caec1339ebaa677a0dd14a4d
-Section: 汉化补丁
-Description: CocoaTop简易汉化（多巴胺专用）
 Author: 来了老弟
 Name: CocoaTop汉化
 
@@ -203,6 +171,22 @@ Description: Add network permission control for APP’s WiFi and data in setting
 Author: daniel
 Name: Conditional 网络控制
 
+Package: cn.llld.conditional
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/rootless/增加网络控制(rootless).deb
+Size: 3140
+MD5sum: b652d8fa7ec5b78bf3b90cf348eba142
+SHA1: c4eecfec7896ab826e56dbae7a59d9531ab77143
+SHA256: 0f9e416b5ef4e3a4e74262e0b7e96c50d49da38f5d731112673df8a73148d498
+Section: rootless修复插件
+Description: Network permission control to add WiFi and data to the APP in the settings设置中添加APP的WiFi和数据的网络权限控制，只推荐非国行手机安装。本意是模仿国行手机。_________仅测试用,有问题卸载
+Author: daniel
+Name: Conditional网络控制-rootless
+
 Package: cn.llld.coolcc
 Version: 2.0
 Architecture: iphoneos-arm64e
@@ -220,68 +204,52 @@ Author: alias20
 Name: CoolCC Reborn
 
 Package: cn.llld.copy
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/copy-text_0.0.1-1+debug_iphoneos-arm64.deb
-Size: 5066
-MD5sum: 55d0b799207d0da3805bdb43ce9e9952
-SHA1: 2d4ba90b9e84848552286dc1a0a63bc6404ef5fe
-SHA256: 5bbdb34946763dbed39f131e39deda7f2c9017c6dc5be2198300a0a4004096c1
-Section: 插件
-Description: Individual text can be copied by long-pressing in the (settings and appstore and message), currently in the testing phase, and more support will be added in future updates.（设置,appstore,短信）个别文本长按可复制，现处于测试阶段等后续更新支持更多
-Author: 来了老弟
-Name: copy-text
-
-Package: cn.llld.copy
-Version: 0.0.1-2+debug
+Version: 0.0.1-2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/copy-text_0.0.1-2+debug_iphoneos-arm64.deb
-Size: 5272
-MD5sum: 949296de8db38ae69a8df13e8aac704f
-SHA1: 120496139747422f89cb3787041f26b0e326f022
-SHA256: 2cbef0bf7753ea260a1252b985629aa2bf352008480fcf86489215df73390cb6
-Section: 插件
+Size: 5220
+MD5sum: 5b1d942057ca44c65f679542f20ebaca
+SHA1: 0c81124669a80c3a0f5bf3d4d0c4f0ee51631d6f
+SHA256: 03cc28d0c1e1224582632d1372ea74d362dccb9b5133b6588180a60e115f4cc4
+Section: rootless插件
 Description: Individual text can be copied by long-pressing in the (settings and appstore and message), currently in the testing phase, and more support will be added in future updates.（设置,appstore,短信）个别文本长按可复制，现处于测试阶段等后续更新支持更多
 Author: 来了老弟
-Name: copy-text
+Name: copy-text-rootless
 
 Package: cn.llld.copy
-Version: 0.0.1-3+debug
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/copy-text_0.0.1-3+debug_iphoneos-arm64.deb
-Size: 5196
-MD5sum: 3815d7915b8a8292ac8341d21b1ee720
-SHA1: 6681da18d75f34c814e22110635be603c57b0daa
-SHA256: c3d782864e8ebc8d7d03b21a69b943e2c587ad780c2f99a056e92cf474f7a7f9
-Section: 插件
-Description: Individual text can be copied by long-pressing in the (settings and appstore and message), currently in the testing phase, and more support will be added in future updates.（设置,appstore,短信）个别文本长按可复制，现处于测试阶段等后续更新支持更多
-Author: 来了老弟
-Name: copy-text
-
-Package: cn.llld.copy
-Version: 0.0.1-4+debug
+Version: 0.0.1-4
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/copy-text_0.0.1-4+debug_iphoneos-arm64.deb
-Size: 5464
-MD5sum: 766d93a6d1082ae295bd0fe1d35c6bea
-SHA1: ab1a3f7b5aa3110277bc1b40915ef3aa34682552
-SHA256: 9d3556f743077e5a4d087bdb73ff66c0c03e0b80897e06db0ba70d16da515d37
-Section: 插件
+Size: 5392
+MD5sum: 00771e692cdd9c2d21ae4b071d6a0b1e
+SHA1: 0030ffb66720636cae0fc632835ca26848296ec4
+SHA256: f6cf6e2b65e7186eb79cdd8373ee25ed3c0212ac42530a343ecdbf216dd5a783
+Section: rootless插件
 Description: Individual text can be copied by long-pressing in the (settings and appstore and message), currently in the testing phase, and more support will be added in future updates.（设置,appstore,短信）个别文本长按可复制，现处于测试阶段等后续更新支持更多
 Author: 来了老弟
-Name: copy-text
+Name: copy-text-rootless
+
+Package: cn.llld.deleteapp
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/rootless/桌面便捷删除app(rootless).deb
+Size: 14296
+MD5sum: 44dfc2b45f9de7b986e1ae64c4f2f3f4
+SHA1: 284e08f6865d67af0d02da5f61ec5f5a2c8a5a07
+SHA256: dd4b56a0fdbed0c0203384675ce0e6d80dcad1a7096f5b0565c5b6dc263e6bb2
+Section: rootless修复插件
+Priority: optional
+Description: Desktop Quick Delete App桌面快捷删除App
+Author: Mao
+Name: 桌面快捷删除App-rootless
 
 Package: cn.llld.deletephotoscompletely
 Version: 1.2-2
@@ -345,36 +313,52 @@ Author: Skitty 来了老弟
 Name: Ersatz替换文本插件-roothide
 
 Package: cn.llld.fixdh
-Version: 0.0.1-1+debug
+Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/改分辨率后电话移位处理,高度3000+(rootless).deb
-Size: 4756
-MD5sum: b0949e85351bb2e5918b631b9a90fae7
-SHA1: 33e3ebce47f3d9c656e537851917860f194a06f3
-SHA256: 9a3c9c064cbd2d9b65b95a962f96fd5aad56923cda84f7e780bee998021b5fec
-Section: Tweaks
-Description: 解决更改很大分辨率后键盘缩小和移位的问题
+Size: 4732
+MD5sum: c359674adf3636b095fa37b25484deec
+SHA1: 04138deb5c75bd3b4086f6e4d7098eb2b383bf8f
+SHA256: 672200ad8c458d4c87e5d1792ea3d5297dc1aaca8a20b8e40f7dd588baeebcb6
+Section: rootless插件
+Description: 解决更改很大分辨率后，电话键盘缩小和移位的问题
 Author: 来了老弟
 Name: phonefix
 
 Package: cn.llld.fixdh1
-Version: 0.0.1-1+debug
+Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/改分辨率后电话移位处理,高度2800+(rootless).deb
-Size: 4790
-MD5sum: 2df16db0dba9ead3468b1b9a645078d6
-SHA1: 18bd3abc859d4aaa96d5ba18c09d22b8d431590e
-SHA256: 7ffd78365b81be36880831ba20954601b7eb479078b528cda427291c013423b0
-Section: Tweaks
-Description: 解决更改很大分辨率后键盘缩小和移位的问题（适用于分辨率高度2800-3050）
+Size: 4752
+MD5sum: cd479880e96c2e2a2f8674ac5f938224
+SHA1: 444648d18e85051f0d10fc140a31bb246fd97238
+SHA256: a30c93a364c6aef1d4bcefbcc7026f37fa3aed67ac73bf5e1fa28c20a81eed95
+Section: rootless插件
+Description: 解决更改很大分辨率后电话键盘缩小和移位的问题（适用于分辨率高度2800-3050）
 Author: 来了老弟
 Name: phonefix
+
+Package: cn.llld.flexlist
+Version: 0.0.1-2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/flexlist汉化_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 10244
+MD5sum: 0ed26c724c4d8a857822412d3514790d
+SHA1: 95b1303120c503f3166b81c017d3e323b701fe1e
+SHA256: 3b805c00155093838e031fc8bbef0f4bcb8926871eb8da4ec15f2192088ff008
+Section: rootless汉化补丁
+Description: flexlist--(rootess)简体中文包
+Author: 来了老弟
+Name: flexlist汉化-rootless
 
 Package: cn.llld.hideallbar
 Version: 1.0
@@ -412,11 +396,11 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/隐藏页面点2-rootless.deb
-Size: 3188
-MD5sum: 052bb8c240ce9359d1cb6692ec9aba72
-SHA1: 32bd9ea88ad1e9121a86822b95a2ea2f5dda279d
-SHA256: 6fd9b3e15856d395e1e98dc4253f2f6aa501f7a8141fb375c8576b4229f4ee74
-Section: 隐藏专区
+Size: 3164
+MD5sum: 8cbe88bf568cba1ee92cd3b5f50953f6
+SHA1: d9b53ac4033171d7cbf9f4a6fa946c765f286979
+SHA256: d13b1f460a01d7366a8bcf528e7864f66ed086e4f52edce4185d678f1f5c9b6e
+Section: rootless隐藏专区
 Description: hide page dots隐藏页面点(rootless)
 Author: 来了老弟
 Name: 隐藏桌面翻页点-rootless
@@ -427,11 +411,11 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: firmware (>=14.0), mobilesubstrate
 Filename: ./debs/rootless/wechat多功能微信-rootless.deb
-Size: 609824
-MD5sum: 06eea6b2268dcbca0d44ad64cbeb3db1
-SHA1: 0515e222ded61d987f09aa0f41ab756480837696
-SHA256: 96e06184f97a33b033e56f4d31b63dd3c6cedca9174b9dcef05ae0ac6e56bc58
-Section: 微信插件
+Size: 609708
+MD5sum: 779f37ad05a74880817614ce3f781b90
+SHA1: 940e043e483f802ea5334307122b177da3be677a
+SHA256: eca043aebdcf98b046706c8fe11ec3960cac75d0da0fefeed62eeccae42738a0
+Section: rootless微信插件
 Description: 早期的微信工具箱，作者已停更______仅测试，有问题请卸载
 Author: Jan
 Name: wechat多功能微信-rootless
@@ -452,20 +436,20 @@ Author: Jan
 Name: wechat多功能微信-roothide
 
 Package: cn.llld.jjyh
-Version: 0.0.1-1+debug
+Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/东莞银行去检测越狱弹窗(rootless).deb
-Size: 3228
-MD5sum: 509215b53fb05f9d5b112a16904dce56
-SHA1: dfc2df0afcc294f3a00d616b54cfb2839034c393
-SHA256: 0215a3a109651721e097dd260a3cfc189634027336dfda1e224092b5ab4889fb
-Section: 屏蔽弹窗
+Size: 3224
+MD5sum: f21d95af5b44851be7f05af534887881
+SHA1: e315a7786771264c7eedb78cd67aecdc2f29690f
+SHA256: dcf8d692c2ab419aaa23e3d2a58dbbdd2ff0733662f17e44962f4d2607a5544f
+Section: rootless屏蔽弹窗
 Description: 解决银行越狱检测弹窗(东莞银行)，不用注销
 Author: 来了老弟
-Name: 东莞银行
+Name: 东莞银行-rootless
 
 Package: cn.llld.keyboard
 Version: 1.0
@@ -500,20 +484,20 @@ Author: 来了老弟
 Name: 控制中心透明-roothide
 
 Package: cn.llld.kztm
-Version: 0.0.1-1+debug
+Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/控制中心透明(rootless).deb
-Size: 4212
-MD5sum: 73d2fea946ef9dae69a89fa443b8692d
-SHA1: 9c6a31e27a34f33d8dcb2a9988ce942ae3b1b2aa
-SHA256: 27fa13c3928a50b3548d9501930622855be26250854133a1f34b847be2946146
-Section: Tweaks
+Size: 4200
+MD5sum: fd7f9af94b583c21ec483c148e098dd5
+SHA1: 0d87757a2626227c9e673cb35936f64c02ec2c14
+SHA256: 899e75cb6bebd15ec42ebb756d1ca3705c15907163996f89fa1c055b91721153
+Section: rootless插件
 Description: 仅控制中心背景透明到桌面（单个模块没透），配合coolcc效果更好（全透）
 Author: 来了老弟
-Name: 控制中心透明
+Name: 控制中心透明-rootless
 
 Package: cn.llld.minivx
 Version: 1.0
@@ -538,11 +522,11 @@ Maintainer: 来了老弟
 Installed-Size: 108
 Depends: mobilesubstrate
 Filename: ./debs/rootless/微信辅助(微生物)-rootless.deb
-Size: 13852
-MD5sum: 537e2bf8d2a5ab7e2e9aba596a3ce8f0
-SHA1: f0bc2e2e04879f4766755570e850ef066a41fec6
-SHA256: fe854b13a7e018c9d49f20d15d4274961f58086e4067ef71620ffc94ce364eba
-Section: 微信插件
+Size: 13928
+MD5sum: 359b8228128b77b4f560154ab509fc31
+SHA1: 691cb65a3e055408747827dd8eb9b39b17feb6e2
+SHA256: 9c8a93ff0809417ba82f8db57124971ee18156efffce780e6dcb0d8e0760e921
+Section: rootless微信插件
 Description: 微信简洁辅助(抢红包，防撤回)-roootless
 Author: 来了老弟
 Name: 微信辅助(微生物)-rootless
@@ -564,20 +548,20 @@ Author: 来了老弟
 Name: 隐藏更早的通知-roothide
 
 Package: cn.llld.nc
-Version: 0.0.1-1+debug
+Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/隐藏更早的通知_0.0.1-1+debug_iphoneos-arm64.deb
-Size: 3162
-MD5sum: 69ee529eae3ccd7315841c58f04ee56a
-SHA1: 830df9c98808b7c0273d021f0e2386ef69fc3527
-SHA256: c3c6e9e0a7e323acc819a10e286a88cd0ea97265f9fc8ffc3d9da1ceeac2d905
-Section: 隐藏专区
+Size: 3184
+MD5sum: b540c6d9347fa3b8403685723781bb79
+SHA1: f4ca6f45490d8b92280cffe00b65e743f920724e
+SHA256: aa5c91e65e8a8995bef118f4b338f6e939b3fb476163648fd377cbd38df5294d
+Section: rootless隐藏专区
 Description: Hide no earlier notification text（隐藏-没有更早的通知文字）
 Author: 来了老弟
-Name: 隐藏更早的通知
+Name: 隐藏更早的通知-rootless
 
 Package: cn.llld.nlrq
 Version: 0.0.1
@@ -596,20 +580,20 @@ Author: 来了老弟
 Name: 放大农历日期-roothide
 
 Package: cn.llld.nlrq
-Version: 0.0.1-1+debug
+Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/放大锁屏农历日期(rootless).deb
-Size: 3828
-MD5sum: 21c9c6a347d6da3e2cfbd4c4ab1c0c46
-SHA1: 75a23777a80bf567f0e2e695c9b4f9bcb7f595fe
-SHA256: 64f392d528e37fa551cc6ac617d0d904b3f433879f66f5424b7ed0690dd6ade1
-Section: Tweaks
+Size: 3812
+MD5sum: ae745a7a48222e8d5841272de9b013cf
+SHA1: 2d7158cd9011c92110dfc112472c4c72600af290
+SHA256: 744bb24678647bbfe814f936d1fc1550d28e0a08fa072ca3f0777595c8f49b60
+Section: rootless插件
 Description: 放大自带的农历和日期（默认的有点小）
 Author: 来了老弟
-Name: 放大农历日期
+Name: 放大农历日期-rootless
 
 Package: cn.llld.sdxj
 Version: 0.0.1
@@ -628,20 +612,20 @@ Author: 来了老弟
 Name: 隐藏手电相机-roothide
 
 Package: cn.llld.sdxj
-Version: 0.0.1-1+debug
+Version: 0.0.1-1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/隐藏手电相机_0.0.1-1+debug_iphoneos-arm64.deb
-Size: 3210
-MD5sum: 6319f2ff3330489506504690a72f4071
-SHA1: 6f10bb1dbf0ec4148b8e1a3acd925aa59ea6c55e
-SHA256: 93f4d59aabc5b3b0b6a9b90b8d70e09c2f5662759dfe8b813d6b2eab991534bf
-Section: 隐藏专区
+Size: 3232
+MD5sum: 49e499b35173c14e758d92199e0a7e89
+SHA1: 01c0620cea2497373d6963f85c78a6a1a0ff4cdf
+SHA256: 7542636da90f0e1caee8ff0518ee5a89efc78f49bce1ed97af3cdf642897d7be
+Section: rootless隐藏专区
 Description: Hide flashlights and cameras，Keep the left sliding negative screen and the right sliding camera.（隐藏手电筒和相机,保留左滑负一屏和右滑相机）
 Author: 来了老弟
-Name: 隐藏手电相机
+Name: 隐藏手电相机-rootless
 
 Package: cn.llld.searchy
 Version: 3.2
@@ -649,15 +633,14 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: firmware (>=13.0), mobilesubstrate
 Filename: ./debs/rootless/最近通话增加搜索栏(rootless).deb
-Size: 6716
-MD5sum: 5e7f05dec76efff22040da679d21bc22
-SHA1: 292c0fa61fdceeae2e564e339ff4a9dedd5ff57d
-SHA256: bef87e08720e19a362286a045d2dfe3f85baf3b45fd9650b6b1566b96c29e7d2
-Section: 插件
-Description: 最近通话添加(搜索栏)，无设置，直接生效。
+Size: 6672
+MD5sum: 7306583c1efab306c5cbe4fa060f085f
+SHA1: 0595502abe31ee89c897816e6099ac96652dd124
+SHA256: e107fb6d5a325e3c3dd4392e0f2dec5a3229deffd9e6933121084301c8b4afc8
+Section: rootless插件
+Description: Recently, a search box has been added to the call.最近通话添加(搜索栏)，无设置，直接生效。
 Author: 来了老弟
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: 最近通话增加搜索框
+Name: 最近通话增加搜索框-rootless
 
 Package: cn.llld.settingsudid
 Version: 1.0
@@ -712,14 +695,30 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: mobilesubstrate
 Filename: ./debs/rootless/双击锁屏-rootless.deb
-Size: 8488
-MD5sum: 495870ddc28f64b2d748890331a77e29
-SHA1: e73fa29da1ab912aef5e8c3bc3e3b2f2af963a35
-SHA256: 4b907eea074ea65767fc4c70cc88be0a2d55077922997607eae420188339f971
-Section: 插件
+Size: 8496
+MD5sum: 73506e428509aa56d9218ff8d4d95bb5
+SHA1: ce6b94aae95468de1207f22ac37975b0a9cf69bc
+SHA256: a94935f4fcccf89e652da35a8e6a171af355bcbeadb9669cfc916e2cbdb0af0a
+Section: rootless插件
 Description: Double-click the home screen to lock the device双击锁屏-rootless
 Author: 来了老弟
 Name: 双击锁屏-rootless
+
+Package: cn.llld.smartlight
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Filename: ./debs/rootless/快捷手电筒(音量-和电源)-(rootless).deb
+Size: 5604
+MD5sum: 4361babb318487d23acfcedb488fa574
+SHA1: 44ff53ba8488803f33d6a9a06b27ea02e16237bf
+SHA256: ebe1d7bae06a3e95fda789d6e348fd9fee76104f12a3a69eaedc2af97b8886d7
+Section: rootless插件
+Description: 用音量减和电源键激活手电筒，并通过音量加和音量减锁定更改亮度级别！
+Author: smokin1337
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: SmartLight快捷手电-rootless
 
 Package: cn.llld.statusbarlunardate
 Version: 1.0.0
@@ -727,14 +726,45 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: mobilesubstrate
 Filename: ./debs/rootless/点击时间显示农历(rootless).deb
-Size: 7748
-MD5sum: 48146472e995e3fd8e160b5e8083e3bb
-SHA1: 39aaf5091c32f2208250e19b7eace825ea666b36
-SHA256: 61282241c42ba2eb1b8f9f7d60687bc1c5c660b95e02194d1f308a680a7b9c7c
-Section: 插件
-Description: 点击iOS顶部时间栏显示今日中国农历。_______来了老弟·修复兼容dopamine
+Size: 7704
+MD5sum: 665a74426fb098b084af60732ee26669
+SHA1: 8ebd5fe0dd0ac66ac76c34c4da4c930746568509
+SHA256: aef99c892364e149b346b2775677f8f834ee646f4601d5231036203ebe29522a
+Section: rootless插件
+Description: 点击iOS顶部时间栏显示今日中国农历。
 Author: Snail
-Name: 点击时间「显示农历」
+Name: 点击时间显示农历-rootless
+
+Package: cn.llld.swipeextenderx
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/swipeextenderx汉化_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 11604
+MD5sum: 70632a5e6e58382e788ddfd7e61f97fc
+SHA1: 09a2177c29fca57cb2e28d36309be92d18c35d56
+SHA256: 2b2e678fb6730158513edf8b9814be965ee85f9d7c761de4592e85a3cea82801
+Section: rootless汉化补丁
+Description: swipeextenderx汉化--(rootess)简体中文包
+Author: 来了老弟
+Name: swipeextenderx汉化-rootless
+
+Package: cn.llld.thsj
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/rootless/最近通话详细时间(rootless) .deb
+Size: 5608
+MD5sum: c4103e0b3bceec9e18de9550a6431af0
+SHA1: ee530ea3c37f1acc35a940b19094a1a11ef0a80e
+SHA256: 172d56ff7656eb52134bf7a12988e660c780b6d97659cd3f3590176fd1593f08
+Section: rootless插件
+Description: The specific time of the recent call has been increased.最近通话增加具体时间
+Author: 来了老弟
+Name: 最近通话增加具体时间-rootless
 
 Package: cn.llld.wxyybb
 Version: 1.0
@@ -804,11 +834,11 @@ Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/隐藏通知中心文本-rootlss.deb
-Size: 3000
-MD5sum: 2cf7fcf8084a5421e316ad770c948f3c
-SHA1: 95f8db84bb8b52bd608f4c3200b5036cf5a8d064
-SHA256: a4b372de9e7ffe988fbe23d07f1956a2383dcf10642f513f5cb67ecd3ff06b3d
-Section: 隐藏专区
+Size: 3080
+MD5sum: 5f283467b68ebc784ee011d2a654928f
+SHA1: 3acda78410a0fe4e2105b2cac2e50629a9de1bc2
+SHA256: facd80d985f8a34bf40cf9b7ce13540fc627494112411e4f4c6ebdcfeca6b6c1
+Section: rootless隐藏专区
 Description: Hide NotificationCenter Text隐藏控制中心文本-rootless
 Author: 来了老弟
 Name: HideNotificationCenterText
@@ -836,30 +866,30 @@ Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/隐藏锁头-rootless.deb
-Size: 2944
-MD5sum: 1cd018ac1995cf8711c12b8f9785b581
-SHA1: 367b65a3c0483f783f45821771220dddd4245a8e
-SHA256: 4da7fcd9d84b96f99102775a2717bf47b608b99f3ec205bafafa150002152d04
-Section: 隐藏专区
+Size: 3016
+MD5sum: 431d4ab869bc9171a1d278aa87d7ceaf
+SHA1: 62a6300c655d5e1060b49ff9378f8c17603b79e7
+SHA256: 3a00c6867985d14a4c4e08a070c3ea2d9792c5edb0766a8b9044a45d465d6885
+Section: rootless隐藏专区
 Description: NoPadlock隐藏锁头-rootless
 Author: 来了老弟
 Name: NoPadlock
 
 Package: cn.llld.ycvpn
-Version: 0.0.1-2+debug
+Version: 0.0.1-2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/隐藏设置中vpn(rootless).deb
-Size: 4430
-MD5sum: 51e9d1ae12753338570f9c83352c6e74
-SHA1: 4cc83482ecfcacb3f4a187ecdca051d05412f83c
-SHA256: 5c1a5f3eeea1bbc27e7ef3f9ad8b08322c6bd34ea4487472076493b5f4cd7aa9
-Section: 隐藏专区
+Size: 4424
+MD5sum: 77fb9bb397082f20482e856204792f45
+SHA1: abaebc74f8fcb7a701629787d04648886a6429d7
+SHA256: 651aaf235e8fbf2397308952d80bc8bd959e785a85541383ee2675989e4f7b4f
+Section: rootless隐藏专区
 Description: 隐藏手机设置内VPN（个别查机的城市用的到，有没隐藏的及时反馈）
 Author: 来了老弟
-Name: ycvpn
+Name: ycvpn-rootless
 
 Package: cn.llld.ycwjjbj
 Version: 0.0.1
@@ -884,30 +914,46 @@ Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/隐藏文件夹背景-rootless.deb
-Size: 2974
-MD5sum: ce1493da30acdcc38f042ecc1b435743
-SHA1: 4d29749e0b4c71be5705c7345d29c0cbf570e7ea
-SHA256: a6967bd00474afcd51b0ba71c3ed6d836c576b1e17b00271a49a81223c27fef7
-Section: 隐藏专区
+Size: 3060
+MD5sum: f15ce959be7bb9990217881856f6c849
+SHA1: 853b32602db785562c20cf92e03f53c4ec1adf48
+SHA256: 82c480a9d87f90b5d9d54a44d9a13971aada681053eaa1d2e3bc5d0ac05a537b
+Section: rootless隐藏专区
 Description: Hide folder background隐藏文件夹背景-rootless
 Author: 来了老弟
 Name: HideFolderBackground
 
 Package: com.llld.177
-Version: 0.0.1-2+debug
+Version: 0.0.1-2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/flex汉化包(rootless).deb
-Size: 11316
-MD5sum: 541ab3e2f243aa2d34949932ef6ad2f2
-SHA1: 90397cede87515b4b2dd9087591ce2c104028508
-SHA256: c932f87bec5e05165a498118b41d0909b98f9bf2965290a5971ad53ebf09eb3b
-Section: 汉化补丁
-Description: flex3--(dopamine版本)简体中文包___(装插件包多费劲，把dylib和plist文件放入flex3包或者越狱插件路径下就行了)
+Size: 10928
+MD5sum: 1eb5f8ea20d2805a97707c1d40122324
+SHA1: 89b4dc95e198dadee49e147add4cec690367dcd2
+SHA256: 4659a11b2dec70b03ce354abde729d92356086444568eda75aad21dfd814ec26
+Section: rootless汉化补丁
+Description: flex3--(dopamine版本)简体中文包
 Author: 来了老弟
-Name: flex汉化包
+Name: flex汉化包-rootless
+
+Package: com.llld.177
+Version: 0.0.1-3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/flex汉化包_0.0.1-3+debug_iphoneos-arm64.deb
+Size: 10980
+MD5sum: 66a6fe344a005ee46e6b531862304755
+SHA1: be2e4a727bb87fee6d772bee25c25d3b453b69eb
+SHA256: f52b2122c54169187c2e6182d1e4674571fa4e334b1c5a9c329d707f3d5bd6d8
+Section: rootless汉化补丁
+Description: flex3--(dopamine版本)简体中文包
+Author: 来了老弟
+Name: flex汉化包-rootless
 
 Package: com.llld.177
 Version: 0.0.1-3+debug
@@ -922,22 +968,6 @@ SHA1: a2fd86ea227261f6f70eb222941ad6e8201ce5c2
 SHA256: 23d4d577896c0a541e490ac91c57cc3578fa09978953355757537d682fff19e6
 Section: roothide汉化补丁
 Description: flex3--(roothide专用)简体中文包
-Author: 来了老弟
-Name: flex汉化包
-
-Package: com.llld.177
-Version: 0.0.1-3+debug
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/flex汉化包_0.0.1-3+debug_iphoneos-arm64.deb
-Size: 11248
-MD5sum: 695dc70933000102b0cdca5298b6b54f
-SHA1: 4cb6b3ee1f1a884473202557831eb70b702da5d2
-SHA256: 6f6d85c65e6d640f916131ccb400f0b6cea85ac885d3aabe4b5b7b13774687e4
-Section: 汉化补丁
-Description: flex3--(dopamine版本)简体中文包
 Author: 来了老弟
 Name: flex汉化包
 
@@ -956,22 +986,6 @@ Description: Volume brightness increase percentage音量亮度增加百分比---
 Author: 来了老弟
 Name: 音量亮度增加百分比-roothide
 
-Package: com.llld.deleteapp
-Version: 0.1-1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootless/桌面便捷删除app(rootless).deb
-Size: 14324
-MD5sum: e69bfb3f47ddd8c4f7a146ebb5ee3ee7
-SHA1: 12eb0e9a7c956bb5b32c3180beab28d940435c33
-SHA256: e03a71030e73a097ee71977ef94d107676305741736703f56834e05af6badbf5
-Section: 修复插件
-Priority: optional
-Description: 适用于iOS14删除App时不用脱裤子放屁一样的选择移除App后在选择删除_________转的，不用arm64e
-Author: Mao
-Name: 删除App
-
 Package: com.llld.dndmyrecording
 Version: 1.2.1
 Architecture: iphoneos-arm64
@@ -979,46 +993,30 @@ Maintainer: 来了老弟
 Installed-Size: 196
 Depends: mobilesubstrate
 Filename: ./debs/rootless/DNDMyRecording录屏勿扰模式-rootless.deb
-Size: 4800
-MD5sum: 8e9b03592c9475752048b19bdbeffe00
-SHA1: 96ba3703b85b8a95c7578db68f58c8e44331c6be
-SHA256: b9ab370cd6927ba4ed75c1875b332fc69da11c4936301b61a8c20b09361956df
-Section: 修复插件
+Size: 4796
+MD5sum: f0248516ccec0c1f6689acb78a1c5f20
+SHA1: f76af65c032d66ad0c26b34bb5313b34f3946f55
+SHA256: 7e3c25157d37e1807c91fd6366425f162467794534421cf182dfe2749d60aee5
+Section: rootless修复插件
 Description: The phone automatically turns on Do Not Disturb mode when recording the screen.手机在录屏时，自动开启勿扰模式，安装无设置，注销生效_________仅测试，有问题请卸载
 Author: gilshahar7, 0xkuj
-Name: DNDMyRecording录屏勿扰模式
+Name: DNDMyRecording录屏勿扰模式-rootless
 
 Package: com.llld.flexlist
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/flexlist汉化_0.0.1-2+debug_iphoneos-arm64.deb
-Size: 10442
-MD5sum: 877765828b381b45860a58d780834573
-SHA1: f1674a25223f86c18f7e6494212a70422d388ab5
-SHA256: 0c420faa1c29ab40e31e7bc32656c6333767021f28e62b0540732cf2751418a1
-Section: 汉化补丁
-Description: flexlist--(rootess)简体中文包
-Author: 来了老弟
-Name: flexlist汉化
-
-Package: com.llld.flexlist
-Version: 0.0.1-3+debug
+Version: 0.0.1-3
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/flexlist汉化_0.0.1-3+debug_iphoneos-arm64.deb
-Size: 11734
-MD5sum: 75635bfd5bf1942ae01b10926c5616a1
-SHA1: 01ca99a5df6be40b8d0a88f41838d95a23ca9b71
-SHA256: b98a51a40154d7c0df38351876d24c5229bc07247b375ea3a9d27f018e37ec8c
-Section: 汉化补丁
+Size: 11548
+MD5sum: 60f7abec6ab5cb9d81993c9b9ec1d23d
+SHA1: 0cde3acf9b2a98462ed327a4ac17715b20804e34
+SHA256: dcc47b25a82af95345559d7c6661c4e50a08b5e936dc10c067d0da6ece8ef07d
+Section: rootless汉化补丁
 Description: flexlist--(rootess)简体中文包
 Author: 来了老弟
-Name: flexlist汉化
+Name: flexlist汉化-rootless
 
 Package: com.llld.fugap
 Version: 2.2.4
@@ -1027,30 +1025,30 @@ Maintainer: 来了老弟
 Installed-Size: 584
 Depends: mobilesubstrate
 Filename: ./debs/rootless/FUGap-控制中心间距调节(rootless).deb
-Size: 143544
-MD5sum: 2a9b32f98d757d98a6ddd3681018b28c
-SHA1: 48795859196151badb083eeae38d3f3c52a60c73
-SHA256: fbdc6680490e2796b2c147d1e74f8f856be0632f61325e9d8063e3a580ea19c7
-Section: 修复插件
-Description: 调节控制中心空白部分以及隐藏状态栏_________仅测试，有问题请卸载
+Size: 143560
+MD5sum: 76b2b4288fdf250a4c7cff25fd107efe
+SHA1: 652ebaa178389f969fb10835f0cc16d6cdb6069e
+SHA256: 69a600d9b86088662d4a005ac0b7b3a47730c1d5ed876347fa53085cef02ce32
+Section: rootless修复插件
+Description: Adjust the blank part of the control center and hide the status bar调节控制中心空白部分以及隐藏状态栏_________仅测试，有问题请卸载
 Author: smokin1337
-Name: FUGap控制中心间距
+Name: FUGap控制中心间距-rootless
 
 Package: com.llld.shelly
-Version: 0.0.1-1+debug
+Version: 0.0.1-1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/shelly汉化(rootless).deb
-Size: 15230
-MD5sum: 563884955a4fb9bd217f60dd5ff13165
-SHA1: 82b2cd8d22c6b6bdc45d0f94a454f68772e49fb7
-SHA256: a4bd99e7eb9cc277a7696718d9d6acb4e1ef4eee4dfa22123056bd12546b3110
-Section: 汉化补丁
+Size: 14676
+MD5sum: 812775eae34f5a39d140cad7a80dec95
+SHA1: c16732c5a31f0ff5e1717a4e5f01c5a1837a46b9
+SHA256: b7afcd7ef382a03a6994d47489cc5bbd5694a755f8f849b0e7f6d511eea7fe92
+Section: rootless汉化补丁
 Description: Shelly--(rootess)简体中文包
 Author: 来了老弟
-Name: shelly汉化
+Name: shelly汉化-rootless
 
 Package: com.llld.shelly
 Version: 0.0.1-3+debug
@@ -1073,16 +1071,16 @@ Version: 1.8.19
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 888
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.0.2)
 Filename: ./debs/rootless/Speak语言播报各种通知来电等(rootless).deb
-Size: 250388
-MD5sum: abb12ab0a6e4aa1c5f71e08361b2d513
-SHA1: 68a3d1926049811e17b5589af756904401b7973b
-SHA256: a7e814a5afe6177f333fc740f4c134af14d62218dfff2eb465cef03b49f34f6b
-Section: 修复插件
-Description: 朗读任何通知消息_________仅测试，有问题请卸载
+Size: 250540
+MD5sum: 77dde8fd02adc524c62ee644ffc94fe6
+SHA1: 3d17f149727a2d38e35859f1b19ab7d62c98fb76
+SHA256: be48fc9ec20bc4a8936c8eb97af2917a685c242d929863bd39c8d0b539b4f82a
+Section: rootless修复插件
+Description: Read any notification messages, calls, application broadcasts, etc.朗读任何通知消息，来电，应用播报等等_________仅测试，有问题请卸载
 Author: merdok
-Name: Speak Notification 通知朗读
+Name: Speak Notification 通知朗读-rootless
 
 Package: com.llld.speaknotification
 Version: 1.8.19
@@ -1091,61 +1089,30 @@ Maintainer: 来了老弟
 Installed-Size: 888
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.0.2)
 Filename: ./debs/rootless/Speak语言播报通知来电等(rootless).deb
-Size: 250800
-MD5sum: edebab7605b0b229fe0a1fc9fd4f8db3
-SHA1: 099295ed774d18c0a4a77e909591daee07c6c513
-SHA256: 895785173beb0c65a43492140b55eddd59158d6b4cd4a17763c53fc27c41f8fb
-Section: 修复插件
+Size: 250292
+MD5sum: 1b2f782be6538b84f4feb76448546b6e
+SHA1: 9088145400420bed82280d8f7fcc830094c41000
+SHA256: 46a0a4f80c86347c0e34731f9d2e31a015db4f69489962e8f592dfd75f32dbf8
+Section: rootless修复插件
 Description: Siri speaks out any notifications in a fully customised way.以Siri形式朗读任何，不限于来电，短信，应用，通知等，规则可以自定义---rootless
 Author: merdok 来了老弟
 Name: Speak Notification 通知朗读
 
 Package: com.llld.swipeextenderx
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/swipeextenderx汉化_0.0.1-1+debug_iphoneos-arm64.deb
-Size: 11794
-MD5sum: b69d4d10173ea77d594df6192181b532
-SHA1: f547d214f68540a9b0c2ac3e541d184986bb5130
-SHA256: 25d19d4912f1dfb3c76c57c6cec0f5e95663eeab243381e54fd6af193f1e7e98
-Section: 汉化补丁
-Description: swipeextenderx汉化汉化--(rootess)简体中文包
-Author: 来了老弟
-Name: swipeextenderx汉化
-
-Package: com.llld.swipeextenderx
-Version: 0.0.1-2+debug
+Version: 0.0.1-2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/swipeextenderx汉化_0.0.1-2+debug_iphoneos-arm64.deb
-Size: 11816
-MD5sum: ed1477a784adfe2ce7e55b1ead5c90e9
-SHA1: 144c0884e436673a989b610436a87e5c76cf9a18
-SHA256: c3527af738c50e4207daa3e04cb4905fa5efadcb148ace7a34bbdc8c9be6e4b8
-Section: 汉化补丁
+Size: 11608
+MD5sum: ca672feb1504499cdb7283c2e3e5f9a1
+SHA1: 018edad1f29e8e53b003d20cbec94cf5dbe5a99a
+SHA256: ac018038f14f784759c93022426cc2229d0b041f868d5aac6453942fae047549
+Section: rootless汉化补丁
 Description: SwipeExtenderX汉化，swipeextenderx汉化--(rootess)简体中文包
 Author: 来了老弟
-Name: SwipeExtenderX汉化
-
-Package: com.llld.thsj
-Version: 0.1-1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/rootless/最近通话详细时间(rootless) .deb
-Size: 5600
-MD5sum: 16b5818aa73ab765766ff6d93b04226f
-SHA1: fa2c655624f80c6dde4d95d56b3d8a67b625dd90
-SHA256: c0a6242648362e8a8f6563b2899aed09833c6a6af842586d05af68ae245c60b4
-Section: 插件
-Description: 最近通话增加具体时间
-Author: 来了老弟
-Name: 最近通话增加具体时间
+Name: SwipeExtenderX汉化-rootless
 
 Package: com.llld.wxyybb
 Version: 1.0
@@ -1153,30 +1120,30 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: mobilesubstrate
 Filename: ./debs/rootless/微信文本播报-rootless.deb
-Size: 4488
-MD5sum: 070900dba83cdc647eec89233f32ca73
-SHA1: fc137bcc9345f24bd8faefdb6b7cb62ef0dfac9f
-SHA256: 9ec1e32e4d1edc965307c026c5ee4e3d705a0dacea5111fef8e3e56c7b604356
-Section: 微信插件
+Size: 4480
+MD5sum: f772ec42aff73b51f3297fab7ceeb96f
+SHA1: 047a91fa3ae4101c173b1b4debb7a7cc10553cd2
+SHA256: 0605503c44476a8aa3a88dd8af59312dfb9c279ed3544e41f1633f29ac11de18
+Section: rootless微信插件
 Description: 原名motherwc，作用：点击微信文本，语音播报信息_________仅测试，有问题请卸载
 Author: sunweiliang
 Name: 微信文本语音播报-rootless
 
 Package: com.llld.ycfyd
-Version: 0.0.1-1+debug
+Version: 0.0.1-1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/隐藏桌面翻页点(rootless).deb
-Size: 3120
-MD5sum: dc12059571ffaece866de66d42dc5fbc
-SHA1: 024ab85201de33620b7d10a6deede2380fd184bf
-SHA256: 8096974349fdb3152c359b5538004f9f6a20ec888ea7d9976a3a753658bf1003
-Section: 隐藏专区
-Description: 隐藏桌面翻页小白点
+Size: 3184
+MD5sum: ed2dc501de7ef3438e08a3e424ce086b
+SHA1: 93c528c3c867c79dcba10a72e837d3532c679d1a
+SHA256: a837b9d090693d39da68fa09d0e1152bdc845c9042a0bec48d428e5adda3f1ef
+Section: rootless隐藏专区
+Description: Hide the small white dots of the desktop page隐藏桌面翻页小白点
 Author: 来了老弟
-Name: 隐藏桌面点
+Name: 隐藏桌面点-rootless
 
 Package: com.miguelaka95.bettercc
 Version: 0.0.5
@@ -1205,18 +1172,18 @@ Maintainer: 来了老弟
 Installed-Size: 1828
 Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
 Filename: ./debs/rootless/BetterCC带天气功能(rootless).deb
-Size: 149256
-MD5sum: 39768901dc8fa7665a12b6bdcc813716
-SHA1: c8415498ca99b1883a68638b09d114e5bc78db79
-SHA256: 9129d095f5beb9a7c666e300cbc677c265c9573f68ac57b28c0886207b30c916
-Section: 修复插件
-Description: Customize your Control Center!_________仅测试，有问题请卸载
+Size: 149088
+MD5sum: 42883a4dbae8cb0e219ce6178b152718
+SHA1: 2332fcfc20cab45e20f0f4e99ee86cc881bb4cde
+SHA256: 0b9b567615d1e47b4a0c0e7c8955cf1009135eabb5cdeee0bbbc7f77140f80b6
+Section: rootless修复插件
+Description: Customize your Control Center!控制中心音乐，数据链接排版，增加天启等等_________仅测试，有问题请卸载
  Invisible Modules.
  Rearrange Connectivity Toggles.
  Change Modules Size.
  Weather Widget.
 Author: Miguelaka95 <miguelaka95@gmail.com>
-Name: BetterCC
+Name: BetterCC-rootless
 
 Package: com.tomaszpoliszuk.alertcontroller
 Version: 1.4.2
@@ -1225,31 +1192,30 @@ Maintainer: 来了老弟
 Installed-Size: 350
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Filename: ./debs/rootless/Alert修改弹窗样式已半汉化(rootless).deb
-Size: 75496
-MD5sum: 320026028baad2038a7ced5e42121974
-SHA1: f44646793cdd9b80cafdcb6e1d1fe7588c320008
-SHA256: 72a38c4bf7a1a6983d12f0f82bc7010f09348b9cc001c02ddfb02dcb96f58047
-Section: 修复插件
+Size: 75464
+MD5sum: 8e6d1d47ea2b76aeabb5b3e00680b612
+SHA1: 87753509fa49205d9497756683648a7ff619992d
+SHA256: c4cafa24670b6104c06c7343a9644814ddce7e05682a95ce60fb596f28553c13
+Section: rootless修复插件
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=alertcontrollerDp
 Description: Alert Controller - Control UX and UI of your Alerts and Action Sheets_________仅测试，有问题请卸载
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
 Dev: tomaszpoliszuk
-Name: Alert Controller
+Name: Alert Controller-rootless
 
 Package: llld.callkitkt
 Version: 0.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
-Depends: firmware (>=14.0), mobilesubstrate
 Filename: ./debs/rootless/单独开启callkit(rootless).deb
-Size: 3256
-MD5sum: fe8b806739043ab568bd49c7b75d48cb
-SHA1: 6621507359caa42e93bf58d2042c63f461b716eb
-SHA256: e1cbd121207e9944d0e652bd171ebadab37d8dadb82566a054a8b4c4a5610351
-Section: 微信插件
-Description: 单独开启callkit，锁屏状态如同接正常电话一般接语音或者视频电话，也方便通话录音，无设置项
+Size: 3220
+MD5sum: 59d7e65722123d847f7de1c581d1211e
+SHA1: 5bead811348e429df7185aac0436401b615eb07b
+SHA256: e0e42b8a67d19033f4b5bc551ce08b31c2a4e699cfac5ab1afc43d210c71c17f
+Section: rootless微信插件
+Description: 单独开启callkit，锁屏状态如同接正常电话一般接语音电话，也方便通话录音Depends: firmware (>=14.0), mobilesubstrate
 Author: 来了老弟 laileld
-Name: 开启CallKit
+Name: 开启CallKit-rootless
 
 Package: llld.keyboard
 Version: 1.0
@@ -1257,14 +1223,14 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/rootless/强制使用第三方键盘(rootless).deb
-Size: 5840
-MD5sum: e309c9fe8b48f0c561643d6fbe4877f5
-SHA1: eb9ed0fa50d4fee440f1b44e64148907afb41caf
-SHA256: 9c6da1376a7d80b79eef0e368003306a6e71e2380bd9adb186f7b291500c31bf
-Section: 插件
+Size: 5844
+MD5sum: 91c48d6c38c1e20c0814639867e4850a
+SHA1: 6d37c76387d03748e20b9298f8d82b96eef86b78
+SHA256: 36704165a4a4bd880d0a7496837d14c189c43ade3429f9f82c4bd201caa15b54
+Section: rootless插件
 Description: 在很多时候输入，手机总默认自带键盘，且不能更换第三方，有了这插件，你想用啥键盘用啥键盘(第三方输入法都可以，使用场景：密码框)
 Author: 来了老弟
-Name: 强制密码框第三方键盘(rootless)
+Name: 强制密码框第三方键盘-rootless
 Sponsor: 33225753@qq.com
 
 Package: netskao.doubleclickwake
@@ -1274,15 +1240,15 @@ Maintainer: 来了老弟
 Installed-Size: 140
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/双击唤醒(rootless).deb
-Size: 3836
-MD5sum: 0bdaad614cea34abc908e41450c16a2e
-SHA1: e5b0d6aed0603198d137f4a9d82f4cda591cfc8a
-SHA256: d134d5a8cbec2a88c69b9bd4d062a13bc8ffab406cf8359deb52dfcd0ec35f34
-Section: 修复插件
-Description: 单击唤醒改为双击唤醒(设置-辅助功能-触控-轻点唤醒)_________仅测试用,有问题卸载
+Size: 3876
+MD5sum: 83fcde236eca41d77c17fde5e0751023
+SHA1: bc652180a6a354b28b040d861b305a35403a5d85
+SHA256: c32cc5da2b78789877bd968d7b76fa2af126eb6d001ff6e212e5855692e53868
+Section: rootless修复插件
+Description: Click to wake up and double-click to wake up.单击唤醒改为双击唤醒(设置-辅助功能-触控-轻点唤醒)_________仅测试用,有问题卸载
 Author: Netskao <netskao@gmail.com>
 Dev: netskao
-Name: DoubleClickWake
+Name: DoubleClickWake-rootless
 
 Package: org.thebigboss.speaknotification
 Version: 1.8.19
@@ -1307,12 +1273,12 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/去除第三方键盘延迟(rootless).deb
-Size: 3460
-MD5sum: e1ed5e04c62b83181555e06bc95667a7
-SHA1: 377309c114b112f9962385c3444aa172fdde6b4b
-SHA256: f747508fb2ebee9bd65bd5dcdf9859d5e46e147d871619c8230c651611d994fc
-Section: 巨魔商店
-Description: 去除键盘的延迟(主用作于第三方，若没有延迟，则不用装)，安装即生效。无设置选项
+Size: 3444
+MD5sum: d87e2bd73a7e1346cd0c55c4411edcd4
+SHA1: ef7bab5eecbafc0d6cc65ed6d039b32a889ec72f
+SHA256: b7be7ea88ce4193fe832559459da9321b5bafc0424dac74f27e9a8832a829819
+Section: rootless插件
+Description: 去除键盘的延迟(主用作于第三方，若没有延迟，则不用装)，安装即生效。
 Author: 来了老弟
-Name: 去除键盘延迟
+Name: 去除键盘延迟-rootless
 
