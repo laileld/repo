@@ -313,36 +313,68 @@ Author: Skitty 来了老弟
 Name: Ersatz替换文本插件-roothide
 
 Package: cn.llld.fixdh
-Version: 0.0.1
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/更改大分辨率后电话键盘移位处理1-roothide.deb
+Size: 4116
+MD5sum: 9938b0df3a8a5d1f7a292841d9343bd8
+SHA1: 08948eca6bed741c4f095932aab925c317c9227c
+SHA256: 804566eaf5c7a5fb31d3c8daf6da6026daa0b1c86cf6a472c29b87945af26744
+Section: roothide插件
+Description: Solve the problem of phone keyboard shrinking and shifting after changing a large resolution.解决更改很大分辨率后电话键盘缩小和移位的问题。（适用于分辨率高度3050-3350）
+Author: 来了老弟 h_h_x_t
+Name: phonefix-roothide
+
+Package: cn.llld.fixdh
+Version: 0.0.2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
-Installed-Size: 172
+Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/改分辨率后电话移位处理,高度3000+(rootless).deb
-Size: 4732
-MD5sum: c359674adf3636b095fa37b25484deec
-SHA1: 04138deb5c75bd3b4086f6e4d7098eb2b383bf8f
-SHA256: 672200ad8c458d4c87e5d1792ea3d5297dc1aaca8a20b8e40f7dd588baeebcb6
+Filename: ./debs/rootless/改分辨率后电话移位处理,高度2800+(rootless).deb
+Size: 4172
+MD5sum: 28cd04aec30aefba1b68b19a6126316f
+SHA1: d4467d032f2ced227c06d743b94cbd3abc4df7a3
+SHA256: b528ba458fa4d3087ebce8e02df7756cf1b6383f6337ac9269ca1630047bee10
 Section: rootless插件
-Description: 解决更改很大分辨率后，电话键盘缩小和移位的问题
-Author: 来了老弟
-Name: phonefix
+Description: Solve the problem of phone keyboard shrinking and shifting after changing a large resolution.解决更改很大分辨率后电话键盘缩小和移位的问题。（适用于分辨率高度2850-3150）
+Author: 来了老弟 h_h_x_t
+Name: phonefix-rootless
+
+Package: cn.llld.fixdh
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/更改大分辨率后电话键盘移位处理-rootless.deb
+Size: 4174
+MD5sum: 7c775b2d0d73ae283fbf1340ebf303ba
+SHA1: f939623420d38e2ec39b180f3a402c910792d9bf
+SHA256: c3fbcf3ac9712689d901cfc1327e6ab06d1fef1d9e03e80e2249626a4058c2c2
+Section: rootless插件
+Description: Solve the problem of phone keyboard shrinking and shifting after changing a large resolution.解决更改很大分辨率后电话键盘缩小和移位的问题。（适用于分辨率高度3050-3350）
+Author: 来了老弟 h_h_x_t
+Name: phonefix-rootless
 
 Package: cn.llld.fixdh1
 Version: 0.0.1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
-Installed-Size: 172
+Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/改分辨率后电话移位处理,高度2800+(rootless).deb
-Size: 4752
-MD5sum: cd479880e96c2e2a2f8674ac5f938224
-SHA1: 444648d18e85051f0d10fc140a31bb246fd97238
-SHA256: a30c93a364c6aef1d4bcefbcc7026f37fa3aed67ac73bf5e1fa28c20a81eed95
-Section: rootless插件
-Description: 解决更改很大分辨率后电话键盘缩小和移位的问题（适用于分辨率高度2800-3050）
-Author: 来了老弟
-Name: phonefix
+Filename: ./debs/roothide/更改大分辨率后电话键盘移位处理-roothide.deb
+Size: 4112
+MD5sum: 97a9e67fcb320f87d5270a79291ee1ce
+SHA1: 57d0cc6aa933845fff0260b2476df847b9ed6668
+SHA256: 650feb4030c43897d597b285b5462cce3ea0db45490ff5afe9d7ac04dd4e86a0
+Section: roothide插件
+Description: Solve the problem of phone keyboard shrinking and shifting after changing a large resolution.解决更改很大分辨率后电话键盘缩小和移位的问题。（适用于分辨率高度2800-3050）
+Author: 来了老弟 h_h_x_t
+Name: phonefix-roothide
 
 Package: cn.llld.fixdh1
 Version: 0.0.1
