@@ -848,6 +848,22 @@ Author: 来了老弟
 Name: swipeextenderx汉化-rootless
 
 Package: cn.llld.tapflash
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/TapFlash快速手电筒-rootless.deb
+Size: 4604
+MD5sum: 8f890d9004860250645f0099bb7a6999
+SHA1: f72988003ae78a7423b69572c8a9ad00b25945bb
+SHA256: df6ad22445e8b7885857778d14d4f8aa4cf77b5af86b57254c5bb6d3ac32d53f
+Section: rootless修复插件
+Description: Press the volume up and down buttons simultaneously to quickly turn on the flashlight同时按下音量加和减按钮快速打开手电筒_________仅测试用,有问题卸载
+Author: Chr1s
+Name: TapFlash快速手电筒-rootless
+
+Package: cn.llld.tapflash
 Version: 1.1
 Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
