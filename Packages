@@ -1210,26 +1210,6 @@ Author: 来了老弟
 Name: 隐藏桌面点-rootless
 
 Package: com.miguelaka95.bettercc
-Version: 0.0.5
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 1828
-Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
-Filename: ./debs/rootless/BetterCC带天气功能(rootless).deb
-Size: 149088
-MD5sum: 42883a4dbae8cb0e219ce6178b152718
-SHA1: 2332fcfc20cab45e20f0f4e99ee86cc881bb4cde
-SHA256: 0b9b567615d1e47b4a0c0e7c8955cf1009135eabb5cdeee0bbbc7f77140f80b6
-Section: rootless修复插件
-Description: Customize your Control Center!控制中心音乐，数据链接排版，增加天启等等_________仅测试，有问题请卸载
- Invisible Modules.
- Rearrange Connectivity Toggles.
- Change Modules Size.
- Weather Widget.
-Author: Miguelaka95 <miguelaka95@gmail.com>
-Name: BetterCC-rootless
-
-Package: com.miguelaka95.bettercc
 Version: 0.0.51
 Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
@@ -1248,6 +1228,22 @@ Description: Customize your Control Center!_________仅测试用,有问题卸载
  Weather Widget.
 Author: Miguelaka95 <miguelaka95@gmail.com>
 Name: BetterCC-roothide
+
+Package: com.miguelaka95.bettercc
+Version: 0.0.51
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 1828
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
+Filename: ./debs/rootless/BetterCC带天气功能(rootless).deb
+Size: 149236
+MD5sum: 0c7d51b1df20d45e947e851f09e9dd89
+SHA1: 77f2a17a842ee56c2c2b4293462821db399f7f52
+SHA256: 9f7a7eb4d43a8e0c190015ffbc9e7cf478e48e9d7d5eabfa5377a377f74d2c12
+Section: rootless修复插件
+Description: Customize your Control Center! Invisible Modules.RearrangeConnectivity Toggles.Change Modules Size.Weather Widget.控制中心音乐模块占位，数据链接排版，增加天气等等_________仅测试，有问题请卸载，作者没对rootless支持，勿扰他
+Author: Miguelaka95
+Name: BetterCC-rootless
 
 Package: com.tomaszpoliszuk.alertcontroller
 Version: 1.4.2
