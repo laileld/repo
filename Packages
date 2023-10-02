@@ -312,6 +312,22 @@ Description: Replace any text system-wide!替换系统范围内的任何文本�
 Author: Skitty 来了老弟
 Name: Ersatz替换文本插件-roothide
 
+Package: cn.llld.fivehome
+Version: 0.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Conflicts: gsc.ipad
+Filename: ./debs/roothide/FiveColumnHomeScreen主屏幕五图标-roothide.deb
+Size: 3840
+MD5sum: 1ee3b008cb500080133ad5b9146396a1
+SHA1: 6faecddc02097909dcc24ec8639b38f0327c44bd
+SHA256: 25a179a1067ea0ee3042eb58446b8e41ed8c97268ed3a5b35801e7f74fc94f2b
+Section: roothide修复插件
+Description: The arrangement of icons on the home screen has been changed to five in one column, and there is a bug in the negative one screen主屏幕图标排列更改为五个一列，负一屏有bug_________仅测试用,有问题卸载---roothide
+Author: ichitaso 来了老弟
+Name: FiveColumnHomeScreen主屏幕五图标-roothide
+
 Package: cn.llld.fixdh
 Version: 0.0.2
 Architecture: iphoneos-arm64e
@@ -830,6 +846,21 @@ Section: rootless汉化补丁
 Description: swipeextenderx汉化--(rootess)简体中文包
 Author: 来了老弟
 Name: swipeextenderx汉化-rootless
+
+Package: cn.llld.tapflash
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/TapFlash快速手电筒-roothide.deb
+Size: 3396
+MD5sum: 6dfacefd0ec2b5871c13b252bae873be
+SHA1: 61a68d9df128d135e85ec19f3a91937089f549f0
+SHA256: 3a782203fb657087767e4606e479f3e05428bdb63f65247939d88c71ff991428
+Section: roothide修复插件
+Description: Press the volume up and down buttons simultaneously to quickly turn on the flashlight同时按下音量加和减按钮快速打开手电筒_________仅测试用,有问题卸载---roothide
+Author: Chr1s
+Name: TapFlash快速手电筒-roothide
 
 Package: cn.llld.thsj
 Version: 0.1-1
