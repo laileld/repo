@@ -392,6 +392,22 @@ h1 {
 
 
 
+.rotate-img {
+  animation: rotation 6.5s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+
+
+
 /*.  悬浮的白框   */
 .sub-main-w3 form {
     /*background: #ffff;*/
@@ -461,13 +477,13 @@ p.legend span {
 /* responsive */
 
 
-@media(max-width:1800px) {
+@media(max-width:1100px) {
     .top-content-style {
         padding: 2vw 4vw 9vw;
     }
 }
 
-@media(max-width:1880px) {
+@media(max-width:1300px) {
     h1 {
         font-size: 3.4vw;
     }
