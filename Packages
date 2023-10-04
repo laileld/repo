@@ -155,6 +155,22 @@ Description: CocoaTop简易汉化（roothide专用）
 Author: 来了老弟
 Name: CocoaTop汉化-roothide
 
+Package: cn.llld.colorbadges
+Version: 1.5.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5.000), preferenceloader,oldabi
+Conflicts: com.haoerloveyou.colorbadges
+Filename: ./debs/roothide/ColorBadges 彩色角标-roothide.deb
+Size: 47592
+MD5sum: 69535cfd6b854784b26f5ea9c5240a97
+SHA1: 65a41956fa04f9729721aee0c1bf476227471ff7
+SHA256: b3f3dd80145ecffaebe2caf1cc1909b65f2790b31c7d041923ecb59b2f1c1a10
+Section: roothide修复插件
+Description: The color of the corner mark automatically changes with the color of the App icon角标颜色随App图标颜色自动改变，需要安装Legacy arm64e Support_________仅测试用,有问题卸载---roothide
+Author: David Goldman
+Name: ColorBadges 彩色角标-roothide
+
 Package: cn.llld.conditional
 Version: 0.0.1
 Architecture: iphoneos-arm64
