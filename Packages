@@ -816,6 +816,54 @@ Author: smokin1337
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: SmartLight快捷手电-rootless
 
+Package: cn.llld.smartnotifications
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/SmartNotifications2汉化-roothide.deb
+Size: 10686
+MD5sum: dbee933221aea118202e34e10de2a2c2
+SHA1: 9474437a83ea910f84a2341dac9fd3c908dce848
+SHA256: 99c89d1efa3c4fe3061f60ad7dc0ee8d2cbc6b7380c7e0b1998ee3a60ad36ac1
+Section: roothide汉化补丁
+Description: SmartNotifications2汉化
+Author: 来了老弟
+Name: SmartNotifications2汉化-roothide
+
+Package: cn.llld.smartnotifications
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/SmartNotifications2汉化-rootless.deb
+Size: 10694
+MD5sum: 2f9658dde97dabc8b7d7943dc996796d
+SHA1: 29db7b86e11a1a7af8c4b4af8218ce9e377b9f37
+SHA256: d61aeeb8df8a12a6123e040ec75b6c03ec8c8d4dca82fa69161082bb0a2ea027
+Section: rootless汉化补丁
+Description: SmartNotifications2汉化
+Author: 来了老弟
+Name: SmartNotifications2汉化-rootless
+
+Package: cn.llld.smartnotifications
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/SmartNotifications2汉化-rootful.deb
+Size: 10538
+MD5sum: 61223d5697297539a2bd43e1f69f4430
+SHA1: 8eba98721dd25e693ec4a69b18438fdb09eebf57
+SHA256: ddcebcc4e5030207297a69292eb904c6128889710ac9224feef866b45c27e49a
+Section: rootful汉化补丁
+Description: SmartNotifications2汉化
+Author: 来了老弟
+Name: SmartNotifications2汉化-rootful
+
 Package: cn.llld.speaknotification
 Version: 1.8.19
 Architecture: iphoneos-arm64
