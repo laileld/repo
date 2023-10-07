@@ -214,6 +214,14 @@ body {
 }
 
 
+.follow-button {
+        display: inline-block;
+        padding: 4px 8px;
+        border: 1.5px solid #000;
+        border-radius: 5%;
+        text-decoration: none;
+    }
+
 /*
 .main-bg {
     background: url(../images/beijing.png) no-repeat center; 
