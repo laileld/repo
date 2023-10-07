@@ -1,17 +1,17 @@
 Package: Flex3beta
-Version: 1:3~Beta56
+Version: 1:3~Beta99
 Architecture: iphoneos-arm64
 Maintainer: John Coates
 Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
 Filename: ./debs/rootless/Flex3beta_可解析应用rootless.deb
-Size: 16811748
-MD5sum: a19f7fd1a0482603010d3d9dc38fd9de
-SHA1: c442c338cafe4eb86c5bb9b3ce17f7ccd3bd6349
-SHA256: a7b33c0a5380238b94fb70bb5eac96efa4114b792d2e7aa35e036e67f81d6f52
+Size: 16811852
+MD5sum: 7628e4376ea885a0cf77107a17df62c7
+SHA1: d93013e3fd2d33e7c46788c84503d48ced9889bc
+SHA256: fce1e8fe5a7da8e8b5950f6b2d49c8fdccff2ff9baf9d1e7b95edf4a1a785936
 Section: rootless插件
-Description: Develop your own tweaks and share them on the Flex Community Cloud(dopamine 版本flex3可解析应用，欢迎使用)-rootless
+Description: Develop your own tweaks and share them on the Flex Community Cloud(dopamine 版本flex3可解析应用，不用兼容层，欢迎使用,56版本改的，方便刷新源可见)-rootless
 Author: John Coates
 Name: Flex 3 Beta-rootless
 Recommended: com.rpetrich.rocketbootstrap
@@ -1259,17 +1259,17 @@ Name: flex汉化包-roothide
 
 Package: com.llld.177
 Version: 0.0.2
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/flex汉化包-rootless.deb
-Size: 9558
-MD5sum: f61689e43d304a0bb64464d1a4816dba
-SHA1: 6902b0ca5481abbee8b2c090cf2b1c8e099005f2
-SHA256: 25918748edb70c1b3e1647cf779a7160abadb1efe69406a4bc50f89ae8b90a33
-Section: rootless汉化补丁
-Description: flex3--(rootless专用)简体中文包
+Filename: ./debs/rootless/flex汉化包_rootless.deb
+Size: 9682
+MD5sum: 634ec87227c78c303ee3b484116a01f6
+SHA1: 09df1affefc2c77925e9085a701f8600352eabcc
+SHA256: 56b4c8bfbc970a026545c4ed2b3a24346009e7aac8d62abdf74ed6d2ced74c0b
+Section: roothide汉化补丁
+Description: flex3--(roothide专用)简体中文包
 Author: 来了老弟
 Name: flex汉化包
 
