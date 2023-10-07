@@ -1,17 +1,17 @@
 Package: Flex3beta
-Version: 1:3~Beta61
+Version: 1:3~Beta56
 Architecture: iphoneos-arm64
 Maintainer: John Coates
 Depends: mobilesubstrate, firmware (>= 9.0)
-Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./debs/rootless/Flex3beta_Beta61-rootless 2.deb
-Size: 15180808
-MD5sum: 6af019a30618d534c70a60090e30467a
-SHA1: efb1280446ac55006d14b3d13de9c53fda48ec67
-SHA256: d11879dfcd225a28704ccdf53f222c2422303c319aae07388bf2613a3c2318c9
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Filename: ./debs/rootless/Flex3beta_可解析应用rootless.deb
+Size: 16811748
+MD5sum: a19f7fd1a0482603010d3d9dc38fd9de
+SHA1: c442c338cafe4eb86c5bb9b3ce17f7ccd3bd6349
+SHA256: a7b33c0a5380238b94fb70bb5eac96efa4114b792d2e7aa35e036e67f81d6f52
 Section: rootless插件
-Description: Develop your own tweaks and share them on the Flex Community Cloud，当前应用不可解析，等待更新，无需Legacy arm64e Support和去路径添加bundle，你可以脱壳主程序解析凑合用，或者用云端补丁，也可以别的手机解析文档过渡一下.
+Description: Develop your own tweaks and share them on the Flex Community Cloud(dopamine 版本flex3可解析应用，欢迎使用)-rootless
 Author: John Coates
 Name: Flex 3 Beta-rootless
 Recommended: com.rpetrich.rocketbootstrap
