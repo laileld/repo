@@ -369,10 +369,12 @@ h1 {
     
     
 }
-/*头像周边颜色*/
+
+/*
+/*头像周边颜色
 .top-content-style {
 max-height: 350px;
-/* 上方圆角，下方两个角90度 */
+/* 上方圆角，下方两个角90度 
   border-radius: 20px 20px 0 0; 
   -webkit-border-radius: 20px 20px 0 0;
     -moz-border-radius: 20px 20px 0 0;
@@ -381,7 +383,7 @@ max-height: 350px;
     background: #39d0ff;
     }
 
-
+*/
 
 /*控制头像圆形还是方形 */
 .top-content-style img {
