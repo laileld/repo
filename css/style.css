@@ -195,8 +195,11 @@ img {
 }
 
 /* //end reset */
+
+
+/*关注和添加文字的大小*/
 body {
-    font-size: 110%;
+    font-size: 95%;
     font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -204,7 +207,7 @@ body {
    /* background: url(../images/beijing.png) no-repeat center; */
     /*background-image: linear-gradient(0deg, #39ddff 40%, #30ddce 65%);*/
     
-       background-image: linear-gradient(0deg, #30ddce 0%, #39ddff 100%);
+       background-image: linear-gradient(100deg, #39ddff 10%, #30ddce 90%);
         background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -252,10 +255,10 @@ h1 {
   font-size: 18vw;
   text-align: center;
   padding: 1.5vw 1.8vw 3vw;
-  letter-spacing: 11px;
+  letter-spacing: 1px;
   text-transform: uppercase;
   
-  animation: colorCycle 8s infinite;
+  animation: colorCycle 6s infinite;
 }
 
 @keyframes colorCycle {
@@ -354,7 +357,7 @@ h1 {
 
 .bg-content-w3pvt {
     max-width: 350px;
-    max-height: 820px;
+    max-height: 760px;
     margin: 0 auto;
   /*  background: #39ddff;*/
     background: rgba(255, 255, 255, .7);
@@ -373,7 +376,7 @@ h1 {
 
 /*头像周边颜色*/
 .top-content-style {
-max-height: 350px;
+max-height: 320px;
 /* 上方圆角，下方两个角90度 */
   border-radius: 20px 20px 0 0; 
   -webkit-border-radius: 20px 20px 0 0;
