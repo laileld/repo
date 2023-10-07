@@ -354,6 +354,7 @@ h1 {
 
 .bg-content-w3pvt {
     max-width: 350px;
+    max-height: 850px;
     margin: 0 auto;
   /*  background: #39ddff;*/
     background: rgba(255, 255, 255, .7);
@@ -370,23 +371,18 @@ h1 {
 }
 /*头像周边颜色*/
 .top-content-style {
-
+max-height: 350px;
 /* 上方圆角，下方两个角90度 */
   border-radius: 20px 20px 0 0; 
   -webkit-border-radius: 20px 20px 0 0;
     -moz-border-radius: 20px 20px 0 0;
     -ms-border-radius: 20px 20px 0 0;
     -o-border-radius: 20px 20px 0 0;  
-  
-  /*
-   -webkit-border-radius: 20px;
-    -o-border-radius: 20px;
-    -ms-border-radius: 20px;
-    -moz-border-radius: 20px;
-    border-radius: 20px;
- */
     background: #39d0ff;
-}
+    }
+
+
+
 /*控制头像圆形还是方形 */
 .top-content-style img {
     -webkit-border-radius: 50%;
