@@ -1257,6 +1257,22 @@ Description: flex3--(roothide专用)简体中文包
 Author: 来了老弟
 Name: flex汉化包-roothide
 
+Package: com.llld.177
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/flex汉化包-rootless.deb
+Size: 9558
+MD5sum: f61689e43d304a0bb64464d1a4816dba
+SHA1: 6902b0ca5481abbee8b2c090cf2b1c8e099005f2
+SHA256: 25918748edb70c1b3e1647cf779a7160abadb1efe69406a4bc50f89ae8b90a33
+Section: rootless汉化补丁
+Description: flex3--(rootless专用)简体中文包
+Author: 来了老弟
+Name: flex汉化包
+
 Package: com.llld.bfb
 Version: 0.1-1
 Architecture: iphoneos-arm64e
