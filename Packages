@@ -251,18 +251,18 @@ Author: 来了老弟
 Name: copy-text-rootless
 
 Package: cn.llld.copy
-Version: 0.0.1-4
+Version: 0.0.1-41
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/copy-text_0.0.1-4+debug_iphoneos-arm64.deb
-Size: 5392
-MD5sum: 00771e692cdd9c2d21ae4b071d6a0b1e
-SHA1: 0030ffb66720636cae0fc632835ca26848296ec4
-SHA256: f6cf6e2b65e7186eb79cdd8373ee25ed3c0212ac42530a343ecdbf216dd5a783
+Size: 5656
+MD5sum: 38b4ca7166e9d0a588d4aa5b15ac1c5c
+SHA1: 0a1ebe4644b68fabe4df22d29576a2c11f52b6c9
+SHA256: 2e131fbb415b6004870a27d82bdc18f0d5c3976fe70eea4573c590e485b6761d
 Section: rootless插件
-Description: Individual text can be copied by long-pressing in the (settings and appstore and message), currently in the testing phase, and more support will be added in future updates.（设置,appstore,短信）个别文本长按可复制，现处于测试阶段等后续更新支持更多
+Description: (Text copied by long-pressing is available for Settings, App Store, and Messages. This feature is currently in the testing phase, and future updates will support more applications. This plugin is designed for special situations. For buttons that cannot be clicked, long-pressing will enable their functionality. However, this may sometimes affect the user experience, so it is not recommended to install unless necessary.)（设置,appstore,短信）文本长按可复制，现处于测试阶段，等后续更新支持更多,特殊时期用的插件，不能点击的按钮先长按一下，即可使用了，这个有时会影响体验，如非必要情况。不建议安装
 Author: 来了老弟
 Name: copy-text-rootless
 
