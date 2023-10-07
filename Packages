@@ -61,6 +61,21 @@ Description: 显示 iOS 所有系统信息，不用装Legacy arm64e Support_____
 Author: ARX8x
 Name: System Info 系统信息-rootless
 
+Package: cn.imkpatil.ezswipe
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Filename: ./debs/roothide/EZSwipe-roothide.deb
+Size: 23164
+MD5sum: 7845439ecc07749d4413fe7858486ee7
+SHA1: 912907d7a56923f315e9d10743a0f58e35ff8d41
+SHA256: 59b83de77ad01b89b8f2289c7baee92c1e11f9271a492c7a44a3cdbbde6cfa57
+Section: roothide修复插件
+Description: Quick gestures, you can set Main screen the left, middle, and right drop-down notification center, search, control center, etc.快捷手势，可以设置主屏幕左侧，中间，右侧下拉通知中心，搜索，控制中心等_________仅测试用,有问题卸载---roothide
+Author: P2KDev <p2kdev@gmail.com>
+Name: EZSwipe-roothide
+
 Package: cn.llld.appdata
 Version: 0.0.1-4+debug
 Architecture: iphoneos-arm64e
@@ -707,6 +722,21 @@ Section: rootless插件
 Description: 放大自带的农历和日期（默认的有点小）
 Author: 来了老弟
 Name: 放大农历日期-rootless
+
+Package: cn.llld.roundedcc
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Filename: ./debs/roothide/RoundedCC控制中心圆角化-roothide.deb
+Size: 3704
+MD5sum: 29bab7459657a26e18ba434024c93cac
+SHA1: f1ae6ebb96b036103748e6e24571500243cd6a23
+SHA256: 7f36c05e0d8db062dcd596778e6691608b5fb06aa6385ee2823db48f36503e07
+Section: roothide修复插件
+Description: The buttons and sliders in the control center have rounded corners. If CoolCC is installed, the function needs to be turned off, causing conflicts.控制中心的按钮和滑块圆角化，若有安装CoolCC则需要关闭功能，有冲突_________仅测试用,有问题卸载---roothide
+Author: neoney
+Name: RoundedCC控制中心圆角化-roothide
 
 Package: cn.llld.sdxj
 Version: 0.0.1
