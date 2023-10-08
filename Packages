@@ -346,6 +346,22 @@ Description: CustomizeCC汉化-rootful
 Author: 来了老弟
 Name: CustomizeCC汉化-rootful
 
+Package: cn.llld.customizeccrootful
+Version: 1.21
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/CustomizeCC汉化-rootful_1.21_iphoneos-arm.deb
+Size: 12134
+MD5sum: 4ab4cc3cb961c579ad0130d8838de007
+SHA1: ae1a42f2582507853dd26b0179d7f1933c3f3278
+SHA256: 2bc7cc0b8b4f2abe0d4270612b61816e6340b4bed8d541a84f4dd4c66883fd66
+Section: rootful汉化补丁
+Description: CustomizeCC汉化-rootful
+Author: 来了老弟
+Name: CustomizeCC汉化-rootful
+
 Package: cn.llld.customizeccroothide
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -377,6 +393,22 @@ Description: CustomizeCC汉化-roothide
 Author: 来了老弟
 Name: CustomizeCC汉化-roothide
 
+Package: cn.llld.customizeccroothide
+Version: 1.21
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/CustomizeCC汉化-roothide_1.21_iphoneos-arm64e.deb
+Size: 12192
+MD5sum: dd10725c3f2b4d1d7e1b4190a0e314b1
+SHA1: 88f438939e105bfda5dc11cdbfd0f5514af5f29a
+SHA256: 335606730d378899d9b2ea9ecf73702419b8b71cd74a950c3a246d63075f44b9
+Section: roothide汉化补丁
+Description: CustomizeCC汉化-roothide
+Author: 来了老弟
+Name: CustomizeCC汉化-roothide
+
 Package: cn.llld.customizeccrootless
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -403,6 +435,22 @@ Size: 12214
 MD5sum: d49a6010371c38027a77c738fedd72a6
 SHA1: a63110ab8d06ec85090048a01db97d45556c0735
 SHA256: fe2f3a29df7e8d59f61171a800c425013ca48266bc6cb0f3fab4fbd144b9da3e
+Section: rootless汉化补丁
+Description: CustomizeCC汉化-rootless
+Author: 来了老弟
+Name: CustomizeCC汉化-rootless
+
+Package: cn.llld.customizeccrootless
+Version: 1.21
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/CustomizeCC汉化-rootless_1.21_iphoneos-arm64.deb
+Size: 12228
+MD5sum: 59d3652542ad921fb7723146ea010b8f
+SHA1: 20c4a72ef66d8a08de57e8f1fe3c7788b06dc416
+SHA256: 2dab4c8be72e8e2afe140c54dedbac5b11da97370b8c7b21ad4e4d2ebf5b93fa
 Section: rootless汉化补丁
 Description: CustomizeCC汉化-rootless
 Author: 来了老弟
