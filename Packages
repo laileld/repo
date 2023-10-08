@@ -299,6 +299,22 @@ Description: (Text copied by long-pressing is available for Settings, App Store,
 Author: 来了老弟
 Name: copy-text-rootless
 
+Package: cn.llld.customizecchh
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/CustomizeCC汉化-rootless.deb
+Size: 11948
+MD5sum: b2feb7f911a7ee2b2ca9846b53336af0
+SHA1: dbc0e08f1c3f44448739b929994dcd9d26fe84a1
+SHA256: e327f316e235cb8415b8aa5ae61ca6e7be7ee63e5b588034f8fb40f19fac530d
+Section: rootless汉化补丁
+Description: CustomizeCC汉化-rootless
+Author: 来了老弟
+Name: CustomizeCC汉化-rootless
+
 Package: cn.llld.deleteapp
 Version: 0.1-1
 Architecture: iphoneos-arm64
