@@ -301,51 +301,51 @@ Name: copy-text-rootless
 
 Package: cn.llld.customizecchh
 Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/CustomizeCC汉化-rootful_0.0.1.deb
+Size: 12042
+MD5sum: d3910c6a1de53fea465f71b7e12455cf
+SHA1: e63f9924cd45f40b4c7ad5acd5fbb2c4699a7016
+SHA256: 36915ea486b3debd02498b7e3fc53753882112c48d58ab5c608a589ab7b2a747
+Section: rootful汉化补丁
+Description: CustomizeCC汉化-rootful
+Author: 来了老弟
+Name: CustomizeCC汉化-rootful
+
+Package: cn.llld.customizeccroothide
+Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/roothide/CustomizeCC汉化-roothide.deb
-Size: 11942
-MD5sum: 7cc03466ff6a84b8cf36b93955cd2849
-SHA1: 27ee7f5989ec5ad9d623894ab3b9fa39db4ab7cb
-SHA256: f8816a31a4e6d61c3ab77a3ee1ee33f47d0532874ec0894c3843d7bcc2d21574
+Size: 11978
+MD5sum: 9dbbb17107806faa3bb38e8971772e38
+SHA1: 220593a3778ba135e4ed3d9eee797926129a7745
+SHA256: 5e9035242be2b0d0ffe5d76d9d6386be60c5a501973ce615b57e728f848f6f6b
 Section: roothide汉化补丁
 Description: CustomizeCC汉化-roothide
 Author: 来了老弟
 Name: CustomizeCC汉化-roothide
 
-Package: cn.llld.customizecchh
-Version: 0.0.1
+Package: cn.llld.customizeccrootless
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/CustomizeCC汉化-rootless.deb
-Size: 11924
-MD5sum: 2e478687758998624d9dbeb91ffa2d13
-SHA1: 7cce940a373f5a07769fe9cbfbc6ba4cf44297d5
-SHA256: 284b6d0787229414142be14284a37126227c401e890223c7c9ddaea9dfed3df3
+Filename: ./debs/rootless/CustomizeCC汉化-rootless_1.0_iphoneos-arm64.deb
+Size: 12186
+MD5sum: eae298f6321bdb1e26c2b17359fa6533
+SHA1: 941baa2f75bcccc2c88688770609f97092917710
+SHA256: 2a488c440322891ae4fd5d086826c55b95b35e5e08b0fa9ef7735a70d2a904a7
 Section: rootless汉化补丁
 Description: CustomizeCC汉化-rootless
 Author: 来了老弟
 Name: CustomizeCC汉化-rootless
-
-Package: cn.llld.customizecchh
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootful/CustomizeCC汉化-rootful.deb
-Size: 11778
-MD5sum: 6bbd7ab0f55d1b2cdce32d1357c41777
-SHA1: 1f7d6c75d3a136adf94950f449a7fd96e1c4a039
-SHA256: 2dffa1f03a7f5cdb4ba736e50ce5c25b2a9fda6645ff0cc4ca257605ee0a6ea0
-Section: rootful汉化补丁
-Description: CustomizeCC汉化-rootful
-Author: 来了老弟
-Name: CustomizeCC汉化-rootful
 
 Package: cn.llld.deleteapp
 Version: 0.1-1
