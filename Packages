@@ -854,12 +854,12 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 108
 Depends: mobilesubstrate
-Filename: ./debs/rootless/微信辅助(微生物)-rootless_1.01.deb
+Filename: ./debs/rootless/微信辅助(微生物)-rootless_1.01_iphoneos-arm64.deb
 Size: 13834
-MD5sum: 46d2d734f373a6349cb44b791c8b1a25
-SHA1: 99ad8ea1e3ac4a4d89fcae3375f5e548d3866d75
-SHA256: 2311b261ab8ee6412b97f6226cee2efe603e96d2b9e578bb071cf1f1e27f5743
-Section: 微信插件
+MD5sum: 14f9c19f231fd0a46e5759baeadae67f
+SHA1: 75f5d6f6727d2f94b460a540de03a47282f9bbb3
+SHA256: 2e79cd07df5f56d606a9a1db8f567b9e39b5e7561def268abbfffa18ae7d59f2
+Section: rootless微信插件
 Description: 微信简洁辅助(抢红包，防撤回)-roootless
 Author: 来了老弟
 Name: 微信辅助(微生物)-rootless
