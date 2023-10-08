@@ -331,6 +331,21 @@ Description: CustomizeCC汉化-rootful
 Author: 来了老弟
 Name: CustomizeCC汉化-rootful
 
+Package: cn.llld.customizeccrootful
+Version: 1.2
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/CustomizeCC汉化-rootful_1.2_.deb
+Size: 12170
+MD5sum: ac3e9631a41cfa632210c24f15166a0b
+SHA1: 455650fca703607238da625eea6e0735ef98b0de
+SHA256: d94bf330f9cc26305a5c28b08a305271aa4bed2db9057f3188b98efd62ef204a
+Section: rootful汉化补丁
+Description: CustomizeCC汉化-rootful
+Author: 来了老弟
+Name: CustomizeCC汉化-rootful
+
 Package: cn.llld.customizeccroothide
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -347,6 +362,21 @@ Description: CustomizeCC汉化-roothide
 Author: 来了老弟
 Name: CustomizeCC汉化-roothide
 
+Package: cn.llld.customizeccroothide
+Version: 1.2
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/CustomizeCC汉化-roothide_1.2_.deb
+Size: 12128
+MD5sum: 1d0353eb059a34011b79dd96ebcf6182
+SHA1: 6d37c6ba65f4e15315c4248a35b87010c036d5f8
+SHA256: f6d7e68d2400515fe87feb1201628af01956ea0860efb43dde0840e7873f2264
+Section: roothide汉化补丁
+Description: CustomizeCC汉化-roothide
+Author: 来了老弟
+Name: CustomizeCC汉化-roothide
+
 Package: cn.llld.customizeccrootless
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -358,6 +388,21 @@ Size: 12136
 MD5sum: c33f810a37275e13acfaf2d56843dd21
 SHA1: 19a94eb0ab12ca0c79ba13eb41995cb0d4ed503e
 SHA256: a1ae1cd63ae942f7a9dd7e48d435fb05abd002f5818eec1f274b2b46a5700273
+Section: rootless汉化补丁
+Description: CustomizeCC汉化-rootless
+Author: 来了老弟
+Name: CustomizeCC汉化-rootless
+
+Package: cn.llld.customizeccrootless
+Version: 1.2
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/CustomizeCC汉化-rootless_1.2_.deb
+Size: 12214
+MD5sum: d49a6010371c38027a77c738fedd72a6
+SHA1: a63110ab8d06ec85090048a01db97d45556c0735
+SHA256: fe2f3a29df7e8d59f61171a800c425013ca48266bc6cb0f3fab4fbd144b9da3e
 Section: rootless汉化补丁
 Description: CustomizeCC汉化-rootless
 Author: 来了老弟
