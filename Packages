@@ -472,6 +472,54 @@ Description: Solve the problem of phone keyboard shrinking and shifting after ch
 Author: 来了老弟 h_h_x_t
 Name: phonefix-rootless
 
+Package: cn.llld.flexcopy
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/flexcopy-roothide.deb
+Size: 4584
+MD5sum: b0d1055365e01f3955ec9d0a3263c2b1
+SHA1: edd94846388c7960cdde207f3d4c9b82c34aec98
+SHA256: 310edc4d77690a6fda0f74525fd0612cad88fa32604daad212205096b033a3eb
+Section: roothide插件
+Description: Specifically customized for Flex3, long press to copy the description or popup content, combined with translation tools or software, making it convenient for you to understand languages you don't know.（专门为flex3定制，长按描述或者弹窗复制内容，配合翻译工具或者软件，方便你去了解不懂的语言）
+Author: 来了老弟
+Name: flexcopy-roothide
+
+Package: cn.llld.flexcopy
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/flexcopy-rootless.deb
+Size: 4626
+MD5sum: cf169fc55f7429ff57a678d72862885a
+SHA1: 00514f47945101316187bc89d9337998f32b38fb
+SHA256: 743310f283053bdfc52a1879d976451d79d0f4df4251e24ce2dc92db5e46f32e
+Section: rootless插件
+Description: Specifically customized for Flex3, long press to copy the description or popup content, combined with translation tools or software, making it convenient for you to understand languages you don't know.（专门为flex3定制，长按描述或者弹窗复制内容，配合翻译工具或者软件，方便你去了解不懂的语言）
+Author: 来了老弟
+Name: flexcopy-rootless
+
+Package: cn.llld.flexcopy
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/flexcopy-rootful.deb
+Size: 4572
+MD5sum: f37422e792c6aee643cf6a6ee7b308a8
+SHA1: 6a9e7d50ff5cb859a4c3d6b8b772a10e78554bd5
+SHA256: 4c8bc42dfc0a2f59d8d3f1904e44dd04f787cce80dd2a4f1f89a6fc3449f21ab
+Section: rootful插件
+Description: Specifically customized for Flex3, long press to copy the description or popup content, combined with translation tools or software, making it convenient for you to understand languages you don't know.（专门为flex3定制，长按描述或者弹窗复制内容，配合翻译工具或者软件，方便你去了解不懂的语言）
+Author: 来了老弟
+Name: flexcopy-rootful
+
 Package: cn.llld.flexlist
 Version: 0.0.1-2
 Architecture: iphoneos-arm64
