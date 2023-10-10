@@ -1517,10 +1517,10 @@ Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/flex汉化包-rootless_0.0.3.deb
-Size: 12276
-MD5sum: 91e6d93b9347d6ef432b42d2d675cb8c
-SHA1: 20a2e0990be99f1d8b909cc1705e9d78536631e5
-SHA256: b3092df7f74695ddf4c857702dbfc7012d43b3d435d68ce152e773365ea2c802
+Size: 12436
+MD5sum: f989536c8d4875f206dda137238f5b8c
+SHA1: 31f216b3ea3a1b046a3926c3e3dc7038af3c4eab
+SHA256: 789406e6a21977a0040f5617aa85385c132301fa679beaf759779cf58849f5a5
 Section: rootless汉化补丁
 Description: flex3--(rootless专用)简体中文包
 Author: 来了老弟
