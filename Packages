@@ -668,11 +668,11 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/flexcopy-rootless.deb
+Filename: ./debs/rootless/flexcopy-rootless_1.0_iphoneos-arm64.deb
 Size: 4626
-MD5sum: cf169fc55f7429ff57a678d72862885a
-SHA1: 00514f47945101316187bc89d9337998f32b38fb
-SHA256: 743310f283053bdfc52a1879d976451d79d0f4df4251e24ce2dc92db5e46f32e
+MD5sum: 78f0fbc2990695883cdb41021cc8c1cb
+SHA1: 1775e85acd3e14d6e9b1c101cec36e4907fa86ce
+SHA256: d716da5f9275e56ee6bab842b8025f50988bd71b0ef53e7340c83bad23cae139
 Section: rootless插件
 Description: Specifically customized for Flex3, long press to copy the description or popup content, combined with translation tools or software, making it convenient for you to understand languages you don't know.（专门为flex3定制，长按描述或者弹窗复制内容，配合翻译工具或者软件，方便你去了解不懂的语言）
 Author: 来了老弟
