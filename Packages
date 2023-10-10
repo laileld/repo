@@ -1,21 +1,3 @@
-Package: Flex3beta
-Version: 1:3~Beta99
-Architecture: iphoneos-arm64
-Maintainer: John Coates
-Depends: mobilesubstrate, firmware (>= 9.0)
-Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
-Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
-Filename: ./debs/rootless/Flex3beta_可解析应用rootless.deb
-Size: 16811852
-MD5sum: 7628e4376ea885a0cf77107a17df62c7
-SHA1: d93013e3fd2d33e7c46788c84503d48ced9889bc
-SHA256: fce1e8fe5a7da8e8b5950f6b2d49c8fdccff2ff9baf9d1e7b95edf4a1a785936
-Section: rootless插件
-Description: Develop your own tweaks and share them on the Flex Community Cloud(dopamine 版本flex3可解析应用，不用兼容层，欢迎使用,56版本改的，方便刷新源可见)-rootless
-Author: John Coates
-Name: Flex 3 Beta-rootless
-Recommended: com.rpetrich.rocketbootstrap
-
 Package: apt.llld.Flex3beta
 Version: 1.3~Beta98
 Architecture: iphoneos-arm64e
@@ -30,6 +12,23 @@ Section: roothide修复插件
 Description: A powerful app to remove ads and enhance system patches.一款强大的App去广告和系统补丁增强神器，需要安装Legacy arm64e Support_________仅测试用,有问题卸载
 Author: John Coates
 Name: Flex3程序修改器-roothide
+
+Package: apt.llld.flex3beta1
+Version: 1:3~Beta99.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), oldabi,cn.llld.flex3beta
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./debs/rootless/Flex3支持粗体和补丁列表-rootless.deb
+Size: 12789440
+MD5sum: 75c9cc60d779311ec002c2eeb164a82c
+SHA1: 490f91799bfd7802a5bb84ec06647132009c7f13
+SHA256: d87c559a8a021670fc03a8dd1182d1ee8f8351508593a78665dec1bbe866d0bb
+Section: 兼容层oldabi-rootless
+Description: 此包需装Legacy arm64e Support，不可解析,支持应用补丁列表,支持粗体文本显示，系统部分应用生效,装此包附带一个可以解析的版本(支持解析第三方和生效应用),需要全功能就装此包，需要全功能就装此包，需要全功能就装此包，一方开关2个共同效果,想更好的就等-别催_________仅测试用,有问题卸载
+Author: John Coates
+Name: Flex 3 粗体版-rootless
 
 Package: apt.llld.settingswallpaper
 Version: 0.0.4
@@ -628,6 +627,24 @@ Section: rootless插件
 Description: Solve the problem of phone keyboard shrinking and shifting after changing a large resolution.解决更改很大分辨率后电话键盘缩小和移位的问题。（适用于分辨率高度2850-3150）
 Author: 来了老弟 h_h_x_t
 Name: phonefix-rootless
+
+Package: cn.llld.flex3beta
+Version: 1:3~Beta99
+Architecture: iphoneos-arm64
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Filename: ./debs/rootless/Flex3beta_可解析应用无需兼容层rootless.deb
+Size: 16811660
+MD5sum: 39f49c99e8a4fe92ed442d5f387768d4
+SHA1: 5cd13f8a959ff2c09f1f5e60167319d070161c26
+SHA256: 7d271b4bb563416852d549ecc257c712df681053179065e8bd4cbffe394eaf29
+Section: rootless插件
+Description: Develop your own tweaks and share them on the Flex Community Cloud. (. dopamine 版本flex3可解析应用，不用兼容层，粗体闪退，此包是56版本改的，方便刷新源可见,单独装此包只对第三方生效，对系统生效需要装另外一个包，安装前卸载现有的，你配置都在)-rootless
+Author: John Coates
+Name: Flex 3 Beta-rootless
+Recommended: com.rpetrich.rocketbootstrap
 
 Package: cn.llld.flexcopy
 Version: 1.0
