@@ -17,13 +17,13 @@ Package: Nets.llld.actionbarreborn
 Version: 1.1-2
 Architecture: iphoneos-arm64e
 Maintainer: Nets
-Depends: firmware (>= 15.0), mobilesubstrate
+Depends: firmware (>= 14.0), mobilesubstrate
 Filename: ./debs/roothide/ActionBar Reborn-roothide.deb
-Size: 162056
-MD5sum: defa000ea0eb706322743132c1e1da37
-SHA1: 4b108e32b037fcccc7383950f5cdd1a61755da8e
-SHA256: b7d3a00a1c8862220c4d195625e5b821c8768ab5ec4de1fb88671f8e8e21fe91
-Section: roothide-修复插件
+Size: 161972
+MD5sum: 294463ac35d7d816cc26d835cf84081e
+SHA1: ba25dafb6064acecafa2b9273786c3ad914c0e14
+SHA256: 1659e49486bc6025ac7e3a7535644c9c20220d2eee1f0d454b178b74c690fc77
+Section: roothide修复插件
 Description: Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. ActionBar Free Reborn Edition,键盘底部的撤消、重做、全选、复制、剪切和粘贴操作。 ActionBar 免费重生版，感谢Netskao辛勤劳作
 Author: Netskao
 Name: ActionBar Reborn-roothide
@@ -1054,20 +1054,52 @@ Author: iCraze
 Name: SettingsUDID-roothide
 
 Package: cn.llld.shelly
-Version: 0.0.1-4
+Version: 0.0.2
 Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
-Installed-Size: 204
+Installed-Size: 200
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/shelly汉化-roothide.deb
-Size: 14752
-MD5sum: 36753972667675556903ff5951fa6377
-SHA1: 620fdcbf47c9406e10c221d1e3bd71cfa47b9a9d
-SHA256: c727da2277a5ef7fe6aab9c7143ec761d363b98b9c3414ee4065067945a2ddbd
+Filename: ./debs/roothide/shelly汉化_0.0.2_iphoneos-arm64e.deb
+Size: 14524
+MD5sum: f722a50ffc4127287f3d34f0966fb965
+SHA1: 9e467f5952191063accab35bd8efa7a22239b693
+SHA256: dec79265edfe41acc25a6abe46b27db65128235c102f9a805ac00e7971f1b623
 Section: roothide汉化补丁
 Description: Shelly--(roothide)简体中文包
-Author: 来了老弟
+Author: 来了老弟 h_h_x_t
 Name: shelly汉化-roothide
+
+Package: cn.llld.shelly
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/shelly汉化-rootless_0.0.2_iphoneos-arm64.deb
+Size: 14444
+MD5sum: cffa56484aeef81d6f06cc5d4cb7abaf
+SHA1: 81de83bc974de5cc2edab7ea495d2e2984dfbed8
+SHA256: 7dc8a0be737b93b2c9e4315a2f4fba18a9762a56ed25da1407cab79643e97a0a
+Section: rootless汉化补丁
+Description: Shelly--(rootless)简体中文包
+Author: 来了老弟 h_h_x_t
+Name: shelly汉化-rootless
+
+Package: cn.llld.shelly
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/shelly汉化-rootful_0.0.2_iphoneos-arm.deb
+Size: 14350
+MD5sum: 5d338862a5477368fa29d46047d02ed5
+SHA1: 7ca4b90715439d517e53b7983cac7e355f0669f3
+SHA256: d0a47dfa3fd43813c1ee5999bf07b7862d3ca68b0f676ebb91f510a599610302
+Section: rootful汉化补丁
+Description: Shelly--(rootful)简体中文包
+Author: 来了老弟 h_h_x_t
+Name: shelly汉化-rootful
 
 Package: cn.llld.sjhx
 Version: 1.0
@@ -1572,6 +1604,38 @@ Description: flexlist--(rootess)简体中文包
 Author: 来了老弟
 Name: flexlist汉化-rootless
 
+Package: com.llld.flexrootful
+Version: 0.0.31
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/flex汉化包-rootful_0.0.31_iphoneos-arm.deb
+Size: 12344
+MD5sum: 122216987bc74cdff957c33dccf475dd
+SHA1: 9554449451e3a520a0ec0eb6ecac1f9aad225baa
+SHA256: 939fc97be154b0388c9e0c7c3dd7ae037b159c39505aff2736de36f80888ec2c
+Section: rootful汉化补丁
+Description: flex3--(rootful专用)简体中文包
+Author: 来了老弟
+Name: flex汉化包-rootful
+
+Package: com.llld.flexroothide
+Version: 0.0.31
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/flex汉化包-roothide_0.0.31_iphoneos-arm64e.deb
+Size: 12240
+MD5sum: 296c6835040835af17d21ebacd336565
+SHA1: 80d45a484cf0fe82e2b41d3c5e3f5cbd7a236ef5
+SHA256: d5dad379c1643027af5c84da1dc6c1924e61b9ef9b05e4393a070cf5b9471ee1
+Section: roothide汉化补丁
+Description: flex3--(roothide专用)简体中文包
+Author: 来了老弟
+Name: flex汉化包-roothide
+
 Package: com.llld.flexrootless
 Version: 0.0.2
 Architecture: iphoneos-arm64
@@ -1604,6 +1668,22 @@ Description: flex3--(rootless专用)简体中文包
 Author: 来了老弟
 Name: flex汉化包-rootless
 
+Package: com.llld.flexrootless
+Version: 0.0.31
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/flex汉化包-rootless_0.0.31_iphoneos-arm64.deb
+Size: 12394
+MD5sum: 75bb8829a7dcd1d17764dbc8be13e536
+SHA1: 5fa8094c91b235c3c491aab041c2c44ccb7bbdef
+SHA256: 8ab3e4a9cab1ed8a06f7cb5233ecf6967a532f8d7d70531a7a3c7b39f1e1f5e9
+Section: rootless汉化补丁
+Description: flex3--(rootless专用)简体中文包
+Author: 来了老弟
+Name: flex汉化包-rootless
+
 Package: com.llld.fugap
 Version: 2.2.4
 Architecture: iphoneos-arm64
@@ -1619,22 +1699,6 @@ Section: rootless修复插件
 Description: Adjust the blank part of the control center and hide the status bar调节控制中心空白部分以及隐藏状态栏_________仅测试，有问题请卸载
 Author: smokin1337
 Name: FUGap控制中心间距-rootless
-
-Package: com.llld.shelly
-Version: 0.0.1-1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/shelly汉化(rootless).deb
-Size: 14676
-MD5sum: 812775eae34f5a39d140cad7a80dec95
-SHA1: c16732c5a31f0ff5e1717a4e5f01c5a1837a46b9
-SHA256: b7afcd7ef382a03a6994d47489cc5bbd5694a755f8f849b0e7f6d511eea7fe92
-Section: rootless汉化补丁
-Description: Shelly--(rootess)简体中文包
-Author: 来了老弟
-Name: shelly汉化-rootless
 
 Package: com.llld.swipeextenderx
 Version: 0.0.1-2
