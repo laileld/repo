@@ -1399,6 +1399,54 @@ Description: Hide folder background隐藏文件夹背景-rootless
 Author: 来了老弟
 Name: HideFolderBackground-rootless
 
+Package: cn.llld.ycwjjmh
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/隐藏文件夹模糊-roothide_0.0.1_iphoneos-arm64e.deb
+Size: 2986
+MD5sum: 1f7557594a9e2aa1550646ddb0f9f7b9
+SHA1: 11f63da991904e5204b1c133c56258f8c89806e5
+SHA256: c4f48080d13e6517f7397567626fa296059991b42cf883cf205f928cb80c7737
+Section: roothide隐藏专区
+Description: Hide folder blur隐藏打开文件夹时模糊背景(直接透明到桌面)-roothide
+Author: 来了老弟 h_h_x_t
+Name: 隐藏文件夹模糊-roothide
+
+Package: cn.llld.ycwjjmh
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/隐藏文件夹模糊-rootless_0.0.1_iphoneos-arm64.deb
+Size: 3044
+MD5sum: af67260a6515356d420a317a5fe4ca8c
+SHA1: 30922b445a2a6aba3bde27adfe1c571be9bae715
+SHA256: 0253fa86bed1bfaada4f20dfe85787c5cb38204b60c142464549e0a52bf9968f
+Section: rootless隐藏专区
+Description: Hide folder blur隐藏打开文件夹时模糊背景(直接透明到桌面)-rootless
+Author: 来了老弟 h_h_x_t
+Name: 隐藏文件夹模糊-rootless
+
+Package: cn.llld.ycwjjmh
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/隐藏文件夹模糊-rootful_0.0.1_iphoneos-arm.deb
+Size: 2958
+MD5sum: d3d8f7fc13789d8e68d52a2656b3f624
+SHA1: 3b927c8474f38b3f28a8a382a1601149b75d3c83
+SHA256: d223d6e3c70c8bcad7dc97d4f8e958916c18844850cce011bdf3ef9d90334a41
+Section: rootful隐藏专区
+Description: Hide folder blur隐藏打开文件夹时模糊背景(直接透明到桌面)-rootful
+Author: 来了老弟 h_h_x_t
+Name: 隐藏文件夹模糊-rootful
+
 Package: cn.llld.ycxbt
 Version: 0.0.1
 Architecture: iphoneos-arm64e
