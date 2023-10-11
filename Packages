@@ -1782,6 +1782,21 @@ Description: Customize your Control Center! Invisible Modules.RearrangeConnectiv
 Author: Miguelaka95
 Name: BetterCC-rootless
 
+Package: com.muirey03.arc
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: Soh Satoh-EVAN-来了老弟
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 0.3), applist
+Filename: ./debs/rootless/Arc-需开启桥接心浪和oldabi-rootless.deb
+Size: 567652
+MD5sum: 111d8fd8305054189aed2e705f1df766
+SHA1: 6b55e7ebab709fe1c4fd0f7ae8ea043cf0bcaecb
+SHA256: 201b95d77a7e5a0a63e0e08efad93bb3215ff2a079fc661e79c89cb1c817cbc7
+Section: 兼容层oldabi-rootless
+Description: Control at your fingertips,Installation required Legacy arm64e Support.安装需要(开启桥接心浪或装xinamine)和Legacy arm64e Support，已知切换深色模式会闪退,更改顺序/var/jb/var/mobile/Library/Preferences/com.muirey03.arc.plist文件手动换_________仅测试用,有问题卸载-来了老弟
+Author: Muirey03
+Name: Arc-rootless
+
 Package: com.tomaszpoliszuk.alertcontroller
 Version: 1.4.2
 Architecture: iphoneos-arm64
