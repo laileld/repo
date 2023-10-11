@@ -659,22 +659,21 @@ Author: 来了老弟 h_h_x_t
 Name: phonefix-rootless
 
 Package: cn.llld.flex3beta
-Version: 1:3~Beta99
+Version: 1:3~Beta99.1
 Architecture: iphoneos-arm64
 Maintainer: John Coates
 Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
 Filename: ./debs/rootless/Flex3beta_可解析应用无需兼容层rootless.deb
-Size: 16811660
-MD5sum: 39f49c99e8a4fe92ed442d5f387768d4
-SHA1: 5cd13f8a959ff2c09f1f5e60167319d070161c26
-SHA256: 7d271b4bb563416852d549ecc257c712df681053179065e8bd4cbffe394eaf29
-Section: rootless插件
+Size: 16809572
+MD5sum: f0dd84a408eb5383eb66434483b66e3e
+SHA1: b3eca5717e641eacd864a45579cb6cba245df1ac
+SHA256: b60cd47e584ede8766c59ce9dc2fe4d99d91d99e6f93b6c596caeee1eb584788
+Section: rootless修复插件
 Description: Develop your own tweaks and share them on the Flex Community Cloud. (. dopamine 版本flex3可解析应用，不用兼容层，粗体闪退，此包是56版本改的，方便刷新源可见,单独装此包只对第三方生效，对系统生效需要装另外一个包，安装前卸载现有的，你配置都在)-rootless
 Author: John Coates
 Name: Flex 3 Beta-rootless
-Recommended: com.rpetrich.rocketbootstrap
 
 Package: cn.llld.flexcopy
 Version: 1.0
