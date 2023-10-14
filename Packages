@@ -1788,11 +1788,11 @@ Maintainer: 来了老弟 h_h_x_t
 Installed-Size: 1828
 Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
 Filename: ./debs/rootless/bettercc修复天气显示null-rootless.deb
-Size: 150300
-MD5sum: 83a40fd1f66212abe63cd278642314f0
-SHA1: dc35b0f455e9c68b35458e1633c733839a18c094
-SHA256: c55682cdc9a431049c059c4ec2672cc7ec8d4ff56f6fcc008008f810fd2e7bad
-Section: 修复插件
+Size: 150204
+MD5sum: 55ce3a02f47d10209c91ffc21a165b94
+SHA1: ca2dc5a77604b920b77277d1007d662afd8ef909
+SHA256: 315be7b5e03e3fdabd55196658c310d6ca37c1b86ec79bef9628fc6cdbe29fa4
+Section: rootless修复插件
 Description: Customize your Control Center! Invisible Modules.RearrangeConnectivity Toggles.Change Modules Size.Weather Widget.2023-10-13 Fixed weather display null problem，控制中心音乐模块占位，数据链接排版，增加天气等等,2023-10-13修复天气显示null问题_________仅测试，有问题请卸载，作者没对rootless支持，勿扰他
 Author: Miguelaka95 <miguelaka95@gmail.com>
 Name: BetterCC控制中心-rootless
