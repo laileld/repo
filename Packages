@@ -1892,6 +1892,21 @@ Author: Netskao <netskao@gmail.com>
 Dev: netskao
 Name: DoubleClickWake-rootless
 
+Package: org.s1ris.lower
+Version: 1.5.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, firmware (>=14.0)
+Filename: ./debs/rootless/Lower修改锁屏控件位置-rootless.deb
+Size: 21964
+MD5sum: 8dc251c8b6b7c2e49a5d382515370130
+SHA1: 281b1aff737c23b4db68550a4608d0a805ad5533
+SHA256: a419b7f838d541524897430add46412b527be26c75e7c2f06cc38d650dbc4d7f
+Section: rootless修复插件
+Description: Change media controls/notifications height修改锁屏通知和音乐播放器的位置，懂得都懂________仅测试用,有问题卸载
+Author: s1ris
+Name: Lower修改锁屏控件位置-rootless
+
 Package: org.thebigboss.speaknotification
 Version: 1.8.20
 Architecture: iphoneos-arm64e
