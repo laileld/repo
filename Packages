@@ -1766,6 +1766,22 @@ Description: Customize your Control Center!_________仅测试用,有问题卸载
 Author: Miguelaka95 <miguelaka95@gmail.com>
 Name: BetterCC-roothide
 
+Package: com.miguelaka95.bettercc
+Version: 0.0.52
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 1828
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
+Filename: ./debs/rootless/bettercc修复天气 null问题-rootless .deb
+Size: 150184
+MD5sum: 99b79420bb5165855bc7d0460a0ae11c
+SHA1: 3a7d2ab52d9657b781b6cc5ae057e501a9563fe6
+SHA256: f254da1f46d9f63ea993786cf082807a8704c930776c96c665f8b0e5fad0d440
+Section: 修复插件
+Description: Customize your Control Center! Invisible Modules.RearrangeConnectivity Toggles.Change Modules Size.Weather Widget.2023-10-13 Fixed weather display null problem，控制中心音乐模块占位，数据链接排版，增加天气等等,2023-10-13修复天气显示null问题_________仅测试，有问题请卸载，作者没对rootless支持，勿扰他
+Author: Miguelaka95 <miguelaka95@gmail.com>
+Name: BetterCC控制中心-rootless
+
 Package: com.muirey03.arc
 Version: 1.0.41
 Architecture: iphoneos-arm64
