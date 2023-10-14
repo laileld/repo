@@ -1318,6 +1318,21 @@ Description: The specific time of the recent call has been increased.最近通�
 Author: 来了老弟
 Name: 最近通话增加具体时间-rootless
 
+Package: cn.llld.vibrato
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), preferenceloader
+Filename: ./debs/rootless/Vibrato全局自定义震动-rootless.deb
+Size: 195628
+MD5sum: b06b0f6ac4a74af8d5375411c960de65
+SHA1: 005b4beca194d26ee302ac25f7b0a057061f3f1c
+SHA256: 8d96ab931d71bc464c9fea3914f1e61ab649aaf592434c465d8f2de508e51f06
+Section: rootless修复插件
+Description: Global custom vibration feedback全局自定义震动反馈_________仅测试用,有问题卸载
+Author: SynnyG
+Name: Vibrato全局自定义震动-rootless
+
 Package: cn.llld.wxyybb
 Version: 1.0
 Architecture: iphoneos-arm64e
