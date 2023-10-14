@@ -1262,11 +1262,11 @@ Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Depends: mobilesubstrate,preferenceloader,com.spark.libsparkapplist
-Filename: ./debs/rootless/SwitchConfirm阻止应用重定向_1.1-rootless.deb
-Size: 37296
-MD5sum: d219ec30ed54f526c2644e69658aa9dc
-SHA1: 5c354ffc17f8a0c15bd5e2461529834f9c25b72a
-SHA256: 7b82673944a5ea4bcee35ad96ad13ae95d2d087155cd7838c6d926729e8eb184
+Filename: ./debs/rootless/SwitchConfirm阻止应用重定向-rootless.deb
+Size: 37236
+MD5sum: 6099c8e0d8d62a8de89d93825c5c5f43
+SHA1: 3c2eee90681c2b0ca6ad6ef58bbcdf80b66875bd
+SHA256: 998dd3a677152992153bca69e5ef4d565c482ea913c105c2bfae7563dba16c21
 Section: rootless修复插件
 Description: SwitchConfirm,Applications always jump by default. This tweak can confirm before switching applications!应用总是默认跳转，此插件可确认后再切换应用！_________仅测试用,有问题卸载
 Author: P2KDev <p2kdev@gmail.com>
