@@ -1319,15 +1319,15 @@ Author: 来了老弟
 Name: 最近通话增加具体时间-rootless
 
 Package: cn.llld.vibrato
-Version: 2.1
+Version: 2.11
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), preferenceloader
-Filename: ./debs/rootless/Vibrato全局自定义震动-rootless.deb
-Size: 195628
-MD5sum: b06b0f6ac4a74af8d5375411c960de65
-SHA1: 005b4beca194d26ee302ac25f7b0a057061f3f1c
-SHA256: 8d96ab931d71bc464c9fea3914f1e61ab649aaf592434c465d8f2de508e51f06
+Filename: ./debs/rootless/Vibrato自定义震动 -rootless.deb
+Size: 195824
+MD5sum: a8ebd9fcd25fd0676ac69ccfaa967912
+SHA1: c96a2f3309692765bbef34f798f7f0b3680d0113
+SHA256: a653238eb503cc579dc86384c57820426257d55a888f2e1baa8c2ea552c15179
 Section: rootless修复插件
 Description: Global custom vibration feedback全局自定义震动反馈_________仅测试用,有问题卸载
 Author: SynnyG
