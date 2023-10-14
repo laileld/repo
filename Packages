@@ -1258,15 +1258,15 @@ Author: 来了老弟
 Name: swipeextenderx汉化-rootless
 
 Package: cn.llld.switchconfirm
-Version: 1.1
+Version: 1.11
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Depends: mobilesubstrate,preferenceloader,com.spark.libsparkapplist
-Filename: ./debs/rootless/SwitchConfirm阻止应用重定向-rootless.deb
-Size: 37236
-MD5sum: 6099c8e0d8d62a8de89d93825c5c5f43
-SHA1: 3c2eee90681c2b0ca6ad6ef58bbcdf80b66875bd
-SHA256: 998dd3a677152992153bca69e5ef4d565c482ea913c105c2bfae7563dba16c21
+Filename: ./debs/rootless/SwitchConfirm阻止应用重定向 -rootless.deb
+Size: 37276
+MD5sum: f32ed974ba13fa77fab5350988d610fe
+SHA1: e106a70e5a85c28ffd9a0f0748787ad3dcf23da5
+SHA256: d5474404757ada9f72e4dd6c743637b23d031103be37e15b1a23d1d9eb45ab70
 Section: rootless修复插件
 Description: SwitchConfirm,Applications always jump by default. This tweak can confirm before switching applications!应用总是默认跳转，此插件可确认后再切换应用！_________仅测试用,有问题卸载
 Author: P2KDev <p2kdev@gmail.com>
