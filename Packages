@@ -1907,6 +1907,23 @@ Description: Change media controls/notifications height修改锁屏通知和音�
 Author: s1ris
 Name: Lower修改锁屏控件位置-rootless
 
+Package: org.s1ris.lower1
+Version: 1.5.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 360
+Depends: mobilesubstrate, firmware (>=11.0)
+Filename: ./debs/rootless/lower锁屏移动控件2-rootless.deb
+Size: 20540
+MD5sum: 141823e956b5b717e19ed1077ce017cd
+SHA1: ef359c5e10e8550b1a4618a6facdeefd8b7083bf
+SHA256: cea07e54d76fb47a7edb67e5252091b7cf30214945b75386e69a0e6d8f7b4996
+Section: rootless修复插件
+Description: Change media controls/notifications height,调整通知中心播放器的位置,装了源里另一个不生效的则装这个
+Author: s1ris
+Depiction: https://apt.s1ris.org/depictions/org.s1ris.lower/index.html
+Name: Lower调整通知播放器控件位置-rootless
+
 Package: org.thebigboss.speaknotification
 Version: 1.8.20
 Architecture: iphoneos-arm64e
