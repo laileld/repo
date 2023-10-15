@@ -974,6 +974,21 @@ Description: 放大自带的农历和日期（默认的有点小）
 Author: 来了老弟
 Name: 放大农历日期-rootless
 
+Package: cn.llld.panic
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader
+Filename: ./debs/rootless/快捷安全或注销模式panic_1.1.2-rootless.deb
+Size: 47804
+MD5sum: 54c12a4c0f62eec9dd8734bddd1a9315
+SHA1: bbcb305a98165f42926af156baa2baa59900b0f8
+SHA256: 8536b156124cb995b6097a672a56dce6b2be8826f9f07f42776cabe4b9586c90
+Section: rootless修复插件
+Description: Press the key to enter safe mode or logout mode按键进入安全模式或者注销模式_________仅测试用,有问题卸载
+Author: Renaitare
+Name: Panic快捷进入安全注销-rootless
+
 Package: cn.llld.roundedcc
 Version: 1.0.4
 Architecture: iphoneos-arm64e
