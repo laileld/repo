@@ -319,14 +319,14 @@ Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/copy-text_0.0.1-4+debug_iphoneos-arm64.deb
-Size: 5656
-MD5sum: 38b4ca7166e9d0a588d4aa5b15ac1c5c
-SHA1: 0a1ebe4644b68fabe4df22d29576a2c11f52b6c9
-SHA256: 2e131fbb415b6004870a27d82bdc18f0d5c3976fe70eea4573c590e485b6761d
+Size: 5624
+MD5sum: ae9e0c65bdd8891eb9f48a562974078e
+SHA1: 9cde5f961a21426c51522009fcac50a8dd7dc6ee
+SHA256: 6f70d5d10277c9ebfbf40edd4fe0288f536d6835ccfe0119de097d780bb40d7c
 Section: rootless插件
 Description: (Text copied by long-pressing is available for Settings, App Store, and Messages. This feature is currently in the testing phase, and future updates will support more applications. This plugin is designed for special situations. For buttons that cannot be clicked, long-pressing will enable their functionality. However, this may sometimes affect the user experience, so it is not recommended to install unless necessary.)（设置,appstore,短信）文本长按可复制，现处于测试阶段，等后续更新支持更多,特殊时期用的插件，不能点击的按钮先长按一下，即可使用了，这个有时会影响体验，如非必要情况。不建议安装
 Author: 来了老弟
-Name: copy-text-rootless
+Name: Copy---text-rootless
 
 Package: cn.llld.customizecchh
 Version: 0.0.1
@@ -1672,14 +1672,14 @@ Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/flex汉化包-rootless.deb
-Size: 9534
-MD5sum: 9d7816577a3c2b3dec85fbf4fa2ff249
-SHA1: 88ec1a2dae2153f909ba24467893ac6c1aa51a0c
-SHA256: 96d54fb913d533ee84223f9eb468edbbb5ac8de02a51a5156f28b36ec17bd670
+Size: 9768
+MD5sum: dabbc7837c1883c576e487d86ba03098
+SHA1: 57f90bcee7e21fdd5623c00d1caffbda05573b7d
+SHA256: a6fa4a45b037a7414387a77458bac4fd9e354cde291021a28a7b501fe228089a
 Section: rootless汉化补丁
-Description: flex3--(rootless专用)简体中文包
+Description: Flex3--(rootless专用)简体中文包
 Author: 来了老弟
-Name: flex汉化包-rootless
+Name: Flex3汉化包-rootless
 
 Package: com.llld.flexrootless
 Version: 0.0.3
@@ -1704,14 +1704,14 @@ Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/flex汉化包-rootless_0.0.31_iphoneos-arm64.deb
-Size: 12394
-MD5sum: 75bb8829a7dcd1d17764dbc8be13e536
-SHA1: 5fa8094c91b235c3c491aab041c2c44ccb7bbdef
-SHA256: 8ab3e4a9cab1ed8a06f7cb5233ecf6967a532f8d7d70531a7a3c7b39f1e1f5e9
+Size: 12420
+MD5sum: b2f1e2dfd44d61917667f285448373ec
+SHA1: 887ae0d10df2e15e557d6517a6a6dd77fb4a4612
+SHA256: 8133c497d260cc4e428946c95ed6bffbd2395b1b91d928f1c825e6434c99e61a
 Section: rootless汉化补丁
-Description: flex3--(rootless专用)简体中文包
+Description: Flex3--(rootless专用)简体中文包
 Author: 来了老弟
-Name: flex汉化包-rootless
+Name: Flex3汉化包-rootless
 
 Package: com.llld.fugap
 Version: 2.2.4
