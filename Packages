@@ -121,6 +121,22 @@ Description: appdata汉化（roothide专用）
 Author: 来了老弟
 Name: appdata汉化-roothide
 
+Package: cn.llld.appstorejia
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/AppStore++汉化-rootless_0.0.1_iphoneos-arm64.deb
+Size: 7196
+MD5sum: 48f2e3e84d0c967e93ea9f3b2018e75f
+SHA1: 904b1bceba56cac2b286b4059d239679bc994b86
+SHA256: c3212b17314378cc250159647b553a861d183505080f4d224575d4ef2f8d5e62
+Section: rootless汉化补丁
+Description: AppStore++汉化(rootless简易汉化包)
+Author: 来了老弟
+Name: AppStore++汉化-rootless
+
 Package: cn.llld.arkrome
 Version: 1.012
 Architecture: iphoneos-arm64e
