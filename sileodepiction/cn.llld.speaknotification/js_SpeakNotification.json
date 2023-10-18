@@ -55,8 +55,8 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "来了老弟 h_h_x_t",
-          "title": "兼容dopamine"
+          "text": "merdok",
+          "title": "开发作者"
         },
         {
           "class": "DepictionTableTextView",
@@ -67,6 +67,11 @@
           "class": "DepictionTableTextView",
           "text": "14.0 - 15.5",
           "title": "支持系统"
+        },
+         {
+          "class": "DepictionTableTextView",
+          "text": "来了老弟 h_h_x_t",
+          "title": "兼容dopamine"
         },
         {
           "class": "DepictionTableTextView",
