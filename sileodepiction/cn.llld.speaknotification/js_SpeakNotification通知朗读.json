@@ -1,0 +1,93 @@
+  "class": "DepictionStackView",
+            "tabname": "插件描述",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Siri speaks out any notifications in a fully customised way.以Siri形式朗读任何，不限于来电，短信，应用，通知等，规则可以自定义---rootless",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://laileld.github.io.repo/sileodepiction/cn.llld.speaknotification/IMG_2815.jpg"
+                        },
+                          {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://laileld.github.io.repo/sileodepiction/cn.llld.speaknotification/IMG_2813.jpg"
+                        },
+                          {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://laileld.github.io.repo/sileodepiction/cn.llld.speaknotification/IMG_2814.jpg"
+                        }                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "来了老弟 h_h_x_t",
+                    "title": "兼容dopamine"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.8.19",
+                    "title": "最新版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "14.0 - 15.5",
+                    "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2023 年 06 月 4 日",
+                    "title": "最后更新日期"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.8.19",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "有根兼容到无根",
+                    "useRawFormat": true
+                },
+                         ]
+        }
+    ],
+}
