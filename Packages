@@ -681,15 +681,15 @@ Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/flexcopy-roothide.deb
-Size: 4584
-MD5sum: b0d1055365e01f3955ec9d0a3263c2b1
-SHA1: edd94846388c7960cdde207f3d4c9b82c34aec98
-SHA256: 310edc4d77690a6fda0f74525fd0612cad88fa32604daad212205096b033a3eb
+Filename: ./debs/roothide/Flex3copy-roothide.deb
+Size: 4668
+MD5sum: b39c1c49d765c7bed030140854a1f239
+SHA1: e32d9b89a4172d927558a931d4d922fd87dc22fb
+SHA256: 3c29dadf1bbaedad2d27114a77fa7f2c55f5e53125657514502edb39dc7d318b
 Section: roothide插件
-Description: Specifically customized for Flex3, long press to copy the description or popup content, combined with translation tools or software, making it convenient for you to understand languages you don't know.（专门为flex3定制，长按描述或者弹窗复制内容，配合翻译工具或者软件，方便你去了解不懂的语言）
+Description: Specifically customized for Flex3, long press to copy the description or popup content, combined with translation tools or software, making it convenient for you to understand languages you don't know.（专门为Flex3定制，长按描述或者弹窗复制内容，配合翻译工具或者软件，方便你去了解不懂的语言）
 Author: 来了老弟
-Name: flexcopy-roothide
+Name: Flex3Copy-roothide
 
 Package: cn.llld.flexcopy
 Version: 1.0
@@ -697,15 +697,15 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/flexcopy-rootless_1.0_iphoneos-arm64.deb
-Size: 4626
-MD5sum: 78f0fbc2990695883cdb41021cc8c1cb
-SHA1: 1775e85acd3e14d6e9b1c101cec36e4907fa86ce
-SHA256: d716da5f9275e56ee6bab842b8025f50988bd71b0ef53e7340c83bad23cae139
+Filename: ./debs/rootless/Flex3copy-rootless_1.0_iphoneos-arm64.deb
+Size: 4704
+MD5sum: 18ececbfb6e086aa0d09d134fda71eab
+SHA1: f09b52056c76f1355957c20ceba5ae714f0f8a91
+SHA256: cff2d5b7e191e8a67fa0370a297a9d44e2bdcb35546d30ceb8ca4c825cee2740
 Section: rootless插件
-Description: Specifically customized for Flex3, long press to copy the description or popup content, combined with translation tools or software, making it convenient for you to understand languages you don't know.（专门为flex3定制，长按描述或者弹窗复制内容，配合翻译工具或者软件，方便你去了解不懂的语言）
+Description: Specifically customized for Flex3, long press to copy the description or popup content, combined with translation tools or software, making it convenient for you to understand languages you don't know.（专门为Flex3定制，长按描述或者弹窗复制内容，配合翻译工具或者软件，方便你去了解不懂的语言）
 Author: 来了老弟
-Name: flexcopy-rootless
+Name: Flex3Copy-rootless
 
 Package: cn.llld.flexcopy
 Version: 1.0
@@ -1576,15 +1576,15 @@ Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/flex汉化-roothide.deb
-Size: 10828
-MD5sum: 8d25fb37c7b4eae6bf62a5d6538e547e
-SHA1: 8bd3165fbd9f363ccc8db7c6404526d0f70dcf1c
-SHA256: 36d50800b4899779a34c0fce3c1520244f36197fd5b50c235e9db08fb1da532c
+Filename: ./debs/roothide/Flex3汉化-roothide.deb
+Size: 10692
+MD5sum: 1d0613126fea8ede661bcb24e58f4fcf
+SHA1: 14fdfd4613f3e03998239efbb040dbdec8e51016
+SHA256: 95f970a3d4805bf97ab57aa6c8c80927f2f33b8c2efd0fa353f14beafc644636
 Section: roothide汉化补丁
-Description: flex3--(roothide专用)简体中文包
+Description: Flex3--(roothide专用)简体中文包
 Author: 来了老弟
-Name: flex汉化包-roothide
+Name: Flex3汉化包-roothide
 
 Package: com.llld.bfb
 Version: 0.1-1
@@ -1623,15 +1623,15 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/flexlist汉化_0.0.1-3+debug_iphoneos-arm64.deb
-Size: 11548
-MD5sum: 60f7abec6ab5cb9d81993c9b9ec1d23d
-SHA1: 0cde3acf9b2a98462ed327a4ac17715b20804e34
-SHA256: dcc47b25a82af95345559d7c6661c4e50a08b5e936dc10c067d0da6ece8ef07d
+Filename: ./debs/rootless/Flexlist汉化_0.0.1-3+debug_iphoneos-arm64.deb
+Size: 11452
+MD5sum: 85e56b675bfea594b1b990ef2a12c790
+SHA1: 0a89b58e41850bbfa289d00d39b76ab920aa3df9
+SHA256: 6054ac994f30acefa66cac5affcea76485ba64557517266bcb2462cedceebf80
 Section: rootless汉化补丁
-Description: flexlist--(rootess)简体中文包
+Description: Flexlist--(rootess)简体中文包
 Author: 来了老弟
-Name: flexlist汉化-rootless
+Name: Flexlist汉化-rootless
 
 Package: com.llld.flexrootful
 Version: 0.0.31
@@ -1655,15 +1655,15 @@ Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/flex汉化包-roothide_0.0.31_iphoneos-arm64e.deb
-Size: 12240
-MD5sum: 296c6835040835af17d21ebacd336565
-SHA1: 80d45a484cf0fe82e2b41d3c5e3f5cbd7a236ef5
-SHA256: d5dad379c1643027af5c84da1dc6c1924e61b9ef9b05e4393a070cf5b9471ee1
+Filename: ./debs/roothide/Flex3汉化包-roothide_0.0.31_iphoneos-arm64e.deb
+Size: 12364
+MD5sum: bb5a25e4c86b92b6b611b18b691e0298
+SHA1: d798295956438cd746ee54fcd5b23b8a55b8e500
+SHA256: 338ce73e62c172423a9f1a7de44582e269fd785de886c949a08647cf8cdcae0f
 Section: roothide汉化补丁
-Description: flex3--(roothide专用)简体中文包
+Description: Flex3--(roothide专用)简体中文包
 Author: 来了老弟
-Name: flex汉化包-roothide
+Name: Flex3汉化包-roothide
 
 Package: com.llld.flexrootless
 Version: 0.0.2
@@ -1914,14 +1914,13 @@ Maintainer: 来了老弟 h_h_x_t
 Installed-Size: 360
 Depends: mobilesubstrate, firmware (>=11.0)
 Filename: ./debs/rootless/lower锁屏移动控件2-rootless.deb
-Size: 20540
-MD5sum: 141823e956b5b717e19ed1077ce017cd
-SHA1: ef359c5e10e8550b1a4618a6facdeefd8b7083bf
-SHA256: cea07e54d76fb47a7edb67e5252091b7cf30214945b75386e69a0e6d8f7b4996
+Size: 20436
+MD5sum: 7c4852ef85a3a39e340de08e3440e0ed
+SHA1: 6f474dcd912ca088ac84c2dbb79f150ce3f97fb5
+SHA256: 06a573533bb15c381878bfb417f2926fe8ff0c94687d7fa293c31c056cc36aab
 Section: rootless修复插件
 Description: Change media controls/notifications height,调整通知中心播放器的位置,装了源里另一个不生效的则装这个
 Author: s1ris
-Depiction: https://apt.s1ris.org/depictions/org.s1ris.lower/index.html
 Name: Lower调整通知播放器控件位置-rootless
 
 Package: org.thebigboss.speaknotification
