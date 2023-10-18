@@ -1325,15 +1325,15 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), preferenceloader
 Filename: ./debs/rootless/Vibrato自定义震动 -rootless.deb
-Size: 195768
-MD5sum: b625c59630fe3bb8a6c5fa9849d4008f
-SHA1: 66aa2a48c5a7891e0d6444bf8aa8b06d42a908aa
-SHA256: fa48aa0bb7f9c3f518d75b4c887871ebb2d4121a5559df2622309a62c64a47bb
+Size: 195860
+MD5sum: a16ef956427b6216ef5133be0887789a
+SHA1: c72bb03141a7f9ddbcc72bc50b83cd4daf33cf56
+SHA256: 56221a3d8cd9999105a50b5a287a2707a2bfcee524ad405a6a2f8caf9f528366
 Section: rootless修复插件
 Description: Global custom vibration feedback全局自定义震动反馈_________仅测试用,有问题卸载
 Author: SynnyG
 Name: Vibrato全局自定义震动-rootless
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.vibrato/Vibrato全局自定义震动-rootless.json
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.vibrato/js_Vibrato_rootless.json
 
 Package: cn.llld.wxyybb
 Version: 1.0
@@ -1916,15 +1916,15 @@ Maintainer: 来了老弟 h_h_x_t
 Installed-Size: 360
 Depends: mobilesubstrate, firmware (>=11.0)
 Filename: ./debs/rootless/lower锁屏移动控件2-rootless.deb
-Size: 20468
-MD5sum: 5798fd9b7c9e2d8da0ba7ed9080acdb1
-SHA1: 874d9a9648c63f10986f1d7a32db69e0e02dec89
-SHA256: 1a671ec16db9bd4873091c0d38ec08a620a5a2209bc6baa01fd00a49ceb14ad9
+Size: 20480
+MD5sum: 1dd545e73c6d8f79890512c5883cfe60
+SHA1: 650d77f94ac239295ca4475f54f53052d2e8d1c4
+SHA256: 753fc08e7156967f031aa239e90c8dd9c22d373ddd771597031a2b39d3b812e1
 Section: rootless修复插件
 Description: Change media controls/notifications height,调整通知中心播放器的位置,装了源里另一个不生效的则装这个
 Author: s1ris
 Name: Lower调整通知播放器控件位置-rootless
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/org.s1ris.lower1/Lower调整通知播放器控件位置-rootless.json
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/org.s1ris.lower1/Lower_rootless.json
 
 Package: org.thebigboss.speaknotification
 Version: 1.8.20
