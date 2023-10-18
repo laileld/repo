@@ -9,10 +9,9 @@
       "tabname": "插件描述",
       "views": [
         {
-          "class": "DepictionSubheaderView",
-          "title": "Siri speaks out any notifications in a fully customised way.以Siri形式朗读任何，不限于来电，短信，应用，通知等，规则可以自定义---rootless",
-          "useBoldText": true,
-          "useBottomMargin": false
+          "class": "DepictionMarkdownView",
+          "markdown": "Siri speaks out any notifications in a fully customised way.以Siri形式朗读任何，不限于来电，短信，应用，通知等，规则可以自定义---rootless",
+          "useRawFormat": true
         },
         {
           "class": "DepictionScreenshotsView",
@@ -25,11 +24,11 @@
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.speaknotification/IMG_2813.jpg"
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.speaknotification/IMG_2813.PNG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.speaknotification/IMG_2814.jpg"
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.speaknotification/IMG_2814.PNG"
             }
           ]
         },
