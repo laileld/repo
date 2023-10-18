@@ -1232,15 +1232,15 @@ Maintainer: 来了老弟
 Installed-Size: 888
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.0.2)
 Filename: ./debs/rootless/Speak语言播报通知来电等(rootless).deb
-Size: 250644
-MD5sum: 273e61fa7d24abb4e0208319bc2ddb41
-SHA1: 17fdd408479d55c48419d3c6bdd29b48706bebc1
-SHA256: 07c5f3664999682674d9faba2eed21536d0a895bb7e6b6c811239bf19e3eecc0
+Size: 250704
+MD5sum: 72b69bd6992d02ac9c24b41c9a73f4f9
+SHA1: 7f90f6f4e1e2658e81ec6c4ae3f7b8e5a56a8106
+SHA256: 9e06054d17cde9d6ea2e086cde3126d355d3093154868f8359ddeb9462ca57c6
 Section: rootless修复插件
 Description: Siri speaks out any notifications in a fully customised way.以Siri形式朗读任何，不限于来电，短信，应用，通知等，规则可以自定义---rootless
 Author: merdok 来了老弟
 Name: Speak Notification 通知朗读-rootless
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.speaknotification/js_SpeakNotification通知朗读.json
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.speaknotification/js_SpeakNotification.json
 
 Package: cn.llld.statusbarlunardate
 Version: 1.0.0
