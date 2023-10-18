@@ -71,7 +71,6 @@
                     "spacing": 16
                 }
             ]
-        },
         {
             "class": "DepictionStackView",
             "tabname": "更新日志",
@@ -89,5 +88,3 @@
                 },
                          ]
         }
-    ],
-}
