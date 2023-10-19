@@ -800,36 +800,6 @@ Description: hide page dots隐藏页面点(rootless)
 Author: 来了老弟
 Name: 隐藏桌面翻页点-rootless
 
-Package: cn.llld.janwechat
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Depends: firmware (>=14.0), mobilesubstrate
-Filename: ./debs/rootless/wechat多功能微信-rootless.deb
-Size: 609708
-MD5sum: 779f37ad05a74880817614ce3f781b90
-SHA1: 940e043e483f802ea5334307122b177da3be677a
-SHA256: eca043aebdcf98b046706c8fe11ec3960cac75d0da0fefeed62eeccae42738a0
-Section: rootless微信插件
-Description: 早期的微信工具箱，作者已停更______仅测试，有问题请卸载
-Author: Jan
-Name: wechat多功能微信-rootless
-
-Package: cn.llld.janwechat
-Version: 1.1.5
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Depends: firmware (>=14.0), mobilesubstrate
-Filename: ./debs/roothide/wechat多功能微信-roothide.deb
-Size: 609580
-MD5sum: 7f3feecbc0e4a2817fcf8f7ec7b0e79a
-SHA1: f4057e44a10c62d3cca337277fc560b6bcc4086b
-SHA256: 847ecccc99cfabd850e3d4e5c8860b2f105f85ae86a68f49aa2c98392d48fd62
-Section: roothide微信插件
-Description: 早期的微信工具箱(多数功能还都可以用)，作者已停更______仅测试，有问题请卸载-roothide
-Author: Jan
-Name: wechat多功能微信-roothide
-
 Package: cn.llld.jjyh
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -893,38 +863,6 @@ Section: rootless插件
 Description: 仅控制中心背景透明到桌面（单个模块没透），配合coolcc效果更好（全透）
 Author: 来了老弟
 Name: 控制中心透明-rootless
-
-Package: cn.llld.minivx
-Version: 1.01
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Installed-Size: 108
-Depends: mobilesubstrate
-Filename: ./debs/roothide/微信辅助(微生物)-roothide_1.01_iphoneos-arm64e.deb
-Size: 13796
-MD5sum: 66bf2c47402dd253e408f8f685d64a57
-SHA1: 5bbce7c928df044738d2ce6bddc427980aa2f90f
-SHA256: 27c9385b1da805828b708f020f4b74560afd304b5cc51c6738dcefaae499c0b6
-Section: roothide微信插件
-Description: 微信简洁辅助(抢红包，防撤回)-roootless
-Author: 来了老弟
-Name: 微信辅助(微生物)-roothide
-
-Package: cn.llld.minivx
-Version: 1.01
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 108
-Depends: mobilesubstrate
-Filename: ./debs/rootless/微信辅助(微生物)-rootless_1.01_iphoneos-arm64.deb
-Size: 13834
-MD5sum: 14f9c19f231fd0a46e5759baeadae67f
-SHA1: 75f5d6f6727d2f94b460a540de03a47282f9bbb3
-SHA256: 2e79cd07df5f56d606a9a1db8f567b9e39b5e7561def268abbfffa18ae7d59f2
-Section: rootless微信插件
-Description: 微信简洁辅助(抢红包，防撤回)-roootless
-Author: 来了老弟
-Name: 微信辅助(微生物)-rootless
 
 Package: cn.llld.nc
 Version: 0.0.1
@@ -1351,21 +1289,6 @@ Author: SynnyG
 Name: Vibrato全局自定义震动-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.vibrato/js_Vibrato_rootless.json
 
-Package: cn.llld.wxyybb
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Depends: mobilesubstrate
-Filename: ./debs/roothide/微信朗读文本-roothide.deb
-Size: 4484
-MD5sum: f48206de51161850d09e169b194e36a6
-SHA1: 89cf41b37566f53fe56a3fdd2f9e4ade6e6444c7
-SHA256: 286af02f354131c5d0a4b2e7501536a755b63b6f13f8735e7b422956b25d1446
-Section: roothide微信插件
-Description: 原名motherwc，作用：点击微信文本，语音播报信息_________仅测试，有问题请卸载
-Author: sunweiliang
-Name: 微信文本语音播报-roothide
-
 Package: cn.llld.ycdock
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -1763,21 +1686,6 @@ Description: SwipeExtenderX汉化，swipeextenderx汉化--(rootess)简体中文�
 Author: 来了老弟
 Name: SwipeExtenderX汉化-rootless
 
-Package: com.llld.wxyybb
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Depends: mobilesubstrate
-Filename: ./debs/rootless/微信文本播报-rootless.deb
-Size: 4480
-MD5sum: f772ec42aff73b51f3297fab7ceeb96f
-SHA1: 047a91fa3ae4101c173b1b4debb7a7cc10553cd2
-SHA256: 0605503c44476a8aa3a88dd8af59312dfb9c279ed3544e41f1633f29ac11de18
-Section: rootless微信插件
-Description: 原名motherwc，作用：点击微信文本，语音播报信息_________仅测试，有问题请卸载
-Author: sunweiliang
-Name: 微信文本语音播报-rootless
-
 Package: com.llld.ycfyd
 Version: 0.0.1-1
 Architecture: iphoneos-arm64
@@ -1862,20 +1770,6 @@ Description: Alert Controller - Control UX and UI of your Alerts and Action Shee
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
 Dev: tomaszpoliszuk
 Name: Alert Controller-rootless
-
-Package: llld.callkitkt
-Version: 0.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Filename: ./debs/rootless/单独开启callkit(rootless).deb
-Size: 3220
-MD5sum: 59d7e65722123d847f7de1c581d1211e
-SHA1: 5bead811348e429df7185aac0436401b615eb07b
-SHA256: e0e42b8a67d19033f4b5bc551ce08b31c2a4e699cfac5ab1afc43d210c71c17f
-Section: rootless微信插件
-Description: 单独开启callkit，锁屏状态如同接正常电话一般接语音电话，也方便通话录音Depends: firmware (>=14.0), mobilesubstrate
-Author: 来了老弟 laileld
-Name: 开启CallKit-rootless
 
 Package: llld.keyboard
 Version: 1.0
