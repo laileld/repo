@@ -1,17 +1,21 @@
 Package: Flex3beta
-Version: 1:3~Beta99
+Version: 1:4
 Architecture: iphoneos-arm64e
 Maintainer: 来了老弟 h_h_x_t
 Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debs/roothide/Flex3-roothide.deb
-Size: 16810772
-MD5sum: fa4c0852ee59804b3f4dc0680183223d
-SHA1: ca76932f694b0ec82171c9bf0b6744488354fc44
-SHA256: fb4f8cf2b0e4d2f1560e8dce8e52269a70fffbc93bbb5f2080042584cb5f6d6e
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, com.abcydia.Flex3
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Filename: ./debs/roothide/Flex3_弹窗不影响功能-roothide.deb
+Size: 12318956
+MD5sum: 67f40f7e97dd16bcd577dcf2dc840adc
+SHA1: 327eeeeb781761007e32c4e9ac8016a8c6bf8692
+SHA256: 3ec4090214154b0728190867e84ad9d72b217d4458049fd1cddb0c814014fcac
 Section: roothide修复插件
-Description: Develop your own tweaks and share them on the Flex Community Cloud,Specific for roothide, turn off the use of bold text, can parse applications, system level can not, patch list does not show, use search, no need for Legacy arm64e Support.(. roothide专用,关闭粗体文本使用，可以解析应用,系统级别不可以,补丁列表不显示,使用搜索,无需Legacy arm64e Support)
+Description: Remove application advertisements, crack members, and modify the application's powerful patch system. The cloud, search, and parsing application functions are all normal (if there are unsupported apps, please check your tweak injection or downgrade apps). System applications do not take effect. Turn off bold fonts. 去除应用广告，破解会员，修改应用的强大补丁系统，云端，搜索，解析应用功能均正常(若有不支持的app，请检查你的调整注入或降级程序)，系统应用不生效，关闭粗体文本使用，Flex3程序修改器-roothide
 Author: John Coates
-Name: Flex 3 Beta-roothide
+Name: Flex3 Beta程序修改器-roothide
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/Flex3beta/js_Flex3beta.json
+Sponsor: 来了老弟  x: h_h_x_t
 
 Package: Nets.llld.actionbarreborn
 Version: 1.1-2
@@ -1589,22 +1593,6 @@ Section: rootful汉化补丁
 Description: flex3--(rootful专用)简体中文包
 Author: 来了老弟
 Name: flex汉化包-rootful
-
-Package: com.llld.flexroothide
-Version: 0.0.31
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/Flex3汉化包-roothide_0.0.31_iphoneos-arm64e.deb
-Size: 12364
-MD5sum: bb5a25e4c86b92b6b611b18b691e0298
-SHA1: d798295956438cd746ee54fcd5b23b8a55b8e500
-SHA256: 338ce73e62c172423a9f1a7de44582e269fd785de886c949a08647cf8cdcae0f
-Section: roothide汉化补丁
-Description: Flex3--(roothide专用)简体中文包
-Author: 来了老弟
-Name: Flex3汉化包-roothide
 
 Package: com.llld.flexrootless
 Version: 0.0.2

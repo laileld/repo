@@ -1,0 +1,120 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://laileld.github.io/repo/sileodepiction/Default/top_flex3.jpg",
+  "tintColor": "#FF4455",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "插件描述",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Remove application advertisements, crack members, and modify the application's powerful patch system. The cloud, search, and parsing application functions are all normal (if there are unsupported apps, please check your tweak injection or downgrade apps). System applications do not take effect. Turn off bold fonts. 去除应用广告，破解会员，修改应用的强大补丁系统，云端，搜索，解析应用功能均正常(若有不支持的app，请检查你的调整注入或降级程序)，系统应用不生效，关闭粗体文本使用，Flex3程序修改器-roothide",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://laileld.github.io/repo/sileodepiction/Flex3beta/IMG_0207.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://laileld.github.io/repo/sileodepiction/Flex3beta/IMG_0209.jpg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://laileld.github.io/repo/sileodepiction/Flex3beta/IMG_0206.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://laileld.github.io/repo/sileodepiction/Flex3beta/IMG_0208.PNG"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "John Coates",
+          "title": "开发作者"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1:4",
+          "title": "最新版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "14.0 - 15.5",
+          "title": "支持系统"
+        },
+         {
+          "class": "DepictionTableTextView",
+          "text": "来了老弟 h_h_x_t",
+          "title": "兼容RootHide"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2023 年 10 月 9 日",
+          "title": "最后更新日期"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1:4",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "rootful > rootless > roothide （支持补丁列表显示）",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1:3 Beta 99",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "rootful > rootless > roothide （兼容解析应用，去除oldabi）",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ]
+}
