@@ -821,6 +821,22 @@ Author: 来了老弟
 Name: 隐藏桌面翻页点-rootless
 
 Package: cn.llld.igg
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/igg汉化-rootless_0.0.1_iphoneos-arm64.deb
+Size: 6282
+MD5sum: debe344b8249a6e197e87dc6ec7e98fb
+SHA1: 3a4ef6e3bba63dcad902ab812f0f85daa3a2070b
+SHA256: 1384ed36e3ab56069ef05a6da35a1af44739c9face783a8bf68b710ee0ad9dd4
+Section: rootless汉化补丁
+Description: igg汉化，iGameGod汉化，神秘靓仔定制汉化-rootless
+Author: 来了老弟
+Name: igg汉化-rootless
+
+Package: cn.llld.igg
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
