@@ -979,6 +979,22 @@ Description: Press the key to enter safe mode or logout mode按键进入安全�
 Author: Renaitare
 Name: Panic快捷进入安全注销-rootless
 
+Package: cn.llld.reddit
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/Reddit汉化-rootless_0.0.1_iphoneos-arm64.deb
+Size: 11028
+MD5sum: 3bac40b4630c5a1dc6d4bf915d7e6485
+SHA1: 09fe19488153717e588f5e224beacec9687f4c05
+SHA256: bc67a83d9e198dac9538733007e02c1995fed921a5c49117e618bbab0ea2b379
+Section: rootless汉化补丁
+Description: Reddit界面、设置、功能汉化(rootless)简体中文包
+Author: 来了老弟
+Name: Reddit汉化-rootless
+
 Package: cn.llld.roundedcc
 Version: 1.0.4
 Architecture: iphoneos-arm64e
