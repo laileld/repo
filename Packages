@@ -995,6 +995,22 @@ Description: Reddit界面、设置、功能汉化(rootless)简体中文包
 Author: 来了老弟
 Name: Reddit汉化-rootless
 
+Package: cn.llld.reddit
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/Reddit汉化-rootless_0.0.2_iphoneos-arm64.deb
+Size: 11036
+MD5sum: fe0ba010fe816f43f6ed34f635bcac79
+SHA1: baf90933963617733d29d0f984da4f06284d8acb
+SHA256: 515eef70efcb5c3488e709f14037508eaa7e0264fe881c1cca68eefe1c40f104
+Section: rootless汉化补丁
+Description: Reddit界面、设置、功能汉化(rootless)简体中文包
+Author: 来了老弟
+Name: Reddit汉化-rootless
+
 Package: cn.llld.roundedcc
 Version: 1.0.4
 Architecture: iphoneos-arm64e
