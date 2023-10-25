@@ -827,10 +827,10 @@ Maintainer: 来了老弟
 Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/igg汉化-rootless_0.0.2_iphoneos-arm64.deb
-Size: 6308
-MD5sum: 5f71bfe6628cf3998352535a3e512822
-SHA1: dc13266fe768aa6d8bafbeb3691d9512ce668fa4
-SHA256: b4622732936ae4fe501ada9822b06cd82d238ac12b952852fef6e1055bb00168
+Size: 6668
+MD5sum: d921c857731e661cb2245314361ce393
+SHA1: d5af692d9c6a77f1eaacaff6d5bb1f5d896a2094
+SHA256: d4f571b0f8429995723fbb6f976109a972a2b5df2fe6a83da4c264c74f1a1971
 Section: rootless汉化补丁
 Description: igg汉化，iGameGod汉化，神秘靓仔定制汉化-rootless
 Author: 来了老弟
