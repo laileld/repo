@@ -743,22 +743,6 @@ Description: Specifically customized for Flex3, long press to copy the descripti
 Author: 来了老弟
 Name: flexcopy-rootful
 
-Package: cn.llld.flexlist
-Version: 0.0.1-2
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/flexlist汉化_0.0.1-2+debug_iphoneos-arm64.deb
-Size: 10244
-MD5sum: 0ed26c724c4d8a857822412d3514790d
-SHA1: 95b1303120c503f3166b81c017d3e323b701fe1e
-SHA256: 3b805c00155093838e031fc8bbef0f4bcb8926871eb8da4ec15f2192088ff008
-Section: rootless汉化补丁
-Description: flexlist--(rootess)简体中文包
-Author: 来了老弟
-Name: flexlist汉化-rootless
-
 Package: cn.llld.flexroothide
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -1246,22 +1230,6 @@ Section: rootless插件
 Description: 点击iOS顶部时间栏显示今日中国农历。
 Author: Snail
 Name: 点击时间显示农历-rootless
-
-Package: cn.llld.swipeextenderx
-Version: 0.0.1-1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/swipeextenderx汉化_0.0.1-1+debug_iphoneos-arm64.deb
-Size: 11604
-MD5sum: 70632a5e6e58382e788ddfd7e61f97fc
-SHA1: 09a2177c29fca57cb2e28d36309be92d18c35d56
-SHA256: 2b2e678fb6730158513edf8b9814be965ee85f9d7c761de4592e85a3cea82801
-Section: rootless汉化补丁
-Description: swipeextenderx汉化--(rootess)简体中文包
-Author: 来了老弟
-Name: swipeextenderx汉化-rootless
 
 Package: cn.llld.tapflash
 Version: 1.0.2
