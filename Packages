@@ -836,22 +836,6 @@ Description: igg汉化，iGameGod汉化，神秘靓仔定制汉化-rootless
 Author: 来了老弟
 Name: igg汉化-rootless
 
-Package: cn.llld.igg
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/igg汉化-rootless_0.0.1-1+debug_iphoneos-arm64.deb
-Size: 8948
-MD5sum: a1cfc782668eb73412d56d2056caf39f
-SHA1: 6086ade3905b8a186484b5c71c004a85465096eb
-SHA256: 3968e24d640afc7f6cec2be51a96d6ec4da72678fc5f4f2f7ff87bda53301208
-Section: rootless汉化补丁
-Description: igg汉化，iGameGod汉化，神秘靓仔定制汉化-rootless
-Author: 来了老弟
-Name: igg汉化-rootless
-
 Package: cn.llld.jjyh
 Version: 0.0.1
 Architecture: iphoneos-arm64
