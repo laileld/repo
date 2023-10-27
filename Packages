@@ -948,38 +948,6 @@ Description: Hide no earlier notification text（隐藏-没有更早的通知文
 Author: 来了老弟
 Name: 隐藏更早的通知-rootless
 
-Package: cn.llld.nicegram
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/ng,tg别拍我的脸-rootless_0.0.1_iphoneos-arm64.deb
-Size: 2772
-MD5sum: 5eb8bb6b273052b65fcd0b3eb71ad3a9
-SHA1: 88aee60054f4ae2465b18943d6e6aace4e1812fc
-SHA256: 552f54e774c44c01aaaa865a1b5f51b9f11887f1f5c9838794b6c5a148b54b1a
-Section: rootless插件
-Description: nicegram and telegram Chat window (disable video voice recording function)，功能：nicegram和telegram聊天窗口（禁用录制视频语音功能）,聊天中不小心发出自己的”帅脸“多尴尬，防撤回写好了，撤回提示还没逻辑就没加进来，等更新吧。
-Author: 来了老弟
-Name: ng,tg别拍我的脸-rootless
-
-Package: cn.llld.nicegram
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: 来了老弟
-Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootful/ng,tg别拍我的脸-rootful_0.0.1_iphoneos-arm.deb
-Size: 2696
-MD5sum: c3f6005cf19bb22f3e39e9b337fa1995
-SHA1: 9156bab862d3182fceada6c5e216be10fa5c0d4e
-SHA256: f3038b937e38f010c375214999384f3303f4af50a03f672c14528dd34f41ad51
-Section: rootful插件
-Description: nicegram and telegram Chat window (disable video voice recording function)，功能：nicegram和telegram聊天窗口（禁用录制视频语音功能）,聊天中不小心发出自己的”帅脸“多尴尬，防撤回写好了，撤回提示还没逻辑就没加进来，等更新吧。
-Author: 来了老弟
-Name: ng,tg别拍我的脸-rootful
-
 Package: cn.llld.nlrq
 Version: 0.0.1
 Architecture: iphoneos-arm64e
