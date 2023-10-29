@@ -80,18 +80,18 @@ Author: PopsicleTreehouse
 Name: SettingsWallpaper设置墙纸-roothide
 
 Package: apt.llld.systeminfo
-Version: 2.7.2-2
+Version: 2.7.2-3
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: mobilesubstrate
 Filename: ./debs/rootless/Systeminfo_2.7.2(rootless).deb
-Size: 272528
-MD5sum: 50ccb5c64acf3988ac6f27c11a5a7436
-SHA1: cea1ad3ab9c3e835a3de318a6fe5f3b2e38049dc
-SHA256: 48674c22cf02312d289c4a3ea46f7c395b011d9376c7fd1b515e87ed913e10ab
+Size: 272532
+MD5sum: 419621cd5cb396f2cd75d729525f3dc7
+SHA1: 444ed683496143e7a44c1fb1d901a71986f68d1d
+SHA256: bedd25449307f279abb8cadf3f50850e2af1ea66c28f9c789e343a976ebd721a
 Section: rootless修复插件
-Description: 显示 iOS 所有系统信息，不用装Legacy arm64e Support_________仅测试，有问题请卸载
-Author: ARX8x
+Description: Display all system information of iOS。显示 iOS 所有系统信息，不用装Legacy arm64e Support_________仅测试，有问题请卸载
+Author: ARX8x 来了老弟
 Name: System Info 系统信息-rootless
 
 Package: cn.imkpatil.ezswipe
@@ -1296,19 +1296,18 @@ Author: Snail
 Name: 点击时间显示农历-rootless
 
 Package: cn.llld.tapflash
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
-Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/TapFlash快速手电筒-rootless.deb
-Size: 4604
-MD5sum: 8f890d9004860250645f0099bb7a6999
-SHA1: f72988003ae78a7423b69572c8a9ad00b25945bb
-SHA256: df6ad22445e8b7885857778d14d4f8aa4cf77b5af86b57254c5bb6d3ac32d53f
+Size: 4620
+MD5sum: 9493514c9569f4f61877f0696ef08585
+SHA1: 30e8aebb569c9af8fa368ad4acb5a1ab75c74a1d
+SHA256: 236793cb4a79de36a915360b2d87c37bec1cb2c2b3aa8ccfe18f88bc9d77737e
 Section: rootless修复插件
-Description: Press the volume up and down buttons simultaneously to quickly turn on the flashlight同时按下音量加和减按钮快速打开手电筒_________仅测试用,有问题卸载
-Author: Chr1s
+Description: Press the volume up and down buttons simultaneously to quickly turn on the flashlight。同时按下音量加和减按钮快速打开手电筒，关闭也可，操作不亮屏很人性化_________仅测试用,有问题卸载
+Author: Chr1s 来了老弟
 Name: TapFlash快速手电筒-rootless
 
 Package: cn.llld.tapflash
@@ -1342,18 +1341,18 @@ Author: 来了老弟
 Name: 最近通话增加具体时间-rootless
 
 Package: cn.llld.vibrato
-Version: 2.11
+Version: 2.12
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), preferenceloader
 Filename: ./debs/rootless/Vibrato自定义震动 -rootless.deb
-Size: 195860
-MD5sum: a16ef956427b6216ef5133be0887789a
-SHA1: c72bb03141a7f9ddbcc72bc50b83cd4daf33cf56
-SHA256: 56221a3d8cd9999105a50b5a287a2707a2bfcee524ad405a6a2f8caf9f528366
+Size: 195992
+MD5sum: 0402f53a92c9d6a3f2ef4fb416e69c82
+SHA1: c8e04d4d66cf3141b8d8b55324d5423bdff40a1b
+SHA256: 3c77137b0598cf6b2d62b80a55ce67b977ad7dae5ce6155c3a2a0b98a6046db2
 Section: rootless修复插件
-Description: Global custom vibration feedback全局自定义震动反馈_________仅测试用,有问题卸载
-Author: SynnyG
+Description: Global custom vibration feedback全局自定义震动反馈，设置若显示空白，则换PreferenceLoader版本_________仅测试用,有问题卸载
+Author: SynnyG 来了老弟
 Name: Vibrato全局自定义震动-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.vibrato/js_Vibrato_rootless.json
 
@@ -1578,6 +1577,22 @@ Section: rootless隐藏专区
 Description: HideNoHomeBar隐藏底部小白条-rootless
 Author: 来了老弟 h_h_x_t
 Name: HideNoHomeBar-rootless
+
+Package: cn.llld.yghsh
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/阳光惠生活去越狱提示-rootless_1.1_iphoneos-arm64.deb
+Size: 3030
+MD5sum: d72aedd3497cdc37a51978d2e5f9a59d
+SHA1: 5e7f11ca0039a0a020736c7382df9f71d2ece697
+SHA256: 0492dbcb7c9954467b64eadfee64e3ad9a2506ad9e6ee7ff70e0dd1ddfd8c4b7
+Section: rootless屏蔽弹窗
+Description: 去掉(阳光惠生活)越狱提示，不影响任何插件注入使用
+Author: 来了老弟 h_h_x_t
+Name: 阳光惠生活去越狱提示-rootless
 
 Package: com.llld.bfb
 Version: 0.1-1
@@ -1841,35 +1856,34 @@ Dev: netskao
 Name: DoubleClickWake-rootless
 
 Package: org.s1ris.lower
-Version: 1.5.1
+Version: 1.5.11
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Depends: mobilesubstrate, firmware (>=14.0)
 Filename: ./debs/rootless/Lower修改锁屏控件位置-rootless.deb
-Size: 21964
-MD5sum: 8dc251c8b6b7c2e49a5d382515370130
-SHA1: 281b1aff737c23b4db68550a4608d0a805ad5533
-SHA256: a419b7f838d541524897430add46412b527be26c75e7c2f06cc38d650dbc4d7f
+Size: 21980
+MD5sum: 96f2a40a1d5dfa96103dd7dbf7e28c7e
+SHA1: 74be712ded597de3b2e108cabacee97d371d0efd
+SHA256: c2c1fdbfc36c8739ff83479fd352aee1901035b5c24b16b84ed5331d03e4b79e
 Section: rootless修复插件
-Description: Change media controls/notifications height修改锁屏通知和音乐播放器的位置，懂得都懂________仅测试用,有问题卸载
-Author: s1ris
-Name: Lower修改锁屏控件位置-rootless
+Description: Change media controls/notifications height修改锁屏通知和音乐播放器的位置和宽度，懂得都懂，此包若不生效，装源里另外的包________仅测试用,有问题卸载
+Author: s1ris 来了老弟
+Name: Lower修改锁屏播放器通知位置-rootless
 
 Package: org.s1ris.lower1
-Version: 1.5.2
+Version: 1.5.21
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
-Installed-Size: 360
 Depends: mobilesubstrate, firmware (>=11.0)
 Filename: ./debs/rootless/lower锁屏移动控件2-rootless.deb
-Size: 20480
-MD5sum: 1dd545e73c6d8f79890512c5883cfe60
-SHA1: 650d77f94ac239295ca4475f54f53052d2e8d1c4
-SHA256: 753fc08e7156967f031aa239e90c8dd9c22d373ddd771597031a2b39d3b812e1
+Size: 20520
+MD5sum: 16fa776f4ec8787292a477a725055d1a
+SHA1: 54f0f8c230317899688b82975568362686b7712c
+SHA256: fadd2762526c47fd2a8065039113e11d2e248653c301807600f78e42e1086796
 Section: rootless修复插件
-Description: Change media controls/notifications height,调整通知中心播放器的位置,装了源里另一个不生效的则装这个
-Author: s1ris
-Name: Lower调整通知播放器控件位置-rootless
+Description: Change media controls/notifications height,调整通知中心播放器的位置和宽度,装了源里另一个不生效的则装这个
+Author: s1ris 来了老弟
+Name: Lower控制通知播放器位置大小-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/org.s1ris.lower1/Lower_rootless.json
 
 Package: org.thebigboss.speaknotification
