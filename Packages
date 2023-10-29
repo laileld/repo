@@ -858,13 +858,13 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/东莞银行去检测越狱弹窗(rootless).deb
-Size: 3224
-MD5sum: f21d95af5b44851be7f05af534887881
-SHA1: e315a7786771264c7eedb78cd67aecdc2f29690f
-SHA256: dcf8d692c2ab419aaa23e3d2a58dbbdd2ff0733662f17e44962f4d2607a5544f
+Filename: ./debs/rootless/东莞银行去越狱提示(rootless).deb
+Size: 3240
+MD5sum: 73b7be29fe7e6bdec063f73584ac5ba8
+SHA1: 9b9ad5c53c050be6b6d04613997f85289c5d2a6e
+SHA256: 97216baa28a6b1580e9196424fc991634f67440f6a1dc04bdb11610342d21437
 Section: rootless屏蔽弹窗
-Description: 解决银行越狱检测弹窗(东莞银行)，不用注销
+Description: 去越狱提示(东莞银行)，不用注销，退后台再进即可
 Author: 来了老弟
 Name: 东莞银行-rootless
 
