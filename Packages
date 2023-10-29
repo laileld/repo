@@ -1569,14 +1569,14 @@ Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/隐藏底部小白条-rootless.deb
-Size: 3016
-MD5sum: 82a92d9720186190d486ab155a2a0570
-SHA1: f5c800febb422042615180726043d17a322abc25
-SHA256: f25e10e725055bdfa63eec417022da1451f0bb6ee2c81b9c93c1b27e54a386a4
+Size: 3012
+MD5sum: 50723c043f1ff6e2e0c167997c8eff64
+SHA1: 529e92ad17c2bf24ac3a69d5fcc292c1a9b46690
+SHA256: b192754dd4eccb48cf4de2add343bbed72cda735541e46a41190d690f64abe44
 Section: rootless隐藏专区
-Description: HideNoHomeBar隐藏底部小白条-rootless
+Description: HideHomeBar隐藏底部小白条-rootless
 Author: 来了老弟 h_h_x_t
-Name: HideNoHomeBar-rootless
+Name: HideHomeBar隐藏底部小白条-rootless
 
 Package: cn.llld.yghsh
 Version: 1.1
