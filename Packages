@@ -1028,6 +1028,22 @@ Author: 来了老弟
 Name: Reddit汉化-rootless
 
 Package: cn.llld.roundedcc
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/rootless/RoundedCC控制中心圆角化-rootless.deb
+Size: 5680
+MD5sum: 104539d9fe3ee57aae6c02d76fac8bf3
+SHA1: 16a9804f87f8d5f120839aec856228ccbebb569e
+SHA256: a9433d1747d03e72767dd3ab2d13c341e46e1ef43dc0668249ad43f1e101fb3c
+Section: rootless修复插件
+Description: The buttons and sliders of the control center are rounded。控制中心的按钮和滑块圆角化_________仅测试，有问题请卸载
+Author: neoney 来了老弟
+Name: RoundedCC控制中心圆角化-rootless
+
+Package: cn.llld.roundedcc
 Version: 1.0.4
 Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
