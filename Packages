@@ -1610,6 +1610,22 @@ Description: 去掉(阳光惠生活)越狱提示，不影响任何插件注入�
 Author: 来了老弟 h_h_x_t
 Name: 阳光惠生活去越狱提示-rootless
 
+Package: cn.llld.yghsh
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/阳光惠生活去越狱提示-rootful_1.1_iphoneos-arm.deb
+Size: 2946
+MD5sum: 00efd9f66ed5dccf074514263a0c2676
+SHA1: 9b98cdd1555d865b31877b57c5c45446a06b9f04
+SHA256: 3db90ddbbef3e57b41080f0b3ab300656db7c7f976fe008c4139752ba4e9d7dd
+Section: rootful屏蔽弹窗
+Description: 去掉(阳光惠生活)越狱提示，不影响任何插件注入使用
+Author: 来了老弟 h_h_x_t
+Name: 阳光惠生活去越狱提示-rootful
+
 Package: com.llld.bfb
 Version: 0.1-1
 Architecture: iphoneos-arm64e
