@@ -1580,6 +1580,22 @@ Name: HideNoHomeBar-rootless
 
 Package: cn.llld.yghsh
 Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/阳光惠生活去越狱提示-roothide_1.1_iphoneos-arm64e.deb
+Size: 2962
+MD5sum: ef3a08e64dd1592c9aecf4d66bc74889
+SHA1: a058c1bb045ff53afd4800ea740bfbc761d7610e
+SHA256: 58591da5d20177b8163689d11fd316054108970c1c35323a0b97fcd697b7d384
+Section: roothide屏蔽弹窗
+Description: 去掉(阳光惠生活)越狱提示，不影响任何插件注入使用
+Author: 来了老弟 h_h_x_t
+Name: 阳光惠生活去越狱提示-roothide
+
+Package: cn.llld.yghsh
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Installed-Size: 168
