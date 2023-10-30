@@ -109,6 +109,22 @@ Description: Quick gestures, you can set Main screen the left, middle, and right
 Author: P2KDev <p2kdev@gmail.com>
 Name: EZSwipe-roothide
 
+Package: cn.llld.1a1
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/1a1时间主宰-rootless_1.3_iphoneos-arm64.deb
+Size: 3870
+MD5sum: 74e5256ec2795a03df517611faf072a8
+SHA1: 509b78393182fa24869ad9799d71553322d084d7
+SHA256: afb7180c3e5f8ec31dd2bee1dc8f457eed9f32366272ac1837a92886b2f87843
+Section: rootless插件
+Description: 微信净化，抖音净化永在你心（本身自用的，常聊天的群里发下视频被泄漏了，加友信息不断，索性发布，我也是做定期更新，没了的时候来我源里更新安装（关于抖音内就有源地址），非月月掉，全看我心意，起步让你们耍几个月吧）
+Author: 来了老弟 h_h_x_t
+Name: 1a1时间主宰-rootless
+
 Package: cn.llld.appdata
 Version: 0.0.1-4+debug
 Architecture: iphoneos-arm64e
