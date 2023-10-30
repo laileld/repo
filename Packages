@@ -574,10 +574,10 @@ Maintainer: 来了老弟
 Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/dy抖音去掉发布+号功能-rootless_0.0.1_iphoneos-arm64.deb
-Size: 2548
-MD5sum: f1a6957ceffe99ec1226eb68a3a03a97
-SHA1: 3f30b0d34f714bd11a0b302c7ce6d0329bfa55a6
-SHA256: 7de436706c84880ff2e203bb5a4094c381020d6a147ae95089cef7ce1a2a9e43
+Size: 2578
+MD5sum: 413793a5c2bba968641f8740fd01786c
+SHA1: 5811e35f872ccdd771454dac7d89dca31b12c3e1
+SHA256: f980623675e1d8aa9c0244bb10fa55f01d343cc30da8efc35a2541f3ccfafde3
 Section: rootless插件
 Description: 抖音去掉发布+号功能，不想一不小心看到自己这张帅脸
 Author: 来了老弟 h_h_x_t
