@@ -567,6 +567,22 @@ Description: Dock 5 icons (Dock5个图标)---roothide
 Author: 来了老弟
 Name: Dock5个图标-roothide
 
+Package: cn.llld.dy
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/dy抖音去掉发布+号功能-rootless_0.0.1_iphoneos-arm64.deb
+Size: 2548
+MD5sum: f1a6957ceffe99ec1226eb68a3a03a97
+SHA1: 3f30b0d34f714bd11a0b302c7ce6d0329bfa55a6
+SHA256: 7de436706c84880ff2e203bb5a4094c381020d6a147ae95089cef7ce1a2a9e43
+Section: rootless插件
+Description: 抖音去掉发布+号功能，不想一不小心看到自己这张帅脸
+Author: 来了老弟 h_h_x_t
+Name: dy抖音去掉发布+号功能-rootless
+
 Package: cn.llld.ersatz
 Version: 1.0
 Architecture: iphoneos-arm64e
