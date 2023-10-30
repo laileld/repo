@@ -1642,6 +1642,21 @@ Description: 去掉(阳光惠生活)越狱提示，不影响任何插件注入�
 Author: 来了老弟 h_h_x_t
 Name: 阳光惠生活去越狱提示-rootful
 
+Package: cn.tool.aphrodite-debug
+Version: 0.6.13~Modify
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/rootless/cn.tool.aphrodite-debug_rootless.deb
+Size: 1582412
+MD5sum: bb135ec0b36dd5d25f8eafadb718ce25
+SHA1: 0f752abebe018f95a8460a4a16d69fe524c31cf2
+SHA256: 6b83e9049af225fecb9222be7c255c99f49d23d208a6b593eea56511078794e1
+Section: rootless插件
+Description: Asset.car,View the resource pictures in the native system car and save the necessary ones，查看原生系统car文件中的资源图片，保存有需要的
+Author: Joey GM & Acreson
+Name: Aphrodite-Assets文件查看
+
 Package: com.llld.bfb
 Version: 0.1-1
 Architecture: iphoneos-arm64e
