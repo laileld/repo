@@ -204,6 +204,21 @@ Description: Playing photos and videos in the album can produce picture-in-pictu
 Author: MiRO 来了老弟
 Name: AVPhotos照片视频画中画-rootless
 
+Package: cn.llld.callkitkt
+Version: 0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: firmware (>=14.0), mobilesubstrate
+Filename: ./debs/rootless/单独开启callkit(rootless).deb
+Size: 3248
+MD5sum: 1f9c54e7f052e4304cfe6c823830d054
+SHA1: ecb8e56c1aaba36862b34a6d95e3c466f39e40a5
+SHA256: bd8ea7653c59d248b300889f27d8a3c1f66048f658f07b4cd8033f507d8df6d4
+Section: rootless-wx插件
+Description: 单独开启callkit，适用于8.0.34以下，以上自测，觉得不可行就卸载吧，功能单一，没有改进的空间
+Author: 来了老弟 h_h_x_t
+Name: 仅开启CallKit-rootless
+
 Package: cn.llld.cocoatop
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -1371,6 +1386,21 @@ Description: Global custom vibration feedback全局自定义震动反馈，设�
 Author: SynnyG 来了老弟
 Name: Vibrato全局自定义震动-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.vibrato/js_Vibrato_rootless.json
+
+Package: cn.llld.wxyybb
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Filename: ./debs/rootless/wx文本播报-rootless.deb
+Size: 4476
+MD5sum: 2891902baaed9fbda1a58decadfbd0e6
+SHA1: b289a4e5d76cd817129b1eea6a04fcbd9570917b
+SHA256: e39c7bbbedb9f7804cc0463b57c05ac854538f704748cd9820fe1606ef602c14
+Section: rootless-wx插件
+Description: 原名motherwc，作用：点击wx文本，语音播报信息,应多人需要再上架
+Author: sunweiliang
+Name: wx文本语音播报-rootless
 
 Package: cn.llld.ycdock
 Version: 1.0
