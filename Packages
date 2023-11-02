@@ -598,6 +598,22 @@ Description: 透明(爱心,评论,收藏,分享)的图层，保留原先文字�
 Author: 来了老弟 h_h_x_t
 Name: DY抖音图层透明-rootless
 
+Package: cn.llld.dyst
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/DY抖音图层透明-rootful_1.0_iphoneos-arm.deb
+Size: 3190
+MD5sum: f243c804f694cd0b0b6495110d720c9a
+SHA1: 51b65967408d4a6b7c8e1207265c6cf73a91d3ca
+SHA256: 406e0c598cb58a54c03cc89dab97c81f24bda13b536f5ef6b6ab9dc4b9d68a1d
+Section: rootful插件
+Description: 透明(爱心,评论,收藏,分享)的图层，保留原先文字数量及点击功能，让观赏视频的视野更开阔
+Author: 来了老弟 h_h_x_t
+Name: DY抖音图层透明-rootful
+
 Package: cn.llld.ersatz
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -834,6 +850,38 @@ Section: rootless隐藏专区
 Description: hide page dots隐藏页面点(rootless)
 Author: 来了老弟
 Name: 隐藏桌面翻页点-rootless
+
+Package: cn.llld.htmh
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/切换后台app模糊-rootless_1.0_iphoneos-arm64.deb
+Size: 3324
+MD5sum: 6235beabd556dd65ff2c3cd4288ab8d3
+SHA1: 2a2f5e7eedc95243abb7c8d0cd659a412fc57cdf
+SHA256: 73f431b15762b55c4486cad79afb8f3098d1a29a4cfe09811fcf9a5a485719b7
+Section: rootless插件
+Description: Switch the background blur effect.切换后台模糊效果,非高斯模糊，没找到好的写法，要么只能五颜六色，先发个版本（低斯模糊）凑合下，有针对所有后台应用时再更新
+Author: 来了老弟 h_h_x_t
+Name: 切换后台app模糊-rootless
+
+Package: cn.llld.htmh
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/切换后台app模糊-rootful_1.0_iphoneos-arm.deb
+Size: 3244
+MD5sum: 01dd3dc9a441ccd542ef13cc2c7af6c1
+SHA1: 014abd9e9298b8edd5acca2547e58453d5981903
+SHA256: a8c2b92096ca1425ec8f552fb1964410216a399ce0df1ab9686493d00ea8781b
+Section: rootful插件
+Description: Switch the background blur effect.切换后台模糊效果,非高斯模糊，没找到好的写法，要么只能五颜六色，先发个版本（低斯模糊）凑合下，有针对所有后台应用时再更新
+Author: 来了老弟 h_h_x_t
+Name: 切换后台app模糊-rootful
 
 Package: cn.llld.igg
 Version: 0.0.1
