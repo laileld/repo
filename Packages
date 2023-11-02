@@ -582,6 +582,22 @@ Description: Dock 5 icons (Dock5个图标)---roothide
 Author: 来了老弟
 Name: Dock5个图标-roothide
 
+Package: cn.llld.dyst
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/DY抖音图层透明-rootless_1.0_iphoneos-arm64.deb
+Size: 3268
+MD5sum: 246712d9f2162bcf6590afee920d2729
+SHA1: 5b345ae6b19b005d8d94d3fd4fe48839148047cf
+SHA256: 8f452b04cafadf56ff3f7f0d32a40afef1cba9e0d0616151edae2f3e7913700c
+Section: rootless插件
+Description: 透明(爱心,评论,收藏,分享)的图层，保留原先文字数量及点击功能，让观赏视频的视野更开阔
+Author: 来了老弟 h_h_x_t
+Name: DY抖音图层透明-rootless
+
 Package: cn.llld.ersatz
 Version: 1.0
 Architecture: iphoneos-arm64e
