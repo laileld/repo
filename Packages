@@ -614,6 +614,38 @@ Description: 透明(爱心,评论,收藏,分享)的图层，保留原先文字�
 Author: 来了老弟 h_h_x_t
 Name: DY抖音图层透明-rootful
 
+Package: cn.llld.dyst
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/DY抖音图层透明-rootless_1.1_iphoneos-arm64.deb
+Size: 3294
+MD5sum: 17d0a089cf26f9cd7f757f86cd159ccd
+SHA1: e421feba7877b911530fd274426612da9b5c2d2b
+SHA256: 2bcdeae333233d81496a86ac3e0c28bcd7b1d8918a86cd0889dbf9df08871a99
+Section: rootless插件
+Description: 透明(爱心,评论,收藏,分享)的图层，保留原先文字数量及点击功能，让观赏视频的视野更开阔，支持抖音和抖音极速版
+Author: 来了老弟 h_h_x_t
+Name: DY抖音图层透明-rootless
+
+Package: cn.llld.dyst
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/DY抖音图层透明-rootful_1.1_iphoneos-arm.deb
+Size: 3216
+MD5sum: c9dc05880eeaa5799cd34a768a180c00
+SHA1: 2fc17b4c4615c404b48e576965a557adf4831aae
+SHA256: 7445646890c7eedba33086a9410c858d56969e274b855edad25daa0ef7987b3a
+Section: rootful插件
+Description: 透明(爱心,评论,收藏,分享)的图层，保留原先文字数量及点击功能，让观赏视频的视野更开阔，支持抖音极速版
+Author: 来了老弟 h_h_x_t
+Name: DY抖音图层透明-rootful
+
 Package: cn.llld.ersatz
 Version: 1.0
 Architecture: iphoneos-arm64e
