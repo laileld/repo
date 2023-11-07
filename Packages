@@ -1497,22 +1497,6 @@ Description: 原名motherwc，作用：点击wx文本，语音播报信息,应�
 Author: sunweiliang
 Name: wx文本语音播报-rootless
 
-Package: cn.llld.ycbjwb
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 h_h_x_t
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/隐藏小部件下的文本标签-rootless_1.0_iphoneos-arm64.deb
-Size: 3210
-MD5sum: 5b38083b800cad1d35d7fd654e797504
-SHA1: 87432f68c048d3ddbfb0836fd61ba6b2418bc89b
-SHA256: 93b02c0ab44260fd196556177276bf03a359b36b24f7a98702d0acd3e29611ee
-Section: rootless隐藏专区
-Description: Hide text labels under desktop widgets。隐藏桌面小部件下的文本标签
-Author: 来了老弟 h_h_x_t
-Name: 隐藏小部件下的文本标签-rootless
-
 Package: cn.llld.ycdock
 Version: 1.0
 Architecture: iphoneos-arm64e
