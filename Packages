@@ -331,37 +331,21 @@ Description: This tweak makes ControlCenter cool! Compatible with iOS 15/roothid
 Author: alias20
 Name: CoolCC Reborn-roothide
 
-Package: cn.llld.copy
-Version: 0.0.1-2
+Package: cn.llld.copy1
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/copy-text_0.0.1-2+debug_iphoneos-arm64.deb
-Size: 5220
-MD5sum: 5b1d942057ca44c65f679542f20ebaca
-SHA1: 0c81124669a80c3a0f5bf3d4d0c4f0ee51631d6f
-SHA256: 03cc28d0c1e1224582632d1372ea74d362dccb9b5133b6588180a60e115f4cc4
+Filename: ./debs/rootless/Copy-text-rootless_1.1_iphoneos-arm64.deb
+Size: 6160
+MD5sum: 435d150237dc6a21feecc7f3e4a5dd78
+SHA1: a8d5fe0d035308266b319be464ce45f2aa993ed5
+SHA256: 203995aa771cd4dfb740211668c122560566234a483188b73dc2cf755d5d4ed3
 Section: rootless插件
-Description: Individual text can be copied by long-pressing in the (settings and appstore and message), currently in the testing phase, and more support will be added in future updates.（设置,appstore,短信）个别文本长按可复制，现处于测试阶段等后续更新支持更多
+Description: Individual text can be copied by long-pressing in the (settings and appstore and message and cocoatop,sileo,saily,QQ), currently in the testing phase, and more support will be added in future updates.（设置,appstore,短信，cocoatop,sileo,saily,QQ）短按复制文本内容，现处于测试阶段等后续更新支持更多,20231107更新修复交互和点击bug
 Author: 来了老弟
-Name: copy-text-rootless
-
-Package: cn.llld.copy
-Version: 0.0.1-41
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/copy-text_0.0.1-4+debug_iphoneos-arm64.deb
-Size: 5624
-MD5sum: ae9e0c65bdd8891eb9f48a562974078e
-SHA1: 9cde5f961a21426c51522009fcac50a8dd7dc6ee
-SHA256: 6f70d5d10277c9ebfbf40edd4fe0288f536d6835ccfe0119de097d780bb40d7c
-Section: rootless插件
-Description: (Text copied by long-pressing is available for Settings, App Store, and Messages. This feature is currently in the testing phase, and future updates will support more applications. This plugin is designed for special situations. For buttons that cannot be clicked, long-pressing will enable their functionality. However, this may sometimes affect the user experience, so it is not recommended to install unless necessary.)（设置,appstore,短信）文本长按可复制，现处于测试阶段，等后续更新支持更多,特殊时期用的插件，不能点击的按钮先长按一下，即可使用了，这个有时会影响体验，如非必要情况。不建议安装
-Author: 来了老弟
-Name: Copy---text-rootless
+Name: Copy-text-rootless
 
 Package: cn.llld.customizecchh
 Version: 0.0.1
