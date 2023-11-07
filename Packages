@@ -1090,6 +1090,21 @@ Description: Press the key to enter safe mode or logout mode按键进入安全�
 Author: Renaitare
 Name: Panic快捷进入安全注销-rootless
 
+Package: cn.llld.randomiconsflip
+Version: 0.3-20
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, firmware (>= 4.0)
+Filename: ./debs/rootless/Random Icon Flip翻转图标-rootless.deb
+Size: 12068
+MD5sum: f67690902e34812e2e462b1de3f0c134
+SHA1: 17d6afab32f5f663d2e5ec2e08496d197cff499a
+SHA256: 3a2d9bbddf676f8c3b0a265de3eadcf1eea94e2af67414305f1bd0c18baa84c6
+Section: rootless修复插件
+Description: 随机翻转主屏幕图标_________仅测试用,有问题卸载
+Author: Elias Limneos <iphone@limneos.net>
+Name: Random Icon Flip翻转图标-rootless
+
 Package: cn.llld.reddit
 Version: 0.0.1
 Architecture: iphoneos-arm64
