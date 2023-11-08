@@ -900,22 +900,6 @@ Author: 来了老弟 h_h_x_t
 Name: 切换后台app模糊-rootful
 
 Package: cn.llld.igg
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/igg汉化-rootless_0.0.1_iphoneos-arm64.deb
-Size: 6282
-MD5sum: debe344b8249a6e197e87dc6ec7e98fb
-SHA1: 3a4ef6e3bba63dcad902ab812f0f85daa3a2070b
-SHA256: 1384ed36e3ab56069ef05a6da35a1af44739c9face783a8bf68b710ee0ad9dd4
-Section: rootless汉化补丁
-Description: igg汉化，iGameGod汉化，神秘靓仔定制汉化-rootless
-Author: 来了老弟
-Name: igg汉化-rootless
-
-Package: cn.llld.igg
 Version: 0.0.2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
@@ -1104,22 +1088,6 @@ Section: rootless修复插件
 Description: 随机翻转主屏幕图标_________仅测试用,有问题卸载
 Author: Elias Limneos <iphone@limneos.net>
 Name: Random Icon Flip翻转图标-rootless
-
-Package: cn.llld.reddit
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/Reddit汉化-rootless_0.0.1_iphoneos-arm64.deb
-Size: 11028
-MD5sum: 3bac40b4630c5a1dc6d4bf915d7e6485
-SHA1: 09fe19488153717e588f5e224beacec9687f4c05
-SHA256: bc67a83d9e198dac9538733007e02c1995fed921a5c49117e618bbab0ea2b379
-Section: rootless汉化补丁
-Description: Reddit界面、设置、功能汉化(rootless)简体中文包
-Author: 来了老弟
-Name: Reddit汉化-rootless
 
 Package: cn.llld.reddit
 Version: 0.0.2
