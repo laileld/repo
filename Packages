@@ -332,18 +332,18 @@ Author: alias20
 Name: CoolCC Reborn-roothide
 
 Package: cn.llld.copy1
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/Copy-text-rootless_1.1_iphoneos-arm64.deb
-Size: 6160
-MD5sum: 435d150237dc6a21feecc7f3e4a5dd78
-SHA1: a8d5fe0d035308266b319be464ce45f2aa993ed5
-SHA256: 203995aa771cd4dfb740211668c122560566234a483188b73dc2cf755d5d4ed3
+Filename: ./debs/rootless/Copy-text-rootless_1.2_iphoneos-arm64.deb
+Size: 6348
+MD5sum: f6df5f653bd7ae3e7a6d96d8cd330444
+SHA1: 5e89cffc554fd6f59ac12eb49f4b4f2a15155a88
+SHA256: fef3fa7eedd0b62a59b02b695046c18e85345ff7789a56577297296a1276b4a2
 Section: rootless插件
-Description: Individual text can be copied by long-pressing in the (settings and appstore and message and cocoatop,sileo,saily,QQ), currently in the testing phase, and more support will be added in future updates.（设置,appstore,短信，cocoatop,sileo,saily,QQ）短按复制文本内容，现处于测试阶段等后续更新支持更多,20231107更新修复交互和点击bug
+Description: Individual text can be copied by long-pressing in the (settings and appstore and message and cocoatop,sileo,saily,QQ), currently in the testing phase, and more support will be added in future updates.（设置,appstore,短信，cocoatop,sileo,saily,QQ）短按复制文本内容，现处于测试阶段等后续更新支持更多,20231107更新修复交互和点击bug，20231109优化速度反应
 Author: 来了老弟
 Name: Copy-text-rootless
 
