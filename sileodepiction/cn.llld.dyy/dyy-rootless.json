@@ -10,7 +10,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Custom phone image, image path （/var/mobile/llld.jpg）png Format is also acceptable.\n\n靓仔定制自定义电话图片，图片路径（/var/mobile/llld.jpg）llld.png也可以,更换后注销生效，若2种图片格式名都存在，已最后设置的为主\n\n作用：拨打电话或来电都是你指定的背景图。",
+          "markdown": "Custom phone image, image path （/var/mobile/llld.jpg）png Format is also acceptable."\n""\n"靓仔定制自定义电话图片，图片路径（/var/mobile/llld.jpg）llld.png也可以,更换后注销生效，若2种图片格式名都存在，以最后设置的为主"\n""\n"作用：拨打电话或来电都是你指定的背景图。",
           "useRawFormat": true
         },
         {
@@ -56,7 +56,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2.11",
+          "text": "1.4",
           "title": "最新版本"
         },
         {
@@ -67,7 +67,7 @@
          {
           "class": "DepictionTableTextView",
           "text": "来了老弟 h_h_x_t",
-          "title": "兼容dopamine"
+          "title": "支持dopamine"
         },
         {
           "class": "DepictionTableTextView",
