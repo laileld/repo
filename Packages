@@ -662,6 +662,23 @@ Description: Custom phone image, image path （/var/mobile/llld.jpg）靓仔定�
 Author: 来了老弟 h_h_x_t
 Name: 自定义电话图片-rootless
 
+Package: cn.llld.dyy
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/自定义电话图片-rootless_1.4_iphoneos-arm64.deb
+Size: 3864
+MD5sum: 594bc5b901822bd3bc60d2bb653e3f67
+SHA1: 49ada2e9f1421d85ac861c2b76374d31f31dda7d
+SHA256: a14dc977c27b4f3d724074411e02b72557b107470da15864c01ee989c7e143cd
+Section: rootless插件
+Description: Custom phone image, image path （/var/mobile/llld.jpg）png Format is also acceptable.靓仔定制自定义电话图片，图片路径（/var/mobile/llld.jpg）llld.png也可以，作用：拨打电话或来电都是你指定的背景图。
+Author: 来了老弟 h_h_x_t
+Name: 自定义电话图片-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.dyy/dyy-rootless.json
+
 Package: cn.llld.ersatz
 Version: 1.0
 Architecture: iphoneos-arm64e
