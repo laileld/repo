@@ -630,6 +630,22 @@ Description: 透明(爱心,评论,收藏,分享)的图层，保留原先文字�
 Author: 来了老弟 h_h_x_t
 Name: DY抖音图层透明-rootful
 
+Package: cn.llld.dyy
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/自定义电话图片-rootless_1.2_iphoneos-arm64.deb
+Size: 3244
+MD5sum: f0ddf46ae2d029c2d55d6260f1473439
+SHA1: d0daa7e16909636f737c0ce0de77e6b498cb7074
+SHA256: 865f3895c22957a147801254332219dcd5c6d0a4b2f9cd9d20eec9ec0e2cbeff
+Section: rootless插件
+Description: Custom phone image, image path （/var/mobile/llld.jpg）靓仔定制自定义电话图片，图片路径（/var/mobile/llld.jpg），作用：拨打电话或来电都是你指定的背景图
+Author: 来了老弟 h_h_x_t
+Name: 自定义电话图片-rootless
+
 Package: cn.llld.ersatz
 Version: 1.0
 Architecture: iphoneos-arm64e
