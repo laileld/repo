@@ -116,11 +116,11 @@ Maintainer: 来了老弟 h_h_x_t
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/隐藏播放器通知背景2-rootless_1.0_iphoneos-arm64.deb
-Size: 3576
-MD5sum: 4a0933a55fb3957af8eab442922f4973
-SHA1: 2a654a477a84f2f3b118158115bb42c905f26d0b
-SHA256: 8706c20fab027ce1cbf239137609a7ce272887c7ae14f0806e381b1c5b381b12
-Section: rootless插件
+Size: 3660
+MD5sum: b77dc994d9bef37b729c002b92afdac1
+SHA1: f26419434142ddc8920169bfe6300c503d9cbb64
+SHA256: cf76914d1364b5daa457cdf7a3b1d285d16d80c02829adcfaa7acbce3f0f375d
+Section: rootless隐藏专区
 Description: Hide player Notification background。半透版本，隐藏播放器通知背景2-rootless
 Author: 来了老弟 h_h_x_t
 Name: 隐藏播放器通知背景2-rootless
@@ -1114,11 +1114,11 @@ Maintainer: 来了老弟 h_h_x_t
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/隐藏播放器通知背景-rootless_1.0_iphoneos-arm64.deb
-Size: 3618
-MD5sum: 2d9f313788541d00e00d3d44f771113d
-SHA1: f7d82209f89d53c16563999b078d4f693f6fb1f7
-SHA256: 3e7493e4c12973975ffb57a890344a10a995f9085f11bb10bc6e391658943db0
-Section: rootless插件
+Size: 3700
+MD5sum: c0169e2cb697111ae81405fd9fe720b9
+SHA1: c104d262eb73ef37767d8948016d002f3c0ccc02
+SHA256: bc218983e3a191a2ba1df2b3ff173c27616e66859a213063ef9a5ba02b56d8f5
+Section: rootless隐藏专区
 Description: Hide player Notification background。全透版本，隐藏播放器通知背景-rootless
 Author: 来了老弟 h_h_x_t
 Name: 隐藏播放器通知背景-rootless
