@@ -109,6 +109,22 @@ Description: Quick gestures, you can set Main screen the left, middle, and right
 Author: P2KDev <p2kdev@gmail.com>
 Name: EZSwipe-roothide
 
+Package: cn.llld.2playerbj
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/隐藏播放器通知背景2-rootless_1.0_iphoneos-arm64.deb
+Size: 3576
+MD5sum: 4a0933a55fb3957af8eab442922f4973
+SHA1: 2a654a477a84f2f3b118158115bb42c905f26d0b
+SHA256: 8706c20fab027ce1cbf239137609a7ce272887c7ae14f0806e381b1c5b381b12
+Section: rootless插件
+Description: Hide player Notification background。半透版本，隐藏播放器通知背景2-rootless
+Author: 来了老弟 h_h_x_t
+Name: 隐藏播放器通知背景2-rootless
+
 Package: cn.llld.appdata
 Version: 0.0.1-4+debug
 Architecture: iphoneos-arm64e
