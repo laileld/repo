@@ -964,6 +964,22 @@ Description: igg汉化，iGameGod汉化，神秘靓仔定制汉化-rootful
 Author: 来了老弟
 Name: igg汉化-rootful
 
+Package: cn.llld.iyzico
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/iyzico过越狱检测-rootless_0.0.1_iphoneos-arm64.deb
+Size: 3106
+MD5sum: c690e8c12956553a30b95fc44ccc93d3
+SHA1: 54c52536e25cd29a72a5cddae18517ca6c530d39
+SHA256: e6a36442fd284206c63f87039a8283f8faf8d22499533a926811119b944b4cfa
+Section: rootless插件
+Description: Skip jailbreak detection(iyzico跳过越狱检测)-rootless
+Author: 来了老弟
+Name: iyzico过越狱检测-rootless
+
 Package: cn.llld.jjyh
 Version: 0.0.1
 Architecture: iphoneos-arm64
