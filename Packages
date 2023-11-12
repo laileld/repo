@@ -1140,6 +1140,22 @@ Description: Request for notification permissions, local storage permissions, ac
 Author: 来了老弟 h_h_x_t
 Name: Permission权限申请-rootless
 
+Package: cn.llld.qxsq
+Version: 1.01
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/Permission权限申请-rootless_1.01_iphoneos-arm64.deb
+Size: 5630
+MD5sum: 3b726cd027c050e17952f6e3e6cb0e6e
+SHA1: 294d58d3fdd337fed2f070a73223691ffdb375fc
+SHA256: 33daeb1b44f4660db2a3d086a9c3c5cc1c3c83819f7a86a51f5f6cb46d8b4e44
+Section: rootless插件
+Description: Request for notification permissions, local storage permissions, access to photos, contacts permissions, location permissions, and camera permissions. Main use case: Some apps require permissions without displaying prompts or providing settings. This plugin will request all permissions upon app launch, your can be uninstalled after use.通知权限，本地存储权限，访问照片，通讯录权限，定位权限，相机权限。主要作用场景：某些软件需要权限却没有弹窗或设置里也没有，此插件将在所有应用启动时全部申请，你可以用完就卸载哈-rootless
+Author: 来了老弟 h_h_x_t
+Name: Permission权限申请-rootless
+
 Package: cn.llld.randomiconsflip
 Version: 0.3-20
 Architecture: iphoneos-arm64
