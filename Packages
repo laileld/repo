@@ -1156,6 +1156,23 @@ Author: 来了老弟 h_h_x_t
 Name: 隐藏播放器通知背景-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.playerbj/playerbj-rootless.json
 
+Package: cn.llld.playerbj
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/隐藏播放器通知背景-rootful_1.0_iphoneos-arm.deb
+Size: 3548
+MD5sum: b002ecfc3eb52dc74b86b2fa1783ce80
+SHA1: 0d65eb45695dc49bdc6907f3e4d666322a74f8f4
+SHA256: 4722db221559cdf6c3d79ae6f03a3f43a3c54cfea7b2a865068fe363d6f4cc3c
+Section: rootful插件
+Description: Hide player Notification background。全透版本，隐藏播放器通知背景-rootful
+Author: 来了老弟 h_h_x_t
+Name: 隐藏播放器通知背景-rootful
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.playerbj/playerbj-rootful.json
+
 Package: cn.llld.randomiconsflip
 Version: 0.3-20
 Architecture: iphoneos-arm64
