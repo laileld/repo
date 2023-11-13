@@ -791,6 +791,22 @@ Description: Develop your own tweaks and share them on the Flex Community Cloud.
 Author: John Coates
 Name: Flex 3 Beta-rootless
 
+Package: cn.llld.flex3ss
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/Flex3悬浮关键词-rootless_0.0.1_iphoneos-arm64.deb
+Size: 8848
+MD5sum: d155149bf0c309c6d24cd9920d0ff5fa
+SHA1: 616d26fa008c165ec1418605d34f8057293e2991
+SHA256: 88adfb5ac580430cae0a672322c38d51d882498844dc9f2868fae620727c4b2e
+Section: rootless插件
+Description: Added (search keyword floating window) in Flex3 Bate, suitable for Flex3 users who are studying or have limited vocabulary……Flex3 Bate内添加(搜索关键词悬浮窗)，适合在学习或词汇有限的Flex3用户，这是初版，只放了一点点关键词，不同应用自动搜索生成关键词的还在构思
+Author: 来了老弟 h_h_x_t
+Name: Flex3悬浮关键词-rootless
+
 Package: cn.llld.flexcopy
 Version: 1.0
 Architecture: iphoneos-arm64e
