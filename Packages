@@ -903,6 +903,22 @@ Name: 隐藏桌面翻页点-rootless
 
 Package: cn.llld.htmh
 Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/切换后台app模糊-roothide_1.0_iphoneos-arm64e.deb
+Size: 3674
+MD5sum: a8db508b4ce4819354f57f6f9883ca1e
+SHA1: 9f4eec668a5c4ce82b17cec10d2042e3a979c79a
+SHA256: 83eae167559f28798331a73fc91c65f6f1297182d8b31b87505c31e9c6025324
+Section: roothide插件
+Description: Switch the background blur effect.切换后台模糊效果,非高斯模糊，没找到好的写法，要么只能五颜六色，先发个版本（低斯模糊）凑合下，有针对所有后台应用时再更新
+Author: 来了老弟 h_h_x_t
+Name: 切换后台app模糊-roothide
+
+Package: cn.llld.htmh
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Installed-Size: 168
@@ -1139,6 +1155,23 @@ Section: rootless修复插件
 Description: Press the key to enter safe mode or logout mode按键进入安全模式或者注销模式_________仅测试用,有问题卸载
 Author: Renaitare
 Name: Panic快捷进入安全注销-rootless
+
+Package: cn.llld.playerbj
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/隐藏播放器通知背景-roothide_1.0_iphoneos-arm64e.deb
+Size: 3578
+MD5sum: f23304dd6c5b6d5c83e3571bf72835c1
+SHA1: 34225f7bd304e4562e74144ea2041e23b2c590ee
+SHA256: 674ce95ab0f62aca0557cdd9ecf1be931192b12c54b4c815289f94eb8998c734
+Section: roothide插件
+Description: Hide player Notification background。全透版本，隐藏播放器通知背景-roothide
+Author: 来了老弟 h_h_x_t
+Name: 隐藏播放器通知背景-roothide
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.playerbj/playerbj-rootless.json
 
 Package: cn.llld.playerbj
 Version: 1.0
