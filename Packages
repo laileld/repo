@@ -363,6 +363,22 @@ Description: Individual text can be copied by long-pressing in the (settings and
 Author: 来了老弟
 Name: Copy-text-rootless
 
+Package: cn.llld.copy1
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/Copy-text-roothide_1.3_iphoneos-arm64e.deb
+Size: 7290
+MD5sum: d6115d22c8e214c2daa8e95fd06c8009
+SHA1: 6332841e6ffa28a2a2258b385b298c4a0a6ec651
+SHA256: 3e825596bc7bf804bef50157bcc7e7e5c2a42aa07b9224dce7334315b878da81
+Section: roothide插件
+Description: Individual text can be copied by long-pressing in the (settings and appstore and message and cocoatop,sileo,saily,QQ), currently in the testing phase, and more support will be added in future updates.（设置,appstore,短信，cocoatop,sileo,saily,QQ）短按复制文本内容，现处于测试阶段等后续更新支持更多,20231107更新修复交互和点击bug，20231109优化速度反应
+Author: 来了老弟
+Name: Copy-text-roothide
+
 Package: cn.llld.customizecchh
 Version: 0.0.1
 Architecture: iphoneos-arm
