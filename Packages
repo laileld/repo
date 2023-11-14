@@ -427,22 +427,6 @@ Author: 来了老弟
 Name: CustomizeCC汉化-rootful
 
 Package: cn.llld.customizeccroothide
-Version: 1.1
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/CustomizeCC汉化-roothide.deb
-Size: 12096
-MD5sum: 4e0648ec97e8de84ddaec98f4d1aada4
-SHA1: 04c411c6ec4efbce3c949003f4bae90d3775e51a
-SHA256: 753a8459f8687b2cf43db5a9cd4a95609c81278c2db8007c936fe1ab3387ff80
-Section: roothide汉化补丁
-Description: CustomizeCC汉化-roothide
-Author: 来了老弟
-Name: CustomizeCC汉化-roothide
-
-Package: cn.llld.customizeccroothide
 Version: 1.2
 Maintainer: 来了老弟
 Installed-Size: 168
@@ -662,21 +646,6 @@ Description: Custom phone image, image path （/var/mobile/llld.jpg）png Format
 Author: 来了老弟 h_h_x_t
 Name: 自定义电话图片-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.dyy/dyy-rootless.json
-
-Package: cn.llld.ersatz
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Depends: mobilesubstrate
-Filename: ./debs/roothide/Ersatz替换文本插件-roothide.deb
-Size: 40388
-MD5sum: df184a3e9868ddec63036fc9fd9ca9ec
-SHA1: 87201d88c85ca31cdea57136a11f42153d0ded89
-SHA256: 6d793f1c0ed68e110dff5a049754731acc9b28f2f11c45128de4704253848dd8
-Section: roothide修复插件
-Description: Replace any text system-wide!替换系统范围内的任何文本！_________仅测试用,有问题卸载---roothide
-Author: Skitty 来了老弟
-Name: Ersatz替换文本插件-roothide
 
 Package: cn.llld.fivehome
 Version: 0.1
