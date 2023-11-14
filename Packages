@@ -648,6 +648,23 @@ Name: DY抖音图层透明-rootful
 
 Package: cn.llld.dyy
 Version: 1.4
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/自定义电话图片-roothide_1.4_iphoneos-arm64e.deb
+Size: 4244
+MD5sum: d6f0b3e96637bc5a0809e0f077587df0
+SHA1: 18b3f84a04e66c6c894ebd681b9956d83fc403a9
+SHA256: 61b7a34074da861ab9fbe951c5011d2a0f7beb9999913cb802e2a72d950e8bc3
+Section: roothide插件
+Description: Custom phone image, image path （/var/mobile/llld.jpg）png Format is also acceptable.靓仔定制自定义电话图片，图片路径（/var/mobile/llld.jpg）llld.png也可以，作用：拨打电话或来电都是你指定的背景图。已知问题：上下滑通知会闪一下
+Author: 来了老弟 h_h_x_t
+Name: 自定义电话图片-roothide
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.dyy/dyy-rootless.json
+
+Package: cn.llld.dyy
+Version: 1.4
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Installed-Size: 88

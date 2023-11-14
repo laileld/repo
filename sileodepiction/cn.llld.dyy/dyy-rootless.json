@@ -10,7 +10,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Custom phone image, image path （/var/mobile/llld.jpg）png Format is also acceptable.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n靓仔定制自定义电话图片，图片路径（/var/mobile/llld.jpg）llld.png也可以,更换后注销生效，若2种图片格式名都存在，以最后设定的为主。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n作用：拨打电话或来电都是你指定的背景图。",
+          "markdown": "Custom phone image, image path （/var/mobile/llld.jpg）png Format is also acceptable.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n靓仔定制自定义电话图片，图片路径（/var/mobile/llld.jpg）llld.png也可以,更换后注销生效，若2种图片格式名都存在，以最后设定的为主。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n作用：拨打电话或来电都是你指定的背景图。已知问题：上下滑通知会闪一下，介意卸载，或等更新。。。搬运勿乱改，不生效",
           "useRawFormat": true
         },
         {
