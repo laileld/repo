@@ -1,4 +1,21 @@
 Package: Flex3beta
+Version: 1:3~Beta99.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Filename: ./debs/rootless/Flex3beta_可解析应用无需兼容层rootless.deb
+Size: 16813632
+MD5sum: 1aa521f35a523dce2ecfbf923cb44daa
+SHA1: 4a121f2f47fb3a493807104dee9af036e8914d89
+SHA256: dd3c56035935b7a6a8362c7ec9a44eff6fd2d1cdfa51d852d20957e193c21f31
+Section: rootless修复插件
+Description: Develop your own tweaks and share them on the Flex Community Cloud. (. dopamine 版本flex3可解析应用，不用兼容层，粗体会闪退，此包是56版本改的，方便刷新源可见,建议正在学习或者会做补丁者使用(已知点击应用补丁列表不可以，需要搜索)~~~单独装此包只对第三方应用生效，对系统生效需要装另外一个包，安装前卸载现有的，你配置都在)-rootless
+Author: John Coates
+Name: Flex3 Beta可解析版-rootless
+
+Package: Flex3beta
 Version: 1:4
 Architecture: iphoneos-arm64e
 Maintainer: 来了老弟 h_h_x_t
@@ -775,23 +792,6 @@ Section: rootless插件
 Description: Solve the problem of phone keyboard shrinking and shifting after changing a large resolution.解决更改很大分辨率后电话键盘缩小和移位的问题。（适用于分辨率高度2850-3150）
 Author: 来了老弟 h_h_x_t
 Name: phonefix-rootless
-
-Package: cn.llld.flex3beta
-Version: 1:3~Beta99.1
-Architecture: iphoneos-arm64
-Maintainer: John Coates
-Depends: mobilesubstrate, firmware (>= 9.0)
-Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
-Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
-Filename: ./debs/rootless/Flex3beta_可解析应用无需兼容层rootless.deb
-Size: 16809572
-MD5sum: f0dd84a408eb5383eb66434483b66e3e
-SHA1: b3eca5717e641eacd864a45579cb6cba245df1ac
-SHA256: b60cd47e584ede8766c59ce9dc2fe4d99d91d99e6f93b6c596caeee1eb584788
-Section: rootless修复插件
-Description: Develop your own tweaks and share them on the Flex Community Cloud. (. dopamine 版本flex3可解析应用，不用兼容层，粗体闪退，此包是56版本改的，方便刷新源可见,单独装此包只对第三方生效，对系统生效需要装另外一个包，安装前卸载现有的，你配置都在)-rootless
-Author: John Coates
-Name: Flex 3 Beta-rootless
 
 Package: cn.llld.flex3ss
 Version: 0.0.1
