@@ -1916,6 +1916,22 @@ Description: 去掉(阳光惠生活)越狱提示，不影响任何插件注入�
 Author: 来了老弟 h_h_x_t
 Name: 阳光惠生活去越狱提示-rootful
 
+Package: cn.llld.zenith
+Version: 1.2.6
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14),oldabi
+Filename: ./debs/rootless/zenith应用堆叠-rootless.deb
+Size: 213420
+MD5sum: 8a0ccc38f63b36be3572ac7d5c1e5326
+SHA1: be65a8c46bc11932cff4b4dab12ff146f9a99d2e
+SHA256: 13fced13cd7a566dec14e0eb1f1a57715296b64529fa3d1e78bb832ff7a3a11e
+Section: 兼容层oldabi-rootless
+Description: Store desktop apps, stack apps，Requires installation Legacy arm64e Support。Picture demonstration in Chinese, actual language in English。收纳桌面App，堆叠App，需要安装Legacy arm64e Support
+Author: Muirey03 来了老弟
+Name: Zenith(Apex)App堆叠-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.zenith/zenith_rootless.json
+
 Package: cn.tool.aphrodite-debug
 Version: 0.6.13~Modify
 Architecture: iphoneos-arm64
