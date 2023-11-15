@@ -1918,6 +1918,21 @@ Name: 阳光惠生活去越狱提示-rootful
 
 Package: cn.llld.zenith
 Version: 1.2.6
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14),oldabi
+Filename: ./debs/roothide/zenith堆叠图标-roothide.deb
+Size: 231736
+MD5sum: a72d5c6e7dd8f3c45cf80872d398fda5
+SHA1: b8a8569e899ddd28c810342a09b3eb0f4c008cf2
+SHA256: 6c463f0dd3e0743f5b1b1a66811874567bb53c2c612b68006765c831da954527
+Section: roothide修复插件
+Description: Store desktop apps, stack apps。This is the first version with fixes (the + icon is not displayed but can be used, it will be fixed in the next version)。插件用途：一个桌面图标通过上划或下滑手势，存着多个应用。收纳桌面App，堆叠App，这是发出修复的初版(+号图标不显示但能用，下版本修复)_________仅测试用,有问题卸载---roothide
+Author: Muirey03 来了老弟
+Name: Zenith(Apex)App堆叠-roothide
+
+Package: cn.llld.zenith
+Version: 1.2.6
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14),oldabi
