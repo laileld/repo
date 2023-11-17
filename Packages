@@ -126,6 +126,22 @@ Description: Quick gestures, you can set Main screen the left, middle, and right
 Author: P2KDev <p2kdev@gmail.com>
 Name: EZSwipe-roothide
 
+Package: cn.llld.2dyst
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/DY抖音图层透明2-rootless_1.0_iphoneos-arm64.deb
+Size: 4286
+MD5sum: 1be13d46bc477ee9843e4db4ffb7c274
+SHA1: 6b3a97baf7aeca87960c75130c3ee95029b706a8
+SHA256: 63ffc15c437c9fda708cd872f8cd81fbe12970aed7ecfc3a35defe294fdf21f7
+Section: rootless插件
+Description: [0.2透明度右侧(爱心,评论,收藏,分享)的图层，保留原先文字数量及点击功能]。以及顶部直接隐藏(热点，直播，经验，直播，关注，推荐，等等),保留左滑，你还是可以切换，让观赏视频的视野更开阔，支持抖音和抖音极速版
+Author: 来了老弟 h_h_x_t
+Name: DY抖音图层透明2-rootless
+
 Package: cn.llld.2playerbj
 Version: 1.0
 Architecture: iphoneos-arm64
