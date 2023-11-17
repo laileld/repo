@@ -2041,6 +2041,22 @@ Description: Flexlist--(rootess)简体中文包
 Author: 来了老弟
 Name: Flexlist汉化-rootless
 
+Package: com.llld.flexlist
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/Flexlist汉化-rootless_0.0.1-3+debug_iphoneos-arm64.deb
+Size: 13056
+MD5sum: b7a72908f89d59966b5ebb1f1b35ca48
+SHA1: 4aa1fec7b32016f31884cd2dedc6bc2d63901304
+SHA256: 5f0da5d8eacf00ace2c35dcfc85ee22e59e67ead691dcb64deb3891c763e85b9
+Section: rootless汉化补丁
+Description: Flexlist--(rootess)简体中文包
+Author: 来了老弟
+Name: Flexlist汉化-rootless
+
 Package: com.llld.flexrootful
 Version: 0.0.31
 Architecture: iphoneos-arm
