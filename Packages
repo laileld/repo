@@ -905,22 +905,6 @@ Description: Specifically customized for Flex3, long press to copy the descripti
 Author: 来了老弟
 Name: flexcopy-rootful
 
-Package: cn.llld.flexlist
-Version: 0.0.1-3
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/Flexlist汉化_0.0.1-3_iphoneos-arm64.deb
-Size: 11588
-MD5sum: c178c356097190352d6ccf511178b221
-SHA1: 0ced39d7451deae7423913b656bce60ab3aa65f1
-SHA256: ba7382b90edf99733005b241961c244e5104b3c5f2b82eadab7979bd9cb619be
-Section: rootless汉化补丁
-Description: Flexlist--(rootess)简体中文包
-Author: 来了老弟
-Name: Flexlist汉化-rootless
-
 Package: cn.llld.flexroothide
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -2040,6 +2024,22 @@ Section: rootless修复插件
 Description: The phone automatically turns on Do Not Disturb mode when recording the screen.手机在录屏时，自动开启勿扰模式，安装无设置，注销生效_________仅测试，有问题请卸载
 Author: gilshahar7, 0xkuj
 Name: DNDMyRecording录屏勿扰模式-rootless
+
+Package: com.llld.flexlist
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/Flexlist汉化-rootless_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 12804
+MD5sum: 3bf5f99ae053cc3e70bf24e54de90889
+SHA1: 11b19733752f82ad40fa55aacb65b5cd432b0049
+SHA256: 5b47a55577abfc89bd2a9f175b801fd51d841cce9be33501dc2ef3d773320ed7
+Section: rootless汉化补丁
+Description: Flexlist--(rootess)简体中文包
+Author: 来了老弟
+Name: Flexlist汉化-rootless
 
 Package: com.llld.flexrootful
 Version: 0.0.31
