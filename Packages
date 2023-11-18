@@ -142,6 +142,22 @@ Description: [0.2透明度右侧(爱心,评论,收藏,分享)的图层，保留�
 Author: 来了老弟 h_h_x_t
 Name: DY抖音图层透明2-rootless
 
+Package: cn.llld.2dyst
+Version: 1.01
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/DY抖音图层透明2-rootless_1.01_iphoneos-arm64.deb
+Size: 5110
+MD5sum: db70b5a2ec068d9d4ba0087805e4ef46
+SHA1: 5d87496649be0475c03508b1697df9d45fa5555c
+SHA256: f5be583c68043377ca62a6acc6d5c6d4c27cadd445e81d997bace7d2eae9f003
+Section: rootless插件
+Description: 　[0.25透明度右侧(爱心,评论,收藏,分享)的图层，保留原先文字数量及点击功能]。　以及顶部直接隐藏(热点，直播，经验，直播，关注，推荐，等等),保留左滑，你还是可以切换。　隐藏刘海，让整个视频主体下移（不习惯就用旧版插件或者等我下个带设置项的），支持抖音和抖音极速版
+Author: 来了老弟 h_h_x_t
+Name: DY抖音图层透明2-rootless
+
 Package: cn.llld.2playerbj
 Version: 1.0
 Architecture: iphoneos-arm64
