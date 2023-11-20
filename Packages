@@ -2196,14 +2196,15 @@ Architecture: iphoneos-arm64
 Maintainer: x✨
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/DY抖音图层调整1.0.2-rootless.deb
-Size: 34232
-MD5sum: 1bd4951b8cdedd65a1fd7319899a4bce
-SHA1: ee1e09f758cbf5aec83f9ede0d5be016e32c0c1b
-SHA256: d6d8dbae24da67b9c4f42666c8ccfc9686d5da733885530d1003863f39aafb64
+Size: 34308
+MD5sum: c455d18f552e73995ecc5fdba4489f4a
+SHA1: bba4220b5e27a33fa3d2b2400ab5ff88c2c6f2be
+SHA256: b32fcf7f63eb6d460e4499d0a2bf6e0f09eba6a5271074987ec83c411e3448d8
 Section: rootless插件
-Description: 作者为人低调，这是他自用 ，首页视频界面双指双击弹出设置UI
+Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度
 Author: x✨
 Name: 抖音图层一些调整
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
 
 Package: llld.keyboard
 Version: 1.0

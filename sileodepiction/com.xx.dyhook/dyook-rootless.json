@@ -1,0 +1,92 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "",
+  "tintColor": "#FF4455",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "插件描述",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度,刷抖音更加清爽",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/IMG_5324.jpg"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "x✨",
+          "title": "开发作者"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.0.2",
+          "title": "最新版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "14.0 - 16.5",
+          "title": "支持系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2023 年 11 月 19 日",
+          "title": "最后更新日期"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0.2",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "抖音新工具，图层透明调节",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ]
+}
