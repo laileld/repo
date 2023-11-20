@@ -126,38 +126,6 @@ Description: Quick gestures, you can set Main screen the left, middle, and right
 Author: P2KDev <p2kdev@gmail.com>
 Name: EZSwipe-roothide
 
-Package: cn.llld.2dyst
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 h_h_x_t
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/DY抖音图层透明2-rootless_1.0_iphoneos-arm64.deb
-Size: 4286
-MD5sum: 1be13d46bc477ee9843e4db4ffb7c274
-SHA1: 6b3a97baf7aeca87960c75130c3ee95029b706a8
-SHA256: 63ffc15c437c9fda708cd872f8cd81fbe12970aed7ecfc3a35defe294fdf21f7
-Section: rootless插件
-Description: [0.2透明度右侧(爱心,评论,收藏,分享)的图层，保留原先文字数量及点击功能]。以及顶部直接隐藏(热点，直播，经验，直播，关注，推荐，等等),保留左滑，你还是可以切换，让观赏视频的视野更开阔，支持抖音和抖音极速版
-Author: 来了老弟 h_h_x_t
-Name: DY抖音图层透明2-rootless
-
-Package: cn.llld.2dyst
-Version: 1.01
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 h_h_x_t
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/DY抖音图层透明2-rootless_1.01_iphoneos-arm64.deb
-Size: 5110
-MD5sum: db70b5a2ec068d9d4ba0087805e4ef46
-SHA1: 5d87496649be0475c03508b1697df9d45fa5555c
-SHA256: f5be583c68043377ca62a6acc6d5c6d4c27cadd445e81d997bace7d2eae9f003
-Section: rootless插件
-Description: 　[0.25透明度右侧(爱心,评论,收藏,分享)的图层，保留原先文字数量及点击功能]。　以及顶部直接隐藏(热点，直播，经验，直播，关注，推荐，等等),保留左滑，你还是可以切换。　隐藏刘海，让整个视频主体下移（不习惯就用旧版插件或者等我下个带设置项的），支持抖音和抖音极速版
-Author: 来了老弟 h_h_x_t
-Name: DY抖音图层透明2-rootless
-
 Package: cn.llld.2playerbj
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -678,22 +646,6 @@ Section: rootful插件
 Description: 透明(爱心,评论,收藏,分享)的图层，保留原先文字数量及点击功能，让观赏视频的视野更开阔，支持抖音极速版
 Author: 来了老弟 h_h_x_t
 Name: DY抖音图层透明-rootful
-
-Package: cn.llld.dyst
-Version: 1.4
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 h_h_x_t
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/DY抖音图层透明-rootless_1.4_iphoneos-arm64.deb
-Size: 4352
-MD5sum: 59693c0221915a9ce94355a72066c9ed
-SHA1: 1ac0168c5de160f487b1057da2334f0fc2cbfacb
-SHA256: 3cfa4782105ca8edc48b79036d2e1e99771d7c8c22a54ea9de6a7e27de00934a
-Section: rootless插件
-Description: [透明右侧(爱心,评论,收藏,分享)的图层，保留原先文字数量及点击功能]。以及顶部(热点，直播，经验，直播，关注，推荐，等等),保留左滑，你还是可以切换，让观赏视频的视野更开阔，支持抖音和抖音极速版
-Author: 来了老弟 h_h_x_t
-Name: DY抖音图层透明-rootless
 
 Package: cn.llld.dyy
 Version: 1.4
@@ -2237,6 +2189,21 @@ Description: Alert Controller - Control UX and UI of your Alerts and Action Shee
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
 Dev: tomaszpoliszuk
 Name: Alert Controller-rootless
+
+Package: com.xx.dyhook
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/DY抖音图层调整1.0.2-rootless.deb
+Size: 34232
+MD5sum: 1bd4951b8cdedd65a1fd7319899a4bce
+SHA1: ee1e09f758cbf5aec83f9ede0d5be016e32c0c1b
+SHA256: d6d8dbae24da67b9c4f42666c8ccfc9686d5da733885530d1003863f39aafb64
+Section: rootless插件
+Description: 作者为人低调，这是他自用 ，首页视频界面双指双击弹出设置UI
+Author: x✨
+Name: 抖音图层一些调整
 
 Package: llld.keyboard
 Version: 1.0
