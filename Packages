@@ -1553,6 +1553,22 @@ Description: Press the volume up and down buttons simultaneously to quickly turn
 Author: Chr1s
 Name: TapFlash快速手电筒-roothide
 
+Package: cn.llld.tgsg
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/土嗨变色MusicTextcolour-rootless_0.0.1_iphoneos-arm64.deb
+Size: 6488
+MD5sum: 65ac93cae37f719d2f9091786a3dbd6a
+SHA1: b5a3c3bd1b5a3b1afc7e197d4bfeca1496309242
+SHA256: a47550fe81292f3eb2600927063e1dc6b804d1c8d2d2080046251b671792d5cb
+Section: rootless插件
+Description: Text discoloration of commonly used music listening software。常用听歌软件文字变色，土嗨插件，体验完即可卸载。。。。。通知和SpringBoard跑马灯我已注销代码了(有一点点耗电)，目前发出的版本电量方面使用和平常没有啥区别。
+Author: 来了老弟 h_h_x_t
+Name: 土嗨变色MusicTextcolour-rootless
+
 Package: cn.llld.thsj
 Version: 0.1-1
 Architecture: iphoneos-arm64
