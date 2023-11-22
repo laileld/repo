@@ -2224,6 +2224,22 @@ Name: Alert Controller-rootless
 
 Package: com.xx.dyhook
 Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/DY抖音图层调整1.0.2-rootless.deb
+Size: 34320
+MD5sum: f8827d2856e1dd96ff116d02f313aada
+SHA1: 45d2d74add77327806555f09762c0660ef64a9e1
+SHA256: 883547949fc9f3bdcee528ea70eb4aeb486c2c2247bc5a316a8380d0bdd57d93
+Section: rootless插件
+Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度
+Author: x✨
+Name: 抖音图层一些调整
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
+
+Package: com.xx.dyhook
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: x✨
 Depends: mobilesubstrate (>= 0.9.5000)
