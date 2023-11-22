@@ -568,6 +568,22 @@ Description: Add option to completely delete photos from albums为相册添加�
 Author: Netskao 来了老弟
 Name: DeletePhotosCompletely彻底删除照片-roothide
 
+Package: cn.llld.dhjj
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/电话精简收藏和语音留言-rootless_1.0_iphoneos-arm64.deb
+Size: 4184
+MD5sum: c024db1b68f04f6f2abdede2949b5371
+SHA1: 1071374368a1f62a9157b13ea38c24fbcd98243a
+SHA256: 50d8d645cf4b8060b3bf5780501409a257b52475eed01c9f066a664c18024299
+Section: rootless插件
+Description: Telephone streamlining personal collection and voice messages。电话精简个人收藏和语音留言
+Author: 来了老弟 h_h_x_t
+Name: 电话精简收藏和语音留言-rootless
+
 Package: cn.llld.dndmyrecording
 Version: 1.2.1
 Architecture: iphoneos-arm64e
@@ -2220,6 +2236,22 @@ Section: rootless插件
 Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度
 Author: x✨
 Name: 抖音图层一些调整
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
+
+Package: com.xx.dyhook
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: x✨
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/DY抖音图层调整-rootful.deb
+Size: 34612
+MD5sum: 694d0f7cbe21b13dd91308bcd4d2762b
+SHA1: 393972b6da7f5fd075a18d2d7b2f4e9eb9dc8c03
+SHA256: ae8c5d16102127bc90ffe7044d713f405cb4d3b1035731ef852b440969c0b6d9
+Section: rootful插件
+Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度
+Author: x✨
+Name: 抖音图层调整-rootful
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
 
 Package: llld.keyboard
