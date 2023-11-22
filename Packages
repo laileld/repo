@@ -809,6 +809,22 @@ Description: Added (search keyword floating window) in Flex3 Bate, suitable for 
 Author: 来了老弟 h_h_x_t
 Name: Flex3悬浮关键词-rootless
 
+Package: cn.llld.flexbd
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/Flex3开启修改新增补丁-rootless_1.0_iphoneos-arm64.deb
+Size: 3852
+MD5sum: e4dafecdd339d0de1b2edac00c2236bb
+SHA1: 521c4ef936b0472a326dab631558b46b7205b591
+SHA256: 84ba8c93189bea4ae4123cbea4f761a81d8b4e2e1b14db016e3fce664ea3cfc3
+Section: rootless插件
+Description: Flex3 Turn on the permission to modify the new patch。Flex3开启修改新增补丁的权限（不限于下载或他人分享的）
+Author: 来了老弟 h_h_x_t
+Name: Flex3开启修改新增补丁-rootless
+
 Package: cn.llld.flexcopy
 Version: 1.0
 Architecture: iphoneos-arm64e
