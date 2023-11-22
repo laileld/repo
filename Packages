@@ -617,22 +617,6 @@ Name: Dock5个图标-roothide
 
 Package: cn.llld.dyst
 Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 h_h_x_t
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/DY抖音图层透明-rootless_1.0_iphoneos-arm64.deb
-Size: 3268
-MD5sum: 246712d9f2162bcf6590afee920d2729
-SHA1: 5b345ae6b19b005d8d94d3fd4fe48839148047cf
-SHA256: 8f452b04cafadf56ff3f7f0d32a40afef1cba9e0d0616151edae2f3e7913700c
-Section: rootless插件
-Description: 透明(爱心,评论,收藏,分享)的图层，保留原先文字数量及点击功能，让观赏视频的视野更开阔
-Author: 来了老弟 h_h_x_t
-Name: DY抖音图层透明-rootless
-
-Package: cn.llld.dyst
-Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 来了老弟 h_h_x_t
 Installed-Size: 168
@@ -662,6 +646,22 @@ Section: rootful插件
 Description: 透明(爱心,评论,收藏,分享)的图层，保留原先文字数量及点击功能，让观赏视频的视野更开阔，支持抖音极速版
 Author: 来了老弟 h_h_x_t
 Name: DY抖音图层透明-rootful
+
+Package: cn.llld.dyst
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/DY抖音图层透明-rootless_1.4_iphoneos-arm64 15.10.19.deb
+Size: 4436
+MD5sum: ced269534a2733379d0981152007a09f
+SHA1: 0c4182a904dfea63da59ed8dc90c55f92c36124b
+SHA256: 24d76a3bb7dca2ddeaa578475579f80c9fd67c7d7cb3bc152ee566a579b9921e
+Section: rootless插件
+Description: [透明右侧(爱心,评论,收藏,分享)的图层，保留原先文字数量及点击功能]。以及顶部(热点，直播，经验，关注，推荐，等等),保留左滑，你还是可以切换，让观赏视频的视野更开阔，支持抖音和抖音极速版，静默生效，无设置
+Author: 来了老弟 h_h_x_t
+Name: DY抖音图层透明-rootless
 
 Package: cn.llld.dyy
 Version: 1.4
@@ -2221,22 +2221,6 @@ Description: Alert Controller - Control UX and UI of your Alerts and Action Shee
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
 Dev: tomaszpoliszuk
 Name: Alert Controller-rootless
-
-Package: com.xx.dyhook
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/DY抖音图层调整1.0.2-rootless.deb
-Size: 34308
-MD5sum: c455d18f552e73995ecc5fdba4489f4a
-SHA1: bba4220b5e27a33fa3d2b2400ab5ff88c2c6f2be
-SHA256: b32fcf7f63eb6d460e4499d0a2bf6e0f09eba6a5271074987ec83c411e3448d8
-Section: rootless插件
-Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度
-Author: x✨
-Name: 抖音图层一些调整
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
 
 Package: com.xx.dyhook
 Version: 1.0.2
