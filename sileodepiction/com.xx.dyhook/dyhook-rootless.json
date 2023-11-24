@@ -10,7 +10,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度,刷抖音更加清爽",
+          "markdown": "作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度,底部功能调整，刷抖音更加清爽",
           "useRawFormat": true
         },
         {
@@ -20,7 +20,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/IMG_5324.jpg"
+              "url": "https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/IMG_5642.JPG"
             }
           ]
         },
@@ -52,7 +52,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0.2",
+          "text": "1.0.3",
           "title": "最新版本"
         },
         {
@@ -62,7 +62,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2023 年 11 月 19 日",
+          "text": "2023 年 11 月 24 日",
           "title": "最后更新日期"
         },
         {
@@ -75,6 +75,17 @@
       "class": "DepictionStackView",
       "tabname": "更新日志",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0.3",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "抖音新工具，图层透明调节,修改排版，增加底部功能隐藏",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0.2",
