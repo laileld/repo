@@ -906,6 +906,21 @@ Description: Flex3--(roothide专用)简体中文包
 Author: 来了老弟
 Name: Flex3汉化包-roothide
 
+Package: cn.llld.hhxt
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X :h_h_x_t
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/rootless/心脏搭桥xina2-rootless.deb
+Size: 8868
+MD5sum: 4499b9eee52a11c1a0ddebe1ba76149d
+SHA1: 01158ed0f7fd706b5ebac8bbf27c65fb50cfc7f2
+SHA256: 37e47e148c1bb9b4e9c2ddac24880b1928f79b9c90afda0999936b6e62cbc0a8
+Section: rootless插件
+Description: rootful tweak can be used on xina2 or rootless (first release the first version, the root tweak is waiting for me to upload it, it is useless to install it alone, it needs to be combined with the tweak I uploaded)。让有根插件可以在xina2或者rootless上使用，(先发个初版，有根插件等我上传，单独装这个没用，需要搭配我上传的插件)
+Author: 来了老弟 h_h_x_t
+Name: xina-rootless心脏搭桥
+
 Package: cn.llld.hideallbar
 Version: 1.0
 Architecture: iphoneos-arm64e
