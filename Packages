@@ -554,22 +554,6 @@ Description: CustomizeCC汉化-rootless
 Author: 来了老弟
 Name: CustomizeCC汉化-rootless
 
-Package: cn.llld.deleteapp
-Version: 0.1-1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootless/桌面便捷删除app(rootless).deb
-Size: 14296
-MD5sum: 44dfc2b45f9de7b986e1ae64c4f2f3f4
-SHA1: 284e08f6865d67af0d02da5f61ec5f5a2c8a5a07
-SHA256: dd4b56a0fdbed0c0203384675ce0e6d80dcad1a7096f5b0565c5b6dc263e6bb2
-Section: rootless修复插件
-Priority: optional
-Description: Desktop Quick Delete App桌面快捷删除App
-Author: Mao
-Name: 桌面快捷删除App-rootless
-
 Package: cn.llld.deletephotoscompletely
 Version: 1.2-2
 Architecture: iphoneos-arm64e
