@@ -1126,6 +1126,23 @@ Description: 仅控制中心背景透明到桌面（单个模块没透），配�
 Author: 来了老弟
 Name: 控制中心透明-rootless
 
+Package: cn.llld.litten.rose
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0),cn.llld.hhxt
+Conflicts: love.litten.rose
+Filename: ./debs/rootless/rose_1.0.9_iphoneos-arm64.deb
+Size: 449740
+MD5sum: 7ded776fbdfcfcdbfa1673dd4366dd3c
+SHA1: 04529d8852a185717b7edd1dfb46787402d1fc2d
+SHA256: 80d5be4058841b19163f671abf35ae3efd70c1019010436fb0903438beb47af6
+Section: rootless修复插件
+Description: Global vibration configuration, covering almost any vibration adjustment that can be touched，全局震动配置，几乎覆盖能触摸的任意震感调节
+Author: Litten 来了老弟
+Name: Rose (振动配置)-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.litten.rose/rose_rootless.json
+
 Package: cn.llld.nc
 Version: 0.0.1
 Architecture: iphoneos-arm64e
