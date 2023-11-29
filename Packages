@@ -35,20 +35,20 @@ Sileodepiction: https://laileld.github.io/repo/sileodepiction/Flex3beta/js_Flex3
 Sponsor: 来了老弟  x: h_h_x_t
 
 Package: Flex3beta11
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X :h_h_x_t
 Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, com.abcydia.Flex3
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
 Filename: ./debs/rootless/Flex3-xina2-rootless.deb
-Size: 15188504
-MD5sum: 560341cbcb002f45cb4e2cab9ae77476
-SHA1: 16850665304833c225dd13dd8acd5739611c50c0
-SHA256: cd76f990c7506745d4120745a863d0560e88d960e483991f75d4ba7cee6e92d5
+Size: 15189052
+MD5sum: 13c6dc5efd3e9581fcb230e09fe71e77
+SHA1: a1d1d32634f56a3aea59946e87bef653f67abe1b
+SHA256: 8b4b06c71dc206142979ca80c9acc21ef321dee24aa12e051958377861b3eb5f
 Section: rootless修复插件
-Description: Before use, please copy the application bundle that needs to be parsed to/var/jb/usr/lib/TweakInject/Flex.plist and fill it in. Warning: System patches are not supported, do not fill in com.apple.UIKit or com.apple.springboard。Only effective for third-party applications, the patch list can be parsed and displayed.。使用前请把需要解析的应用bundle拷贝到/var/jb/usr/lib/TweakInject/Flex.plist中填入，警告不支持系统补丁，不要填入com.apple.UIKit或com.apple.springboard等，只对第三方应用生效，可解析，可显示补丁列表。
-Author: John Coates
+Description: Before use, please copy the application bundle that needs to be parsed to/var/jb/usr/lib/TweakInject/Flex.plist and fill it in. Warning: System patches are not supported, do not fill in com.apple.UIKit or com.apple.springboard。Only effective for third-party applications, the patch list can be parsed and displayed.。If the parsed application crashes or freezes,choicy tweak select only the injection of flex3, and then enable other injections after parsing.使用前请把需要解析的应用bundle拷贝到/var/jb/usr/lib/TweakInject/Flex.plist中填入，警告不支持系统补丁，不要填入com.apple.UIKit或com.apple.springboard等，只对第三方应用生效，可解析，可显示补丁列表。若解析的应用闪退或者卡屏，用choicy只准flex3的注入，解析后再开启别的注入。
+Author: John Coates 来了老弟
 Name: Flex3 Beta程序修改器-xina2
 
 Package: Nets.llld.actionbarreborn
@@ -1648,22 +1648,6 @@ Section: rootless插件
 Description: The specific time of the recent call has been increased.最近通话增加具体时间
 Author: 来了老弟
 Name: 最近通话增加具体时间-rootless
-
-Package: cn.llld.vartaman
-Version: 1.2.9
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 h_h_x_t
-Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin,cn.llld.hhxt
-Filename: ./debs/rootless/cn.llld.vartaman-rootless.deb
-Size: 66720
-MD5sum: 857070494e29a4442e0ba01ae5fd9f44
-SHA1: fad0548e7e26b182d50a716128408b1852b2abc4
-SHA256: 699390bb9747ade09c048d10654b0ba5083ee63feeace0c72c40b63e575cbd93
-Section: rootless修复插件
-Description: Regularly update the home screen or lock screen wallpaper (available with xina2 or rootless),The screenshot is in the local language Chinese, but it is actually the English version.。截图是本地语言中文的，实际是英文版本。插件作用：定期更新主屏幕或者锁屏壁纸(xina2或rootless可用)。X：h_h_x_t 来了老弟
-Author: P2KDev X：h_h_x_t 来了老弟
-Name: Vartaman-rootless
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.vartaman/vartaman_rootless.json
 
 Package: cn.llld.vibrato
 Version: 2.12
