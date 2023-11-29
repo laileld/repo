@@ -1649,6 +1649,22 @@ Description: The specific time of the recent call has been increased.最近通�
 Author: 来了老弟
 Name: 最近通话增加具体时间-rootless
 
+Package: cn.llld.vartaman
+Version: 1.2.9
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin,cn.llld.hhxt,oldabi
+Filename: ./debs/rootless/vartaman_1.2.9-rootless需oldabi.deb
+Size: 66828
+MD5sum: 74d041e39e29f21d6b3797cf138560b1
+SHA1: 9d3965a9c3fcf2d8030afa442037f01a4d114d4a
+SHA256: 6cb8f491f9a77779093a102ff32dbaab4a9884aa47927a0f7ed26edd3b2144a3
+Section: 兼容层oldabi-rootless
+Description: Regularly update the home screen or lock screen wallpaper (available rootless),The screenshot is in the local language Chinese, but it is actually the English version.。插件作用：定期更新主屏幕或者锁屏壁纸(此包仅rootless可用，因xina2部分环境不读配置，下架了，我再看看)。X：h_h_x_t 来了老弟
+Author: P2KDev 来了老弟
+Name: Vartaman-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.vartaman/vartaman_rootless.json
+
 Package: cn.llld.vibrato
 Version: 2.12
 Architecture: iphoneos-arm64

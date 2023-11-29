@@ -10,7 +10,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Regularly update the home screen or lock screen wallpaper (available with xina2 or rootless),The screenshot is in the local language Chinese, but it is actually the English version.。截图是本地语言中文的，实际是英文版本。插件作用：定期更新主屏幕或者锁屏壁纸(xina2或rootless可用)。X：h_h_x_t 来了老弟。。。搬运勿乱改，不生效,修改去除我名更是可耻，不尊重他人劳动成果",
+          "markdown": "Regularly update the home screen or lock screen wallpaper (available rootless),The screenshot is in the local language Chinese, but it is actually the English version.。插件作用：定期更新主屏幕或者锁屏壁纸(此包仅rootless可用，因xina2部分环境不读配置，下架了，我再看看)。。。。搬运勿乱改，不生效,修改去除我名更是可耻，不尊重他人劳动成果 X：h_h_x_t",
           "useRawFormat": true
         },
         {
@@ -92,7 +92,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "available with xina2 or rootless，个人修改支持xina2或rootless可用",
+          "markdown": "available with rootless，个人修改支持rootless可用,暂时下架对xina2的支持",
           "useRawFormat": true
         },
         {
@@ -103,7 +103,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "available with xina2 or rootless，个人修改支持xina2或rootless可用",
+          "markdown": "available with rootless，个人修改支持rootless可用,暂时下架对xina2的支持",
           "useRawFormat": true
         },
         {
@@ -114,7 +114,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "available with xina2 or rootless，个人修改支持xina2或rootless可用",
+          "markdown": "available with rootless，个人修改支持rootless可用,暂时下架对xina2的支持",
           "useRawFormat": true
         }
       ]
