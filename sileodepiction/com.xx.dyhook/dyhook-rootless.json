@@ -10,7 +10,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度,底部功能调整，1.0.4新增视频图片音频解析和去点小广告,刷抖音更加清爽",
+          "markdown": "作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度,底部功能调整，1.0.4新增视频图片音频解析和去点小广告,刷抖音更加清爽,1.0.5新增接口解析和复制文案功能",
           "useRawFormat": true
         },
         {
@@ -75,6 +75,17 @@
       "class": "DepictionStackView",
       "tabname": "更新日志",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0.5",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "新增接口解析和复制文案功能，接口解析会稍微慢点，视频分辨率更高",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0.4",

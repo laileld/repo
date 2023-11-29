@@ -2383,6 +2383,38 @@ Author: x✨
 Name: 抖音图层调整-rootful
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
 
+Package: com.xx.dyhook
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.xx.dyhook_1.0.5_iphoneos-arm64.deb
+Size: 137720
+MD5sum: 9e24ad1c2282cb8d6318c46c5b6c5df3
+SHA1: 06003d534064f15923ae6c53266371ff1dd67dd7
+SHA256: fecb8b55798c09ca7a80d7642173854eab36ea6dbbb6079a9c946dead263a3a9
+Section: rootless插件
+Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度，1.0.4新增视频图片音频解析和去点小广告
+Author: x✨
+Name: 抖音图层调整-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
+
+Package: com.xx.dyhook
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: x✨
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/com.xx.dyhook_1.0.5_iphoneos-arm.deb
+Size: 138784
+MD5sum: d0c340616fff67c59cbe3ff3260cb79b
+SHA1: a9b974fce45fe090a34b1805f39f10a31dafeecc
+SHA256: d0f9ea8f3b6affda84d6d9c9fe3411211dc5f5353351cb888773db27f7d76da4
+Section: rootful插件
+Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度，1.0.4新增视频图片音频解析和去点小广告
+Author: x✨
+Name: 抖音图层调整-rootful
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
+
 Package: llld.keyboard
 Version: 1.0
 Architecture: iphoneos-arm64
