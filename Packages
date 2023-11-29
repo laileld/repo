@@ -1655,10 +1655,10 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin,cn.llld.hhxt,oldabi
 Filename: ./debs/rootless/vartaman_1.2.9-rootless需oldabi.deb
-Size: 66828
-MD5sum: 74d041e39e29f21d6b3797cf138560b1
-SHA1: 9d3965a9c3fcf2d8030afa442037f01a4d114d4a
-SHA256: 6cb8f491f9a77779093a102ff32dbaab4a9884aa47927a0f7ed26edd3b2144a3
+Size: 66712
+MD5sum: aa5c84145ef2768c2a7d2f20b753b163
+SHA1: e9c26a798adfd16a75b13773f5ef7289983f930e
+SHA256: c75a7c5a8497186cc5210229846f686efe42817d33d1be92d322edf1a0978741
 Section: 兼容层oldabi-rootless
 Description: Regularly update the home screen or lock screen wallpaper (available rootless),The screenshot is in the local language Chinese, but it is actually the English version.。插件作用：定期更新主屏幕或者锁屏壁纸(此包仅rootless可用，因xina2部分环境不读配置，下架了，我再看看)。X：h_h_x_t 来了老弟
 Author: P2KDev 来了老弟
