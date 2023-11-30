@@ -891,6 +891,21 @@ Description: rootful tweak can be used on xina2 or rootless (first release the f
 Author: 来了老弟 h_h_x_t
 Name: xina-rootless心脏搭桥
 
+Package: cn.llld.hhxt
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X :h_h_x_t
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/rootless/心脏搭桥1.1-rootless.deb
+Size: 8916
+MD5sum: 25134696c269047456384db515e8f894
+SHA1: fda2222c89d213f20222ea127118e730ec43555c
+SHA256: 89574d715374c649b3e81e640a676786816e0491af9f009f7313925cd6d9da9c
+Section: rootless插件
+Description: rootful tweak can be used on xina2 or rootless (first release the first version, the root tweak is waiting for me to upload it, it is useless to install it alone, it needs to be combined with the tweak I uploaded)。让有根插件可以在xina2或者rootless上使用，(先发个初版，有根插件等我上传，单独装这个没用，需要搭配我上传的插件)
+Author: 来了老弟 h_h_x_t
+Name: xina-rootless心脏搭桥
+
 Package: cn.llld.hideallbar
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -1542,6 +1557,22 @@ Description: SmartNotifications2汉化
 Author: 来了老弟
 Name: SmartNotifications2汉化-rootful
 
+Package: cn.llld.smartnotifications2
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.cokepokes.libnotifications,cn.llld.hhxt
+Conflicts: com.eliassfeir.SmartNotifications
+Filename: ./debs/rootless/smartnotifications2_1.7_arm64.deb
+Size: 2473852
+MD5sum: 2359292f232c4c7323b471372028dc81
+SHA1: 02293ae0da86c15279123b517a8216f57777e7e6
+SHA256: 49f2cdd9a803f86c874ba6f51315953d5f4395e823cda648050b914630823d62
+Section: rootless修复插件
+Description: The ultimate tweak to customize your notifications such as adding custom ringtones for apps, enable time frame, snooze notifications, block contacts and much more。自定义通知的终极调整，为应用程序添加自定义通知铃声、启用时间框架、暂停某个时间段的通知、阻止联系人，通知闪光灯等。待处理问题：进入设置会慢，设定声音不会一直有效
+Author: Elias Sfeir
+Name: SmartNotifications 2-rootless
+
 Package: cn.llld.speaknotification
 Version: 1.8.19
 Architecture: iphoneos-arm64
@@ -2044,6 +2075,23 @@ Section: rootless插件
 Description: Asset.car,View the resource pictures in the native system car and save the necessary ones，查看原生系统car文件中的资源图片，保存有需要的
 Author: Joey GM & Acreson
 Name: Aphrodite-Assets文件查看
+
+Package: com.cokepokes.libnotifications
+Version: 0.3-5
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: firmware (>= 8.0),cn.llld.hhxt
+Filename: ./debs/rootless/libnotifications_0.3-5_arm64_3.deb
+Size: 104510
+MD5sum: 2241aa1a7fef79362b4a0608705d583b
+SHA1: 130690bffab418c8bd2d79f7c2b48482d152e820
+SHA256: 54bc6edd12a95579b9189b9ebd2d0614b3d140e520f3737e9da2a87540b2e487
+Section: rootless修复插件
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Description: App notification library.
+Author: CokePokes <cokepokes@gmail.com>
+Dev: cokepokes
+Name: libnotifications
 
 Package: com.llld.bfb
 Version: 0.1-1
