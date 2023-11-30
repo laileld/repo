@@ -1579,7 +1579,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X：h_h_x_t
 Depends: mobilesubstrate, com.spark.libsparkapplist, com.cokepokes.libnotifications, cn.llld.hhxt
 Conflicts: com.eliassfeir.SmartNotifications
-Filename: ./debs/rootless/smartnotifications2_1.7_arm64.deb
+Filename: ./debs/rootless/smartnotifications2_1.7.1_arm64.deb
 Size: 2473616
 MD5sum: cd4f62c68abb2c909ba86dc962582462
 SHA1: 70c5ebc5c8dadac074b622aa956d71dde169f638
