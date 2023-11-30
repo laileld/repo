@@ -160,18 +160,18 @@ Author: 来了老弟 h_h_x_t
 Name: 隐藏播放器通知背景2-rootless
 
 Package: cn.llld.appdata
-Version: 0.0.1-4+debug
+Version: 0.0.2
 Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
-Installed-Size: 176
+Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/appdata汉化-roothide.deb
-Size: 10344
-MD5sum: 2808146a53163b9d2c6605c5e6ee9c2f
-SHA1: 76a9926b818891a33c0489de5110002191b07a6d
-SHA256: 1e9fab68e425e3dbdbd944fe8374914a30e84ed7589f7f0b90640c7a1c06c6e7
+Filename: ./debs/roothide/appdata汉化-roothide_0.0.2_iphoneos-arm64e.deb
+Size: 8504
+MD5sum: dcdf5c4da7c6dc36aa2aa537bd2351f2
+SHA1: 3b8356f09d74dea88d3266e9fa8765a2c5d3045a
+SHA256: 94e34d49f487c7337169567015541b5af769e3e8372d5e88088006164175e3ea
 Section: roothide汉化补丁
-Description: appdata汉化（roothide专用）
+Description: appdata汉化（roothide专用）,231130更新处理任意汉化冲突问题
 Author: 来了老弟
 Name: appdata汉化-roothide
 
@@ -1588,6 +1588,38 @@ Description: 点击iOS顶部时间栏显示今日中国农历。
 Author: Snail
 Name: 点击时间显示农历-rootless
 
+Package: cn.llld.swipeextenderx
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/SwipeExtenderX汉化-roothide_0.0.2_iphoneos-arm64e.deb
+Size: 10448
+MD5sum: 3ce8f89cf9a4c9dad96160aec8b2489b
+SHA1: 38e8c2be21d710621745efa94073082210b3bdee
+SHA256: 67f23e546e4ac38be463a6c6097259dee4e17105eac728763b2e5dfe838d1234
+Section: roothide汉化补丁
+Description: SwipeExtenderX汉化，swipeextenderx汉化--(rootess)简体中文包，更新：防止与任何汉化冲突，现在任意装
+Author: 来了老弟
+Name: SwipeExtenderX汉化-roothide
+
+Package: cn.llld.swipeextenderx
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/SwipeExtenderX汉化-rootless_0.0.2_iphoneos-arm64.deb
+Size: 10250
+MD5sum: 20635ef1606a62f68a0692404aa85fa2
+SHA1: 301d207a82b4f26a8c06276b746cd325321917b9
+SHA256: 88b90dc7c2f77331f27b2b7f13f9d60a26402af03da589340c8d9c473a2bba5e
+Section: rootless汉化补丁
+Description: SwipeExtenderX汉化，swipeextenderx汉化--(rootess)简体中文包，更新：防止与任何汉化冲突，现在任意装
+Author: 来了老弟
+Name: SwipeExtenderX汉化-rootless
+
 Package: cn.llld.tapflash
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -2185,22 +2217,6 @@ Section: rootless修复插件
 Description: Adjust the blank part of the control center and hide the status bar调节控制中心空白部分以及隐藏状态栏_________仅测试，有问题请卸载
 Author: smokin1337
 Name: FUGap控制中心间距-rootless
-
-Package: com.llld.swipeextenderx
-Version: 0.0.1-2
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/swipeextenderx汉化_0.0.1-2+debug_iphoneos-arm64.deb
-Size: 11608
-MD5sum: ca672feb1504499cdb7283c2e3e5f9a1
-SHA1: 018edad1f29e8e53b003d20cbec94cf5dbe5a99a
-SHA256: ac018038f14f784759c93022426cc2229d0b041f868d5aac6453942fae047549
-Section: rootless汉化补丁
-Description: SwipeExtenderX汉化，swipeextenderx汉化--(rootess)简体中文包
-Author: 来了老弟
-Name: SwipeExtenderX汉化-rootless
 
 Package: com.llld.ycfyd
 Version: 0.0.1-1
