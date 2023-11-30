@@ -509,37 +509,6 @@ Author: 来了老弟
 Name: CustomizeCC汉化-roothide
 
 Package: cn.llld.customizeccrootless
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/CustomizeCC汉化-rootless.deb
-Size: 12136
-MD5sum: c33f810a37275e13acfaf2d56843dd21
-SHA1: 19a94eb0ab12ca0c79ba13eb41995cb0d4ed503e
-SHA256: a1ae1cd63ae942f7a9dd7e48d435fb05abd002f5818eec1f274b2b46a5700273
-Section: rootless汉化补丁
-Description: CustomizeCC汉化-rootless
-Author: 来了老弟
-Name: CustomizeCC汉化-rootless
-
-Package: cn.llld.customizeccrootless
-Version: 1.2
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/CustomizeCC汉化-rootless_1.2_.deb
-Size: 12214
-MD5sum: d49a6010371c38027a77c738fedd72a6
-SHA1: a63110ab8d06ec85090048a01db97d45556c0735
-SHA256: fe2f3a29df7e8d59f61171a800c425013ca48266bc6cb0f3fab4fbd144b9da3e
-Section: rootless汉化补丁
-Description: CustomizeCC汉化-rootless
-Author: 来了老弟
-Name: CustomizeCC汉化-rootless
-
-Package: cn.llld.customizeccrootless
 Version: 1.21
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
@@ -552,6 +521,22 @@ SHA1: 20c4a72ef66d8a08de57e8f1fe3c7788b06dc416
 SHA256: 2dab4c8be72e8e2afe140c54dedbac5b11da97370b8c7b21ad4e4d2ebf5b93fa
 Section: rootless汉化补丁
 Description: CustomizeCC汉化-rootless
+Author: 来了老弟
+Name: CustomizeCC汉化-rootless
+
+Package: cn.llld.customizeccrootless
+Version: 1.22
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/CustomizeCC汉化-rootless_1.22_iphoneos-arm64.deb
+Size: 12116
+MD5sum: 9d4cc3796c01803615775c43591028c5
+SHA1: 46160bd81a8610b2869c55565bdfd724f8b778af
+SHA256: f3c50d9bd5ac338e7b632896caaaa4c81f8e3cbfb56e649f22609a288b53a20c
+Section: rootless汉化补丁
+Description: CustomizeCC汉化-rootless,231130更新处理任何汉化冲突问题
 Author: 来了老弟
 Name: CustomizeCC汉化-rootless
 
@@ -2170,22 +2155,6 @@ Section: rootless汉化补丁
 Description: Flex3--(rootless专用)简体中文包
 Author: 来了老弟
 Name: Flex3汉化包-rootless
-
-Package: com.llld.flexrootless
-Version: 0.0.3
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/flex汉化包-rootless_0.0.3.deb
-Size: 12436
-MD5sum: f989536c8d4875f206dda137238f5b8c
-SHA1: 31f216b3ea3a1b046a3926c3e3dc7038af3c4eab
-SHA256: 789406e6a21977a0040f5617aa85385c132301fa679beaf759779cf58849f5a5
-Section: rootless汉化补丁
-Description: flex3--(rootless专用)简体中文包
-Author: 来了老弟
-Name: flex汉化包-rootless
 
 Package: com.llld.flexrootless
 Version: 0.0.31
