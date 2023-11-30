@@ -1493,6 +1493,22 @@ Description: Double-click the home screen to lock the device双击锁屏-rootles
 Author: 来了老弟
 Name: 双击锁屏-rootless
 
+Package: cn.llld.smarthh
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/SmartNotifications2汉化-rootless_0.0.1_iphoneos-arm64.deb
+Size: 10294
+MD5sum: 85885341f9b2f151e5ffba502d4f4717
+SHA1: b15864b05f7e544bac4fafacdfd8d6056bcbf535
+SHA256: 643d9678d1baa25f35bc8ec0b620523a2c8ae1bc03d8361e7c09f7d0290b21a3
+Section: rootless汉化补丁
+Description: SmartNotifications2汉化(已处理任何汉化冲突的问题)-中文语言包-rootless
+Author: 来了老弟 X：h_h_x_t
+Name: SmartNotifications2汉化-rootless
+
 Package: cn.llld.smartlight
 Version: 1.0.5
 Architecture: iphoneos-arm64
@@ -1558,18 +1574,18 @@ Author: 来了老弟
 Name: SmartNotifications2汉化-rootful
 
 Package: cn.llld.smartnotifications2
-Version: 1.7
+Version: 1.7.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X：h_h_x_t
-Depends: mobilesubstrate, com.spark.libsparkapplist, com.cokepokes.libnotifications,cn.llld.hhxt
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.cokepokes.libnotifications, cn.llld.hhxt
 Conflicts: com.eliassfeir.SmartNotifications
 Filename: ./debs/rootless/smartnotifications2_1.7_arm64.deb
-Size: 2473852
-MD5sum: 2359292f232c4c7323b471372028dc81
-SHA1: 02293ae0da86c15279123b517a8216f57777e7e6
-SHA256: 49f2cdd9a803f86c874ba6f51315953d5f4395e823cda648050b914630823d62
+Size: 2473616
+MD5sum: cd4f62c68abb2c909ba86dc962582462
+SHA1: 70c5ebc5c8dadac074b622aa956d71dde169f638
+SHA256: 0ef0dfdb31b0559bf7dd44db85930ae68ff1fd7b09e89ac0fa91b10fc71223b7
 Section: rootless修复插件
-Description: The ultimate tweak to customize your notifications such as adding custom ringtones for apps, enable time frame, snooze notifications, block contacts and much more。自定义通知的终极调整，为应用程序添加自定义通知铃声、启用时间框架、暂停某个时间段的通知、阻止联系人，通知闪光灯等。待处理问题：进入设置会慢，设定声音不会一直有效
+Description: The ultimate tweak to customize your notifications such as adding custom ringtones for apps, enable time frame, snooze notifications, block contacts and much more。（Don't turn on the custom volume level）自定义通知的终极调整，为应用程序添加自定义通知铃声、启用时间框架、暂停某个时间段的通知、阻止联系人，通知闪光灯等。待处理问题：进入设置会慢，设定声音不会一直有效.(自定义音量级别不要开，会引发注销，需要等我打个补丁)
 Author: Elias Sfeir
 Name: SmartNotifications 2-rootless
 
