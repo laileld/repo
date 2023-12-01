@@ -1596,12 +1596,12 @@ Maintainer: 来了老弟 X：h_h_x_t
 Depends: mobilesubstrate, com.spark.libsparkapplist, com.cokepokes.libnotifications, cn.llld.hhxt
 Conflicts: com.eliassfeir.SmartNotifications
 Filename: ./debs/rootless/smartnotifications2_1.7.1_arm64.deb
-Size: 2473616
-MD5sum: cd4f62c68abb2c909ba86dc962582462
-SHA1: 70c5ebc5c8dadac074b622aa956d71dde169f638
-SHA256: 0ef0dfdb31b0559bf7dd44db85930ae68ff1fd7b09e89ac0fa91b10fc71223b7
+Size: 2473856
+MD5sum: d747065a17fe3dadafe64b22b7643d49
+SHA1: 55c1fa149e1cd00267d266babcacc0d1e83f62fa
+SHA256: fdb6cf714b0870b5810ec2ef62d3f994e3f59b215aa16007e9d9b49cb9b42c44
 Section: rootless修复插件
-Description: The ultimate tweak to customize your notifications such as adding custom ringtones for apps, enable time frame, snooze notifications, block contacts and much more。（Don't turn on the custom volume level）自定义通知的终极调整，为应用程序添加自定义通知铃声、启用时间框架、暂停某个时间段的通知、阻止联系人，通知闪光灯等。待处理问题：进入设置会慢，设定声音不会一直有效.(自定义音量级别不要开，会引发注销，需要等我打个补丁)
+Description: The ultimate tweak to customize your notifications such as adding custom ringtones for apps, enable time frame, snooze notifications, block contacts and much more。（Don't turn on the custom volume level）自定义通知的终极调整，为应用程序添加自定义通知铃声、启用时间框架、暂停某个时间段的通知、阻止联系人，通知闪光灯等。待处理问题：(自定义音量级别不要开，会引发注销，需要等我打个补丁)
 Author: Elias Sfeir
 Name: SmartNotifications 2-rootless
 
@@ -2475,6 +2475,38 @@ Size: 140856
 MD5sum: 9ba6feb9404053cc965100926b05f8fd
 SHA1: db029ad4079d10885a0f579847007da1eeb8b241
 SHA256: 459f8675ad7614b442f5c673ec6caa5091632f87ae1ee1b9309c98d2e5b64e7d
+Section: rootful插件
+Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度，1.0.4新增视频图片音频解析和去点小广告
+Author: x✨
+Name: 抖音图层调整-rootful
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
+
+Package: com.xx.dyhook
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.xx.dyhook_1.0.6_iphoneos-arm64.deb
+Size: 147984
+MD5sum: 2e2f9b2aac4292621df5fbcc20cede80
+SHA1: 01c625016b5a3196c7e0bfddb54ddffe1e01c6d2
+SHA256: ec18bde1c938817b0cb4d0c737316e05ce9e4c794f68ecd8ebefec0ff336a0b4
+Section: rootless插件
+Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度，1.0.4新增视频图片音频解析和去点小广告
+Author: x✨
+Name: 抖音图层调整-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
+
+Package: com.xx.dyhook
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: x✨
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/com.xx.dyhook_1.0.6_iphoneos-arm.deb
+Size: 147072
+MD5sum: d4e76c3ad6301f16f8b2d8b8f665d027
+SHA1: a548456b39086ea418bda5c9c6ad1ffb74dc1084
+SHA256: 3dd3d712d0ef692a8589f91ba598ec978c8ce633f0c9cf9b994682c8a9a6d3b1
 Section: rootful插件
 Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度，1.0.4新增视频图片音频解析和去点小广告
 Author: x✨
