@@ -1516,10 +1516,10 @@ Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/SmartNotifications2汉化-rootless_0.0.1_iphoneos-arm64.deb
-Size: 10294
-MD5sum: 85885341f9b2f151e5ffba502d4f4717
-SHA1: b15864b05f7e544bac4fafacdfd8d6056bcbf535
-SHA256: 643d9678d1baa25f35bc8ec0b620523a2c8ae1bc03d8361e7c09f7d0290b21a3
+Size: 10280
+MD5sum: 6bcffeabbe9ad328b07e2c966f4e158e
+SHA1: f70ed9e46023a86a0b3a973ca951e0d590b3c3bd
+SHA256: f82536a832cfd881bd251e039ee401f000c94ac785cf5a98e8782a36aa34aab5
 Section: rootless汉化补丁
 Description: SmartNotifications2汉化(已处理任何汉化冲突的问题)-中文语言包-rootless
 Author: 来了老弟 X：h_h_x_t
