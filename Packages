@@ -175,6 +175,21 @@ Description: appdata汉化（roothide专用）,231130更新处理任意汉化冲
 Author: 来了老弟
 Name: appdata汉化-roothide
 
+Package: cn.llld.appshide
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, cn.llld.hhxt
+Filename: ./debs/rootless/应用隐藏appshide需oldabi_1.1-3.deb
+Size: 77120
+MD5sum: 6895937cad9caf03ff06030d5e42c222
+SHA1: 8f5b8a7c6e398779e6056cc94517a93f8c53dba3
+SHA256: da401b581fd15b79d50d64a64b216cc4fee15c2761dc4da9f195cd53cb455d03
+Section: 兼容层oldabi-rootless
+Description: Application hiding supports selecting the applications that need to be hidden, and switching applications does not require logging out of the device.应用隐藏，支持选择需要隐藏的应用，开关应用无需注销设备~~此版本需要装Legacy arm64e Support，待去除，先发出
+Author: Netskao
+Name: AppsHide应用隐藏-rootless
+
 Package: cn.llld.appstorejia
 Version: 0.0.2
 Architecture: iphoneos-arm64
