@@ -35,19 +35,19 @@ Sileodepiction: https://laileld.github.io/repo/sileodepiction/Flex3beta/js_Flex3
 Sponsor: 来了老弟  x: h_h_x_t
 
 Package: Flex3beta11
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X :h_h_x_t
 Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, com.abcydia.Flex3
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
 Filename: ./debs/rootless/Flex3-xina2-rootless.deb
-Size: 15189052
-MD5sum: 13c6dc5efd3e9581fcb230e09fe71e77
-SHA1: a1d1d32634f56a3aea59946e87bef653f67abe1b
-SHA256: 8b4b06c71dc206142979ca80c9acc21ef321dee24aa12e051958377861b3eb5f
+Size: 15185884
+MD5sum: 20c4a2b3e8fcf5475d14c706095774bb
+SHA1: e08b84e35e0a8a1b9339f876c5b8874ecf14dd22
+SHA256: 1a1c7fc52393a21002ad59ac96476f9f70d57ba8a89791613749247473bd5526
 Section: rootless修复插件
-Description: Before use, please copy the application bundle that needs to be parsed to/var/jb/usr/lib/TweakInject/Flex.plist and fill it in. Warning: System patches are not supported, do not fill in com.apple.UIKit or com.apple.springboard。Only effective for third-party applications, the patch list can be parsed and displayed.。If the parsed application crashes or freezes,choicy tweak select only the injection of flex3, and then enable other injections after parsing.使用前请把需要解析的应用bundle拷贝到/var/jb/usr/lib/TweakInject/Flex.plist中填入，警告不支持系统补丁，不要填入com.apple.UIKit或com.apple.springboard等，只对第三方应用生效，可解析，可显示补丁列表。若解析的应用闪退或者卡屏，用choicy只准flex3的注入，解析后再开启别的注入。
+Description: Only effective for third-party applications, the patch list can be parsed and displayed.。If the parsed application crashes or freezes,choicy tweak select only the injection of flex3, and then enable other injections after parsing，The xina2 version is only recommended for 2.0.18 or above, and update 1.0.2 separately.只对第三方应用生效，可解析，可显示补丁列表。若解析的应用闪退或者卡屏，用choicy只准flex3的注入，解析后再开启别的注入。xina2版本只建议2.0.18或以上用，不然别更新1.0.2。
 Author: John Coates 来了老弟
 Name: Flex3 Beta程序修改器-xina2
 
@@ -253,6 +253,21 @@ Section: rootless修复插件
 Description: Playing photos and videos in the album can produce picture-in-picture effects!在相册中播放照片视频可以画中画效果！_________仅测试，有问题请卸载
 Author: MiRO 来了老弟
 Name: AVPhotos照片视频画中画-rootless
+
+Package: cn.llld.callblocker13
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, preferenceloader, cn.llld.hhxt,oldabi
+Filename: ./debs/rootless/来电黑名单(rootless)需要装oldabi.deb
+Size: 52772
+MD5sum: c9a6b5dbd02b8018d40345d5abefc725
+SHA1: 01e4d5c2c8192486673639694007caef52c77d27
+SHA256: c4beb130417f33b70857f1a67c6b02dfbd5c7fd168b36ef475862bd5794cb425
+Section: 兼容层oldabi-rootless
+Description: Lightweight call blacklist。轻量级来电黑名单，原理：黑名单秒挂。
+Author: P2KDev <p2kdev@gmail.com>
+Name: CallBlocker来电黑名单-rootless
 
 Package: cn.llld.callkitkt
 Version: 0.2
@@ -683,6 +698,21 @@ Description: Custom phone image, image path （/var/mobile/llld.jpg）png Format
 Author: 来了老弟 h_h_x_t
 Name: 自定义电话图片-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.dyy/dyy-rootless.json
+
+Package: cn.llld.fivecolumnscc
+Version: 1.0~beta4
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate
+Filename: ./debs/rootless/控制中心5列-rootless.deb
+Size: 5320
+MD5sum: 19116d0a1dbf60f79e04a261aef51efd
+SHA1: 83d77e7b8177202b035a7d3a1b5c1999eb5511d7
+SHA256: 32e1fa8c90010ec88172169a1bad2bd01dbe79d00c8f5e2f2c436b2c80ca0387
+Section: rootless修复插件
+Description: Five rows of settings arranged in the control center。控制中心排列五行设定。
+Author: 4nni3 <4nni3.14@gmail.com>
+Name: FiveColumnsCC控制中心增强
 
 Package: cn.llld.fivehome
 Version: 0.1
