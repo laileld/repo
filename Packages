@@ -2380,6 +2380,23 @@ Description: Control at your fingertips,Installation required Legacy arm64e Supp
 Author: Muirey03
 Name: Arc-rootless
 
+Package: com.shemeshapps.notiblock
+Version: 0.0.6
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common, preferenceloader, applist, cn.llld.hhxt,oldabi
+Filename: ./debs/rootless/notiblock_0.0.6通知过滤-rootless.deb
+Size: 360508
+MD5sum: ddfafd5a9fc9e102b158f5cc6df4d007
+SHA1: 7493e53c994d7ff0ad37702fb3b4047fe83f3996
+SHA256: 6f5cf2a4468bd0d1eec8e9d20c7375ff0aa5f76a133d16cde2517213b8239cd5
+Section: 兼容层oldabi-rootless
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=notiblockDp
+Description: Block notifications and take control of your digital well-being。(You can receive notifications while excluding sounds and brightening the screen.)插件作用：过滤应用通知。(可以收到通知的同时排除声音和亮屏)，作者停更，莫打扰，有其他需求的自行去开源库中下载编译。
+Author: ShemeshApps <tomerjshemesh@gmail.com>
+Dev: shemeshapps
+Name: NotiBlock-通知过滤
+
 Package: com.tomaszpoliszuk.alertcontroller
 Version: 1.4.2
 Architecture: iphoneos-arm64
