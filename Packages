@@ -42,10 +42,10 @@ Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, com.abcydia.Flex3
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
 Filename: ./debs/rootless/Flex3-xina2-rootless.deb
-Size: 15185884
-MD5sum: 20c4a2b3e8fcf5475d14c706095774bb
-SHA1: e08b84e35e0a8a1b9339f876c5b8874ecf14dd22
-SHA256: 1a1c7fc52393a21002ad59ac96476f9f70d57ba8a89791613749247473bd5526
+Size: 15186088
+MD5sum: 56883267fcdedc5ebbd4a82ab0ad1ab5
+SHA1: 143f1318c2ed187d39a2150ce06d46dbd0cec370
+SHA256: cedef71d694b553d3641996e8ba5fb5b6f0163ed968555db67eb06937b1deebf
 Section: rootless修复插件
 Description: Only effective for third-party applications, the patch list can be parsed and displayed.。If the parsed application crashes or freezes,choicy tweak select only the injection of flex3, and then enable other injections after parsing，The xina2 version is only recommended for 2.0.18 or above, and update 1.0.2 separately.只对第三方应用生效，可解析，可显示补丁列表。若解析的应用闪退或者卡屏，用choicy只准flex3的注入，解析后再开启别的注入。xina2版本只建议2.0.18或以上用，不然别更新1.0.2。
 Author: John Coates 来了老弟
