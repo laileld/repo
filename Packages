@@ -971,15 +971,15 @@ Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X :h_h_x_t
 Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debs/rootless/心脏搭桥1.1-rootless.deb
+Filename: ./debs/rootless/xina2串联1.1-rootless.deb
 Size: 8916
-MD5sum: 25134696c269047456384db515e8f894
-SHA1: fda2222c89d213f20222ea127118e730ec43555c
-SHA256: 89574d715374c649b3e81e640a676786816e0491af9f009f7313925cd6d9da9c
+MD5sum: 2e5c82d140e5a28bccf58408e7481a5b
+SHA1: b6095467eb5fdcfa310ff746e323e094569215a8
+SHA256: c960ed7fa1fb51d4e8c4cab07979fadccc22b92d63b2e5f8437368cc9b4f4af7
 Section: rootless插件
 Description: rootful tweak can be used on xina2 or rootless (first release the first version, the root tweak is waiting for me to upload it, it is useless to install it alone, it needs to be combined with the tweak I uploaded)。让有根插件可以在xina2或者rootless上使用，(先发个初版，有根插件等我上传，单独装这个没用，需要搭配我上传的插件)
 Author: 来了老弟 h_h_x_t
-Name: xina-rootless心脏搭桥
+Name: xina2-rootless
 
 Package: cn.llld.hideallbar
 Version: 1.0
