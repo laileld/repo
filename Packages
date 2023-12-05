@@ -937,6 +937,20 @@ Description: Flex3--(roothide专用)简体中文包
 Author: 来了老弟
 Name: Flex3汉化包-roothide
 
+Package: cn.llld.ftt
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Filename: ./debs/rootless/ftt中文版本-rootless.deb
+Size: 42916
+MD5sum: 236c22a2442a1a8ded2721c719507836
+SHA1: f293e03e009368737971e8310c31dcbcf9a1c0dc
+SHA256: 2fc0f08c4b1741149e79f1011d36d56ce21b68b339aab285ad6e3be4585b0642
+Section: rootless插件
+Description: This is just the Chinese version of "ftt", the English version in（ https://github.com/randy-420/ftt ）Download。。。。工具作用：把Flex3补丁转换为Theos项目，原版(https://github.com/Randy-420/ftt)，补丁路径：/var/mobile/Library/Application Support/Flex3/patches.plist或前面加/var/jb
+Author: iPadKid358 Randy420
+Name: ftt中文版-rootless
+
 Package: cn.llld.hhxt
 Version: 1.0
 Architecture: iphoneos-arm64
