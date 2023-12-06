@@ -935,6 +935,23 @@ Description: Flex3--(roothide专用)简体中文包
 Author: 来了老弟
 Name: Flex3汉化包-roothide
 
+Package: cn.llld.folded
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker.cn.llld.hhxt,oldabi
+Conflicts: com.burritoz.cartella, com.thomz.foldy, com.spark.snowboard.dock
+Replaces: com.burritoz.cartella, com.thomz.foldy
+Filename: ./debs/rootless/最强文件夹神器folded_1.2.0-rootless.deb
+Size: 415808
+MD5sum: fa707e5e11e4aff0a3ac12edca369461
+SHA1: 1466fcf372166548ad0a9c67ad7c12c52eef0b32
+SHA256: df9c50a77bf00e00aecc21889ebedea7003f68c309666e2dd423edea41dd4f3a
+Section: 兼容层oldabi-rootless
+Description: Strongest folder tweak。最强文件夹调整
+Author: Thomz and burrit0z
+Name: Folded文件夹调整-rootless
+
 Package: cn.llld.ftt
 Version: 0.1
 Architecture: iphoneos-arm64
