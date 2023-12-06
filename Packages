@@ -1395,6 +1395,23 @@ Description: Reddit界面、设置、功能汉化(rootless)简体中文包
 Author: 来了老弟
 Name: Reddit汉化-rootless
 
+Package: cn.llld.relocatereborn
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist | cn.llld.applist, com.rpetrich.rocketbootstrap | cn.llld.rocketbootstrap (>= 0.1.7), preferenceloader, cn.llld.hhxt,oldabi
+Conflicts: me.nepeta.relocate
+Filename: ./debs/rootless/relocatereborn_1.0.1_GPS欺骗-rootless.deb
+Size: 68476
+MD5sum: 495942504c8c7cc003902f3d3044b13c
+SHA1: b0740b5c8474c616c7f9c77a324dc1dc04939d43
+SHA256: 203009825e36182a6fe39d38f38ff74453bfbb460ac01a4d3ccb1ff06091b95b
+Section: 兼容层oldabi-rootless
+Description: Minimalist GPS spoofer (free, iOS 13+)。一款曾经响彻江湖的GPS欺骗插件，在/var/jb/Library/MobileSubstrate/DynamicLibraries/Relocate.plist中加入应用bundle。
+Author: Nepeta 来了老弟
+Name: Relocate Reborn-rootless
+Sileodepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=relocatereborn
+
 Package: cn.llld.roundedcc
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -1804,6 +1821,22 @@ Description: The specific time of the recent call has been increased.最近通�
 Author: 来了老弟
 Name: 最近通话增加具体时间-rootless
 
+Package: cn.llld.touchflow
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: firmware (>= 11.0), mobilesubstrate, com.creaturesurvive.libcscolorpicker, cn.llld.hhxt,oldabi
+Conflicts: netskao.llldshowtouch
+Filename: ./debs/rootless/TouchFlow录屏轨迹_1.0.6-rootless.deb
+Size: 190224
+MD5sum: 6047134bc44717ca8d7bfb107a634cc7
+SHA1: ab5881d4e36c6c53eebcdb1b01e179f438ff36c6
+SHA256: 6bb18b47ad1d117bbb81869c3a77c3b5c2645582f3a784eee631d9b3eb5e1218
+Section: 兼容层oldabi-rootless
+Description: Same touch indicator as ShowTouch。和ShowTouch相同的触摸指示器
+Author: CreatureSurvive
+Name: TouchFlow录屏轨迹-rootless
+
 Package: cn.llld.vartaman
 Version: 1.2.9
 Architecture: iphoneos-arm64
@@ -2181,6 +2214,21 @@ Section: rootless插件
 Description: Asset.car,View the resource pictures in the native system car and save the necessary ones，查看原生系统car文件中的资源图片，保存有需要的
 Author: Joey GM & Acreson
 Name: Aphrodite-Assets文件查看
+
+Package: com.ali.touchflowmodule
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, com.opa334.ccsupport, cn.llld.hhxt,oldabi
+Filename: ./debs/rootless/touchflowmodule_1.0-rootless.deb
+Size: 57684
+MD5sum: fb3b39cfaded88747cbe2ffcb7efaaa8
+SHA1: a651ce715d92a9af2a0b24935ba5aa773ed140b5
+SHA256: 3bf3b384510f2aa75053b21ed6845c87dc98bb325004f741b0c6580cbc3b4233
+Section: 兼容层oldabi-rootless
+Description: Control Center module for TouchFlow。TouchFlow的控制中心模块
+Author: alimaulana 来了老弟
+Name: TouchFlow Module-rootless
 
 Package: com.cokepokes.libnotifications
 Version: 0.3-5
