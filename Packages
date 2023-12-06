@@ -1417,15 +1417,14 @@ Maintainer: 来了老弟 h_h_x_t
 Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist | cn.llld.applist, com.rpetrich.rocketbootstrap | cn.llld.rocketbootstrap (>= 0.1.7), preferenceloader, cn.llld.hhxt,oldabi
 Conflicts: me.nepeta.relocate
 Filename: ./debs/rootless/relocatereborn_1.0.1_GPS欺骗-rootless.deb
-Size: 68476
-MD5sum: 495942504c8c7cc003902f3d3044b13c
-SHA1: b0740b5c8474c616c7f9c77a324dc1dc04939d43
-SHA256: 203009825e36182a6fe39d38f38ff74453bfbb460ac01a4d3ccb1ff06091b95b
+Size: 68616
+MD5sum: cd1886c35360a9560f94ddb786fe2404
+SHA1: 69ef2d2335710f01383294a1e1359bd6b2ed4c7c
+SHA256: 9dfc0787c7a7964aa21c85800f5bd665a07a4deaa7cdfcf1ec00df2fc5f51912
 Section: 兼容层oldabi-rootless
-Description: Minimalist GPS spoofer (free, iOS 13+)。一款曾经响彻江湖的GPS欺骗插件，在/var/jb/Library/MobileSubstrate/DynamicLibraries/Relocate.plist中加入应用bundle。
+Description: Minimalist GPS spoofer (free, iOS 13+)。A GPS spoof plug-in that once resounded in the world. Usage: Add the application bundle to /var/jb/Library/MobileSubstrate/DynamicLibraries/Relocate.plist。一款曾经响彻江湖的GPS欺骗插件，使用方法：在/var/jb/Library/MobileSubstrate/DynamicLibraries/Relocate.plist中加入应用bundle。
 Author: Nepeta 来了老弟
 Name: Relocate Reborn-rootless
-Sileodepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=relocatereborn
 
 Package: cn.llld.roundedcc
 Version: 1.0.3
@@ -2528,16 +2527,15 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common, preferenceloader, applist, cn.llld.hhxt,oldabi
 Filename: ./debs/rootless/notiblock_0.0.6通知过滤-rootless.deb
-Size: 360508
-MD5sum: ddfafd5a9fc9e102b158f5cc6df4d007
-SHA1: 7493e53c994d7ff0ad37702fb3b4047fe83f3996
-SHA256: 6f5cf2a4468bd0d1eec8e9d20c7375ff0aa5f76a133d16cde2517213b8239cd5
+Size: 360284
+MD5sum: 27b0f2b91b253456053bb1286dd442c6
+SHA1: 7c57ed1511c45a775d9c9fa67794f99df2dcbfc4
+SHA256: 1d2e8bd9a5c3924eec05561c4bc26b596265da78004d1566ae758c372334ff2f
 Section: 兼容层oldabi-rootless
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=notiblockDp
 Description: Block notifications and take control of your digital well-being。(You can receive notifications while excluding sounds and brightening the screen.)插件作用：过滤应用通知。(可以收到通知的同时排除声音和亮屏)，作者停更，莫打扰，有其他需求的自行去开源库中下载编译。
 Author: ShemeshApps <tomerjshemesh@gmail.com>
 Dev: shemeshapps
-Name: NotiBlock-通知过滤
+Name: NotiBlock-通知过滤-rootless
 
 Package: com.tomaszpoliszuk.alertcontroller
 Version: 1.4.2
