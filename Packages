@@ -142,6 +142,21 @@ Description: Hide player Notification background。半透版本，隐藏播放�
 Author: 来了老弟 h_h_x_t
 Name: 隐藏播放器通知背景2-rootless
 
+Package: cn.llld.ants
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, preferenceloader,oldabi,cn.llld.hhxt
+Filename: ./debs/rootless/动态蚂蚁ants_1.0.4需oldabi-rootless.deb
+Size: 82480
+MD5sum: e850ea8a3fb72dfbeb5e99cdd8abb1f5
+SHA1: 18d67e70306dcc9b800444b070f198b1eff5198f
+SHA256: 9f60950cd2e53766220008fb5d00dc75a1bcb7dcb70971a4d8fd892c32fc8f58
+Section: rootless修复插件
+Description: Global Ant Crawling Special Effect。全局蚂蚁爬动特效，点击就暂停然后消失
+Author: Spark 来了老弟
+Name: Ants_动态蚂蚁特效-rootless
+
 Package: cn.llld.appdata
 Version: 0.0.2
 Architecture: iphoneos-arm64e
@@ -2246,6 +2261,25 @@ Description: App notification library.
 Author: CokePokes <cokepokes@gmail.com>
 Dev: cokepokes
 Name: libnotifications
+
+Package: com.ichitaso.exsto13
+Version: 0.0.9
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, cn.llld.hhxt,oldabi
+Conflicts: com.zachatrocity.exsto, com.julioverne.exsto11
+Replaces: com.ichitaso.exsto13
+Filename: ./debs/rootless/文件夹特效exsto_0.0.9-rootless.deb
+Size: 78600
+MD5sum: cb0c66a27449d55908d0d359a8895d4d
+SHA1: 56be9cf0156280ecb7e34a6543482144e556b41a
+SHA256: 2df75c72749c0730503dc195ae774312e4d246dc873df7a592ab1e8b2447013b
+Section: 兼容层oldabi-rootless
+Homepage: https://ichitaso.com
+Description: Unleash your folders。用法：长按文件夹，开启环形特效，有哒哒声，设置可控制大小图标等
+Author: ichitaso 来了老弟
+Dev: ichitaso
+Name: Exsto长按文件夹特效-rootless
 
 Package: com.llld.bfb
 Version: 0.1-1
