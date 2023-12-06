@@ -1153,6 +1153,21 @@ Author: 来了老弟
 Name: 强制第三方输入法-roothide
 Sponsor: 来了老弟
 
+Package: cn.llld.keyboardplus
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, cn.llld.hhxt,oldabi
+Filename: ./debs/rootless/keyboardplus键盘增强rootless.deb
+Size: 388140
+MD5sum: 36882598dc3a911e034a95d23163a8c4
+SHA1: c5562c812e3c4f6acc5a1b0955966519d98b59b2
+SHA256: 3e5dee4d621b61d23e5b9876e87a2e1ea0e483e19fd976652566e2e23cc42161
+Section: 兼容层oldabi-rootless
+Description: Disable X gestures for global or single applications, quick access, customize keyboard color text insertion and Bottom spacing, etc。针对全局或者单个应用进行禁用X手势，快捷访问，自定义键盘颜色文本插入和底盘间距等(xina2可用)。
+Author: Ryan Nair 来了老弟
+Name: Keyboard Plus_键盘增强-rootless
+
 Package: cn.llld.kztm
 Version: 0.0.1
 Architecture: iphoneos-arm64e
