@@ -935,6 +935,23 @@ Description: Flex3--(roothide专用)简体中文包
 Author: 来了老弟
 Name: Flex3汉化包-roothide
 
+Package: cn.llld.folded
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker,cn.llld.hhxt,oldabi
+Conflicts: com.burritoz.cartella, com.thomz.foldy, com.spark.snowboard.dock
+Replaces: com.burritoz.cartella, com.thomz.foldy
+Filename: ./debs/rootless/最强文件夹调整folded_1.2.0-rootless.deb
+Size: 415812
+MD5sum: ffe975be0c7b0e4d6e705a80cac82d22
+SHA1: 2344a938dc6b61b299ffe41a93887af340e93fa1
+SHA256: 709d59acb968fa95406f335fa7e77f6fbf821098279e0507bc37151ecd5c2e0a
+Section: 兼容层oldabi-rootless
+Description: Strongest folder tweak。最强文件夹调整
+Author: Thomz and burrit0z
+Name: Folded文件夹调整-rootless
+
 Package: cn.llld.ftt
 Version: 0.1
 Architecture: iphoneos-arm64
@@ -1835,6 +1852,21 @@ Section: rootless插件
 Description: The specific time of the recent call has been increased.最近通话增加具体时间
 Author: 来了老弟
 Name: 最近通话增加具体时间-rootless
+
+Package: cn.llld.togglow
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, cn.llld.hhxt,oldabi
+Filename: ./debs/rootless/全功能版togglow_1.0.8-rootless.deb
+Size: 340224
+MD5sum: 781df4676ad1560c77fedf1e1c88a73d
+SHA1: da5ef52053e7c1398e2d02a108eafd9248107d91
+SHA256: 7481000fe8222581c6cf5f86e1126004e76e7b7147d1dda1fea1aab2f77c61c1
+Section: 兼容层oldabi-rootless
+Description: Personalized control center lets the outer ring of the control center shine。个性化控制中心 让控制中心外圈发光，20231206：全功能可改色可读取写入配置，作者本人没有更新的插件，不要去打扰他索要新功能等，有问题卸载，无偿奉献，不想听到不好的声音，谢谢了
+Author: smokin1337 来了老弟
+Name: Togglow控制中心按钮特效-rootless
 
 Package: cn.llld.touchflow
 Version: 1.0.6
