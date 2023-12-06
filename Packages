@@ -1473,6 +1473,22 @@ Description: The buttons and sliders in the control center have rounded corners.
 Author: neoney
 Name: RoundedCC控制中心圆角化-roothide
 
+Package: cn.llld.ryannair05.snoverlay
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), cn.llld.hhxt,oldabi
+Replaces: com.leftyfl1p.snoverlay
+Filename: ./debs/rootless/snoverlay_1.0.1雪花特效-rootless.deb
+Size: 104660
+MD5sum: 6dfe2a063dd1a718f02f0a162021c112
+SHA1: d9774c9f435f586eb702e5a68b37071d2747c609
+SHA256: e0c0a09c81715a85050e66fb961159be03b58f21d9050edc0ca6e5b7a9d04540
+Section: 兼容层oldabi-rootless
+Description: Falling Snowflakes，You can lock the screen only on the desktop or have a global snow effect, and the settings can control the size。可以仅桌面锁屏也可以全局落雪特效，设置可控制大小
+Author: Ryan Nair
+Name: Snoverlay2-雪花特效-rootless
+
 Package: cn.llld.sdxj
 Version: 0.0.1
 Architecture: iphoneos-arm64e
