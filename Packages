@@ -1282,6 +1282,22 @@ Description: Notiblock通知过滤--(rootless)简体中文包
 Author: 来了老弟 X: h_h_x_t
 Name: notiblock通知过滤汉化-rootless
 
+Package: cn.llld.notirootful
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/notiblock通知过滤汉化-rootful_0.0.1_iphoneos-arm.deb
+Size: 7136
+MD5sum: 1f0f8a083ed7fe191898f982b9fe0415
+SHA1: 31b6eb53142bcbc3fa41dae8bc6b6e4b11a313bc
+SHA256: 2b1392a00c8ed10b6706294769bccb9be41d53a680682002c799784a825df8b7
+Section: rootful汉化补丁
+Description: Notiblock通知过滤--(rootful)简体中文包
+Author: 来了老弟 X: h_h_x_t
+Name: notiblock通知过滤汉化-rootful
+
 Package: cn.llld.panic
 Version: 1.1.2
 Architecture: iphoneos-arm64
