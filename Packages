@@ -1410,22 +1410,6 @@ Description: Reddit界面、设置、功能汉化(rootless)简体中文包
 Author: 来了老弟
 Name: Reddit汉化-rootless
 
-Package: cn.llld.relocatereborn
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 h_h_x_t
-Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist | cn.llld.applist, com.rpetrich.rocketbootstrap | cn.llld.rocketbootstrap (>= 0.1.7), preferenceloader, cn.llld.hhxt,oldabi
-Conflicts: me.nepeta.relocate
-Filename: ./debs/rootless/relocatereborn_1.0.1_GPS欺骗-rootless.deb
-Size: 68628
-MD5sum: 5279a6e2c28fcfdbc11e05da9ef052e2
-SHA1: 6e49f8bd43d7b6442aae086f91ad8c69c59df995
-SHA256: 944f663293ddcfd3be40b58476e4b45af3b2870cb646b9596210762bcbf5bcfa
-Section: 兼容层oldabi-rootless
-Description: Minimalist GPS spoofer (free, iOS 13+)。A GPS spoof plug-in that once resounded in the world. Usage: Add the application bundle to /var/jb/Library/MobileSubstrate/DynamicLibraries/Relocate.plist。一款曾经响彻江湖的GPS欺骗插件，使用方法：在/var/jb/Library/MobileSubstrate/DynamicLibraries/Relocate.plist中加入应用bundle。
-Author: Nepeta 来了老弟
-Name: Relocate Reborn(GPS欺骗)-rootless
-
 Package: cn.llld.roundedcc
 Version: 1.0.3
 Architecture: iphoneos-arm64
