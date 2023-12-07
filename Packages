@@ -935,6 +935,23 @@ Description: Flex3--(roothide专用)简体中文包
 Author: 来了老弟
 Name: Flex3汉化包-roothide
 
+Package: cn.llld.folded
+Version: 1.2.01
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker, cn.llld.hhxt, oldabi
+Conflicts: com.burritoz.cartella, com.thomz.foldy, com.spark.snowboard.dock
+Replaces: com.burritoz.cartella, com.thomz.foldy
+Filename: ./debs/rootless/folded目前最强的文件夹调整rootless.deb
+Size: 416096
+MD5sum: f872251ceaec83f20c33829fcf3b4186
+SHA1: c65d07a3f05b65cf3f07f3ec831ea7ec58e97d3e
+SHA256: 45493e2e3e03fe241310254ff3d244f7610a39d7dbb588c4cd2c841b62529325
+Section: 兼容层oldabi-rootless
+Description: Customize your folders with the most feature-rich folder tweak。自定义你的文件夹，功能最丰富的文件夹插件。
+Author: Thomz and burrit0z
+Name: Folded文件夹增强-rootless
+
 Package: cn.llld.ftt
 Version: 0.1
 Architecture: iphoneos-arm64
@@ -1203,17 +1220,17 @@ Name: Rose (振动配置)-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.litten.rose/rose_rootless.json
 
 Package: cn.llld.llld
-Version: 9.9.9.9
+Version: 9.99.9
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Depends: firmware (>= 15.50), mobilesubstrate (>= 0.9.5.000), preferenceloader, cn.llld.hhxt,oldabi
 Filename: ./debs/rootless/Aa1个人声明-rootless.deb
-Size: 2104
-MD5sum: 5c27a4106dbb037097535668effbb59b
-SHA1: de631c113573e1bd4c4f47c8104edf019f737ca3
-SHA256: e77f1b427be4c0e84542af33f2a2784ac7080795c3b730f5a888d14645a5197b
+Size: 1728
+MD5sum: b02dbe3f6880a93bfd87c137b0b375fd
+SHA1: 5ee4dafb0e9fe5b1a42bef58f8c5b00d1baba012
+SHA256: 5a8040b36fcc06620f88d255a23228a7fd480821edf379a02cee445f7c98eda2
 Section: 兼容层oldabi-rootless
-Description: ***越狱测试群里面发一个测试包，提供给那个问我有需要的人，某人自行手贱安装出了问题(没装oldabi)，就开始背后换着群见个人就胡扯诋毁我，我是真想不透，怎么会有如此恶心行径之人***。发的任何一个包没有收费行为且分区明确，中英文配上描述，自己不会用的，请不要上升我本人问题，不用就卸载呀，背后讲人坏话，我收了一毛钱了吗？oldabi，捆绑的那么明白，还写了兼容区，本身就有可能会发生问题的事情，觉得不行就卸载呀，为何要做背后诋毁人的事情，请问你为这个越狱圈做出了什么贡献，又问问自己会些什么帮助过谁？回归正题，没有对任何使用的用户有不敬之意，但是该用户确实让我觉得很上头，几个人艾特我以及给我发图了，抱歉占用各位空间了。。若是插件有问题，多巴胺环境禁止插件注入，卸载，xina2则安全模式卸载，若是某插件不生效请单独开启仅允许看看是否能生效(会不会有冲突的可能)，说个重点***(xina2-rootless串联)会增加某个别应用场景越狱被检测的概率，除非必要喜欢，否则不用对应的插件，若屏蔽无效，直接卸载它和对应插件***。xina2用户请用xina专属的oldabi,XinaA15源的oldabi-xina(Legacy arm64e Support),xina2用户一定不要装错源了。xina2用户一定不要装错源了。xina2用户一定不要装错源了。我所发之物也是有人需求，就给大家提供，并不是我自己总是常用很久，实测2手机没问题才发出上源。另外每人手机环境不一，各种可能性都有，经常有人问到的就是插件不生效，但经过我的了解，只是禁止注入了，所以插件无处生效，擅用choicy和同类工具，抱拳了，请给越狱圈一片明朗的天空，我也是因为热爱而到现在，但无奈抵御不了人心。
+Description: ***关于兼容层（oldabi）若插件有问题，多巴胺环境禁止插件注入，卸载，xina2则安全模式，卸载。若某插件不生效请单独开启仅允许看看是否能生效(会不会有冲突的可能)，再说个重点(xina2-rootless串联)会增加某个别应用场景越狱被检测的概率，除非必要喜欢，否则不用对应的插件，若屏蔽无效，直接卸载它和对应插件，没有屏蔽的需求，则过滤这条消息***。xina2用户请用xina专属的oldabi，XinaA15源的oldabi-xina(Legacy arm64e Support),xina2用户一定不要装错源了。xina2用户一定不要装错源了。xina2用户一定不要装错源了。我所发之物也是有人需求，就给大家提供，并不是我自己总是常用很久，实测2手机没问题才发出上源。另外每人手机环境不一，各种可能性都有，经常有人问到的就是插件不生效，多数是禁止注入或屏蔽应用了，所以插件无处生效，擅用choicy和同类工具，如设置有异样，就是没装依赖，根据提示翻译安装就可以了，插件设置空白则更换PreferenceLoader。不想和任何人有纠纷，请给越狱圈一片明朗的天空，用不上就不用，非强制，莫做背后道人长短的xx，理智玩机。
 Author: 空白
 Name: Aa1空包仅声明作用
 
