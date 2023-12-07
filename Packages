@@ -361,6 +361,22 @@ Description: The color of the corner mark automatically changes with the color o
 Author: David Goldman
 Name: ColorBadges 彩色角标-roothide
 
+Package: cn.llld.colorbadges
+Version: 1.5.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5.000), preferenceloader,oldabi
+Conflicts: com.haoerloveyou.colorbadges
+Filename: ./debs/rootless/ColorBadges彩色角标-rootless.deb
+Size: 61108
+MD5sum: 75d559a3ec1abbca0c043c43a0fb0248
+SHA1: a4c6354819d9c798d4cd5642c59f86a13df46df6
+SHA256: 014167860c24c8d63c998b1a22cdf985940338eed6eda3f941350ad6e8cb15e7
+Section: 兼容层oldabi-rootless
+Description: The color of the corner mark automatically changes with the color of the App icon。角标颜色随App图标颜色自动改变，最受欢迎需要oldabi的插件😆
+Author: David Goldman
+Name: ColorBadges彩色角标-rootless
+
 Package: cn.llld.conditional
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -1914,6 +1930,21 @@ Description: Global custom vibration feedback全局自定义震动反馈，设�
 Author: SynnyG 来了老弟
 Name: Vibrato全局自定义震动-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.vibrato/js_Vibrato_rootless.json
+
+Package: cn.llld.wechatautolock
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate
+Filename: ./debs/rootless/VX跟随系统锁屏-rootless.deb
+Size: 4328
+MD5sum: 2e566101865f6ffa24cf66859a4ef901
+SHA1: 0591ed3729cab6cfb9392e01cd788f192b168d44
+SHA256: 77ebc53723a00dfac005b8d021de03698ca2598548d779b445b50c42c201f58e
+Section: rootless-vx插件
+Description: 允许微信在聊天界面时跟随系统自动锁屏
+Author: iBreak
+Name: VX跟随系统锁屏-rootless
 
 Package: cn.llld.wxyybb
 Version: 1.0
