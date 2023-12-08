@@ -12,16 +12,18 @@
           "class": "DepictionMarkdownView",
           "markdown": "Universal audio visualizer for iOS15。Developer does not support rootless. If you have any questions, please don't bother others。It is recommended to turn off the functions in the control center (one of the two mobile phones will trigger the Resping safe mode)。适用于iOS15的通用音频可视化工具-rootless版，开发者未支持无根，有问题别打扰人家。控制中心里面功能建议关闭(两手机有一台此处会引发注销安全模式)。xina2使用会有问题，不建议装。",
           "useRawFormat": true
-    },
-    {
-      "class": "DepictionVideoView",
-      "video": {
-        "url": "https://laileld.github.io/repo/sileodepiction/com.ryannair05.mitsuhaforever/yinpin.MP4",
-        "cornerRadius": 6,
-        "width": 888,
-        "height": 1920
-      }
-    },
+        },
+        {
+          "class": "DepictionVideoView",
+          "cornerRadius": 6,
+          "width": 888,
+          "height": 1920,
+          "video": [
+            {
+              "url": "https://laileld.github.io/repo/sileodepiction/com.ryannair05.mitsuhaforever/yinpin.MP4"
+            }
+          ]
+        },
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 6,
