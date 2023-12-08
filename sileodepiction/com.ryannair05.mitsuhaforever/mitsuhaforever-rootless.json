@@ -16,9 +16,12 @@
     {
       "class": "DepictionVideoView",
       "video": {
-        "url": "https://laileld.github.io/repo/sileodepiction/com.ryannair05.mitsuhaforever/音频动效.MP4",
+        "url": "https://laileld.github.io/repo/sileodepiction/com.ryannair05.mitsuhaforever/yinpin.MP4",
         "type": "mp4",
-        "thumbnailUrl": "https://laileld.github.io/repo/sileodepiction/com.ryannair05.mitsuhaforever/IMG_缩略图.JPG"
+        "cornerRadius": "10",
+        "width": "888",
+        "height": "1920",
+        "thumbnailUrl": "https://laileld.github.io/repo/sileodepiction/com.ryannair05.mitsuhaforever/IMG_slt.JPG"
       }
     },
         {
