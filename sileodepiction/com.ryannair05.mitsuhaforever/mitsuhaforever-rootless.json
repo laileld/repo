@@ -20,22 +20,8 @@
           "height": 1920,
           "video": [
             {
+                 "accessibilityText": "Video",
               "url": "https://laileld.github.io/repo/sileodepiction/com.ryannair05.mitsuhaforever/yinpin.MP4"
-            }
-          ]
-        },
-        {
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 6,
-          "itemSize": "{160, 346.4533333333333}",
-          "screenshots": [
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://laileld.github.io/repo/sileodepiction/org.s1ris.lower1/IMG_28240.PNG"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://laileld.github.io/repo/sileodepiction/org.s1ris.lower1/IMG_28260.PNG"
             }
           ]
         },
