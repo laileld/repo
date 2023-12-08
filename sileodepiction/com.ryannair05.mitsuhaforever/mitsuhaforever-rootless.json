@@ -1,0 +1,109 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "",
+  "tintColor": "#FF4455",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "插件描述",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Universal audio visualizer for iOS15。Developer does not support rootless. If you have any questions, please don't bother others。It is recommended to turn off the functions in the control center (one of the two mobile phones will trigger the Resping safe mode)。适用于iOS15的通用音频可视化工具-rootless版，开发者未支持无根，有问题别打扰人家。控制中心里面功能建议关闭(两手机有一台此处会引发注销安全模式)。xina2使用会有问题，不建议装。",
+          "useRawFormat": true
+    },
+    {
+      "class": "DepictionVideoView",
+      "video": {
+        "url": "https://laileld.github.io/repo/sileodepiction/com.ryannair05.mitsuhaforever/音频动效.MP4",
+        "type": "mp4",
+        "thumbnailUrl": "https://laileld.github.io/repo/sileodepiction/com.ryannair05.mitsuhaforever/IMG_缩略图.JPG"
+      }
+    },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://laileld.github.io/repo/sileodepiction/org.s1ris.lower1/IMG_28240.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://laileld.github.io/repo/sileodepiction/org.s1ris.lower1/IMG_28260.PNG"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "Ryan Nair",
+          "title": "开发作者"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.4.3",
+          "title": "最新版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "14.0 - 15.5",
+          "title": "支持系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "来了老弟 h_h_x_t",
+          "title": "兼容dopamine"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2023 年 12 月 8 日",
+          "title": "最后更新日期"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.4.3",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "有根兼容到无根(rootless)",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ]
+}
