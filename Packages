@@ -64,23 +64,6 @@ Description: A powerful app to remove ads and enhance system patches.一款强�
 Author: John Coates
 Name: Flex3程序修改器-roothide
 
-Package: apt.llld.flex3beta1
-Version: 1:3~Beta99.11
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 h_h_x_t
-Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), oldabi,cn.llld.flex3beta
-Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./debs/rootless/Flex3支持粗体和补丁列表-rootless.deb
-Size: 12787188
-MD5sum: 538b4356c8beeb43856c912227af0718
-SHA1: 64f5ef58605aa82fb739d6a485e48c326de9e84d
-SHA256: a58b0f0d7df4ed39946a071d15e4e905b0c067159c873d4c9d418bcd199737b9
-Section: 兼容层oldabi-rootless
-Description: 此包需装Legacy arm64e Support，不可解析,支持应用补丁列表,支持粗体文本显示，系统部分应用生效,装此包附带一个可以解析的版本(支持解析第三方和生效应用),需要全功能就装此包，需要全功能就装此包，需要全功能就装此包，一方开关2个共同效果,想更好的就等-别催,10102018:小更去除几个系统应用的注入_________仅测试用,有问题卸载
-Author: John Coates
-Name: Flex 3 粗体版-rootless
-
 Package: apt.llld.settingswallpaper
 Version: 0.0.4
 Architecture: iphoneos-arm64e
@@ -148,11 +131,11 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Depends: mobilesubstrate, preferenceloader,oldabi,cn.llld.hhxt
 Filename: ./debs/rootless/动态蚂蚁ants_1.0.4需oldabi-rootless.deb
-Size: 82480
-MD5sum: e850ea8a3fb72dfbeb5e99cdd8abb1f5
-SHA1: 18d67e70306dcc9b800444b070f198b1eff5198f
-SHA256: 9f60950cd2e53766220008fb5d00dc75a1bcb7dcb70971a4d8fd892c32fc8f58
-Section: rootless修复插件
+Size: 82472
+MD5sum: 270c6fd74db8e9fe6226cc3678ca8efc
+SHA1: 45b9f814a4d0f4bd01ceade50f2efef7c1373786
+SHA256: 12b4bd61c9fd5dcfd940f40bc5cd94c1947635e8aa9cc7717bdfc5fe96d87dbf
+Section: 兼容层oldabi-rootless
 Description: Global Ant Crawling Special Effect。全局蚂蚁爬动特效，点击就暂停然后消失
 Author: Spark 来了老弟
 Name: Ants_动态蚂蚁特效-rootless
@@ -551,22 +534,6 @@ Section: roothide汉化补丁
 Description: CustomizeCC汉化-roothide,231130更新处理任何汉化冲突问题
 Author: 来了老弟
 Name: CustomizeCC汉化-roothide
-
-Package: cn.llld.customizeccrootless
-Version: 1.21
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/CustomizeCC汉化-rootless_1.21_iphoneos-arm64.deb
-Size: 12228
-MD5sum: 59d3652542ad921fb7723146ea010b8f
-SHA1: 20c4a72ef66d8a08de57e8f1fe3c7788b06dc416
-SHA256: 2dab4c8be72e8e2afe140c54dedbac5b11da97370b8c7b21ad4e4d2ebf5b93fa
-Section: rootless汉化补丁
-Description: CustomizeCC汉化-rootless
-Author: 来了老弟
-Name: CustomizeCC汉化-rootless
 
 Package: cn.llld.customizeccrootless
 Version: 1.22
@@ -1697,22 +1664,6 @@ Name: SmartNotifications2汉化-roothide
 
 Package: cn.llld.smartnotifications
 Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/SmartNotifications2汉化-rootless.deb
-Size: 10694
-MD5sum: 2f9658dde97dabc8b7d7943dc996796d
-SHA1: 29db7b86e11a1a7af8c4b4af8218ce9e377b9f37
-SHA256: d61aeeb8df8a12a6123e040ec75b6c03ec8c8d4dca82fa69161082bb0a2ea027
-Section: rootless汉化补丁
-Description: SmartNotifications2汉化
-Author: 来了老弟
-Name: SmartNotifications2汉化-rootless
-
-Package: cn.llld.smartnotifications
-Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: 来了老弟
 Installed-Size: 168
@@ -1936,15 +1887,15 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Depends: mobilesubstrate
-Filename: ./debs/rootless/VX跟随系统锁屏-rootless.deb
-Size: 4328
-MD5sum: 2e566101865f6ffa24cf66859a4ef901
-SHA1: 0591ed3729cab6cfb9392e01cd788f192b168d44
-SHA256: 77ebc53723a00dfac005b8d021de03698ca2598548d779b445b50c42c201f58e
-Section: rootless-vx插件
-Description: 允许微信在聊天界面时跟随系统自动锁屏
+Filename: ./debs/rootless/WX跟随系统锁屏-rootless.deb
+Size: 4344
+MD5sum: cefc3bbbec88ac2c51493759ed4fac04
+SHA1: 0abb74a404a1ed46714a1b61ce2134b1338dbdbe
+SHA256: ed5df383740064da4a8fac9856f82bdc809440c06ef2ffd2dd420842e8e51ce0
+Section: rootless-wx插件
+Description: 允许WX在聊天界面时跟随系统自动锁屏,wx默认是5分钟的
 Author: iBreak
-Name: VX跟随系统锁屏-rootless
+Name: WX跟随系统锁屏-rootless
 
 Package: cn.llld.wxyybb
 Version: 1.0
@@ -2375,22 +2326,6 @@ Author: gilshahar7, 0xkuj
 Name: DNDMyRecording录屏勿扰模式-rootless
 
 Package: com.llld.flexlist
-Version: 0.0.1-3+debug
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/Flexlist汉化-rootless_0.0.1-3+debug_iphoneos-arm64.deb
-Size: 13056
-MD5sum: b7a72908f89d59966b5ebb1f1b35ca48
-SHA1: 4aa1fec7b32016f31884cd2dedc6bc2d63901304
-SHA256: 5f0da5d8eacf00ace2c35dcfc85ee22e59e67ead691dcb64deb3891c763e85b9
-Section: rootless汉化补丁
-Description: Flexlist--(rootess)简体中文包
-Author: 来了老弟
-Name: Flexlist汉化-rootless
-
-Package: com.llld.flexlist
 Version: 0.0.1-4+debug
 Architecture: iphoneos-arm
 Maintainer: 来了老弟
@@ -2405,22 +2340,6 @@ Section: rootful汉化补丁
 Description: Flexlist--(rootful)简体中文包
 Author: 来了老弟
 Name: Flexlist汉化-rootful
-
-Package: com.llld.flexlist
-Version: 0.0.2
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/Flexlist汉化-rootless_0.0.2_iphoneos-arm64.deb
-Size: 12090
-MD5sum: c1cc887bf3b425332d0b9029c0a381d4
-SHA1: ae0ad67e716ddd4eeca943000db6c769dc855a31
-SHA256: 1e6fc6f491303dfae1562aac92def25d3d3f4160e61fede7c3cd8c4d5b3af6d8
-Section: rootless汉化补丁
-Description: Flexlist--(rootless)简体中文包
-Author: 来了老弟
-Name: Flexlist汉化-rootless
 
 Package: com.llld.flexrootful
 Version: 0.0.31
