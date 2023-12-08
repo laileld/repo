@@ -15,15 +15,13 @@
         },
         {
           "class": "DepictionVideoView",
-          "cornerRadius": 6,
           "width": 888,
           "height": 1920,
-          "video": [
-            {
-                 "accessibilityText": "Video",
-              "url": "https://laileld.github.io/repo/sileodepiction/com.ryannair05.mitsuhaforever/yinpin.MP4"
-            }
-          ]
+          "cornerRadius": 6,
+          "video": {
+            "accessibilityText": "Video",
+            "url": "https://laileld.github.io/repo/sileodepiction/com.ryannair05.mitsuhaforever/yinpin.MP4"
+          }
         },
         {
           "class": "DepictionSpacerView",
