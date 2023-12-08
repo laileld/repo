@@ -16,7 +16,7 @@
     {
       "class": "DepictionVideoView",
       "video": {
-        "URL": "https://laileld.github.io/repo/sileodepiction/com.ryannair05.mitsuhaforever/yinpin.MP4",
+        "url": "https://laileld.github.io/repo/sileodepiction/com.ryannair05.mitsuhaforever/yinpin.MP4",
         "cornerRadius": 6,
         "width": 888,
         "height": 1920
