@@ -2472,6 +2472,55 @@ Description: Control at your fingertips,Installation required Legacy arm64e Supp
 Author: Muirey03
 Name: Arc-rootless
 
+Package: com.ryannair05.audiosnapshotserver
+Version: 2.1.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Replaces: io.ominousness.ass, me.conorthedev.audiosnapshotserver
+Provides: io.ominousness.ass, me.conorthedev.audiosnapshotserver
+Filename: ./debs/rootless/audiosnapshotserver_2.1.2依赖-rootless.deb
+Size: 5200
+MD5sum: f4119cbdb30e2133961953d76db48a6e
+SHA1: f4ac196719f6a6f0cdfac839dcff9e55f7b1aab0
+SHA256: 966b4f8659084eae9efd45a8996bf5b1ad5508efafae2ce7c5b3d441451fd661
+Section: rootless依赖
+Description: A modified iOS mediaserverd hook to serve snapshots of current audio buffer via TCP/IP
+Author: Ryan Nair and Nepeta <ryannairtweaks@gmail.com>
+Name: AudioSnapshotServer-依赖
+
+Package: com.ryannair05.libmitsuhaforever
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, com.ryannair05.audiosnapshotserver, cn.llld.hhxt, oldabi
+Replaces: me.nepeta.libmitsuha, me.conorthedev.libmitsuhaforever
+Filename: ./debs/rootless/libmitsuhaforever-1.4.2- 依赖rootless.deb
+Size: 75552
+MD5sum: 6fe18385d951430bc108fd836fec6fef
+SHA1: 212bbbb7b2919eaf0050dd5093f0f4c478559ba6
+SHA256: 60bb0422cdf5ae4cf312fb3710e9234289cac8eaf074399b98d3e2c8b964a4b2
+Section: rootless依赖
+Description: An advanced audio visualizer library for Mitsuha Forever
+Author: Ryan Nair, ConorTheDev, Nepeta <ryannairtweaks@gmail.com>
+Name: libmitsuhaforever
+
+Package: com.ryannair05.mitsuhaforever
+Version: 1.4.3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, preferenceloader, com.ryannair05.libmitsuhaforever (>=1.4.0), ws.hbang.alderis, firmware (>=11.0), cn.llld.hhxt, oldabi
+Replaces: io.c0ldra1n.mitsuha, io.ominousness.mitsuhaxi, me.nepeta.mitsuhainfinity, me.nepeta.mitsuhainfinity-lockscreen
+Filename: ./debs/rootless/Mitsuha Forever-可视化音频动效-rootless.deb
+Size: 89928
+MD5sum: 5d950288a2201c27f6e77de967d18d36
+SHA1: c89380cf4053dfd64313ab0bb3186e36dfac75cd
+SHA256: e200c9da4c46aa6b0ec5f219b19e6c7ff070533c9c6977a15b04abcf63a974fd
+Section: 兼容层oldabi-rootless
+Description: Universal audio visualizer for iOS15。Developer does not support rootless. If you have any questions, please don't bother others。It is recommended to turn off the functions in the control center (one of the two mobile phones will trigger the Resping safe mode)。适用于iOS15的通用音频可视化工具-rootless版，开发者未支持无根，有问题别打扰人家。控制中心里面功能建议关闭(两手机有一台此处会引发注销安全模式)。xina2使用会有问题，不建议装。
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Name: Mitsuha Forever-可视化音频动效-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.ryannair05.mitsuhaforever/mitsuhaforever-rootless.json
+
 Package: com.shemeshapps.notiblock
 Version: 0.0.6
 Architecture: iphoneos-arm64
@@ -2718,12 +2767,12 @@ Package: org.s1ris.lower1
 Version: 1.5.21
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
-Depends: mobilesubstrate, firmware (>=11.0)
+Depends: mobilesubstrate, firmware (>=11.0),cn.llld.hhxt
 Filename: ./debs/rootless/lower锁屏移动控件2-rootless.deb
-Size: 20520
-MD5sum: 16fa776f4ec8787292a477a725055d1a
-SHA1: 54f0f8c230317899688b82975568362686b7712c
-SHA256: fadd2762526c47fd2a8065039113e11d2e248653c301807600f78e42e1086796
+Size: 20508
+MD5sum: 278f746a46525f6816daf6dc2d358d4b
+SHA1: 62810b16bc06a16eaf356c1442c91e58622eb589
+SHA256: 2a1036a91ca52431ef0fd75e5118fc6a680255d48c58cecd5cfc6628a78d5058
 Section: rootless修复插件
 Description: Change media controls/notifications height,调整通知中心播放器的位置和宽度,装了源里另一个不生效的则装这个
 Author: s1ris 来了老弟
