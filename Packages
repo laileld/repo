@@ -2405,6 +2405,54 @@ Description: Adjust the blank part of the control center and hide the status bar
 Author: smokin1337
 Name: FUGap控制中心间距-rootless
 
+Package: com.llld.runerootful
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/Rune汉化包-rootful_0.0.1_iphoneos-arm.deb
+Size: 9460
+MD5sum: 09e44bb903a8f28570596a7f563069af
+SHA1: 41ad72414806ed866001434e3fa91050859cdf5e
+SHA256: c6cd4677724d3b9f1f32db6f1c36e1ff79f3374e4e9792a9ca2dec2aed47c825
+Section: rootful汉化补丁
+Description: Rune汉化--(rootful)简体中文包
+Author: 来了老弟 h_h_x_t
+Name: Rune汉化包-rootful
+
+Package: com.llld.runeroothide
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/Rune汉化包-roothide_0.0.1_iphoneos-arm64e.deb
+Size: 9626
+MD5sum: c9109e16ca19355079df417591f2df4a
+SHA1: 6043785d4ad10c0f5edf767fa87326134be4462e
+SHA256: 86f7becde49ad73044027d9e350b7e864139290a2d17e5a3ec7296e30a0e4f6d
+Section: roothide汉化补丁
+Description: Rune汉化--(roothide)简体中文包
+Author: 来了老弟 h_h_x_t
+Name: Rune汉化包-roothide
+
+Package: com.llld.runerootless
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/Rune汉化包-rootless_0.0.1_iphoneos-arm64.deb
+Size: 9498
+MD5sum: 9603cb947de292190b2f8e39d8ae87fa
+SHA1: 10385103a2608ad88cc7f9142e03b88c818dec06
+SHA256: 5009491770cc8cc38bce65be2f1ec7cf0b4aabc79f99507d6aafab4514eade6f
+Section: rootless汉化补丁
+Description: Rune汉化--(rootless)简体中文包
+Author: 来了老弟 h_h_x_t
+Name: Rune汉化包-rootless
+
 Package: com.llld.ycfyd
 Version: 0.0.1-1
 Architecture: iphoneos-arm64
