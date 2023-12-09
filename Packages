@@ -2412,10 +2412,10 @@ Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootful/Rune汉化包-rootful_0.0.1_iphoneos-arm.deb
-Size: 9460
-MD5sum: 09e44bb903a8f28570596a7f563069af
-SHA1: 41ad72414806ed866001434e3fa91050859cdf5e
-SHA256: c6cd4677724d3b9f1f32db6f1c36e1ff79f3374e4e9792a9ca2dec2aed47c825
+Size: 9474
+MD5sum: 24b8b74d076111c03146553119f4cccf
+SHA1: 2bc2c5eb3961cc6a3db874146a9e3c9ca273a42f
+SHA256: d1c5b5eb2ddd4d9efaa01d7c9d15d5ceeb77419a4f60d772825278853a1798c9
 Section: rootful汉化补丁
 Description: Rune汉化--(rootful)简体中文包
 Author: 来了老弟 h_h_x_t
@@ -2428,10 +2428,10 @@ Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/roothide/Rune汉化包-roothide_0.0.1_iphoneos-arm64e.deb
-Size: 9626
-MD5sum: c9109e16ca19355079df417591f2df4a
-SHA1: 6043785d4ad10c0f5edf767fa87326134be4462e
-SHA256: 86f7becde49ad73044027d9e350b7e864139290a2d17e5a3ec7296e30a0e4f6d
+Size: 9404
+MD5sum: e954f70ef38acb0545adbfe615ea31f3
+SHA1: 588706338e6c0c2b66d09bfc8bb6c191030a100e
+SHA256: 9af33b7d664034c92b3a38faf9295eedf14e31e3e97a672b938fd461c4795afc
 Section: roothide汉化补丁
 Description: Rune汉化--(roothide)简体中文包
 Author: 来了老弟 h_h_x_t
@@ -2444,10 +2444,10 @@ Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/Rune汉化包-rootless_0.0.1_iphoneos-arm64.deb
-Size: 9498
-MD5sum: 9603cb947de292190b2f8e39d8ae87fa
-SHA1: 10385103a2608ad88cc7f9142e03b88c818dec06
-SHA256: 5009491770cc8cc38bce65be2f1ec7cf0b4aabc79f99507d6aafab4514eade6f
+Size: 9516
+MD5sum: 0ad57ec30b5a0ae92e9235f39bafcaca
+SHA1: 69638445b9f88f13b25f179955272b56af7e65b5
+SHA256: 7f2728e94854c1da461f7df9e1e09940e3b9d3ab487e3c2fa4a185391a666137
 Section: rootless汉化补丁
 Description: Rune汉化--(rootless)简体中文包
 Author: 来了老弟 h_h_x_t
