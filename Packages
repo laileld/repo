@@ -2421,6 +2421,54 @@ Description: Adjust the blank part of the control center and hide the status bar
 Author: smokin1337
 Name: FUGap控制中心间距-rootless
 
+Package: com.llld.livecalltranslator
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/LiveCallTranslator汉化包-roothide_0.0.1_iphoneos-arm64e.deb
+Size: 8326
+MD5sum: 28836a9597bce6ccb8ca15299c482451
+SHA1: 88d4691c83fb6a6b9977376a58aa7056e6be9e23
+SHA256: 974e68a9f5f50fa75a785c5462df85fd3a32054bb05294a78bd9a57ba5a2106d
+Section: roothide汉化补丁
+Description: LiveCallTranslator汉化--(roothide)简体中文包
+Author: 来了老弟 h_h_x_t
+Name: LiveCallTranslator汉化包-roothide
+
+Package: com.llld.livecalltranslator
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/LiveCallTranslator汉化包-rootless_0.0.1_iphoneos-arm64.deb
+Size: 8460
+MD5sum: 466947217d67f14d18b0114a6eea323a
+SHA1: 16b741b776d74581bce5a8811ff71f0a30f038f4
+SHA256: 4555eda5e02248fca0474c8b703dcfb3f8590318b4f164500e434cfe57201f75
+Section: rootless汉化补丁
+Description: LiveCallTranslator汉化--(rootless)简体中文包
+Author: 来了老弟 h_h_x_t
+Name: LiveCallTranslator汉化包-rootless
+
+Package: com.llld.livecalltranslator
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/LiveCallTranslator汉化包-rootful_0.0.1_iphoneos-arm.deb
+Size: 8388
+MD5sum: 2294ea7e71ad2aa58019170f15318649
+SHA1: eb95733cc1ea8b4b4ab196b507ee9a4e86c5a1e2
+SHA256: cd819e67cad9ba4230cc361c1714217012f719904cc4c242102537c28e97de04
+Section: rootful汉化补丁
+Description: LiveCallTranslator汉化--(rootful)简体中文包
+Author: 来了老弟 h_h_x_t
+Name: LiveCallTranslator汉化包-rootful
+
 Package: com.llld.runerootful
 Version: 0.0.1
 Architecture: iphoneos-arm
