@@ -1928,6 +1928,22 @@ Description: 原名motherwc，作用：点击wx文本，语音播报信息,应�
 Author: sunweiliang
 Name: wx文本语音播报-rootless
 
+Package: cn.llld.xqq
+Version: 0.0.0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X: h_h_x_t
+Installed-Size: 780
+Depends: mobilesubstrate
+Filename: ./debs/rootless/QQ小不点-rootless_0.0.0.0.1_iphoneos-arm64.deb
+Size: 17022
+MD5sum: 89417e86f63e0a9aee7c73f8c8f57427
+SHA1: 8dabd17a6b9b5594c64baa7b52bce87c7322cb2a
+SHA256: feb706a4b5eb37c304a205d8ca14870634b1869074009d6cb0f937ac88f16923
+Section: rootless插件
+Description: QQ去除首次更新检测和版本推送，默认开启Callkit(后台和无后台2种不同状态形式)，开启选择文件数量大小无上限(版本不同效果不同，发太多封群封号自理)，默认启用VIP功能的语音转文字。---(此版本无设置项)
+Author: 来了老弟 X: h_h_x_t
+Name: QQ小不点-rootless
+
 Package: cn.llld.ycdock
 Version: 1.0
 Architecture: iphoneos-arm64e
