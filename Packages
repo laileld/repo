@@ -903,20 +903,20 @@ Author: 来了老弟
 Name: flexcopy-rootful
 
 Package: cn.llld.flexlist
-Version: 0.0.3
+Version: 0.0.4
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/Flexlist汉化-rootless_0.0.3_iphoneos-arm64.deb
-Size: 11704
-MD5sum: 90f0cb06faa5fa2ab2ef971c8dcf576c
-SHA1: e3fb4e93e3aa4fb7af685085260e7db9c9d691d7
-SHA256: a06057e3d9e616b55be74453ed17c385f4dfa01b2320b88f57de13292f56ef96
+Filename: ./debs/rootless/Flexlist,Flexing汉化-rootless_0.0.4_iphoneos-arm64.deb
+Size: 11748
+MD5sum: 56210e410fb755bbdb5a86e032b17409
+SHA1: 0957d3cf623395d317d85857b5da1fd53220a2d7
+SHA256: 1d311f9b12edb75d8ea1ad9b6463b6123ae93849d804e598dd88fa49f40cabe6
 Section: rootless汉化补丁
-Description: Flexlist--(rootless)简体中文包(231130解决搜狗输入法不能删除的问题)，默认对全局应用生效，不需要的请仅允许或者仅禁止此汉化包的注入
-Author: 来了老弟
-Name: Flexlist汉化-rootless
+Description: Flexlist，Flexing,Flexible,Flexall等调试工具--(rootless)简体中文包，(231130解决搜狗输入法不能删除的问题)，默认对全局应用生效，不需要的应用请仅允许或者仅禁止此汉化包的注入
+Author: 来了老弟 h_h_x_t
+Name: Flexlist，Flexing汉化-rootless
 
 Package: cn.llld.flexroothide
 Version: 1.0
