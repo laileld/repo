@@ -270,7 +270,7 @@ Version: 0.2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: firmware (>=14.0), mobilesubstrate
-Filename: ./debs/rootless/单独开启callkit(rootless).deb
+Filename: ./debs/rootless/微信单独开启callkit(rootless).deb
 Size: 3248
 MD5sum: 1f9c54e7f052e4304cfe6c823830d054
 SHA1: ecb8e56c1aaba36862b34a6d95e3c466f39e40a5
@@ -1903,7 +1903,7 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Depends: mobilesubstrate
-Filename: ./debs/rootless/WX跟随系统锁屏-rootless.deb
+Filename: ./debs/rootless/微信跟随系统锁屏-rootless.deb
 Size: 4344
 MD5sum: cefc3bbbec88ac2c51493759ed4fac04
 SHA1: 0abb74a404a1ed46714a1b61ce2134b1338dbdbe
@@ -1918,7 +1918,7 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: mobilesubstrate
-Filename: ./debs/rootless/wx文本播报-rootless.deb
+Filename: ./debs/rootless/微信文本播报-rootless.deb
 Size: 4476
 MD5sum: 2891902baaed9fbda1a58decadfbd0e6
 SHA1: b289a4e5d76cd817129b1eea6a04fcbd9570917b

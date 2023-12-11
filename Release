@@ -5,4 +5,4 @@ Version: 1.0
 Codename: llld
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: 自用+开发+修复+转插+汉化
+Description: 自用+开发+修复+转插+汉化,他人能用，你若不行的检查插件注入，或直接卸载
