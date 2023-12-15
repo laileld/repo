@@ -2699,6 +2699,25 @@ Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
 Dev: tomaszpoliszuk
 Name: Alert Controller-rootless
 
+Package: com.tomaszpoliszuk.homescreenquickactions
+Version: 1.6.5-1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss 来了老弟
+Installed-Size: 808
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debs/rootless/homescreenquickactions_1.6.5-1-arm64.deb
+Size: 119996
+MD5sum: b2f1bf64452e565b5f71c5cc5e44663d
+SHA1: 7ffdf66896a3c975b7b4e40cdd38bf829b0fb656
+SHA256: bafa7ed2e7f9b5dca139b05d8e43e333ce69d940efa87df904db78d45720373b
+Section: rootless插件
+Description: Control Home Screen Quick Actions on your device。根据开源修改编译，自定义主屏幕快捷操作，不限于文件夹或应用，快捷复制，打开，清理，重置等，比appdata功能多，但操作形式是按压。
+Author: Tomasz Poliszuk 来了老弟
+Dev: tomaszpoliszuk 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/HomeScreenQuickActionsSettings.bundle/icons/HomeScreenQuickActions@3x.png
+Name: Home Screen Quick Actions-rootless
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.xx.dyhook
 Version: 1.0.2
 Architecture: iphoneos-arm64
