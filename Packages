@@ -1011,6 +1011,38 @@ Description: Hide home bar隐藏底部横条，需要安装Legacy arm64e Support
 Author: netskao
 Name: 隐藏底部横条-roothide
 
+Package: cn.llld.hidejb
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/隐藏桌面角标-roothide_1.0_iphoneos-arm64e.deb
+Size: 3552
+MD5sum: e95a578e1011aad75ab0fe4760a8bfec
+SHA1: b284762aeed1623301ed0f7fd02d01b6af6f163a
+SHA256: e0b2428b1c2b9f57c36065ebf946817e47828147f4bbe557ab82674da80f5162
+Section: roothide隐藏专区
+Description: Hide IconBadge。隐藏桌面角标(消息提示)-roothide
+Author: 来了老弟 h_h_x_t
+Name: 隐藏桌面角标-roothide
+
+Package: cn.llld.hidejb
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/隐藏桌面角标-rootless_1.0_iphoneos-arm64.deb
+Size: 3548
+MD5sum: 81b87c189d149fb25d9ef92d3d59d264
+SHA1: 890a0162e88ba2a1b52bf67b1cd85c1809e4db17
+SHA256: 90f30920d7054d1c74075ad6fbb16e76a3aabd4af6d93feb348b4dfc3b57a8c3
+Section: rootless隐藏专区
+Description: Hide IconBadge。隐藏桌面角标(消息提示)-rootless
+Author: 来了老弟 h_h_x_t
+Name: 隐藏桌面角标-rootless
+
 Package: cn.llld.hidepagedots
 Version: 1.0
 Architecture: iphoneos-arm64e
