@@ -1883,6 +1883,21 @@ Description: The specific time of the recent call has been increased.最近通�
 Author: 来了老弟
 Name: 最近通话增加具体时间-rootless
 
+Package: cn.llld.timetounlock
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, firmware(>=11.0), preferenceloader,cn.llld.hhxt,oldabi
+Filename: ./debs/rootless/timetounlock_1.0.9_时间密码-rootless.deb
+Size: 27844
+MD5sum: 6157b7b58993358d4f598eaa0396304a
+SHA1: 73c00168d377f744930b7f3a08bc4cc35d0b222e
+SHA256: dbd5f262cf1e813737fa69b9d8528c610503f970f5ddcf7c5afb367ac1294e80
+Section: 兼容层oldabi-rootless
+Description: Set the current time to your password, configured from settings.Be sure to remember to turn on the switch that can also be unlocked with the original password。The time is set in 24-hour format. You need to enter the correct password for the first time, and then the password for the time。将当前时间设置为您的密码，从设置中配置。一定记得打开原密码也能解锁的开关，面容用户用不到的插件。时间设24小时制，第一次需输入正确密码，之后才是时间的密码
+Author: Jake James 来了老弟
+Name: TimeToUnlock-时间密码-rootless
+
 Package: cn.llld.togglow
 Version: 1.0.8
 Architecture: iphoneos-arm64
