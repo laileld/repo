@@ -1443,6 +1443,22 @@ Author: 来了老弟 h_h_x_t
 Name: 隐藏播放器通知背景-rootful
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.playerbj/playerbj-rootful.json
 
+Package: cn.llld.qqdsq
+Version: 0.00000001
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 372
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/rootless/芭比Q-rootless_0.00000001_iphoneos-arm64.deb
+Size: 25504
+MD5sum: 2e7cab6d63a184f768c1c2855232c3c4
+SHA1: 9d4f208aae67516776265c003463ed1b44e31f4d
+SHA256: fd55269e5a86c927cd2da01a07bff93c2b6ec9975b75bf7aabb46d4bdf713bf9
+Section: rootless插件
+Description: 给QQ加点小功能(梦醒写了一下，天冷又回床了，有空就更，预计完全整改QQ)，功能看手机设置。调试版本号：v9.0.0.249，其余自测。
+Author: 来了老弟 X：h_h_x_t
+Name: 芭比Q-rootless
+
 Package: cn.llld.randomiconsflip
 Version: 0.3-20
 Architecture: iphoneos-arm64
