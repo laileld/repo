@@ -1459,6 +1459,22 @@ Description: 给QQ加点小功能(梦醒写了一下，天冷又回床了，有�
 Author: 来了老弟 X：h_h_x_t
 Name: 芭比Q-rootless
 
+Package: cn.llld.qqdsq
+Version: 0.00000002
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 372
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/rootless/芭比Q-rootless_0.00000002_iphoneos-arm64.deb
+Size: 27804
+MD5sum: 65262b03c61c9236d2246547551bfd30
+SHA1: 55cdcf856ed792187b51495ada5c664187dc4295
+SHA256: d7067710b05c85cfdd8a030971c855d1c30137eaf1634f23a1f4f523dff6edb5
+Section: rootless插件
+Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0.0.249，别的版本需自测。在研究转发语音和空间跟圈，去广告等一些功能还莫急，会上
+Author: 来了老弟 X：h_h_x_t
+Name: 芭比Q-rootless
+
 Package: cn.llld.randomiconsflip
 Version: 0.3-20
 Architecture: iphoneos-arm64
