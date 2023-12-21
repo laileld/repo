@@ -1482,10 +1482,10 @@ Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 404
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/rootless/芭比Q-rootless_0.00000003_iphoneos-arm64.deb
-Size: 56840
-MD5sum: be44c6f3b0626e89c8e501d766ea745c
-SHA1: e3c45cb935341431aec53a8047f215f41b8ac9e2
-SHA256: d07f43c51be3f7bb0370ff98952fe483c7167e18cb3df54c3d157af1fa724fca
+Size: 56772
+MD5sum: 93a9ebdc3be8ee8f459fc71c52fb570c
+SHA1: bd88adf51d3d698fd4d99276972646af9e53a670
+SHA256: 41b8106a85b6b3bce52494fbb615ac8261fbd93d1d8469dbf4b72cf77a90bddc
 Section: rootless插件
 Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0.0.249和v9.0.1，别的版本需自测。在研究转发语音和空间跟圈，去广告，防撤回等一些功能还莫急，会上
 Author: 来了老弟 X：h_h_x_t
