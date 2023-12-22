@@ -10,7 +10,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "给QQ加点小功能，有空就更，功能在手机系统设置。调试版本号：v8.9.58和v9.0.0.249和v9.0.1，别的版本需自测。很多一些功能还莫急，会上，开发纯来自兴趣，231220才发出，这才几天，不曾比肩任何人或物，我自己也还在用净化，勿带任何言论或上升任何事物",
+          "markdown": "给QQ加点小功能，有空就更，功能在手机系统设置。调试版本号：v8.9.58和v9.0.0.249和v9.0.1，别的版本需自测。开发纯来自兴趣，231220才发出，这才几天，不曾比肩任何人或物，我自己也还在用净化，勿带任何言论或上升任何事物，详情看配图，不显示则开梯子",
           "useRawFormat": true
         },
         {
@@ -52,7 +52,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "0.00000004",
+          "text": "0.00000005",
           "title": "最新版本"
         },
         {
@@ -75,6 +75,17 @@
       "class": "DepictionStackView",
       "tabname": "更新日志",
       "views": [
+       {
+          "class": "DepictionSubheaderView",
+          "title": "0.00000005",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "新增红包下方文字，伪装余额，伪装QQ等级（找错了，全局装成一样了，先发个包凑合），伪装群管理员",
+          "useRawFormat": true
+        },
          {
           "class": "DepictionSubheaderView",
           "title": "0.00000004",
@@ -83,7 +94,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "新增文字变色，布局微调，布局颜色背景，去除角标。移除精简日间夜间和字体，总结：修bug，增加bug。有几个亮瞎眼的配色到下个版本再改",
+          "markdown": "新增文字变色，布局微调，布局颜色背景，去除角标。移除精简日间夜间和字体，总结：修bug，增加bug。有几个亮瞎眼的配色到以后的版本再改",
           "useRawFormat": true
         },
         {
