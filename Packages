@@ -1460,50 +1460,16 @@ Author: 来了老弟 X：h_h_x_t
 Name: 芭比Q-rootless
 
 Package: cn.llld.qqdsq
-Version: 0.00000002
+Version: 0.00000005
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 372
+Installed-Size: 464
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/rootless/芭比Q-rootless_0.00000002_iphoneos-arm64.deb
-Size: 27804
-MD5sum: 65262b03c61c9236d2246547551bfd30
-SHA1: 55cdcf856ed792187b51495ada5c664187dc4295
-SHA256: d7067710b05c85cfdd8a030971c855d1c30137eaf1634f23a1f4f523dff6edb5
-Section: rootless插件
-Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0.0.249，别的版本需自测。在研究转发语音和空间跟圈，去广告等一些功能还莫急，会上
-Author: 来了老弟 X：h_h_x_t
-Name: 芭比Q-rootless
-
-Package: cn.llld.qqdsq
-Version: 0.00000003
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 404
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/rootless/芭比Q-rootless_0.00000003_iphoneos-arm64.deb
-Size: 56764
-MD5sum: 59a0cde3b273a266e72e309e14730a66
-SHA1: f646abe3739971e3ac3129fd16d5743d85e8f1f4
-SHA256: 56299aafcb87dd30e010f83733ff704a67a62c85f4a4f66dca7ec03322d4f414
-Section: rootless插件
-Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0.0.249和v9.0.1，别的版本需自测。在研究转发语音和空间跟圈，去广告，防撤回等一些功能还莫急，会上
-Author: 来了老弟 X：h_h_x_t
-Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons/tubiao1.png
-Name: 芭比Q-rootless
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
-
-Package: cn.llld.qqdsq
-Version: 0.00000004
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 448
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/rootless/芭比Q-rootless_0.00000004_iphoneos-arm64.deb
-Size: 68128
-MD5sum: 2661efdc3d836a6fdcdee4e1a22eae7c
-SHA1: b4e93b347e355249a30d47c88beb08d36d6af891
-SHA256: c4d64b11c2996f260bafba06d2988f7f3bfbe18fe2543a096a0179056d476739
+Filename: ./debs/rootless/芭比Q-rootless_0.00000005_iphoneos-arm64.deb
+Size: 70180
+MD5sum: 9e016b000871af93f9d5b6dab00c51ba
+SHA1: 833953fd4aee20c5d2cce847d5579872b735fac8
+SHA256: b0dd12f1b73ffaba337c221a879624a21b2be3b3fd1ea363ea03aeef2f42f3d3
 Section: rootless插件
 Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0.0.249和v9.0.1，别的版本需自测。在研究转发语音和空间跟圈，去广告，防撤回等一些功能还莫急，会上
 Author: 来了老弟 X：h_h_x_t
