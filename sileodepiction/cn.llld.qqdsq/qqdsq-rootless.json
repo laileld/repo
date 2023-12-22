@@ -10,7 +10,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "给QQ加点小功能，有空就更，功能在手机系统设置。调试版本号：v8.9.58和v9.0.0.249和v9.0.1，别的版本需自测。在研究转发语音和空间跟圈，去广告，防撤回等一些功能还莫急，会上",
+          "markdown": "给QQ加点小功能，有空就更，功能在手机系统设置。调试版本号：v8.9.58和v9.0.0.249和v9.0.1，别的版本需自测。很多一些功能还莫急，会上，开发纯来自兴趣，231220才发出，这才几天，不曾比肩任何人或物，我自己也还在用净化，勿带任何言论或上升任何事物",
           "useRawFormat": true
         },
         {
@@ -52,7 +52,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "0.00000003",
+          "text": "0.00000004",
           "title": "最新版本"
         },
         {
@@ -62,7 +62,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2023 年 12 月 21 日",
+          "text": "2023 年 12 月 22 日",
           "title": "最后更新日期"
         },
         {
@@ -75,6 +75,17 @@
       "class": "DepictionStackView",
       "tabname": "更新日志",
       "views": [
+         {
+          "class": "DepictionSubheaderView",
+          "title": "0.00000004",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "新增文字变色，布局微调，布局颜色背景，去除角标。移除精简日间夜间和字体，总结：修bug，增加bug。有几个亮瞎眼的配色到下个版本再改",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "0.00000003",
