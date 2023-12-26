@@ -1444,58 +1444,6 @@ Name: 隐藏播放器通知背景-rootful
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.playerbj/playerbj-rootful.json
 
 Package: cn.llld.qqdsq
-Version: 0.00000001
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 372
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/rootless/芭比Q-rootless_0.00000001_iphoneos-arm64.deb
-Size: 25504
-MD5sum: 2e7cab6d63a184f768c1c2855232c3c4
-SHA1: 9d4f208aae67516776265c003463ed1b44e31f4d
-SHA256: fd55269e5a86c927cd2da01a07bff93c2b6ec9975b75bf7aabb46d4bdf713bf9
-Section: rootless插件
-Description: 给QQ加点小功能(梦醒写了一下，天冷又回床了，有空就更，预计完全整改QQ)，功能看手机设置。调试版本号：v9.0.0.249，其余自测。
-Author: 来了老弟 X：h_h_x_t
-Name: 芭比Q-rootless
-
-Package: cn.llld.qqdsq
-Version: 0.00000005
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 464
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/rootless/芭比Q-rootless_0.00000005_iphoneos-arm64.deb
-Size: 70180
-MD5sum: 9e016b000871af93f9d5b6dab00c51ba
-SHA1: 833953fd4aee20c5d2cce847d5579872b735fac8
-SHA256: b0dd12f1b73ffaba337c221a879624a21b2be3b3fd1ea363ea03aeef2f42f3d3
-Section: rootless插件
-Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0.0.249和v9.0.1，别的版本需自测。在研究转发语音和空间跟圈，去广告，防撤回等一些功能还莫急，会上
-Author: 来了老弟 X：h_h_x_t
-Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons/tubiao1.png
-Name: 芭比Q-rootless
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
-
-Package: cn.llld.qqdsq
-Version: 0.00000006
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 468
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/rootless/芭比Q-rootless_0.00000006_iphoneos-arm64.deb
-Size: 70634
-MD5sum: 145671ff4655763f9126e672f6dfa1c0
-SHA1: a3a80dcd623b655b02aa015e6d212f74c17b9f7f
-SHA256: 3cb156c0057b39fce759920189d27976d46f92bc04a17632e2abf338d76423b5
-Section: rootless插件
-Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0.0.249和v9.0.1，别的版本需自测。在研究转发语音和空间跟圈，去广告，防撤回等一些功能还莫急，会上
-Author: 来了老弟 X：h_h_x_t
-Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons/tubiao1.png
-Name: 芭比Q-rootless
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
-
-Package: cn.llld.qqdsq
 Version: 0.000001
 Architecture: iphoneos-arm64e
 Maintainer: 来了老弟 X：h_h_x_t
