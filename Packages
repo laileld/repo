@@ -1497,6 +1497,24 @@ Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqds
 
 Package: cn.llld.qqdsq
 Version: 0.000001
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 488
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/roothide/芭比Q-roothide_0.000001_iphoneos-arm64e.deb
+Size: 72300
+MD5sum: 2db068b1c04b396d43c3287eb3d9c1d8
+SHA1: 1e86809be96a84e44f61c1b05db5500e444022ea
+SHA256: 1530212c45900d10381d91ca63528dcd9cb4cc04ee1889fb8b9762887a00b9cf
+Section: roothide插件
+Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0.0.249和v9.0.1，别的版本需自测。在研究转发语音和空间跟圈，去广告，防撤回等一些功能还莫急，会上
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///Library/PreferenceBundles/qqdsqprefs.bundle/icons/tubiao1.png
+Name: 芭比Q-roothide
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
+
+Package: cn.llld.qqdsq
+Version: 0.000001
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 488
