@@ -10,7 +10,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "给QQ加点小功能，有空就更，功能在手机系统设置。调试版本号：v8.9.58和v9.0.0.249和v9.0.1，别的版本需自测。开发纯来自兴趣，231220才发出，这才几天，不曾比肩任何人或物，我自己也还在用净化，勿带任何言论或上升任何事物，详情看配图，不显示则开梯子，231223：增加一个QQ交流群",
+          "markdown": "给QQ加点小功能，有空就更，功能在手机系统设置，功能在手机系统设置，功能在手机系统设置。调试版本号：v8.9.58和v9.0.0.249和v9.0.1，别的版本需自测。开发纯来自兴趣，231220才发出，这才几天，不曾比肩任何人或物，我自己也还在用净化，勿带任何言论或上升任何事物，详情看配图，不显示则开梯子，231223：增加一个QQ交流群:928481652",
           "useRawFormat": true
         },
         {
@@ -20,7 +20,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/IMG_005.JPG"
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/IMG_7914.JPG"
             }
           ]
         },
@@ -52,7 +52,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "0.00000005",
+          "text": "0.000002",
           "title": "最新版本"
         },
         {
@@ -62,7 +62,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2023 年 12 月 22 日",
+          "text": "2023 年 12 月 27 日",
           "title": "最后更新日期"
         },
         {
@@ -75,7 +75,40 @@
       "class": "DepictionStackView",
       "tabname": "更新日志",
       "views": [
-       {
+        {
+          "class": "DepictionSubheaderView",
+          "title": "0.000002",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "修正伪装管理员的逻辑，这下不会因本身就有管理员权限变得没权限了，修改callkit选项问题，新增聊天的长按菜单改3行，新增群里聊天昵称打上马赛克，新增去越狱检测(QQ内带检查，但暂未用到，可能是我没遇到)",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "0.000001",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "之前版本号过长，改短2个0，重新调整每个功能排版，为颜色写个说明，新增禁用搜索栏。禁用截图分享(QQ自带设置也有)，新增TX视频去播放水印等",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "0.00000006",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "单独为颜色配置多立了2项调节，稍微改动一下颜色，新增自定义设置选项栏和自定义动态栏，新增文字变色，透明底栏蒙版等",
+          "useRawFormat": true
+        },
+        {
           "class": "DepictionSubheaderView",
           "title": "0.00000005",
           "useBoldText": true,
@@ -86,7 +119,7 @@
           "markdown": "新增红包下方文字，伪装余额，伪装QQ等级（找错了，全局装成一样了，先发个包凑合），伪装群管理员",
           "useRawFormat": true
         },
-         {
+        {
           "class": "DepictionSubheaderView",
           "title": "0.00000004",
           "useBoldText": true,
@@ -105,7 +138,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "增加禁用气泡，字体，等等，优化设置界面的排版",
+          "markdown": "增加禁用气泡，字体，肉眼可见又用不上的东东等等，优化设置界面的排版",
           "useRawFormat": true
         }
       ]
