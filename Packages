@@ -1480,24 +1480,6 @@ Name: 芭比Q-rootful
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
 
 Package: cn.llld.qqdsq
-Version: 1.01
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 552
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/rootless/芭比Q-rootless_1.01_iphoneos-arm64.deb
-Size: 88838
-MD5sum: edb346cb0d624319832aabd049b2a746
-SHA1: 69865559105ac1200dc7728bccaf380350236c3f
-SHA256: 30d7b9da928a44da26ead200a8028a98c750f2d91ce278bb88e8b63c815369ff
-Section: rootless插件
-Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0.0.249和v9.0.1，别的版本需自测。在研究转发语音和空间跟圈，去广告，防撤回等一些功能还莫急，会上
-Author: 来了老弟 X：h_h_x_t
-Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons/tubiao1.png
-Name: 芭比Q-rootless
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
-
-Package: cn.llld.qqdsq
 Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X：h_h_x_t
