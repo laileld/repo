@@ -52,7 +52,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1",
+          "text": "1.1.1",
           "title": "最新版本"
         },
         {
@@ -62,7 +62,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2023 年 12 月 28 日",
+          "text": "2024 年 01 月 01 日",
           "title": "最后更新日期"
         },
         {
@@ -76,6 +76,17 @@
       "tabname": "更新日志",
       "views": [
         {
+          "class": "DepictionSubheaderView",
+          "title": "1.1.1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "20240101此版本也是修复小问题为主，增加自定义支付宝步数，TX视频播放过程中去掉星卡，QQ相册自动勾选原图",
+          "useRawFormat": true
+        },
+       {
           "class": "DepictionSubheaderView",
           "title": "1.1",
           "useBoldText": true,
