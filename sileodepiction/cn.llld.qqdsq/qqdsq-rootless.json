@@ -10,7 +10,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "给QQ加点小功能，有空就更，功能在手机系统设置，功能在手机系统设置，功能在手机系统设置。调试版本号：v8.9.58和v9.0+，别的版本需自测。开发纯来自兴趣，231220才发出，不曾比肩任何人或物，我自己也还在用净化，勿带任何言论或上升任何事物，详情看配图，不显示则开梯子，231223：增加一个QQ交流群:928481652",
+          "markdown": "给QQ加亿点小功能，有空就更，功能在手机系统设置，功能在手机系统设置，功能在手机系统设置。调试版本号：v8.9.58和v9.0+，别的版本需自测。开发纯来自兴趣，231220才发出，不曾比肩任何人或物，我自己也还在用净化，勿带任何言论或上升任何事物，详情看配图，不显示则开梯子，231223：增加一个QQ交流群:928481652，其他看更新日志",
           "useRawFormat": true
         },
         {
@@ -20,7 +20,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/IMG_7914.JPG"
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/IMG_8277.JPG"
             }
           ]
         },
@@ -52,7 +52,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1.1",
+          "text": "1.3",
           "title": "最新版本"
         },
         {
@@ -62,7 +62,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2024 年 01 月 01 日",
+          "text": "2024 年 01 月 02 日",
           "title": "最后更新日期"
         },
         {
@@ -76,6 +76,17 @@
       "tabname": "更新日志",
       "views": [
         {
+          "class": "DepictionSubheaderView",
+          "title": "1.3",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "20240102垮了几个版本，加了亿点点功能，做了二级菜单，调节透明度等等",
+          "useRawFormat": true
+        },
+       {
           "class": "DepictionSubheaderView",
           "title": "1.1.1",
           "useBoldText": true,
