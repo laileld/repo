@@ -3074,12 +3074,12 @@ Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/rootless/强制第三方键盘输入-arm64.deb
-Size: 4084
-MD5sum: c3af08a31f9330a55d341a13d76162e5
-SHA1: 5617ed90c6791f91bd5099b8c0fcb3655bcad882
-SHA256: ad18ab046afaa9b72f98f2793102f292a28a04cd73bc7a73d0ed4185d5576180
+Size: 4164
+MD5sum: 0353977b8885498f3e6a4fc569042061
+SHA1: 16f563bd168032a9a381043be00103506f48b36a
+SHA256: cc385c8732dbe808973ccd1bdda70d0732ae4440a8fbc71dc79d5caa475de984
 Section: rootless插件
-Description: Function: Allow third-party input methods in any password box。***强制第三方输入法（键盘），作用：在任意密码框可允许第三方输入法输入（银行等特制键盘除外），20240404:更新版本号。***
+Description: Function: Allow third-party input methods in any password box。***强制第三方输入法（键盘），作用：在任意密码框可允许第三方输入法输入（银行等特制键盘除外），20240104:更新版本号。***
 Author: 来了老弟
 Name: 强制第三方输入法-rootless
 
