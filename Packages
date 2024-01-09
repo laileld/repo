@@ -1571,6 +1571,24 @@ Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqds
 
 Package: cn.llld.qqdsq
 Version: 1.3.3
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 592
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/roothide/芭比Q-roothide_1.3.3_iphoneos-arm64e.deb
+Size: 107346
+MD5sum: cb4b68415c0e41920b4086b819a8f795
+SHA1: 98be73a81ab0c897e34cafb75fbf265be26a718a
+SHA256: bfe659bc29fd8e49d4d0a6ee133b2fddf3d8844cc64bfd5cc3aa7b4f6db88203
+Section: roothide插件
+Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0以上，别的版本需自测。
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
+Name: 芭比Q-roothide
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
+
+Package: cn.llld.qqdsq
+Version: 1.3.3
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 592
@@ -1585,6 +1603,24 @@ Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"
 Author: 来了老弟 X：h_h_x_t
 Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
 Name: 芭比Q-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
+
+Package: cn.llld.qqdsq
+Version: 1.3.3
+Architecture: iphoneos-arm
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 592
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/rootful/芭比Q-rootful_1.3.3_iphoneos-arm.deb
+Size: 104272
+MD5sum: cdc6e790bc562e5d36843ef653b5a48d
+SHA1: be58ba0433605cb6a3e634967bf9f541d014e487
+SHA256: e06f5f5ad802d2dff019b3913c8f4d12eb7612d0d6414f353475b42cb465ec41
+Section: rootful插件
+Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0以上，别的版本需自测。
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
+Name: 芭比Q-rootful
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
 
 Package: cn.llld.randomiconsflip
