@@ -52,7 +52,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.3",
+          "text": "1.3.3",
           "title": "最新版本"
         },
         {
@@ -75,6 +75,17 @@
       "class": "DepictionStackView",
       "tabname": "更新日志",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.3.3",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "20240109垮了几个版本，修复的几处异常错误，设置加入了几条提示，之前删掉的气泡以及调节底栏高度等等又加回来，新增支付宝屏蔽功能(屏蔽越狱检测的同时又不影响插件的注入，人脸，面容，公积金，查看卡号均正常，具体细节群里聊，这里不写太多，没几个人看)",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.3",
