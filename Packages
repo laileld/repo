@@ -1576,10 +1576,10 @@ Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 592
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/roothide/芭比Q-roothide_1.3.3_iphoneos-arm64e.deb
-Size: 107346
-MD5sum: cb4b68415c0e41920b4086b819a8f795
-SHA1: 98be73a81ab0c897e34cafb75fbf265be26a718a
-SHA256: bfe659bc29fd8e49d4d0a6ee133b2fddf3d8844cc64bfd5cc3aa7b4f6db88203
+Size: 107196
+MD5sum: 2b1f3ed34538644f7d0b858526b42b11
+SHA1: b58236d77bba125f011d3080a22bd9d7c758e029
+SHA256: 36e1f07d0fc5c74baf6765195e6e869090911b21963fc1c132077da07c5d975b
 Section: roothide插件
 Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0以上，别的版本需自测。
 Author: 来了老弟 X：h_h_x_t
@@ -1594,10 +1594,10 @@ Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 592
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/rootless/芭比Q-rootless_1.3.3_iphoneos-arm64.deb
-Size: 104418
-MD5sum: 7f0144249a9666474e4d1b555a677bb4
-SHA1: b2640043ed626a46af4f1ccc7b18a42fd13389b3
-SHA256: 19a54b1332fc37a81ba2a1eee353e4783abf655c9b306cf9521f2c08d66b1ba1
+Size: 104012
+MD5sum: 09d2204a657018c8c4a121984f64a3f2
+SHA1: f6f201be30552a711a0966a62bad43ead97c3663
+SHA256: 31c5d5ef99bc962d1b474003f62280651a3ca88fc9af2645b3df2cb674f0811d
 Section: rootless插件
 Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0以上，别的版本需自测。
 Author: 来了老弟 X：h_h_x_t
@@ -1612,10 +1612,10 @@ Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 592
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/rootful/芭比Q-rootful_1.3.3_iphoneos-arm.deb
-Size: 104272
-MD5sum: cdc6e790bc562e5d36843ef653b5a48d
-SHA1: be58ba0433605cb6a3e634967bf9f541d014e487
-SHA256: e06f5f5ad802d2dff019b3913c8f4d12eb7612d0d6414f353475b42cb465ec41
+Size: 104070
+MD5sum: ba024eef1a470058b325ec9575b55298
+SHA1: 9c08694eaff28a212e626084fa47fa5c297812ac
+SHA256: 6cedaf15325e52e625bb2bf206cc81663dc9ae33f6a739eabea37b4a075a8a7a
 Section: rootful插件
 Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0以上，别的版本需自测。
 Author: 来了老弟 X：h_h_x_t
