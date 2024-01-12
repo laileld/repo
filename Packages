@@ -250,6 +250,22 @@ Description: Playing photos and videos in the album can produce picture-in-pictu
 Author: MiRO 来了老弟
 Name: AVPhotos照片视频画中画-rootless
 
+Package: cn.llld.bbqzr
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/芭比Q注入版-rootless_0.1_iphoneos-arm64.deb
+Size: 10590
+MD5sum: 3047b16511c379e2e529fe1fda26e54c
+SHA1: 0e5fd7547dde9a99a0454a269cb4aae6b593b7d9
+SHA256: 059ebec3d90c5840bf3eb693276b8ad672a9efad8cdfe48640a2112ca374c814
+Section: rootless插件
+Description: ***芭比Q注入版，浓缩版，轻喷，本来是给自己做个游戏挂，就顺便也写个注入版***。长按消息页面的（搜索）或者侧边栏（设置）的文字，弹出设置
+Author: 来了老弟
+Name: 芭比Q注入版-rootless
+
 Package: cn.llld.callblocker13
 Version: 2.0.3
 Architecture: iphoneos-arm64
