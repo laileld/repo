@@ -266,6 +266,22 @@ Description: ***芭比Q注入版，浓缩版，轻喷，本来是给自己做个
 Author: 来了老弟
 Name: 芭比Q注入版-rootless
 
+Package: cn.llld.bbqzr
+Version: 0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/rootless/芭比Q注入版-rootless_0.2_iphoneos-arm64.deb
+Size: 19538
+MD5sum: a284c376e88a211ace6a54109ce47a47
+SHA1: 77fe037895cb80a33a69ac8edb6b31b202f8a812
+SHA256: 7959d892b0f870ff90cd272083adfd245382ac0bfae321c50d10855c5809425c
+Section: rootless插件
+Description: ***给QQ加点小功能，芭比Q注入版，浓缩版，轻喷，设置排版以后再搞，近期要加的东西多***。长按主页消息页面的（搜索）或者侧边栏（设置）的文字，弹出设置
+Author: 来了老弟
+Name: 芭比Q注入版-rootless
+
 Package: cn.llld.callblocker13
 Version: 2.0.3
 Architecture: iphoneos-arm64
