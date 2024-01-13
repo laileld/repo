@@ -2173,6 +2173,38 @@ Author: SynnyG 来了老弟
 Name: Vibrato全局自定义震动-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.vibrato/js_Vibrato_rootless.json
 
+Package: cn.llld.wbb
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/微博绿了注入版-rootless_0.1_iphoneos-arm64.deb
+Size: 11080
+MD5sum: d623a962f592a132efc687d0e41c10d3
+SHA1: f5bc94feaee73475ef63a769b28ad6257b6edf1f
+SHA256: 136f39de00be08fa5e5b9d5e55eede9c62e8f5f5e0211ea79a0e2c924ff1b9f9
+Section: rootless插件
+Description: ***给微博加点小功能，去广告啥的，可注入 可越狱版，随意写的，设置排版以后再搞，近期要加的东西多***。长按'我'页面的（创作中心）或者（浏览记录）的文字，弹出设置
+Author: 来了老弟
+Name: 微博绿了注入版-rootless
+
+Package: cn.llld.wbb
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootful/微博绿了注入版-rootful_0.1_iphoneos-arm.deb
+Size: 11104
+MD5sum: 7d2f116a32a333fced7710cb0860f346
+SHA1: f3c1b30f715c64fc1435b7c1fa379d4694f5fb94
+SHA256: a13a36da2e0c857a76a0d3feebe4d8ced417a9202e7f6e822e659c550c7ea7c9
+Section: rootful插件
+Description: ***给微博加点小功能，去广告啥的，可注入 可越狱版，随意写的，设置排版以后再搞，近期要加的东西多***。长按'我'页面的（创作中心）或者（浏览记录）的文字，弹出设置
+Author: 来了老弟
+Name: 微博绿了注入版-rootful
+
 Package: cn.llld.wechatautolock
 Version: 1.0
 Architecture: iphoneos-arm64
