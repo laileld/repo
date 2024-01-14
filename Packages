@@ -298,6 +298,22 @@ Description: ***给QQ加点小功能，芭比Q注入版，浓缩版，可越狱�
 Author: 来了老弟
 Name: 芭比Q注入版-rootful
 
+Package: cn.llld.bbqzr
+Version: 0.3-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 268
+Depends: mobilesubstrate
+Filename: ./debs/rootless/芭比Q注入版-rootless_0.3-1-arm64.deb
+Size: 27198
+MD5sum: 6828d3c5c0787494cd1ab97ab3a0395f
+SHA1: 6f29d6b19a21d04919579c6542d9c1c156dc0691
+SHA256: eb9b59a996716155a96914e1da590ab258137893754d591c778caf8a3a36e152
+Section: rootless插件
+Description: ***给QQ加点小功能，芭比Q注入版，可注入可越狱，排版以后再搞，近期要加的东西多***。长按侧边栏的（日间）或者侧边栏的（设置）文字，弹出设置，cydia装不了的进Q群928481652，多款插件即将到来。
+Author: 来了老弟
+Name: 芭比Q注入版-rootless
+
 Package: cn.llld.callblocker13
 Version: 2.0.3
 Architecture: iphoneos-arm64
