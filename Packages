@@ -1297,6 +1297,22 @@ Description: 仅控制中心背景透明到桌面（单个模块没透），配�
 Author: 来了老弟
 Name: 控制中心透明-rootless
 
+Package: cn.llld.lddpy
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/灵动岛偏移_0.0.1-2+debug_iphoneos-arm64e.deb
+Size: 3074
+MD5sum: 86868eafa0c0e081d1429cf53b3a79c0
+SHA1: 3a1b99f3ab99b135c977bccaafce016081f5b1d8
+SHA256: 4f01610bc408e73858160dfc2223ac240d04ba36b093a8919de5ab9b913ed922
+Section: roothide插件
+Description: 仅为13PM制作,仅支持16
+Author: 来了老弟
+Name: 灵动岛偏移
+
 Package: cn.llld.litten.rose
 Version: 1.0.9
 Architecture: iphoneos-arm64
