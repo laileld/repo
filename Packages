@@ -2615,6 +2615,22 @@ Author: Muirey03 来了老弟
 Name: Zenith(Apex)App堆叠-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.zenith/zenith_rootless.json
 
+Package: cn.llld.zyll
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/rootless/最右绿了注入版-rootless_0.1-arm64.deb
+Size: 15204
+MD5sum: 64e6b713519f4c4c80ee74f29d842fbc
+SHA1: 2dae452a41e396609da9ddedc219858d7abf5b73
+SHA256: a33daa0d6ed9fc98f577a31595a2221cca41e959b8531d7d5d6bfe4945125041
+Section: rootless插件
+Description: ***给最右加点小功能，最右绿了注入版，可注入可越狱，排版以后再搞，近期要加的东西多***。长按'我的'页面（插眼）或者（赞过）文字，弹出设置。Q群928481652，近期多功能多款插件上料。
+Author: 来了老弟
+Name: 最右绿了注入版-rootless
+
 Package: cn.tool.aphrodite-debug
 Version: 0.6.13~Modify
 Architecture: iphoneos-arm64
