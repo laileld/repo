@@ -2238,18 +2238,34 @@ Author: 来了老弟
 Name: 微博绿了注入版-rootless
 
 Package: cn.llld.wbb
-Version: 0.1
+Version: 0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/rootless/微博绿了注入版-rootless_0.2_修复闪退-arm64.deb
+Size: 11778
+MD5sum: 93a1f5a4e8db1a4975f0e2c89e6e8466
+SHA1: e013f38dcc62c4b303ba434c82ddc38b12b7919d
+SHA256: 0bdf6f547747b9656e678954f80fb3affb97a30ef4899731e015120445c878ab
+Section: rootless插件
+Description: ***给微博加点小功能，去广告啥的，可注入 可越狱版，随意写的，设置排版以后再搞，近期要加的东西多***。长按'我'页面的（创作中心）或者（浏览记录）的文字，弹出设置,240115:修复闪退，加快微博启动速度。Q群928481652，cydia装不了的，下群文件
+Author: 来了老弟
+Name: 微博绿了注入版-rootless
+
+Package: cn.llld.wbb
+Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: 来了老弟
-Installed-Size: 168
+Installed-Size: 172
 Depends: mobilesubstrate
-Filename: ./debs/rootful/微博绿了注入版-rootful_0.1_iphoneos-arm.deb
-Size: 11104
-MD5sum: 7d2f116a32a333fced7710cb0860f346
-SHA1: f3c1b30f715c64fc1435b7c1fa379d4694f5fb94
-SHA256: a13a36da2e0c857a76a0d3feebe4d8ced417a9202e7f6e822e659c550c7ea7c9
+Filename: ./debs/rootful/微博绿了注入版-rootful_0.2_iphoneos-arm.deb
+Size: 11658
+MD5sum: 7774fd31a4862213888d961d43353f04
+SHA1: b8defc4ee577d15a316f97caf95f540a5906b46e
+SHA256: f639545d7eb124a67693922f9876551956039826add7dfd2a8f1d81d0be368ee
 Section: rootful插件
-Description: ***给微博加点小功能，去广告啥的，可注入 可越狱版，随意写的，设置排版以后再搞，近期要加的东西多***。长按'我'页面的（创作中心）或者（浏览记录）的文字，弹出设置
+Description: ***给微博加点小功能，去广告啥的，可注入 可越狱版，随意写的，设置排版以后再搞，近期要加的东西多***。长按'我'页面的（创作中心）或者（浏览记录）的文字，弹出设置,240115:修复闪退，加快微博启动速度。
 Author: 来了老弟
 Name: 微博绿了注入版-rootful
 
