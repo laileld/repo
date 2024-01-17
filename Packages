@@ -1313,40 +1313,6 @@ Description: 仅控制中心背景透明到桌面（单个模块没透），配�
 Author: 来了老弟
 Name: 控制中心透明-rootless
 
-Package: cn.llld.ldd
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 1108
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/roothide/灵动岛偏移-roothide_1.0_iphoneos-arm64e.deb
-Size: 777158
-MD5sum: bb84d8c5b832117c5be4568faafd0506
-SHA1: 9dec48081fce7029df174fe14c65f9f01f18e2fd
-SHA256: 1fef034f6043ed29d9cf82df61e9308f7e795c2a2e58915f7f99abff9da3568f
-Section: roothide插件
-Description: Adjust the upper and lower offset, left and right offset of the smart island。设置在手机系统设置中，***调节灵动岛上下的偏移，左右的偏移***,这是辅助工具，自备灵动岛
-Author: 来了老弟 X：h_h_x_t
-Icon: file:///Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/ldd1.png
-Name: 灵动岛偏移-roothide
-
-Package: cn.llld.ldd
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 1104
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/rootless/灵动岛偏移-rootless_1.0_iphoneos-arm64.deb
-Size: 776926
-MD5sum: d38b1b20200942fe0527e4571b9ae1d3
-SHA1: 71308c52157f0acc65e6295f87b7a1deda123628
-SHA256: f7fb1227db40bc614a8707258bf9765ccb0e3e61be9888d0ea2494b857d5fe56
-Section: rootless插件
-Description: Adjust the upper and lower offset, left and right offset of the smart island。设置在手机系统设置中，***调节灵动岛上下的偏移，左右的偏移***
-Author: 来了老弟 X：h_h_x_t
-Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/ldd1.png
-Name: 灵动岛偏移-rootless
-
 Package: cn.llld.lddpy
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64e
