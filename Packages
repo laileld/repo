@@ -1348,21 +1348,38 @@ Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/ldd1
 Name: 灵动岛偏移-rootless
 
 Package: cn.llld.ldd
-Version: 1.1
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 1104
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/rootless/灵动岛偏移rootless_1.2-arm64.deb
+Size: 777514
+MD5sum: a85b904a72e96f2def57b59172f43c2d
+SHA1: 5ad95f8dd7883045aa055ec120e91946d306eeb5
+SHA256: 2b9fbab321e1237cf647fdc92d930df96158c9fd6caa9cdfb0ac018238469df6
+Section: rootless插件
+Description: modify the upper and lower offset, left and right offset of the smart island，You need to install Dynamic or bring up Dynamic to match this tweak。设置在手机系统设置中，***调节灵动岛上下的偏移，左右的偏移，大小值***,这是辅助工具，自备灵动岛(DynamicCow之类的)，半岛不行，这是调原生的
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/llldprefs.bundle/icons-llld/ldd1.png
+Name: 灵动岛偏移-rootless
+
+Package: cn.llld.ldd
+Version: 1.2-1
 Architecture: iphoneos-arm64e
 Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 1108
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/roothide/灵动岛偏移1.1多方面调节-arm64e.deb
-Size: 778092
-MD5sum: 4186a9de80026cd29b829a8d3b11a87c
-SHA1: c42e0fcfd58b7d9ad9843481364a511ffc0b2992
-SHA256: 34d79955afd45fbec0ac41394775142f4601e8bfbaa506b30142c9bc26a92079
+Filename: ./debs/roothide/灵动岛偏移-roothide_1.2-1没播放器设定-arm64e.deb
+Size: 777710
+MD5sum: 5ec416a207039f2bc895a4acf86225d3
+SHA1: 50208d15e589d69304f215e4e072dd9b010e36b1
+SHA256: 90cf25487e1cd0e8bc90ea6d592e3de24f8e004d565ccd5c35c3002f7cc396dd
 Section: roothide插件
 Description: modify the upper and lower offset, left and right offset of the smart island，You need to install Dynamic or bring up Dynamic to match this tweak。设置在手机系统设置中，***调节灵动岛上下的偏移，左右的偏移，大小值***,这是辅助工具，自备灵动岛(DynamicCow之类的)
 Author: 来了老弟 X：h_h_x_t
 Icon: file:///Library/PreferenceBundles/llldprefs.bundle/icons-llld/ldd1.png
-Name: Dynamic灵动岛偏移-roothide
+Name: 灵动岛偏移-roothide
 
 Package: cn.llld.lddpy
 Version: 0.0.1-2+debug
