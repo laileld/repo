@@ -2226,6 +2226,40 @@ Description: Set the current time to your password, configured from settings.Be 
 Author: Jake James 来了老弟
 Name: TimeToUnlock-时间密码-rootless
 
+Package: cn.llld.tmts
+Version: 0.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 448
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/roothide/全局透明Max-roothide_0.1_arm64e.deb
+Size: 116738
+MD5sum: 3c7889fcc774c2d982dc252fa99513ec
+SHA1: e6198c89fb6548312328320e1b60f7a74c189623
+SHA256: e2ab45a6ba7e40af293fe3962abdfb0b82a354b6d84094b3836769e625b7f883
+Section: roothide插件
+Description: Customize notifications, control center, multitasking background module transparency。自定义全局透明度(包含 播放器，负一屏，通知，控制中心，多任务后台模块等，有空就更)
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///Library/PreferenceBundles/tmllldprefs.bundle/icons-llld/qjtmmax.png
+Name: 全局透明Max-roothide
+
+Package: cn.llld.tmts
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 448
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/rootless/全局透明Max-rootless_0.1_arm64.deb
+Size: 116510
+MD5sum: d6443ff3cc5155fd5525982a8802ab79
+SHA1: cb3ce11ae2149d81fa72f2aea12090eab66b644e
+SHA256: 9d9c2de4fdce425dfacc0e07dcaf7cf375d6ae9fcf7f7a6c50cdd2bcfa54543e
+Section: rootless插件
+Description: Customize notifications, control center, multitasking background module transparency。自定义全局透明度(包含 播放器，负一屏，通知，控制中心，多任务后台模块等，有空就更)
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/tmllldprefs.bundle/icons-llld/qjtmmax.png
+Name: 全局透明Max-rootless
+
 Package: cn.llld.togglow
 Version: 1.0.8
 Architecture: iphoneos-arm64
