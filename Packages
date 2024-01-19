@@ -2260,6 +2260,40 @@ Author: 来了老弟 X：h_h_x_t
 Icon: file:///var/jb/Library/PreferenceBundles/tmllldprefs.bundle/icons-llld/qjtmmax.png
 Name: 全局透明Max-rootless
 
+Package: cn.llld.tmts
+Version: 0.2
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 448
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/roothide/全局透明Max-roothide_0.2-arm64e.deb
+Size: 118158
+MD5sum: 801a85dbf072cda15bc6887408d4a1e3
+SHA1: 4e684492bac0c654912a4c2c48284157b014dc04
+SHA256: 63931061d1c3e94c6e39cb81f479420074caff1c6762067e5da68e1a838d9a94
+Section: roothide插件
+Description: Customize notifications, control center, multitasking background module transparency（alpha）。自定义全局透明度(包含 播放器，负一屏，通知，控制中心，多任务后台模块等，有空就更)，202401192005:增加专注模式和二级模式，拆开负一屏和文件夹背景单独设定.(群是那个芭比Q，满了，待扩张)
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///Library/PreferenceBundles/tmllldprefs.bundle/icons-llld/qjtmmax.png
+Name: 全局透明Max-roothide
+
+Package: cn.llld.tmts
+Version: 0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 448
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/rootless/全局透明Max-rootless_0.2_iphoneos-arm64.deb
+Size: 117784
+MD5sum: c634950762a02618fbd9411411dd4928
+SHA1: 6e326d02a25c9def7148ef0327a456800d6a4c4d
+SHA256: 10665fa59d3a0c15395c9f9c999f96cd520593f8f426be4bdecd2c811fbe3afd
+Section: rootless插件
+Description: Customize notifications, control center, multitasking background module transparency（alpha）。自定义全局透明度(包含 播放器，负一屏，通知，控制中心，多任务后台模块等，有空就更)，202401192005:增加专注模式和二级模式，拆开负一屏和文件夹背景单独设定.
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/tmllldprefs.bundle/icons-llld/qjtmmax.png
+Name: 全局透明Max-rootless
+
 Package: cn.llld.togglow
 Version: 1.0.8
 Architecture: iphoneos-arm64
