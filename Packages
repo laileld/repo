@@ -2800,22 +2800,6 @@ Description: ***给最右加点小功能，最右绿了注入版，可注入可�
 Author: 来了老弟
 Name: 最右绿了注入版-rootless
 
-Package: cn.llld.zyll
-Version: 0.3
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: ./debs/rootless/最右绿了注入或越狱版-rootless_0.3_arm64.deb
-Size: 15224
-MD5sum: 0523e1a305c16c6074b48c9976032b2e
-SHA1: 4edd93c04294092fe195e8b0f1752b5e69c0e140
-SHA256: 4ce5ee5c737384d4191280422bce27869bc12223069908159d820005941ba17e
-Section: rootless插件
-Description: ***给最右加点小功能，最右绿了注入版，可注入可越狱，排版以后再搞，要加的东西多***。长按'我的'页面（插眼）或者（赞过）文字，弹出设置。Q群928481652，近期多款插件上料(20240121:更新修复长按评论区分享弹出编辑框问题)。
-Author: 来了老弟
-Name: 最右绿了注入版-rootless
-
 Package: cn.tool.aphrodite-debug
 Version: 0.6.13~Modify
 Architecture: iphoneos-arm64
