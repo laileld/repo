@@ -2294,6 +2294,23 @@ Author: 来了老弟 X：h_h_x_t
 Icon: file:///var/jb/Library/PreferenceBundles/tmllldprefs.bundle/icons-llld/qjtmmax.png
 Name: 全局透明Max-rootless
 
+Package: cn.llld.tmts
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 448
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/rootless/全局透明Max-rootless_1.0_arm64.deb
+Size: 118712
+MD5sum: 2d5f5b8bdc55552bb3b7faebe10f7682
+SHA1: d4d3b434a5c95f1acb013b03f7c6d13b08f240c8
+SHA256: 21bcd2e47bd139d5e00dd69ae57f81205da8ebe9dd5733b5380f5398a191b0a5
+Section: rootless插件
+Description: Customize notifications, control center, multitasking background module transparency。自定义SpringBoard全局透明度(包含 锁屏 ，播放器，负一屏，通知，控制中心，多任务后台模块等)
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/tmllldprefs.bundle/icons-llld/qjtmmax.png
+Name: 全局透明Max-rootless
+
 Package: cn.llld.togglow
 Version: 1.0.8
 Architecture: iphoneos-arm64
