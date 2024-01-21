@@ -2300,11 +2300,11 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 448
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/rootless/全局透明Max-rootless_1.0_arm64.deb
-Size: 118712
-MD5sum: 2d5f5b8bdc55552bb3b7faebe10f7682
-SHA1: d4d3b434a5c95f1acb013b03f7c6d13b08f240c8
-SHA256: 21bcd2e47bd139d5e00dd69ae57f81205da8ebe9dd5733b5380f5398a191b0a5
+Filename: ./debs/rootless/全局透明Max-rootless_1.0_测16音量arm64.deb
+Size: 118744
+MD5sum: 48ac4314c05d671ad9218fc038d43f27
+SHA1: bcc3acdd11a0a80856211b22df32310bbe4f56fa
+SHA256: 14947dd26eecb44cbd1c14adc8f724efc0d938d7037d69f03d15cd8946029e90
 Section: rootless插件
 Description: Customize notifications, control center, multitasking background module transparency。自定义SpringBoard全局透明度(包含 锁屏 ，播放器，负一屏，通知，控制中心，多任务后台模块等)
 Author: 来了老弟 X：h_h_x_t
@@ -2797,6 +2797,22 @@ SHA1: 2dae452a41e396609da9ddedc219858d7abf5b73
 SHA256: a33daa0d6ed9fc98f577a31595a2221cca41e959b8531d7d5d6bfe4945125041
 Section: rootless插件
 Description: ***给最右加点小功能，最右绿了注入版，可注入可越狱，排版以后再搞，近期要加的东西多***。长按'我的'页面（插眼）或者（赞过）文字，弹出设置。Q群928481652，近期多功能多款插件上料。
+Author: 来了老弟
+Name: 最右绿了注入版-rootless
+
+Package: cn.llld.zyll
+Version: 0.3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/rootless/最右绿了注入版或越狱-rootless_0.3-arm64.deb
+Size: 15184
+MD5sum: c331b06d9ea256ba6c8f39eef80cff1e
+SHA1: a1baca2a4a868940e8c1db54b7c489c22cc5a411
+SHA256: 5cb443f04a8cf2f86056485da855005396eb4fae1b16123a9e6dbac87f333266
+Section: rootless插件
+Description: ***给最右加点小功能，最右绿了注入版，可注入可越狱，排版以后再搞，要加的东西多***。长按'我的'页面（插眼）或者（赞过）文字，弹出设置。Q群928481652，近期多款插件上料(20240121:更新修复长按评论区分享弹出编辑框问题)。
 Author: 来了老弟
 Name: 最右绿了注入版-rootless
 
