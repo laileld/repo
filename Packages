@@ -1265,6 +1265,22 @@ Description: 去越狱提示(东莞银行)，不用注销，退后台再进即�
 Author: 来了老弟
 Name: 东莞银行-rootless
 
+Package: cn.llld.jxydt
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/rootless/驾校一点通绿了-rootless_0.1-arm64.deb
+Size: 17450
+MD5sum: f90e5acbe6356c35109eb07779ddf938
+SHA1: d6036f6520437a278473a304011b7806d759e8ec
+SHA256: c04e3be9aa7b4fa7fcc03d12b51ac033819850e0d0b6b7227e714e13aa4af795
+Section: rootless插件
+Description: ***给(驾校一点通)加点小功能，可注入可越狱，祝各位拿证到手***。默认去除开屏广告和动画(若开梯子使用会冲突)，长按任何页面（去提升）或（直播课）或 (考前直播) 或(直播刷题) 文字 1 秒，弹出更多功能设置。
+Author: 来了老弟
+Name: 驾校一点通绿了-rootless
+
 Package: cn.llld.keyboard
 Version: 1.0
 Architecture: iphoneos-arm64e
