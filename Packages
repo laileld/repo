@@ -791,6 +791,23 @@ Author: 来了老弟 h_h_x_t
 Name: 自定义电话图片-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.dyy/dyy-rootless.json
 
+Package: cn.llld.fblxf
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 376
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/rootless/分辨率Fix修复处理-rootless_0.1-arm64.deb
+Size: 44064
+MD5sum: 36d921c76b9079dc001131e5f8e745c0
+SHA1: 27ccd9ca6caa176c7447ddca9ff2cc9ee5a639d3
+SHA256: 790348a947cd4b02e40e958fce816825cef36acbd38e96edd8e2ee807751435d
+Section: rootless插件
+Description: Bug fixes for various complications after changing resolution。更改分辨率后各种疑难杂症的bug处理，这是初版，纯兴趣开发
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/wyllldprefs.bundle/icons-llld/wytx.png
+Name: 分辨率Fix-rootless
+
 Package: cn.llld.fivecolumnscc
 Version: 1.0~beta4
 Architecture: iphoneos-arm64
