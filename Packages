@@ -1607,6 +1607,22 @@ Author: 来了老弟 h_h_x_t
 Name: 隐藏播放器通知背景-rootful
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.playerbj/playerbj-rootful.json
 
+Package: cn.llld.ppgxll
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 188
+Depends: mobilesubstrate
+Filename: ./debs/rootless/皮皮搞笑绿了注入版-rootless_0.1-arm64.deb
+Size: 12980
+MD5sum: 91796d5c3c744df72a984d28461fa6dc
+SHA1: a0bb8704771c4fab693f75c79ef2af46159e5166
+SHA256: 4f5cb917a55f39b565d6b28566d841ceb0156ff867ff7882900535569b400626
+Section: rootless插件
+Description: ***给皮皮搞笑加点小功能，皮皮搞笑绿了注入版，可注入可越狱，去广告去水印啥的***。长按'我的'页面（功能入口）或者'我的长度(cm)'，或(帖子详情)文字，弹出设置。
+Author: 来了老弟
+Name: 皮皮搞笑绿了注入版-rootless
+
 Package: cn.llld.qqdsq
 Version: 0.000001
 Architecture: iphoneos-arm64e
@@ -2829,6 +2845,22 @@ SHA1: a1baca2a4a868940e8c1db54b7c489c22cc5a411
 SHA256: 5cb443f04a8cf2f86056485da855005396eb4fae1b16123a9e6dbac87f333266
 Section: rootless插件
 Description: ***给最右加点小功能，最右绿了注入版，可注入可越狱，排版以后再搞，要加的东西多***。长按'我的'页面（插眼）或者（赞过）文字，弹出设置。Q群928481652，近期多款插件上料(20240121:更新修复长按评论区分享弹出编辑框问题)。
+Author: 来了老弟
+Name: 最右绿了注入版-rootless
+
+Package: cn.llld.zyll
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/rootless/最右绿了注入版-rootless_1.0-arm64.deb
+Size: 14806
+MD5sum: 167a3a6f0659447782f476daf733164a
+SHA1: 5553b08492768a433f887ce4107f7993dc2df52e
+SHA256: d727b526a729242cef4dce97500e3fe74543c98795999aaf7ef46ef9446e7f3f
+Section: rootless插件
+Description: ***给最右加点小功能，最右绿了注入版，可注入可越狱，去广告去水印啥的***。长按'我的'页面（插眼）或者（赞过）文字，弹出设置。Q群928481652，(20240121:更新修复长按评论区分享弹出编辑框问题)，20240126修改了下，确定下载没水印了。
 Author: 来了老弟
 Name: 最右绿了注入版-rootless
 
