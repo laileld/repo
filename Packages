@@ -314,6 +314,22 @@ Description: ***给QQ加点小功能，芭比Q注入版，可注入可越狱，�
 Author: 来了老弟
 Name: 芭比Q注入版-rootless
 
+Package: cn.llld.bbqzr
+Version: 0.3-3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 268
+Depends: mobilesubstrate
+Filename: ./debs/rootless/芭比Q注入版-rootless_0.3-3-arm64.deb
+Size: 30548
+MD5sum: 4ef3707c1f9ed7321d02f8d83deb834b
+SHA1: c6ad5651195cc13e921d7150c221c0a6b963078d
+SHA256: a72b00bc1699105a724294b4a0def729f437fec20b3d46468c15c0cba4195a66
+Section: rootless插件
+Description: ***给QQ加点小功能，芭比Q注入版，可注入可越狱，排版以后再搞，近期要加的东西多***。长按侧边栏的（日间）或者侧边栏的（设置）或任何界面的（收集表）或（精华消息）文字，弹出设置，cydia装不了的进Q群928481652
+Author: 来了老弟
+Name: 芭比Q注入版-rootless
+
 Package: cn.llld.callblocker13
 Version: 2.0.3
 Architecture: iphoneos-arm64
@@ -1608,22 +1624,6 @@ Name: 隐藏播放器通知背景-rootful
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.playerbj/playerbj-rootful.json
 
 Package: cn.llld.ppgxll
-Version: 0.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 188
-Depends: mobilesubstrate
-Filename: ./debs/rootless/皮皮搞笑绿了注入版-rootless_0.1-arm64.deb
-Size: 12980
-MD5sum: 91796d5c3c744df72a984d28461fa6dc
-SHA1: a0bb8704771c4fab693f75c79ef2af46159e5166
-SHA256: 4f5cb917a55f39b565d6b28566d841ceb0156ff867ff7882900535569b400626
-Section: rootless插件
-Description: ***给皮皮搞笑加点小功能，皮皮搞笑绿了注入版，可注入可越狱，去广告去水印啥的***。长按'我的'页面（功能入口）或者'我的长度(cm)'，或(帖子详情)文字，弹出设置。
-Author: 来了老弟
-Name: 皮皮搞笑绿了注入版-rootless
-
-Package: cn.llld.ppgxll
 Version: 0.2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
@@ -2423,38 +2423,6 @@ Name: Vibrato全局自定义震动-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.vibrato/js_Vibrato_rootless.json
 
 Package: cn.llld.wbb
-Version: 0.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/rootless/微博绿了注入版-rootless_0.1_iphoneos-arm64.deb
-Size: 11080
-MD5sum: d623a962f592a132efc687d0e41c10d3
-SHA1: f5bc94feaee73475ef63a769b28ad6257b6edf1f
-SHA256: 136f39de00be08fa5e5b9d5e55eede9c62e8f5f5e0211ea79a0e2c924ff1b9f9
-Section: rootless插件
-Description: ***给微博加点小功能，去广告啥的，可注入 可越狱版，随意写的，设置排版以后再搞，近期要加的东西多***。长按'我'页面的（创作中心）或者（浏览记录）的文字，弹出设置
-Author: 来了老弟
-Name: 微博绿了注入版-rootless
-
-Package: cn.llld.wbb
-Version: 0.2
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: ./debs/rootless/微博绿了注入版-rootless_0.2_修复闪退-arm64.deb
-Size: 11778
-MD5sum: 93a1f5a4e8db1a4975f0e2c89e6e8466
-SHA1: e013f38dcc62c4b303ba434c82ddc38b12b7919d
-SHA256: 0bdf6f547747b9656e678954f80fb3affb97a30ef4899731e015120445c878ab
-Section: rootless插件
-Description: ***给微博加点小功能，去广告啥的，可注入 可越狱版，随意写的，设置排版以后再搞，近期要加的东西多***。长按'我'页面的（创作中心）或者（浏览记录）的文字，弹出设置,240115:修复闪退，加快微博启动速度。Q群928481652，cydia装不了的，下群文件
-Author: 来了老弟
-Name: 微博绿了注入版-rootless
-
-Package: cn.llld.wbb
 Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: 来了老弟
@@ -2469,6 +2437,22 @@ Section: rootful插件
 Description: ***给微博加点小功能，去广告啥的，可注入 可越狱版，随意写的，设置排版以后再搞，近期要加的东西多***。长按'我'页面的（创作中心）或者（浏览记录）的文字，弹出设置,240115:修复闪退，加快微博启动速度。
 Author: 来了老弟
 Name: 微博绿了注入版-rootful
+
+Package: cn.llld.wbb
+Version: 0.3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/rootless/微博绿了注入版-rootless_0.3-arm64.deb
+Size: 12128
+MD5sum: 53815ade19861f2ab4ce4f557967457a
+SHA1: d72eb3c7ee35b429fc8c8e1bc2cab52d9b426f75
+SHA256: 1654345d12f9f27d7bc0c4b19176d7ea0756a75db59fe059b11d4aeeed5c67eb
+Section: rootless插件
+Description: ***给微博加点小功能，去广告啥的，可注入 可越狱版，随意写的，设置排版要加的东西多***。长按'我'页面的（创作中心）或者（浏览记录）（我的访问记录）的文字，弹出设置。。。240115:修复闪退，加快微博启动速度。240128:解决部分机型卡屏首页问题，现有广告挺多（五花八门的），有空就一点点解决，Q群928481652，cydia装不了的，下群文件
+Author: 来了老弟
+Name: 微博绿了注入版-rootless
 
 Package: cn.llld.wechatautolock
 Version: 1.0
@@ -2831,38 +2815,6 @@ Description: Store desktop apps, stack apps，Requires installation Legacy arm64
 Author: Muirey03 来了老弟
 Name: Zenith(Apex)App堆叠-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.zenith/zenith_rootless.json
-
-Package: cn.llld.zyll
-Version: 0.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: ./debs/rootless/最右绿了注入版-rootless_0.1-arm64.deb
-Size: 15204
-MD5sum: 64e6b713519f4c4c80ee74f29d842fbc
-SHA1: 2dae452a41e396609da9ddedc219858d7abf5b73
-SHA256: a33daa0d6ed9fc98f577a31595a2221cca41e959b8531d7d5d6bfe4945125041
-Section: rootless插件
-Description: ***给最右加点小功能，最右绿了注入版，可注入可越狱，排版以后再搞，近期要加的东西多***。长按'我的'页面（插眼）或者（赞过）文字，弹出设置。Q群928481652，近期多功能多款插件上料。
-Author: 来了老弟
-Name: 最右绿了注入版-rootless
-
-Package: cn.llld.zyll
-Version: 0.3
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: ./debs/rootless/最右绿了注入版或越狱-rootless_0.3-arm64.deb
-Size: 15184
-MD5sum: c331b06d9ea256ba6c8f39eef80cff1e
-SHA1: a1baca2a4a868940e8c1db54b7c489c22cc5a411
-SHA256: 5cb443f04a8cf2f86056485da855005396eb4fae1b16123a9e6dbac87f333266
-Section: rootless插件
-Description: ***给最右加点小功能，最右绿了注入版，可注入可越狱，排版以后再搞，要加的东西多***。长按'我的'页面（插眼）或者（赞过）文字，弹出设置。Q群928481652，近期多款插件上料(20240121:更新修复长按评论区分享弹出编辑框问题)。
-Author: 来了老弟
-Name: 最右绿了注入版-rootless
 
 Package: cn.llld.zyll
 Version: 1.0
