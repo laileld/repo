@@ -1623,6 +1623,22 @@ Description: ***给皮皮搞笑加点小功能，皮皮搞笑绿了注入版，�
 Author: 来了老弟
 Name: 皮皮搞笑绿了注入版-rootless
 
+Package: cn.llld.ppgxll
+Version: 0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/rootless/皮皮搞笑绿了注入版-rootless_0.2-arm64.deb
+Size: 13684
+MD5sum: 1d26d9b1f6a424e7b525d6def7b6b1f0
+SHA1: b78c3b58d8b971bc221737f1441c028e86d4956e
+SHA256: b4dfdbbf623112266c4fc9d864edf5e44c52c166b9a565b88985ded39ac584bb
+Section: rootless插件
+Description: ***给皮皮搞笑加点小功能，皮皮搞笑绿了注入版，可注入可越狱，去广告去水印啥的***。长按'我的'页面（功能入口）或者'我的长度(cm)'，或(帖子详情)文字，弹出设置。20240128:修复功能开关，增2个小选项
+Author: 来了老弟
+Name: 皮皮搞笑绿了注入版-rootless
+
 Package: cn.llld.qqdsq
 Version: 0.000001
 Architecture: iphoneos-arm64e
