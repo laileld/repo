@@ -251,38 +251,6 @@ Author: MiRO 来了老弟
 Name: AVPhotos照片视频画中画-rootless
 
 Package: cn.llld.bbqzr
-Version: 0.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/rootless/芭比Q注入版-rootless_0.1_iphoneos-arm64.deb
-Size: 10590
-MD5sum: 3047b16511c379e2e529fe1fda26e54c
-SHA1: 0e5fd7547dde9a99a0454a269cb4aae6b593b7d9
-SHA256: 059ebec3d90c5840bf3eb693276b8ad672a9efad8cdfe48640a2112ca374c814
-Section: rootless插件
-Description: ***芭比Q注入版，浓缩版，轻喷，本来是给自己做个游戏挂，就顺便也写个注入版***。长按消息页面的（搜索）或者侧边栏（设置）的文字，弹出设置
-Author: 来了老弟
-Name: 芭比Q注入版-rootless
-
-Package: cn.llld.bbqzr
-Version: 0.2
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 236
-Depends: mobilesubstrate
-Filename: ./debs/rootless/芭比Q注入版-rootless_0.2_iphoneos-arm64.deb
-Size: 19538
-MD5sum: a284c376e88a211ace6a54109ce47a47
-SHA1: 77fe037895cb80a33a69ac8edb6b31b202f8a812
-SHA256: 7959d892b0f870ff90cd272083adfd245382ac0bfae321c50d10855c5809425c
-Section: rootless插件
-Description: ***给QQ加点小功能，芭比Q注入版，浓缩版，轻喷，设置排版以后再搞，近期要加的东西多***。长按主页消息页面的（搜索）或者侧边栏（设置）的文字，弹出设置
-Author: 来了老弟
-Name: 芭比Q注入版-rootless
-
-Package: cn.llld.bbqzr
 Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: 来了老弟
@@ -297,22 +265,6 @@ Section: rootful插件
 Description: ***给QQ加点小功能，芭比Q注入版，浓缩版，可越狱可注入，设置排版以后再搞，近期要加的东西多***。长按侧边栏的（日间）或侧边栏（设置）的文字，弹出设置
 Author: 来了老弟
 Name: 芭比Q注入版-rootful
-
-Package: cn.llld.bbqzr
-Version: 0.3-1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 268
-Depends: mobilesubstrate
-Filename: ./debs/rootless/芭比Q注入版-rootless_0.3-1-arm64.deb
-Size: 27198
-MD5sum: 6828d3c5c0787494cd1ab97ab3a0395f
-SHA1: 6f29d6b19a21d04919579c6542d9c1c156dc0691
-SHA256: eb9b59a996716155a96914e1da590ab258137893754d591c778caf8a3a36e152
-Section: rootless插件
-Description: ***给QQ加点小功能，芭比Q注入版，可注入可越狱，排版以后再搞，近期要加的东西多***。长按侧边栏的（日间）或者侧边栏的（设置）文字，弹出设置，cydia装不了的进Q群928481652，多款插件即将到来。
-Author: 来了老弟
-Name: 芭比Q注入版-rootless
 
 Package: cn.llld.bbqzr
 Version: 0.3-3
@@ -1296,6 +1248,38 @@ Section: rootless插件
 Description: ***给(驾校一点通)加点小功能，可注入可越狱，祝各位拿证到手***。默认去除开屏广告和动画(若开梯子使用会冲突)，长按任何页面（去提升）或（直播课）或 (考前直播) 或(直播刷题) 文字 1 秒，弹出更多功能设置。
 Author: 来了老弟
 Name: 驾校一点通绿了-rootless
+
+Package: cn.llld.jxydt
+Version: 0.4
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 220
+Depends: mobilesubstrate
+Filename: ./debs/rootless/驾校一点通绿化-rootless_0.4_iphoneos-arm64.deb
+Size: 21330
+MD5sum: ff25a8437cf497ac353ad2f0d0d1bf22
+SHA1: dea0c7ded9f660d13308a994949bb6880e1171bb
+SHA256: db670dde7cc2e64abc4d19c891693265239c8f5cf0717ea21382281f08f4ac0f
+Section: rootless插件
+Description: 可注入可越狱使用，祝各位拿证到手。默认去除开屏广告和动画(若开梯子使用会冲突)，广告因版本不同而有所固执，待处理。开启'模拟考试完整技巧次数破解'，开启'去除视频观看20秒需会员的限制'等数十功能，长按1秒底栏弹出设置。
+Author: 来了老弟
+Name: 驾校一点通绿化-rootless
+
+Package: cn.llld.jyxlss
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/禁用主屏幕下拉搜索-rootless_0.0.1_iphoneos-arm64.deb
+Size: 4156
+MD5sum: 596f1a77c27bb49843f540b838459615
+SHA1: 1b8d3306a67b55ace1e3c9cbf68293b1d20d84e5
+SHA256: c8282920d661f0c5d388913ac912bcee42b1945b2e3a6f6c6d50111c2f80614d
+Section: rootless插件
+Description: Disable home screen dropdown search。禁用主屏幕下拉搜索。
+Author: 来了老弟 X：h_h_x_t
+Name: 禁用主屏幕下拉搜索-rootless
 
 Package: cn.llld.keyboard
 Version: 1.0
@@ -2469,6 +2453,22 @@ Description: 允许WX在聊天界面时跟随系统自动锁屏,wx默认是5分�
 Author: iBreak
 Name: WX跟随系统锁屏-rootless
 
+Package: cn.llld.wxx
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/rootless/微信小布丁-rootless_1.0_iphoneos-arm64.deb
+Size: 18608
+MD5sum: a24d07bb0c0405efe02769368dc12bc4
+SHA1: e9b07111cedd512f0531e40673d15672cf72a122
+SHA256: d0c87c5106bb58f3dfbda46372246ce2324df4a92ab09814e51f0757c1cc4e0d
+Section: rootless插件
+Description: 微信小布丁1.0版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告，屏蔽朋友圈广告，屏蔽越狱检测状态等功能。不整大杂烩，只更用的到.***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***
+Author: 来了老弟 X：h_h_x_t
+Name: 微信小布丁-rootless
+
 Package: cn.llld.wxyybb
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -2815,6 +2815,22 @@ Description: Store desktop apps, stack apps，Requires installation Legacy arm64
 Author: Muirey03 来了老弟
 Name: Zenith(Apex)App堆叠-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.zenith/zenith_rootless.json
+
+Package: cn.llld.zfbb
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/rootless/支付宝步数XD-rootless_1.0_iphoneos-arm64.deb
+Size: 16540
+MD5sum: 2c0f80a159e7d906f574ac65b0d1fb75
+SHA1: 250a4ca4fa6b08e22ad4d8457d3144207a832b0e
+SHA256: 54bcee790dadeea301b587db51a039ab521de94656312b2324bd49c5d3c40108
+Section: rootless插件
+Description: 可注入可越狱使用。自定义步数，屏蔽越狱检测，精简主页显示内容.***长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置***,支持任意版本。
+Author: 来了老弟 X：h_h_x_t
+Name: 支付宝步数XD-rootless
 
 Package: cn.llld.zyll
 Version: 1.0
