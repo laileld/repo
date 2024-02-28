@@ -2945,6 +2945,22 @@ Description: ***给最右加点小功能，最右绿了注入版，可注入可�
 Author: 来了老弟
 Name: 最右绿了注入版-rootless
 
+Package: cn.llld.zyll
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/rootless/最右绿化-rootless_1.1_iphoneos-arm64.deb
+Size: 15914
+MD5sum: 63b2410a104e12f6fc944cfa7b149827
+SHA1: 931961cb4bd69457fc68b785a67b7159133eb888
+SHA256: 1bdc2dd160f109cea2be3304b7d9092418a3eeda92764734cf299ea56e85cddf
+Section: rootless插件
+Description: 可注入可越狱使用。去除启动页视频图片摇一摇广告，去除首页推荐和帖子评论区广告，去除帖子下群组社区推荐，禁用首页左上角话题，禁用首页右上角搜索，禁用推送广告，禁用消息角标，开启全屏视频浏览模式，开启视频下载无水印，等等。***'我的'页面长按头像下方控件或首页顶栏或任意帖子内顶部，弹出设置***。
+Author: 来了老弟
+Name: 最右绿化-rootless
+
 Package: cn.tool.aphrodite-debug
 Version: 0.6.13~Modify
 Architecture: iphoneos-arm64
