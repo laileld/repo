@@ -304,15 +304,15 @@ Architecture: iphoneos-arm
 Maintainer: 来了老弟
 Installed-Size: 348
 Depends: mobilesubstrate
-Filename: ./debs/rootful/QQ绿化_芭比Q-rootless_0.4_iphoneos-arm.deb
-Size: 47168
-MD5sum: 9a004565944df14fc7cb44dc221ba8d6
-SHA1: 8cc7650ad2ba02dfba13ef345ce76cdf2c7ee4cc
-SHA256: cb8348c31112325c9ab9df616e68f2a498ff7e37748c7f26d7e7dca61bb26a10
-Section: rootless插件
+Filename: ./debs/rootful/QQ绿化_芭比Q-rootful_0.4_arm.deb
+Size: 47020
+MD5sum: 20968e06957040b922ffad155a0943c1
+SHA1: ab0b5ec38971ff8734689d1451ff171662b4d4aa
+SHA256: 139440039b5e68ce5f385c62f51e9823faa3d1049cfcc388bbc594af9552e2db
+Section: rootful插件
 Description: ***给QQ加些精简功能，芭比Q可注入可越狱使用，***。长按侧边栏的（日间）或（设置）图标，弹出设置，还有多处隐藏菜单，长按去发现。240228小更新，排版随便弄了下，QQ更新过快，每次都有新活，开发动力不大了
 Author: 来了老弟
-Name: QQ绿化_芭比Q-rootless
+Name: QQ绿化_芭比Q-rootful
 
 Package: cn.llld.callblocker13
 Version: 2.0.3
@@ -536,38 +536,6 @@ Description: Individual text can be copied by long-pressing in the (settings and
 Author: 来了老弟 h_h_x_t
 Name: Copy-text-rootless
 
-Package: cn.llld.customizecchh
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootful/CustomizeCC汉化-rootful_0.0.1.deb
-Size: 12042
-MD5sum: d3910c6a1de53fea465f71b7e12455cf
-SHA1: e63f9924cd45f40b4c7ad5acd5fbb2c4699a7016
-SHA256: 36915ea486b3debd02498b7e3fc53753882112c48d58ab5c608a589ab7b2a747
-Section: rootful汉化补丁
-Description: CustomizeCC汉化-rootful
-Author: 来了老弟
-Name: CustomizeCC汉化-rootful
-
-Package: cn.llld.customizeccrootful
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootful/CustomizeCC汉化-rootful_1.1.deb
-Size: 12106
-MD5sum: f9c63b285f6bcbaefefa0574c428a66f
-SHA1: f48504050921e6c7ca3c42575c7f972665326039
-SHA256: 66324fe6d75fee7fac890dfffd0fa71261c0adace0f24b8ad1b986b35b151bb9
-Section: rootful汉化补丁
-Description: CustomizeCC汉化-rootful
-Author: 来了老弟
-Name: CustomizeCC汉化-rootful
-
 Package: cn.llld.customizeccrootful
 Version: 1.2
 Maintainer: 来了老弟
@@ -708,22 +676,6 @@ Section: roothide插件
 Description: Dock 5 icons (Dock5个图标)---roothide
 Author: 来了老弟
 Name: Dock5个图标-roothide
-
-Package: cn.llld.dyst
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 来了老弟 h_h_x_t
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootful/DY抖音图层透明-rootful_1.0_iphoneos-arm.deb
-Size: 3190
-MD5sum: f243c804f694cd0b0b6495110d720c9a
-SHA1: 51b65967408d4a6b7c8e1207265c6cf73a91d3ca
-SHA256: 406e0c598cb58a54c03cc89dab97c81f24bda13b536f5ef6b6ab9dc4b9d68a1d
-Section: rootful插件
-Description: 透明(爱心,评论,收藏,分享)的图层，保留原先文字数量及点击功能，让观赏视频的视野更开阔
-Author: 来了老弟 h_h_x_t
-Name: DY抖音图层透明-rootful
 
 Package: cn.llld.dyst
 Version: 1.1
@@ -1674,24 +1626,6 @@ Name: 芭比Q-roothide
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
 
 Package: cn.llld.qqdsq
-Version: 0.000001
-Architecture: iphoneos-arm
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 488
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/rootful/芭比Q-rootful_0.000001_iphoneos-arm.deb
-Size: 72224
-MD5sum: 688de4be8c7664c3d7e60ebfb44e3104
-SHA1: de6f68c520db4830f81872994e01a5aa14843e06
-SHA256: de796fd02f4c7b953c49defe4ed3a0d9b6415cdb2481d9695d298478d402273c
-Section: rootful插件
-Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0.0.249和v9.0.1，别的版本需自测。在研究转发语音和空间跟圈，去广告，防撤回等一些功能还莫急，会上
-Author: 来了老弟 X：h_h_x_t
-Icon: file:///Library/PreferenceBundles/qqdsqprefs.bundle/icons/tubiao1.png
-Name: 芭比Q-rootful
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
-
-Package: cn.llld.qqdsq
 Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X：h_h_x_t
@@ -1761,24 +1695,6 @@ Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"
 Author: 来了老弟 X：h_h_x_t
 Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
 Name: 芭比Q-rootless
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
-
-Package: cn.llld.qqdsq
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 576
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/rootful/芭比Q-rootful_1.3_iphoneos-arm.deb
-Size: 101914
-MD5sum: d5eb265289aa45c84755d17248695e4b
-SHA1: fffceacff9a028a3ef565256b7cb9ab2a42aa880
-SHA256: 330932c04b1ff14c168b7a7337638f0df5bc720ed7809a5dd320e8fe5a6f17a4
-Section: rootful插件
-Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。功能在手机"系统设置"。功能在手机"系统设置"。调试版本号：v8.9.58和v9.0以上，别的版本需自测。
-Author: 来了老弟 X：h_h_x_t
-Icon: file:///Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
-Name: 芭比Q-rootful
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
 
 Package: cn.llld.qqdsq
@@ -2556,15 +2472,15 @@ Architecture: iphoneos-arm
 Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 220
 Depends: mobilesubstrate
-Filename: ./debs/rootful/微信小布丁-rootless_1.0.3_iphoneos-arm.deb
-Size: 21158
-MD5sum: 8a43f84876700ea67d52abfd37869f48
-SHA1: 81fd3d5642249563cb7eeec3513650513f6f4f44
-SHA256: 9824e97a9b00a2991e4114bdc2f9203d59c5f95cfca37560c08812ebcc7ed0a6
-Section: rootless插件
+Filename: ./debs/rootful/微信小布丁-rootful_1.0.3-arm.deb
+Size: 21200
+MD5sum: 0f37bcec908f4e7428dd5745df29ad01
+SHA1: 8d4390bd03e1d1e54d55bdb0ea6c34237f4bac5b
+SHA256: 04319f94ff3cef798aa95e30a3900f738a4506b6342332d8c49eb7f5c3caf255
+Section: rootful插件
 Description: 微信小布丁1.0.2版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告，屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***
 Author: 来了老弟 X：h_h_x_t
-Name: 微信小布丁-rootless
+Name: 微信小布丁-rootful
 
 Package: cn.llld.wxyybb
 Version: 1.0
@@ -3452,22 +3368,6 @@ Name: 抖音图层调整-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
 
 Package: com.xx.dyhook
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: x✨
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootful/com.xx.dyhook_1.0.3_iphoneos-arm.deb
-Size: 41088
-MD5sum: 0902c2dd8e4a8f9c295ec3b3f873c81f
-SHA1: 44072bbc1286337c3010bbb24c7816e2b2dbbb31
-SHA256: c867fd12ed32ca5262cefb9eb6a421ce137423880cd7c21da01b678a668da66b
-Section: rootful插件
-Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度
-Author: x✨
-Name: 抖音图层调整- rootful
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
-
-Package: com.xx.dyhook
 Version: 1.0.4
 Architecture: iphoneos-arm64
 Maintainer: x✨
@@ -3481,22 +3381,6 @@ Section: rootless插件
 Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度，1.0.4新增视频图片音频解析和去点小广告
 Author: x✨
 Name: 抖音图层调整-rootless
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
-
-Package: com.xx.dyhook
-Version: 1.0.4
-Architecture: iphoneos-arm
-Maintainer: x✨
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootful/com.xx.dyhook_1.0.4_iphoneos-arm.deb
-Size: 133292
-MD5sum: f9ecb1d9709649154ba45aa8111406b8
-SHA1: 3ba099177595cf349f107de44e749ee955097fed
-SHA256: 7c0e63d8a6df8078a0b71d27b55c03aac976b0dd963c1ce2b8961ff147024efe
-Section: rootful插件
-Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度，1.0.4新增视频图片音频解析和去点小广告
-Author: x✨
-Name: 抖音图层调整-rootful
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
 
 Package: com.xx.dyhook
@@ -3516,22 +3400,6 @@ Name: 抖音图层调整-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
 
 Package: com.xx.dyhook
-Version: 1.0.5
-Architecture: iphoneos-arm
-Maintainer: x✨
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootful/com.xx.dyhook_1.0.5_iphoneos-arm.deb
-Size: 140856
-MD5sum: 9ba6feb9404053cc965100926b05f8fd
-SHA1: db029ad4079d10885a0f579847007da1eeb8b241
-SHA256: 459f8675ad7614b442f5c673ec6caa5091632f87ae1ee1b9309c98d2e5b64e7d
-Section: rootful插件
-Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度，1.0.4新增视频图片音频解析和去点小广告
-Author: x✨
-Name: 抖音图层调整-rootful
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
-
-Package: com.xx.dyhook
 Version: 1.0.6
 Architecture: iphoneos-arm64
 Maintainer: x✨
@@ -3545,22 +3413,6 @@ Section: rootless插件
 Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度，1.0.4新增视频图片音频解析和去点小广告
 Author: x✨
 Name: 抖音图层调整-rootless
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
-
-Package: com.xx.dyhook
-Version: 1.0.6
-Architecture: iphoneos-arm
-Maintainer: x✨
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootful/com.xx.dyhook_1.0.6_iphoneos-arm.deb
-Size: 147072
-MD5sum: d4e76c3ad6301f16f8b2d8b8f665d027
-SHA1: a548456b39086ea418bda5c9c6ad1ffb74dc1084
-SHA256: 3dd3d712d0ef692a8589f91ba598ec978c8ce633f0c9cf9b994682c8a9a6d3b1
-Section: rootful插件
-Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度，1.0.4新增视频图片音频解析和去点小广告
-Author: x✨
-Name: 抖音图层调整-rootful
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
 
 Package: llld.keyboard
