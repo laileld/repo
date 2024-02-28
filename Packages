@@ -2292,18 +2292,18 @@ Icon: file:///var/jb/Library/PreferenceBundles/tmllldprefs.bundle/icons-llld/qjt
 Name: 全局透明Max-rootless
 
 Package: cn.llld.tmts
-Version: 1.1-1+debug
+Version: 1.1-1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 548
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/rootless/全局透明Max-rootless_1.1-1+debug_iphoneos-arm64.deb
-Size: 131498
-MD5sum: 1c9888da6e4f9b006d100666d61c3a63
-SHA1: d1baa4c62fa823ad80bb5a6aa015d997edf903d0
-SHA256: 4c85168581f6962911e3457ca31942233dea281b0145228934ca71aacb64d95e
+Size: 130068
+MD5sum: f5a0640bc37c5481930b9e131f132f58
+SHA1: 7205917fcd79b5d8a10ccb8e5bcccd0de3570c41
+SHA256: 213df646f5924b52c6a0f89bfe860be62ec88bf0d5172af4282adb6eb5e290a1
 Section: rootless插件
-Description: Customize notifications, player，control center, multitasking background module transparency(alpha)。自定义播放器大小和控制中心大小及位置，自定义SpringBoard全局透明度(包含 锁屏 ，播放器，负一屏，通知，控制中心，多任务后台模块等)----以最新版本为准，之前代码是垃圾
+Description: Customize notifications, player，control center, multitasking background module transparency(alpha)，Don't leave a blank. There must be a value to fill in the blanks.。自定义播放器大小和控制中心大小及位置，自定义SpringBoard全局透明度(包含 锁屏 ，播放器，负一屏，通知，控制中心，多任务后台模块等)，不要留空白，填空必须有数值----以最新版本为准，之前代码是垃圾
 Author: 来了老弟 X：h_h_x_t
 Icon: file:///var/jb/Library/PreferenceBundles/tmllldprefs.bundle/icons-llld/qjtmmax.png
 Name: 全局透明Max-rootless
@@ -2457,12 +2457,12 @@ Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 220
 Depends: mobilesubstrate
 Filename: ./debs/rootless/微信小布丁-rootless_1.0.3_iphoneos-arm64.deb
-Size: 21200
-MD5sum: b038ea7ea2e8a9d373f7f149fef1b949
-SHA1: 253afc69f87c621b5d9400d4aa6c2a02ae377036
-SHA256: 54ff230192de8ef82c6e83232628e42044995274f06d972b28ab1d7dfd6c69e6
+Size: 21300
+MD5sum: c86a3058b1a8f75effcce0a1958ac6f5
+SHA1: 66278f166f450e6475790987858a2e21a9d225a2
+SHA256: ac53a293ffa70bef43eaf0bebe16bb254dcfbe48be89b08c2d9715ca61332030
 Section: rootless插件
-Description: 微信小布丁1.0.2版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告，屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***
+Description: 微信小布丁1.0.3版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告，屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数等功能。只限8.0.31微信版本，若是注入用，记得开自动依赖。。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***
 Author: 来了老弟 X：h_h_x_t
 Name: 微信小布丁-rootless
 
@@ -2473,12 +2473,12 @@ Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 220
 Depends: mobilesubstrate
 Filename: ./debs/rootful/微信小布丁-rootful_1.0.3-arm.deb
-Size: 21200
-MD5sum: 0f37bcec908f4e7428dd5745df29ad01
-SHA1: 8d4390bd03e1d1e54d55bdb0ea6c34237f4bac5b
-SHA256: 04319f94ff3cef798aa95e30a3900f738a4506b6342332d8c49eb7f5c3caf255
+Size: 21256
+MD5sum: c67534ef7eff82100715feaddcf6579c
+SHA1: 9e54f0e510aed715382932e34501bedf166ce44e
+SHA256: e49a4344a18f5cbc281adcaf28778dd98ac62dd1f9cb25bc3868cd8699124409
 Section: rootful插件
-Description: 微信小布丁1.0.2版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告，屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***
+Description: 微信小布丁1.0.3版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告，屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***，只限8.0.31微信版本，若是注入用，记得开自动依赖
 Author: 来了老弟 X：h_h_x_t
 Name: 微信小布丁-rootful
 
