@@ -2469,6 +2469,22 @@ Description: 微信小布丁1.0版本，可注入可越狱使用。自定义气�
 Author: 来了老弟 X：h_h_x_t
 Name: 微信小布丁-rootless
 
+Package: cn.llld.wxx
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/rootless/微信小布丁-rootless_1.0.2_iphoneos-arm64.deb
+Size: 19450
+MD5sum: 293bd221795ee2dabefab7ab61b3e33c
+SHA1: 90e6333e0661a1014502a5287747bad6824460a2
+SHA256: 592390ea8803501739639dbc14a3e761c3eb4dc471dbbe1b6f23d466ab58a5dd
+Section: rootless插件
+Description: 微信小布丁1.0.2版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告，屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告等功能。不整大杂烩，只更用的到.***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***
+Author: 来了老弟 X：h_h_x_t
+Name: 微信小布丁-rootless
+
 Package: cn.llld.wxyybb
 Version: 1.0
 Architecture: iphoneos-arm64
