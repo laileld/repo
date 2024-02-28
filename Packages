@@ -298,6 +298,22 @@ Description: ***给QQ加些精简功能，芭比Q可注入可越狱使用，***�
 Author: 来了老弟
 Name: QQ绿化_芭比Q-rootless
 
+Package: cn.llld.bbqzr
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: ./debs/rootful/QQ绿化_芭比Q-rootless_0.4_iphoneos-arm.deb
+Size: 47168
+MD5sum: 9a004565944df14fc7cb44dc221ba8d6
+SHA1: 8cc7650ad2ba02dfba13ef345ce76cdf2c7ee4cc
+SHA256: cb8348c31112325c9ab9df616e68f2a498ff7e37748c7f26d7e7dca61bb26a10
+Section: rootless插件
+Description: ***给QQ加些精简功能，芭比Q可注入可越狱使用，***。长按侧边栏的（日间）或（设置）图标，弹出设置，还有多处隐藏菜单，长按去发现。240228小更新，排版随便弄了下，QQ更新过快，每次都有新活，开发动力不大了
+Author: 来了老弟
+Name: QQ绿化_芭比Q-rootless
+
 Package: cn.llld.callblocker13
 Version: 2.0.3
 Architecture: iphoneos-arm64
@@ -2512,6 +2528,22 @@ Size: 21200
 MD5sum: b038ea7ea2e8a9d373f7f149fef1b949
 SHA1: 253afc69f87c621b5d9400d4aa6c2a02ae377036
 SHA256: 54ff230192de8ef82c6e83232628e42044995274f06d972b28ab1d7dfd6c69e6
+Section: rootless插件
+Description: 微信小布丁1.0.2版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告，屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***
+Author: 来了老弟 X：h_h_x_t
+Name: 微信小布丁-rootless
+
+Package: cn.llld.wxx
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 220
+Depends: mobilesubstrate
+Filename: ./debs/rootful/微信小布丁-rootless_1.0.3_iphoneos-arm.deb
+Size: 21158
+MD5sum: 8a43f84876700ea67d52abfd37869f48
+SHA1: 81fd3d5642249563cb7eeec3513650513f6f4f44
+SHA256: 9824e97a9b00a2991e4114bdc2f9203d59c5f95cfca37560c08812ebcc7ed0a6
 Section: rootless插件
 Description: 微信小布丁1.0.2版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告，屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***
 Author: 来了老弟 X：h_h_x_t
