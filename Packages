@@ -267,33 +267,17 @@ Author: 来了老弟
 Name: 芭比Q注入版-rootful
 
 Package: cn.llld.bbqzr
-Version: 0.3-3
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 268
-Depends: mobilesubstrate
-Filename: ./debs/rootless/芭比Q注入版-rootless_0.3-3-arm64.deb
-Size: 30548
-MD5sum: 4ef3707c1f9ed7321d02f8d83deb834b
-SHA1: c6ad5651195cc13e921d7150c221c0a6b963078d
-SHA256: a72b00bc1699105a724294b4a0def729f437fec20b3d46468c15c0cba4195a66
-Section: rootless插件
-Description: ***给QQ加点小功能，芭比Q注入版，可注入可越狱，排版以后再搞，近期要加的东西多***。长按侧边栏的（日间）或者侧边栏的（设置）或任何界面的（收集表）或（精华消息）文字，弹出设置，cydia装不了的进Q群928481652
-Author: 来了老弟
-Name: 芭比Q注入版-rootless
-
-Package: cn.llld.bbqzr
 Version: 0.4
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 348
 Depends: mobilesubstrate
 Filename: ./debs/rootless/QQ绿化_芭比Q-rootless_0.4_iphoneos-arm64.deb
-Size: 47152
-MD5sum: 7032c2ac0f9d044eda06da97722e54a3
-SHA1: 2167bc7717f6b35e0f48c6d1504cbfc703ea4815
-SHA256: a8042fbe1b2d1b4ad98ac585a454225dedfd4c4eca884c8c9d5ab5ebdde88477
-Section: rootless插件
+Size: 47368
+MD5sum: 918e51dc6973ae1935d85a4628f55d18
+SHA1: 8e6537212f83e48f45ae264f613a06cb472d48c3
+SHA256: 74fbc87231972a43c8965d3f337d76bd80cd006fc7ae5745ab36de03b5c8cf9d
+Section: rootless应用插件
 Description: ***给QQ加些精简功能，芭比Q可注入可越狱使用，***。长按侧边栏的（日间）或（设置）图标，弹出设置，还有多处隐藏菜单，长按去发现。240228小更新，排版随便弄了下，QQ更新过快，每次都有新活，开发动力不大了
 Author: 来了老弟
 Name: QQ绿化_芭比Q-rootless
@@ -1218,33 +1202,17 @@ Author: 来了老弟
 Name: 东莞银行-rootless
 
 Package: cn.llld.jxydt
-Version: 0.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: ./debs/rootless/驾校一点通绿了-rootless_0.1-arm64.deb
-Size: 17450
-MD5sum: f90e5acbe6356c35109eb07779ddf938
-SHA1: d6036f6520437a278473a304011b7806d759e8ec
-SHA256: c04e3be9aa7b4fa7fcc03d12b51ac033819850e0d0b6b7227e714e13aa4af795
-Section: rootless插件
-Description: ***给(驾校一点通)加点小功能，可注入可越狱，祝各位拿证到手***。默认去除开屏广告和动画(若开梯子使用会冲突)，长按任何页面（去提升）或（直播课）或 (考前直播) 或(直播刷题) 文字 1 秒，弹出更多功能设置。
-Author: 来了老弟
-Name: 驾校一点通绿了-rootless
-
-Package: cn.llld.jxydt
 Version: 0.4
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 220
 Depends: mobilesubstrate
 Filename: ./debs/rootless/驾校一点通绿化-rootless_0.4_iphoneos-arm64.deb
-Size: 21330
-MD5sum: ff25a8437cf497ac353ad2f0d0d1bf22
-SHA1: dea0c7ded9f660d13308a994949bb6880e1171bb
-SHA256: db670dde7cc2e64abc4d19c891693265239c8f5cf0717ea21382281f08f4ac0f
-Section: rootless插件
+Size: 21392
+MD5sum: 97499f085d7ac8071a8b307d74f673b7
+SHA1: e52f352d30f4cd56ba6a6474b1f8cd2a6ee1d19e
+SHA256: ccf16920b2d737f2697b9cec70ebc943e105bfea0e3e674361468163fa822380
+Section: rootless应用插件
 Description: 可注入可越狱使用，祝各位拿证到手。默认去除开屏广告和动画(若开梯子使用会冲突)，广告因版本不同而有所固执，待处理。开启'模拟考试完整技巧次数破解'，开启'去除视频观看20秒需会员的限制'等数十功能，长按1秒底栏弹出设置。
 Author: 来了老弟
 Name: 驾校一点通绿化-rootless
@@ -1597,15 +1565,15 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: ./debs/rootless/皮皮搞笑绿了注入版-rootless_0.2-arm64.deb
-Size: 13684
-MD5sum: 1d26d9b1f6a424e7b525d6def7b6b1f0
-SHA1: b78c3b58d8b971bc221737f1441c028e86d4956e
-SHA256: b4dfdbbf623112266c4fc9d864edf5e44c52c166b9a565b88985ded39ac584bb
-Section: rootless插件
-Description: ***给皮皮搞笑加点小功能，皮皮搞笑绿了注入版，可注入可越狱，去广告去水印啥的***。长按'我的'页面（功能入口）或者'我的长度(cm)'，或(帖子详情)文字，弹出设置。20240128:修复功能开关，增2个小选项
+Filename: ./debs/rootless/皮皮搞笑绿化-rootless_0.2-arm64.deb
+Size: 13748
+MD5sum: f7b9aefe9be269b216db8dade4b3eabc
+SHA1: b5723fb8829704ddff96790a145b24589a24240e
+SHA256: c723e664e8f2285569d2d64d679f2940964b192b8edce9b00249a1b22ac2591b
+Section: rootless应用插件
+Description: ***给皮皮搞笑加点小功能，皮皮搞笑绿化可注入可越狱使用，去广告去水印啥的***。长按'我的'页面（功能入口）或者'我的长度(cm)'，或(帖子详情)文字，弹出设置。20240128:修复功能开关，增2个小选项
 Author: 来了老弟
-Name: 皮皮搞笑绿了注入版-rootless
+Name: 皮皮搞笑绿化-rootless
 
 Package: cn.llld.qqdsq
 Version: 0.000001
@@ -1626,42 +1594,6 @@ Name: 芭比Q-roothide
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
 
 Package: cn.llld.qqdsq
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 300
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/rootless/芭比Q-rootless_1.1_iphoneos-arm64.deb
-Size: 73840
-MD5sum: bb544cdfcc7d03ebec12f19857f7bdd8
-SHA1: 7c211e3096731ffa9806e3fad9fa800d5b8151e3
-SHA256: 80c9a1dda1c66c30f7c58580dbf7cdebb86b41a9359a0d3acf87691ddd61cf3b
-Section: rootless插件
-Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0以上，别的版本需自测。
-Author: 来了老弟 X：h_h_x_t
-Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
-Name: 芭比Q-rootless
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
-
-Package: cn.llld.qqdsq
-Version: 1.1.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 300
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/rootless/芭比Q-rootless_1.1.1_iphoneos-arm64.deb
-Size: 75022
-MD5sum: 7a896d4af5f3a8ba96b151b533f56dfa
-SHA1: fee0dd266da133a000ddd448b1220a89547a3887
-SHA256: 2f029294bb2969b1e42eb221a3ac22b0a4b6fb742441c2c256ade2f704843032
-Section: rootless插件
-Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0以上，别的版本需自测。
-Author: 来了老弟 X：h_h_x_t
-Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
-Name: 芭比Q-rootless
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
-
-Package: cn.llld.qqdsq
 Version: 1.3
 Architecture: iphoneos-arm64e
 Maintainer: 来了老弟 X：h_h_x_t
@@ -1677,24 +1609,6 @@ Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"
 Author: 来了老弟 X：h_h_x_t
 Icon: file:///Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
 Name: 芭比Q-roothide
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
-
-Package: cn.llld.qqdsq
-Version: 1.3
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 576
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/rootless/芭比Q-rootless_1.3_iphoneos-arm64.deb
-Size: 101926
-MD5sum: e4eb54596f89c29da7b7094a0d425d0f
-SHA1: 753323f3a0610490b0325bcf42c16b53ca5a4e43
-SHA256: 51149c89e5caf9dfbc4c731a8a354bba9c6ed543197e997bb9edeffb107b398d
-Section: rootless插件
-Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。功能在手机"系统设置"。功能在手机"系统设置"。调试版本号：v8.9.58和v9.0以上，别的版本需自测。
-Author: 来了老弟 X：h_h_x_t
-Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
-Name: 芭比Q-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
 
 Package: cn.llld.qqdsq
@@ -1722,11 +1636,11 @@ Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 592
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/rootless/芭比Q-rootless_1.3.3_iphoneos-arm64.deb
-Size: 104012
-MD5sum: 09d2204a657018c8c4a121984f64a3f2
-SHA1: f6f201be30552a711a0966a62bad43ead97c3663
-SHA256: 31c5d5ef99bc962d1b474003f62280651a3ca88fc9af2645b3df2cb674f0811d
-Section: rootless插件
+Size: 104056
+MD5sum: c45b813f31cdbb5b474e5b8e871aeb3e
+SHA1: 4becc84df1b4f5a86e55e135c209ad16b9cbd7af
+SHA256: 7d881ad196224feeffeab1820db5e03fae0c64b907d135af6beb2c669a6180c2
+Section: rootless应用插件
 Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0以上，别的版本需自测。
 Author: 来了老弟 X：h_h_x_t
 Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
@@ -2393,12 +2307,12 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate
-Filename: ./debs/rootless/微博绿了注入版-rootless_0.3-arm64.deb
-Size: 12128
-MD5sum: 53815ade19861f2ab4ce4f557967457a
-SHA1: d72eb3c7ee35b429fc8c8e1bc2cab52d9b426f75
-SHA256: 1654345d12f9f27d7bc0c4b19176d7ea0756a75db59fe059b11d4aeeed5c67eb
-Section: rootless插件
+Filename: ./debs/rootless/微博绿化-rootless_0.3-arm64.deb
+Size: 12268
+MD5sum: 878e19563f6e88a4a7dce3798aec6c23
+SHA1: 76bfcb2a27a3f055247f2316f928dbacbe89ecda
+SHA256: 364ddb43267f091215734f727c6343ee6a5ab1b7cb4cb881b99b33ae9cc71d49
+Section: rootless应用插件
 Description: ***给微博加点小功能，去广告啥的，可注入 可越狱版，随意写的，设置排版要加的东西多***。长按'我'页面的（创作中心）或者（浏览记录）（我的访问记录）的文字，弹出设置。。。240115:修复闪退，加快微博启动速度。240128:解决部分机型卡屏首页问题，现有广告挺多（五花八门的），有空就一点点解决，Q群928481652，cydia装不了的，下群文件
 Author: 来了老弟
 Name: 微博绿了注入版-rootless
@@ -2419,49 +2333,17 @@ Author: iBreak
 Name: WX跟随系统锁屏-rootless
 
 Package: cn.llld.wxx
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: ./debs/rootless/微信小布丁-rootless_1.0_iphoneos-arm64.deb
-Size: 18680
-MD5sum: db0241bc12f08a7c3475422d56d3fc37
-SHA1: 7df8956caa53f39b100826e651de8bc9a2ff588a
-SHA256: 6a174ebd3dab96a5353c41206c3a1033b6fd74aa2c0bdca0a28f76590a518983
-Section: rootless-wx插件
-Description: 微信小布丁1.0版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告，屏蔽朋友圈广告，屏蔽越狱检测状态等功能。不整大杂烩，只更用的到.***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***当前只限8.0.31微信版本
-Author: 来了老弟 X：h_h_x_t
-Name: 微信小布丁-rootless
-
-Package: cn.llld.wxx
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: ./debs/rootless/微信小布丁-rootless_1.0.2_iphoneos-arm64.deb
-Size: 19450
-MD5sum: 293bd221795ee2dabefab7ab61b3e33c
-SHA1: 90e6333e0661a1014502a5287747bad6824460a2
-SHA256: 592390ea8803501739639dbc14a3e761c3eb4dc471dbbe1b6f23d466ab58a5dd
-Section: rootless插件
-Description: 微信小布丁1.0.2版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告，屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告等功能。不整大杂烩，只更用的到.***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***
-Author: 来了老弟 X：h_h_x_t
-Name: 微信小布丁-rootless
-
-Package: cn.llld.wxx
 Version: 1.0.3
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 220
 Depends: mobilesubstrate
 Filename: ./debs/rootless/微信小布丁-rootless_1.0.3_iphoneos-arm64.deb
-Size: 21300
-MD5sum: c86a3058b1a8f75effcce0a1958ac6f5
-SHA1: 66278f166f450e6475790987858a2e21a9d225a2
-SHA256: ac53a293ffa70bef43eaf0bebe16bb254dcfbe48be89b08c2d9715ca61332030
-Section: rootless插件
+Size: 21320
+MD5sum: 398725834807d34d43d0be94affe4f4d
+SHA1: b88ae5e46568b93753a610f373c894c2b58b25c4
+SHA256: f8fa35994c63f9f597fbdb2935f653ae5d2b36125d895d52b2ae0ad73277b75d
+Section: rootless应用插件
 Description: 微信小布丁1.0.3版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告，屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数等功能。只限8.0.31微信版本，若是注入用，记得开自动依赖。。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***
 Author: 来了老弟 X：h_h_x_t
 Name: 微信小布丁-rootless
@@ -2836,30 +2718,14 @@ Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 204
 Depends: mobilesubstrate
 Filename: ./debs/rootless/支付宝步数XD-rootless_1.0_iphoneos-arm64.deb
-Size: 16540
-MD5sum: 2c0f80a159e7d906f574ac65b0d1fb75
-SHA1: 250a4ca4fa6b08e22ad4d8457d3144207a832b0e
-SHA256: 54bcee790dadeea301b587db51a039ab521de94656312b2324bd49c5d3c40108
-Section: rootless插件
+Size: 16644
+MD5sum: 11224f2ba4f66e4b00a3f044bf46bf8e
+SHA1: c08d81baf78bbc1ee92e32fa629e67174c50dfce
+SHA256: 4d1e0eb45787bb996e732d03b82f93a60ef3c209a773858fdde5669477ef2487
+Section: rootless应用插件
 Description: 可注入可越狱使用。自定义步数，屏蔽越狱检测，精简主页显示内容.***长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置***,支持任意版本。
 Author: 来了老弟 X：h_h_x_t
 Name: 支付宝步数XD-rootless
-
-Package: cn.llld.zyll
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: ./debs/rootless/最右绿了注入版-rootless_1.0-arm64.deb
-Size: 14806
-MD5sum: 167a3a6f0659447782f476daf733164a
-SHA1: 5553b08492768a433f887ce4107f7993dc2df52e
-SHA256: d727b526a729242cef4dce97500e3fe74543c98795999aaf7ef46ef9446e7f3f
-Section: rootless插件
-Description: ***给最右加点小功能，最右绿了注入版，可注入可越狱，去广告去水印啥的***。长按'我的'页面（插眼）或者（赞过）文字，弹出设置。Q群928481652，(20240121:更新修复长按评论区分享弹出编辑框问题)，20240126修改了下，确定下载没水印了。
-Author: 来了老弟
-Name: 最右绿了注入版-rootless
 
 Package: cn.llld.zyll
 Version: 1.1
@@ -2868,11 +2734,11 @@ Maintainer: 来了老弟
 Installed-Size: 204
 Depends: mobilesubstrate
 Filename: ./debs/rootless/最右绿化-rootless_1.1_iphoneos-arm64.deb
-Size: 15914
-MD5sum: 63b2410a104e12f6fc944cfa7b149827
-SHA1: 931961cb4bd69457fc68b785a67b7159133eb888
-SHA256: 1bdc2dd160f109cea2be3304b7d9092418a3eeda92764734cf299ea56e85cddf
-Section: rootless插件
+Size: 15940
+MD5sum: 2bf956680ab1feceef1c94856c40d1d7
+SHA1: fa406b8ac35aee1e97d44d12616019b1d77b1444
+SHA256: aaac292740d76dde12b76e66e7b2c9d27aecb2107ca61a10bed12b4df1ca10a0
+Section: rootless应用插件
 Description: 可注入可越狱使用。去除启动页视频图片摇一摇广告，去除首页推荐和帖子评论区广告，去除帖子下群组社区推荐，禁用首页左上角话题，禁用首页右上角搜索，禁用推送广告，禁用消息角标，开启全屏视频浏览模式，开启视频下载无水印，等等。***'我的'页面长按头像下方控件或首页顶栏或任意帖子内顶部，弹出设置***。
 Author: 来了老弟
 Name: 最右绿化-rootless
@@ -3393,22 +3259,6 @@ Size: 140412
 MD5sum: c702f08523b1551da23a6321e934f875
 SHA1: 2eb0638cb425f5e6a206aebcfe9150c73d18d725
 SHA256: ffc8eb540b21469fc166120c8c015a4a701407186db4d4e581df40a382b43b7c
-Section: rootless插件
-Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度，1.0.4新增视频图片音频解析和去点小广告
-Author: x✨
-Name: 抖音图层调整-rootless
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
-
-Package: com.xx.dyhook
-Version: 1.0.6
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.xx.dyhook_1.0.6_iphoneos-arm64.deb
-Size: 147984
-MD5sum: 2e2f9b2aac4292621df5fbcc20cede80
-SHA1: 01c625016b5a3196c7e0bfddb54ddffe1e01c6d2
-SHA256: ec18bde1c938817b0cb4d0c737316e05ce9e4c794f68ecd8ebefec0ff336a0b4
 Section: rootless插件
 Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度，1.0.4新增视频图片音频解析和去点小广告
 Author: x✨
