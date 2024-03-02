@@ -1,21 +1,4 @@
 Package: Flex3beta
-Version: 1:3~Beta99.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 h_h_x_t
-Depends: mobilesubstrate, firmware (>= 9.0)
-Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
-Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
-Filename: ./debs/rootless/Flex3beta_可解析应用无需兼容层rootless.deb
-Size: 16814816
-MD5sum: 2caa8ae5d1d3e1093c78617267b250a8
-SHA1: fc6ec29fffeaf71dbc420c2d479d0cfcf4d4d359
-SHA256: 38866bbd02188371f54e0386cb5a5154632df32fe856002b61571ac48bdb1a36
-Section: rootless修复插件
-Description: Develop your own tweaks and share them on the Flex Community Cloud. (. dopamine 版本flex3可解析应用，不用兼容层，粗体会闪退，此包是56版本改的，方便刷新源可见,建议正在学习或者会做补丁者使用(已知点击应用补丁列表不可以，需要搜索)~~~单独装此包只对第三方应用生效，对系统生效需要装另外一个包，安装前卸载现有的，你配置都在)-rootless
-Author: John Coates
-Name: Flex3 Beta可解析版-rootless
-
-Package: Flex3beta
 Version: 1:4
 Architecture: iphoneos-arm64e
 Maintainer: 来了老弟 h_h_x_t
@@ -33,6 +16,23 @@ Author: John Coates
 Name: Flex3 Beta程序修改器-roothide
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/Flex3beta/js_Flex3beta.json
 Sponsor: 来了老弟  x: h_h_x_t
+
+Package: Flex3beta
+Version: 3.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Filename: ./debs/rootless/Flex3beta_可解析应用无需兼容层rootless.deb
+Size: 16813652
+MD5sum: 4fc4260618b67faafbcee06f8b0a2811
+SHA1: ae86ee5aecc2e281b6c3f87cab350662721d27be
+SHA256: d05a501291d6bbeab37ca9dc4a3157a8938fc4f0b4b3b24970bf2548cea2fba2
+Section: rootless修复插件
+Description: Develop your own tweaks and share them on the Flex Community Cloud. (dopamine 版本flex3可解析应用，不用兼容层，粗体会闪退,建议正在学习或者会做补丁者使用(已知点击应用补丁列表不可以，需要搜索)~~~单独装此包只对第三方应用生效，对系统生效需要装另外一个包，安装前卸载现有的，你配置都在)，0302:更新版本号，盗版源从我这拿东西版本整那么高作甚
+Author: John Coates
+Name: Flex3 Beta可解析版-rootless
 
 Package: Nets.llld.actionbarreborn
 Version: 1.1-2
