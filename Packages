@@ -415,12 +415,12 @@ Maintainer: 来了老弟
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/rootless/增加网络控制(rootless).deb
-Size: 3140
-MD5sum: b652d8fa7ec5b78bf3b90cf348eba142
-SHA1: c4eecfec7896ab826e56dbae7a59d9531ab77143
-SHA256: 0f9e416b5ef4e3a4e74262e0b7e96c50d49da38f5d731112673df8a73148d498
+Size: 3172
+MD5sum: be68b3e2e0270a1b906ff00e2b2018e2
+SHA1: 2e94564b123a9634e23870f02a8424bb5aee885d
+SHA256: 43dccd1c8f29b492ec5348a4062d5df700b6d7eb3ae8a039986ce07c2a2caffa
 Section: rootless修复插件
-Description: Network permission control to add WiFi and data to the APP in the settings设置中添加APP的WiFi和数据的网络权限控制，只推荐非国行手机安装。本意是模仿国行手机。_________仅测试用,有问题卸载
+Description: Network permission control to add WiFi and data to the APP in the settings设置中添加APP的WiFi和数据的网络权限控制，只推荐非国行手机安装。本意是模仿国行手机。有时设置会复原是已知的_________仅测试用,有问题卸载
 Author: daniel
 Name: Conditional网络控制-rootless
 
@@ -1316,23 +1316,6 @@ Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/ldd1
 Name: 灵动岛偏移-rootless
 
 Package: cn.llld.ldd
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 1104
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/rootless/灵动岛偏移rootless_1.2-arm64.deb
-Size: 777514
-MD5sum: a85b904a72e96f2def57b59172f43c2d
-SHA1: 5ad95f8dd7883045aa055ec120e91946d306eeb5
-SHA256: 2b9fbab321e1237cf647fdc92d930df96158c9fd6caa9cdfb0ac018238469df6
-Section: rootless插件
-Description: modify the upper and lower offset, left and right offset of the smart island，You need to install Dynamic or bring up Dynamic to match this tweak。设置在手机系统设置中，***调节灵动岛上下的偏移，左右的偏移，大小值***,这是辅助工具，自备灵动岛(DynamicCow之类的)，半岛不行，这是调原生的
-Author: 来了老弟 X：h_h_x_t
-Icon: file:///var/jb/Library/PreferenceBundles/llldprefs.bundle/icons-llld/ldd1.png
-Name: 灵动岛偏移-rootless
-
-Package: cn.llld.ldd
 Version: 1.2-1
 Architecture: iphoneos-arm64e
 Maintainer: 来了老弟 X：h_h_x_t
@@ -1348,6 +1331,23 @@ Description: modify the upper and lower offset, left and right offset of the sma
 Author: 来了老弟 X：h_h_x_t
 Icon: file:///Library/PreferenceBundles/llldprefs.bundle/icons-llld/ldd1.png
 Name: 灵动岛偏移-roothide
+
+Package: cn.llld.ldd
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 1104
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/rootless/灵动岛偏移rootless_1.2-arm64.deb
+Size: 777584
+MD5sum: 9e4752bfde50b4c6731c52344bbf25d0
+SHA1: 8b036ba87ad425581e8302c881829dc8f1943fce
+SHA256: 4c6d246d256aab97ceefd266a87bde580190f19e77da0baf4a9ee2f73f20f314
+Section: rootless插件
+Description: modify the upper and lower offset, left and right offset of the smart island，You need to install Dynamic or bring up Dynamic to match this tweak。设置在手机系统设置中，***调节灵动岛上下的偏移，左右的偏移，大小值***,这是辅助工具，自备灵动岛(DynamicCow之类的)，半岛不行，这是调原生的，控制大小输入1就是原来大小，输入0.5就是一半的大小，以此类推
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/llldprefs.bundle/icons-llld/ldd1.png
+Name: 灵动岛偏移-rootless
 
 Package: cn.llld.lddpy
 Version: 0.0.1-2+debug
@@ -2718,12 +2718,12 @@ Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 204
 Depends: mobilesubstrate
 Filename: ./debs/rootless/支付宝步数XD-rootless_1.0_iphoneos-arm64.deb
-Size: 16644
-MD5sum: 11224f2ba4f66e4b00a3f044bf46bf8e
-SHA1: c08d81baf78bbc1ee92e32fa629e67174c50dfce
-SHA256: 4d1e0eb45787bb996e732d03b82f93a60ef3c209a773858fdde5669477ef2487
+Size: 16604
+MD5sum: fcd85d0a8144f292c7bb63c3eabfe07c
+SHA1: fefe86b5a9b1ae699280ea0fb89e57c01fe3c553
+SHA256: 34979e9f8dbed4e88669f99a29dccbec7fa17e8fff616da5a3a74c79d10992fe
 Section: rootless应用插件
-Description: 可注入可越狱使用。自定义步数，屏蔽越狱检测，精简主页显示内容.***长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置***,支持任意版本。
+Description: 可注入可越狱使用。自定义步数，屏蔽越狱检测，精简主页显示内容.***长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置***,支持任意版本。有问题记得反馈，这是初版，芭比Q群探讨
 Author: 来了老弟 X：h_h_x_t
 Name: 支付宝步数XD-rootless
 
