@@ -2364,6 +2364,22 @@ Description: 微信小布丁1.0.3版本，可注入可越狱使用。自定义�
 Author: 来了老弟 X：h_h_x_t
 Name: 微信小布丁-rootful
 
+Package: cn.llld.wxx
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 220
+Depends: mobilesubstrate
+Filename: ./debs/rootless/微信小布丁-rootless_1.0.4_iphoneos-arm64.deb
+Size: 21402
+MD5sum: 65d372c907af89fcac101a0057dcab76
+SHA1: 84bee83423072dfb003fa604a3012173c16fb070
+SHA256: bc02cb112b5fce3d32b7c2c49e468f81194293421ab853ddefb62ede50ee6b29
+Section: rootless应用插件
+Description: 微信小布丁1.0.4版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告，屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***,8.0.31版本专供，高版本仅用部分功能（我自用是8.0.31，没适配高版本）
+Author: 来了老弟 X：h_h_x_t
+Name: 微信小布丁-rootless
+
 Package: cn.llld.wxyybb
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -2724,6 +2740,22 @@ SHA1: fefe86b5a9b1ae699280ea0fb89e57c01fe3c553
 SHA256: 34979e9f8dbed4e88669f99a29dccbec7fa17e8fff616da5a3a74c79d10992fe
 Section: rootless应用插件
 Description: 可注入可越狱使用。自定义步数，屏蔽越狱检测，精简主页显示内容.***长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置***,支持任意版本。有问题记得反馈，这是初版，芭比Q群探讨
+Author: 来了老弟 X：h_h_x_t
+Name: 支付宝步数XD-rootless
+
+Package: cn.llld.zfbb
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/rootless/支付宝步数XD-rootless_1.1_iphoneos-arm64.deb
+Size: 18394
+MD5sum: 282331925b222819bdc28f0ebc25abd4
+SHA1: f19a8a9c197c0d0f996ad561b0fda5bf7c2aa060
+SHA256: a448b59d80f96fa9a557a6efb987676fb4647ce59f2c982cd1bd6c4970421bbb
+Section: rootless应用插件
+Description: 可注入可越狱使用。自定义步数，屏蔽越狱检测，精简主页显示内容.***长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置***,支持任意版本。0303:增加移除理财。自行设置里关了视频，底部就居中了
 Author: 来了老弟 X：h_h_x_t
 Name: 支付宝步数XD-rootless
 
