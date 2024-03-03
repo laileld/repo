@@ -2380,6 +2380,38 @@ Description: 微信小布丁1.0.4版本，可注入可越狱使用。自定义�
 Author: 来了老弟 X：h_h_x_t
 Name: 微信小布丁-rootless
 
+Package: cn.llld.wxx
+Version: 1.0.4-2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/rootless/微信小布丁-rootless_1.0.4-2_iphoneos-arm64.deb
+Size: 22874
+MD5sum: 58fe3fcf2f659d517506c9fafa1a305e
+SHA1: f46db51f04e03f8c2fc334a176c71f1379acf860
+SHA256: 9882fd1026108663c89d52539d028909823fa8ca541b3e85a6985025ffbe7feb
+Section: rootless应用插件
+Description: 微信小布丁1.0.4版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告，屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***,8.0.31版本专供，高版本仅用部分功能（我自用是8.0.31，没适配高版本）
+Author: 来了老弟 X：h_h_x_t
+Name: 微信小布丁-rootless
+
+Package: cn.llld.wxx
+Version: 1.0.4-2
+Architecture: iphoneos-arm
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/rootful/微信小布丁-rootful_1.0.4-2_iphoneos-arm.deb
+Size: 22966
+MD5sum: d8ece4b38ced08ec7f0f71493dc3ecb1
+SHA1: d814947f7729b02ce0514e55b25d9ff94e661fa3
+SHA256: a12c965d095b18763a0948c8498ec7a830f449495fe6feb5fcc4ed35fcf64276
+Section: rootful应用插件
+Description: 微信小布丁1.0.4版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告，屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***,8.0.31版本专供，高版本仅用部分功能（我自用是8.0.31，没适配高版本）
+Author: 来了老弟 X：h_h_x_t
+Name: 微信小布丁-rootful
+
 Package: cn.llld.wxyybb
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -2758,6 +2790,22 @@ Section: rootless应用插件
 Description: 可注入可越狱使用。自定义步数，屏蔽越狱检测，精简主页显示内容.***长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置***,支持任意版本。0303:增加移除理财。自行设置里关了视频，底部就居中了
 Author: 来了老弟 X：h_h_x_t
 Name: 支付宝步数XD-rootless
+
+Package: cn.llld.zfbb
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/rootful/支付宝步数XD-rootful_1.1_iphoneos-arm.deb
+Size: 17616
+MD5sum: 99ede2d12913abc9a3f2602b3b262347
+SHA1: 74551e1256eb1f3e07ed0abaf1b0fce480c03df0
+SHA256: 08c3aa38dfeea9960839a7b4d213cc0ae4f435ceab3c08c9ac024a05c49b8811
+Section: rootful应用插件
+Description: 可注入可越狱使用。自定义步数，屏蔽越狱检测，精简主页显示内容.***长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置***,支持任意版本。0303:增加移除理财。自行设置里关了视频，底部就居中了
+Author: 来了老弟 X：h_h_x_t
+Name: 支付宝步数XD-rootful
 
 Package: cn.llld.zyll
 Version: 1.1
