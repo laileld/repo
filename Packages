@@ -1665,6 +1665,22 @@ Icon: file:///Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
 Name: 芭比Q-rootful
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
 
+Package: cn.llld.qsyy
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 300
+Depends: mobilesubstrate
+Filename: ./debs/rootless/悬浮翻译汉化工具-rootless_0.1-arm64.deb
+Size: 35752
+MD5sum: 26f5ad77afc4d9b9558ab6b6023bd26f
+SHA1: 3721fcc81c01f3257c9d9741d899e501ba916f53
+SHA256: 072d0c3885e75408fb2212536296fae9e002ebc4a3c1ca80121a34ab308b0772
+Section: rootless插件
+Description: ***Long press any 'tweak title' in the settings to pop up the settings, function: translate the tweak language, effective in real time。长按设置中任意'插件标题'弹出设置，功能：翻译插件语言，实时生效，用于汉化或者别的语言翻译，，，，配合截图识字，发AI翻译效率更高，翻译普通插件几分钟，大型插件也用不了多久,节省汉化插件包，可多个融为一体***
+Author: 来了老弟
+Name: 悬浮翻译汉化工具-rootless
+
 Package: cn.llld.randomiconsflip
 Version: 0.3-20
 Architecture: iphoneos-arm64
