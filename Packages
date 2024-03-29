@@ -1688,12 +1688,12 @@ Maintainer: 来了老弟
 Installed-Size: 304
 Depends: mobilesubstrate
 Filename: ./debs/rootless/悬浮翻译汉化工具-rootless_1.0-arm64.deb
-Size: 38968
-MD5sum: 4f8ce10cdf1ec61b127dd60378e71375
-SHA1: 83d24a2c294c340a7c6b37233280a08d781415a7
-SHA256: ea17de1c811ab601c04b44299906727ea8244973bbeca2e860df35d531e5b178
+Size: 39072
+MD5sum: 9656eb577574fde9c7b73364e5e385d5
+SHA1: 8135243365b09e58ff13b529211eb7c7bf9bab79
+SHA256: 4d06be66e6f3a2d980d5b18d56aaaab1d18c90d72e6f6210de52438c48668578
 Section: rootless插件
-Description: ***Long press any 'tweak title' in the settings to pop up the settings, function: translate the tweak language, effective in real time。240329:Big update, this version adds reddit and small broom, as well as phone, support phone modification of contact, modification of time, modification of call record, support of obsessive-compulsive disorder to other languages in the small broom, it is strongly recommended to upgrade.长按设置中任意'插件标题'弹出设置，功能：翻译插件语言，实时生效，用于汉化或者别的语言翻译，，，，配合截图识字，发AI翻译效率更高，翻译普通插件几分钟，大型插件也用不了多久，240329大更新，此次版本加入了reddit和小扫把，还有电话，支持电话修改联系人，修改时间，修改通话记录，支持强迫症改小扫把里边那些别的语言，强烈建议升级，之前代码是垃圾，一切以最新版为准***
+Description: ***Long press any 'tweak title' in the settings to pop up the settings, function: translate the tweak language, effective in real time。240329:Big update, this version adds reddit and small broom, as well as phone, support phone modification of contact, modification of time, modification of call record, support of obsessive-compulsive disorder to other languages in the small broom, it is strongly recommended to upgrade.长按设置中任意'标题'弹出设置，功能：翻译插件语言，实时生效，用于汉化或者别的语言翻译，，，，配合截图识字，发AI翻译效率更高，翻译普通插件几分钟，大型插件也用不了多久，240329大更新，此次版本加入了reddit和小扫把，还有电话，支持电话修改联系人，修改时间，修改通话记录，支持强迫症改小扫把里边那些别的语言，强烈建议升级，之前代码是垃圾，一切以最新版为准，，，提示：装了120或全局篡改插件的设备，不要装此插件***
 Author: 来了老弟
 Name: 悬浮翻译汉化工具-rootless
 
