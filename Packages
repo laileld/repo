@@ -1681,6 +1681,38 @@ Description: ***Long press any 'tweak title' in the settings to pop up the setti
 Author: 来了老弟
 Name: 悬浮翻译汉化工具-rootless
 
+Package: cn.llld.qsyy
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debs/rootless/悬浮翻译汉化工具-rootless_1.0-arm64.deb
+Size: 38968
+MD5sum: 4f8ce10cdf1ec61b127dd60378e71375
+SHA1: 83d24a2c294c340a7c6b37233280a08d781415a7
+SHA256: ea17de1c811ab601c04b44299906727ea8244973bbeca2e860df35d531e5b178
+Section: rootless插件
+Description: ***Long press any 'tweak title' in the settings to pop up the settings, function: translate the tweak language, effective in real time。240329:Big update, this version adds reddit and small broom, as well as phone, support phone modification of contact, modification of time, modification of call record, support of obsessive-compulsive disorder to other languages in the small broom, it is strongly recommended to upgrade.长按设置中任意'插件标题'弹出设置，功能：翻译插件语言，实时生效，用于汉化或者别的语言翻译，，，，配合截图识字，发AI翻译效率更高，翻译普通插件几分钟，大型插件也用不了多久，240329大更新，此次版本加入了reddit和小扫把，还有电话，支持电话修改联系人，修改时间，修改通话记录，支持强迫症改小扫把里边那些别的语言，强烈建议升级，之前代码是垃圾，一切以最新版为准***
+Author: 来了老弟
+Name: 悬浮翻译汉化工具-rootless
+
+Package: cn.llld.qsyy
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debs/rootful/悬浮翻译汉化工具-rootful_1.0-arm.deb
+Size: 37122
+MD5sum: 4f62fb85985efe4f1cf19c0a53a69b48
+SHA1: 9c7a1ebec020f8b4c8aec6b4d4b930da15a3a5fa
+SHA256: 01844cecbdca7ae4a962b65acce99f0b3d38645eb2846f494fac8139a26b0c7f
+Section: rootful插件
+Description: ***Long press any 'tweak title' in the settings to pop up the settings, function: translate the tweak language, effective in real time。长按设置中任意'标题'弹出设置，功能：翻译插件语言，实时生效，用于汉化或者别的语言翻译，，，，配合截图识字，发AI翻译效率更高，翻译普通插件几分钟，大型插件也用不了多久，240329大更新，此次版本加入了reddit和小扫把，还有电话，支持电话修改联系人，修改时间，修改通话记录，支持强迫症改小扫把里边那些别的语言，强烈建议升级，之前代码是垃圾，一切以最新版为准***
+Author: 来了老弟
+Name: 悬浮翻译汉化工具-rootful
+
 Package: cn.llld.randomiconsflip
 Version: 0.3-20
 Architecture: iphoneos-arm64
