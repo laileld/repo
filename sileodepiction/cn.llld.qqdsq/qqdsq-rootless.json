@@ -10,7 +10,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "给QQ加亿点小功能，有空就更，功能在手机系统设置，功能在手机系统设置，功能在手机系统设置。调试版本号：v8.9.58和v9.0+，别的版本需自测。开发纯来自兴趣，231220才发出，不曾比肩任何人或物，我自己也还在用净化，勿带任何言论或上升任何事物，详情看配图，不显示则开梯子，231223：增加一个QQ交流群:928481652，其他看更新日志,,,xina1用户装rootless版本的",
+          "markdown": "给QQ加亿点小功能，功能在手机系统设置，功能在手机系统设置，功能在手机系统设置。调试版本号：v8.9.58和v9.0+，别的版本需自测。开发纯来自兴趣，231220才发出，不曾比肩任何人或物，我自己也还在用净化，勿带任何言论或上升任何事物，详情看配图，不显示则开梯子，231223：增加一个QQ交流群:928481652，其他看更新日志,,,xina1用户装rootless版本的",
           "useRawFormat": true
         },
         {
@@ -52,7 +52,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.3.3",
+          "text": "1.3.5",
           "title": "最新版本"
         },
         {
@@ -62,7 +62,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2024 年 01 月 09 日",
+          "text": "2024 年 03 月 30 日",
           "title": "最后更新日期"
         },
         {
@@ -75,6 +75,17 @@
       "class": "DepictionStackView",
       "tabname": "更新日志",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.3.3",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "20240330.加入来自QQ官方的callkit(QQ设置里显示)，修了几处错误，还加了几个在注入版里面早就有的东西，9.0以内版本的闪照打开就自动存手机，不用按住",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.3.3",
