@@ -1665,6 +1665,41 @@ Icon: file:///Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
 Name: 芭比Q-rootful
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
 
+Package: cn.llld.qqdsq
+Version: 1.3.5
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 544
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/rootless/芭比Q-rootless_1.3.5-arm64.deb
+Size: 93830
+MD5sum: c93303e8acdafa015c73c06e3d9c2570
+SHA1: e02b5e8448a8255b5b21f584fe8e0f9aa4daddb8
+SHA256: a0b0d080c9cf25acd1e53f68b18031bcb516332011552540fedbacc95820536d
+Section: rootless应用插件
+Description: 功能在手机"系统设置"。调试版本号：v8.9.58和v9.0以上，别的版本需自测。
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
+Name: 芭比Q-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
+
+Package: cn.llld.qqdsqqc
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 464
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/rootless/芭比QQ精简版-rootless_1.0-arm64.deb
+Size: 79068
+MD5sum: 5092259688049aa7206ad175491d1879
+SHA1: dfebd75abf34f2bc80320e2fc34a756b3146c73d
+SHA256: 0bb960861f1dee187d68c142a2244a6e4d3e803aaa217d8612e10ab06020922b
+Section: rootless应用插件
+Description: 芭比Q精简功能版，去除 全局视图颜色控制和全局视图透明调节 功能。插件功能在手机"系统设置"。调试版本号：v8.9.58和v9.0.20，别的版本需自测。
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
+Name: 芭比QQ精简版-rootless
+
 Package: cn.llld.qsyy
 Version: 0.1
 Architecture: iphoneos-arm64
@@ -1712,6 +1747,23 @@ Section: rootful插件
 Description: ***Long press any 'tweak title' in the settings to pop up the settings, function: translate the tweak language, effective in real time。长按设置中任意'标题'弹出设置，功能：翻译插件语言，实时生效，用于汉化或者别的语言翻译，，，，配合截图识字，发AI翻译效率更高，翻译普通插件几分钟，大型插件也用不了多久，240329大更新，此次版本加入了reddit和小扫把，还有电话，支持电话修改联系人，修改时间，修改通话记录，支持强迫症改小扫把里边那些别的语言，强烈建议升级，之前代码是垃圾，一切以最新版为准***
 Author: 来了老弟
 Name: 悬浮翻译汉化工具-rootful
+
+Package: cn.llld.qsyy
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 540
+Depends: mobilesubstrate
+Filename: ./debs/rootless/外网FloatingReplacement悬浮替换翻译汉化_1.2_-arm64.deb
+Size: 94554
+MD5sum: 1ce63c20950a75f3ab4234923c830dfc
+SHA1: 8a73286445b4a67c1913df0f7edac3d470aad598
+SHA256: 6aa513d4a35f3d0b793b3395b54bd8b0cf7604e5a45faec3d61d6ccfd9b60022
+Section: rootless插件
+Description: A floating window tool that supports batch text replacement, this version adds reddit and iCleaner Pro, as well as phone, support Text replacement in settings, support phone modification of contact, modification of time, modification of call record etc.,More uses waiting for you to discover, it is strongly recommended to upgrade.***一款支持批量替换文本的悬浮窗工具***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：修改通话时间，修改联系人，修改通话记录，翻译替换文本，隐藏设备实际信息，靓仔装逼等。之前代码是垃圾，一切以最新版为准，，，提示：装了非真皮120或全局篡改插件的设备，不要装此插件，这只是应用类插件，不会影响到系统全局或桌面。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyxf.png
+Name: FloatingReplacement悬浮替换翻译汉化
 
 Package: cn.llld.randomiconsflip
 Version: 0.3-20
