@@ -2255,16 +2255,16 @@ Icon: file:///Library/PreferenceBundles/tmllldprefs.bundle/icons-llld/qjtmmax.pn
 Name: 全局透明Max-roothide
 
 Package: cn.llld.tmts
-Version: 1.2-6+debug
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 552
+Installed-Size: 480
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/rootless/全局透明Max-rootless_1.2-6+debug-arm64.deb
-Size: 135742
-MD5sum: 2611e8f89e89f12997118f43fbb7635e
-SHA1: 6ebbac76c8532a42257ee315af3b470c7714b37b
-SHA256: 97d43af627b8a6418cd37d0ceec825d7a8263b85cc7732ef57b1a9c8d2d9eb28
+Filename: ./debs/rootless/全局透明Max-rootless_1.2-arm64.deb
+Size: 125334
+MD5sum: 036ede0551f58f80b9bc36b99c31c74f
+SHA1: ed7926a93f3bc8591500cc1225489cbc1641eab1
+SHA256: 5bbb35872811727f51bac3ba8af85c80ce146da878d82b482a680fd89ff680a9
 Section: rootless插件
 Description: Customize notifications, player，control center, multitasking background module transparency(alpha)，Customize the size and location of the player and control center，Each fill in the blank has a numerical value.自定义播放器大小和控制中心大小及位置，自定义SpringBoard全局透明度(包含 锁屏 ，播放器，负一屏，通知，控制中心，多任务后台模块等)----240305:增加锁屏手电相机透明度，兼顾16.2-16.3.1版本调节播放器透明度，***记得每个填空得有数值，以最新版本为准，之前代码是垃圾***
 Author: 来了老弟 X：h_h_x_t
@@ -2510,16 +2510,16 @@ Author: 来了老弟 X：h_h_x_t
 Name: 微信小布丁-rootful
 
 Package: cn.llld.wxx
-Version: 1.0.5-5
+Version: 1.0.5-1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 236
 Depends: mobilesubstrate
-Filename: ./debs/rootless/微信小布丁-rootless_1.0.5-5_iphoneos-arm64.deb
-Size: 26228
-MD5sum: 13678366f374b02e1fb052c7f23edfbc
-SHA1: 7abf8c1b4855d701e9f0f031ef0ad835d8772639
-SHA256: 3a5253bacfdcacfd2df90f82802f7d1f87ec17147cb64611d5db7fdd212b7280
+Filename: ./debs/rootless/微信小布丁-rootless_1.0.5-1-arm64.deb
+Size: 26574
+MD5sum: a8e933e15c705aeee1af434fe7cb47ca
+SHA1: 8b9facd9c861f8896c9c5a3250a49a4f73b84c2a
+SHA256: 1f81f9ef28e32ee86439f4de29f5ae9e0b576c5976f00ffac791259472de9eb6
 Section: rootless应用插件
 Description: 微信小布丁1.0.5版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告（可自定义关注视频和直播中订阅号），屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***,8.0.31版本专供，高版本仅用部分功能（我自用是8.0.31，没适配高版本）
 Author: 来了老弟 X：h_h_x_t
