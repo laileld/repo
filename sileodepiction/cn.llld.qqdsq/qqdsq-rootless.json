@@ -76,10 +76,10 @@
       "tabname": "更新日志",
       "views": [
         {
-          "class": "DepictionSubheaderView",
-          "title": "1.3.3",
-          "useBoldText": true,
-          "useBottomMargin": false
+          "class": "DepictionLabelView",
+          "text": "1.3.5",
+          "fontWeight": "bold",
+          "fontSize": 15
         },
         {
           "class": "DepictionMarkdownView",
@@ -108,7 +108,7 @@
           "markdown": "20240102垮了几个版本，加了亿点点功能，做了二级菜单，调节透明度等等",
           "useRawFormat": true
         },
-       {
+        {
           "class": "DepictionSubheaderView",
           "title": "1.1.1",
           "useBoldText": true,
@@ -119,7 +119,7 @@
           "markdown": "20240101此版本也是修复小问题为主，增加自定义支付宝步数，TX视频播放过程中去掉星卡，QQ相册自动勾选原图",
           "useRawFormat": true
         },
-       {
+        {
           "class": "DepictionSubheaderView",
           "title": "1.1",
           "useBoldText": true,
@@ -130,7 +130,7 @@
           "markdown": "此版本主修复问题为主（解决小部分15.0-15.11系统版本点击（我的电脑）QQ会闪退），重写设置项和大部分代码，去掉几个功能，后续调试好了再加回来",
           "useRawFormat": true
         },
-       {
+        {
           "class": "DepictionSubheaderView",
           "title": "1.0",
           "useBoldText": true,
