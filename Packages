@@ -2372,15 +2372,31 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: ./debs/rootless/微博绿化-rootless_0.4-1-arm64.deb
-Size: 18210
-MD5sum: ae5b1495fff4d3ca8cb13f84eb23f723
-SHA1: f9537cf42901ae7da525c63599a3121ae8766653
-SHA256: a911feb7ab323791946629f566b979cc6e114db86f732a9cbd82ffb6fd5b128a
+Filename: ./debs/rootless/微博绿化-rootless_0.4-1_arm64.deb
+Size: 17962
+MD5sum: 202aeca344a1efff09b66b5af01f7e86
+SHA1: a950aaa5ed357581d5ef9c50b2f54e1cb2579e7c
+SHA256: 88a8ad34847ede67e0d21c2b60eab6f2cb82be89ff2f14c35585610abad3fef9
 Section: rootless插件
 Description: 给微博加点小功能，可注入可越狱版使用。***禁用开屏广告，评论区广告，信息流广告，视频流广告，首页上方直播入口。查看视频全屏模式，禁用角标消息红点等功能***。长按'我'页面的（创作中心）周边图标，长按首页的顶栏和底栏均可以弹出设置。240331：网上已有去广告插件，配合这个就行了，微博变来变去的，最近几月版本我都没去广告
 Author: 来了老弟 X：h_h_x_t
 Name: 微博绿化-rootless
+
+Package: cn.llld.wbb
+Version: 0.4-1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/rootful/微博绿化-rootful_0.4-1_-arm.deb
+Size: 17932
+MD5sum: c2a1ff226ac5312d5c23474a28d73855
+SHA1: 22e58b1ef573cd9fa3da627936b70b16a4e83a23
+SHA256: 3d31401db5ddbd66a5506164b3d30727e0e60f23248c1623d8fa61177392f1fe
+Section: rootful插件
+Description: 给微博加点小功能，可注入可越狱版使用。***禁用开屏广告，评论区广告，信息流广告，视频流广告，首页上方直播入口。查看视频全屏模式，禁用角标消息红点等功能***。长按'我'页面的（创作中心）周边图标，长按首页的顶栏和底栏均可以弹出设置。240331：网上已有去广告插件，配合这个就行了，微博变来变去的，最近几月版本我都没去广告
+Author: 来了老弟 X：h_h_x_t
+Name: 微博绿化-rootful
 
 Package: cn.llld.wechatautolock
 Version: 1.0
@@ -2524,6 +2540,38 @@ Section: rootless应用插件
 Description: 微信小布丁1.0.5版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告（可自定义关注视频和直播中订阅号），屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***,8.0.31版本专供，高版本仅用部分功能（我自用是8.0.31，没适配高版本）
 Author: 来了老弟 X：h_h_x_t
 Name: 微信小布丁-rootless
+
+Package: cn.llld.wxx
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/rootless/微信小布丁-rootless_1.0.6_arm64.deb
+Size: 26216
+MD5sum: d33158b07e10ca9345c1ae3fe0a77483
+SHA1: 6a60f5570978864599adc2b7b94509db24e5ff80
+SHA256: 116c1fcf3b49dbef84db2cf0bbf8ce1c9100901f986a03eb0a0529b4fe3f0b81
+Section: rootless应用插件
+Description: 微信小布丁1.0.6版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告（可自定义关注视频和直播中订阅号），屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数，后台模糊，界面透明等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***,8.0.31版本专供，高版本仅用部分功能（我自用是8.0.31，没适配高版本）
+Author: 来了老弟 X：h_h_x_t
+Name: 微信小布丁-rootless
+
+Package: cn.llld.wxx
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/rootful/微信小布丁-rootful_1.0.6_-arm.deb
+Size: 26484
+MD5sum: 5969adbe9f5af5e4ad2373d11bbf6d57
+SHA1: 7111b3b349106e0990b446e82ec4c44142bf4a2b
+SHA256: 787c4d3dbb2278026866c70de338b983d5270effa7629556ebfcbaa32ac628bf
+Section: rootful应用插件
+Description: 微信小布丁1.0.6版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告（可自定义关注视频和直播中订阅号），屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数，后台模糊，界面透明等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***,8.0.31版本专供，高版本仅用部分功能（我自用是8.0.31，没适配高版本）
+Author: 来了老弟 X：h_h_x_t
+Name: 微信小布丁-rootful
 
 Package: cn.llld.wxyybb
 Version: 1.0
