@@ -457,22 +457,6 @@ Author: alias20
 Name: CoolCC Reborn-roothide
 
 Package: cn.llld.copy1
-Version: 1.3
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/Copy-text-roothide_1.3_iphoneos-arm64e.deb
-Size: 7290
-MD5sum: d6115d22c8e214c2daa8e95fd06c8009
-SHA1: 6332841e6ffa28a2a2258b385b298c4a0a6ec651
-SHA256: 3e825596bc7bf804bef50157bcc7e7e5c2a42aa07b9224dce7334315b878da81
-Section: roothide插件
-Description: Individual text can be copied by long-pressing in the (settings and appstore and message and cocoatop,sileo,saily,QQ), currently in the testing phase, and more support will be added in future updates.（设置,appstore,短信，cocoatop,sileo,saily,QQ）短按复制文本内容，现处于测试阶段等后续更新支持更多,20231107更新修复交互和点击bug，20231109优化速度反应
-Author: 来了老弟
-Name: Copy-text-roothide
-
-Package: cn.llld.copy1
 Version: 1.4.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
@@ -489,20 +473,20 @@ Author: 来了老弟 h_h_x_t
 Name: Copy-text-rootless
 
 Package: cn.llld.copy1
-Version: 1.4.2
-Architecture: iphoneos-arm
+Version: 1.4.4
+Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootful/Copy-text-rootful_1.4.2_arm.deb
-Size: 7994
-MD5sum: c8e0b9bbde6cb437ed989e2eba1fcdc3
-SHA1: 82652f93b24543db8c6bb09f27ec0d8236fc41dc
-SHA256: 36d016b973454df2a54dc7565e0830e6dce663c53eb40715aa85886cde8a30d9
-Section: rootful插件
-Description: 短按复制文本内容，现处于测试阶段等后续更新支持更多,支持应用就不一一列举了，设置，电话，短信，appstore，QQ，贴吧等***
+Filename: ./debs/roothide/Copy-text-roothide_1.4.4_iphoneos-arm64e.deb
+Size: 9026
+MD5sum: f64201fa5421dbe6dcdedcb4582ac39a
+SHA1: 430957ed40e6d61610dca946a8075c47eeb21f0f
+SHA256: 2cfd84775cf80e18e1820414e9d8586f91f633517c4b13967c8beda4f58b3c07
+Section: roothide插件
+Description: Short-click to copy the text content.***使用方法：短按复制文本内容***，现处于测试阶段等后续更新支持更多,支持应用就不一一列举了，设置，电话，短信，appstore，QQ，贴吧，trollstore等,此版本roothide专用，已装用户先卸载旧版本再装此版本
 Author: 来了老弟 h_h_x_t
-Name: Copy-text-rootful
+Name: Copy-text-roothide
 
 Package: cn.llld.copy1
 Version: 1.4.4
@@ -519,6 +503,22 @@ Section: rootless插件
 Description: Short-click to copy the text content.***使用方法：短按复制文本内容***，现处于测试阶段等后续更新支持更多,支持应用就不一一列举了，设置，电话，短信，appstore，QQ，贴吧，trollstore等,此版本不支持roothide
 Author: 来了老弟 h_h_x_t
 Name: Copy-text-rootless
+
+Package: cn.llld.copy1
+Version: 1.4.4
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/Copy-text-rootful_1.4.4-arm.deb
+Size: 8900
+MD5sum: e61292add733451332bd0b66c4a94de7
+SHA1: 19f303cbb0591f960746c703c25b3d57c57f2f5c
+SHA256: acbdb0853c630813b5407c2cfd4e51267c16ba795d075f28151bc95300bec158
+Section: rootful插件
+Description: Short-click to copy the text content.***使用方法：短按复制文本内容***，现处于测试阶段等后续更新支持更多,支持应用就不一一列举了，设置，电话，短信，appstore，QQ，贴吧，trollstore等,此版本不支持roothide
+Author: 来了老弟 h_h_x_t
+Name: Copy-text-rootful
 
 Package: cn.llld.customizeccrootful
 Version: 1.2
