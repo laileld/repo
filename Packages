@@ -457,22 +457,6 @@ Author: alias20
 Name: CoolCC Reborn-roothide
 
 Package: cn.llld.copy1
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/Copy-text-rootless_1.2_iphoneos-arm64.deb
-Size: 6348
-MD5sum: f6df5f653bd7ae3e7a6d96d8cd330444
-SHA1: 5e89cffc554fd6f59ac12eb49f4b4f2a15155a88
-SHA256: fef3fa7eedd0b62a59b02b695046c18e85345ff7789a56577297296a1276b4a2
-Section: rootless插件
-Description: Individual text can be copied by long-pressing in the (settings and appstore and message and cocoatop,sileo,saily,QQ), currently in the testing phase, and more support will be added in future updates.（设置,appstore,短信，cocoatop,sileo,saily,QQ）短按复制文本内容，现处于测试阶段等后续更新支持更多,20231107更新修复交互和点击bug，20231109优化速度反应
-Author: 来了老弟
-Name: Copy-text-rootless
-
-Package: cn.llld.copy1
 Version: 1.3
 Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
@@ -487,22 +471,6 @@ Section: roothide插件
 Description: Individual text can be copied by long-pressing in the (settings and appstore and message and cocoatop,sileo,saily,QQ), currently in the testing phase, and more support will be added in future updates.（设置,appstore,短信，cocoatop,sileo,saily,QQ）短按复制文本内容，现处于测试阶段等后续更新支持更多,20231107更新修复交互和点击bug，20231109优化速度反应
 Author: 来了老弟
 Name: Copy-text-roothide
-
-Package: cn.llld.copy1
-Version: 1.4
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/Copy-text-rootless_1.4_iphoneos-arm64.deb
-Size: 7502
-MD5sum: 89bf0c6acb224c1d03a82254488d5ffb
-SHA1: 0c175aa30744eeac9287847df2611d3ee641c22c
-SHA256: f3a84f992b7788776162db6850422d19ca6625a3574e62d7cc4dafea5590af11
-Section: rootless插件
-Description: Individual text can be copied by long-pressing in the (settings and appstore and message and cocoatop,sileo,saily,QQ), currently in the testing phase, and more support will be added in future updates.***（设置,appstore,短信，cocoatop,sileo,saily,QQ）短按复制文本内容，现处于测试阶段等后续更新支持更多,20231107更新修复交互和点击bug，20231109优化速度反应,20231209新加了数个应用，若按钮或原本的手势异常请反馈并先禁止此插件的注入***
-Author: 来了老弟 h_h_x_t
-Name: Copy-text-rootless
 
 Package: cn.llld.copy1
 Version: 1.4.1
@@ -537,18 +505,18 @@ Author: 来了老弟 h_h_x_t
 Name: Copy-text-rootful
 
 Package: cn.llld.copy1
-Version: 1.4.3
+Version: 1.4.4
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/Copy-text-rootless_1.4.3-arm64.deb
-Size: 8288
-MD5sum: 9c4e501a7152c17ff5dc201a0f730d45
-SHA1: 3621c515fea4d9b261290ff6602357ce11a38d15
-SHA256: 679788de9de00cb6d85dc86603615d82860a667977d2ed85713cfad9388f7267
+Filename: ./debs/rootless/Copy-text-rootless_1.4.4_arm64.deb
+Size: 9066
+MD5sum: f19b0f58ce0d43c9bd52ef4662897163
+SHA1: 802296365c0e645176fa61a11e092b178d3981fa
+SHA256: 3d5703c4589f9dd817954b71d9f61a921deab26ad74ac31ebdc2554f76ad0e5d
 Section: rootless插件
-Description: Short-click to copy the text content.***短按复制文本内容***，现处于测试阶段等后续更新支持更多,支持应用就不一一列举了，设置，电话，短信，appstore，QQ，贴吧，trollstore等,此版本不支持roothide
+Description: Short-click to copy the text content.***使用方法：短按复制文本内容***，现处于测试阶段等后续更新支持更多,支持应用就不一一列举了，设置，电话，短信，appstore，QQ，贴吧，trollstore等,此版本不支持roothide
 Author: 来了老弟 h_h_x_t
 Name: Copy-text-rootless
 
@@ -3505,54 +3473,6 @@ Section: rootful插件
 Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度
 Author: x✨
 Name: 抖音图层调整-rootful
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
-
-Package: com.xx.dyhook
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.xx.dyhook_1.0.3_iphoneos-arm64.deb
-Size: 41628
-MD5sum: e163633991802b2e94e1b396c3fe4477
-SHA1: e5f044f93590ca046f8b3899ee554c468e50d8f2
-SHA256: eb93a377c6b7c19584d68dff6b4061633ce81cf63bbde11bbd3678bdedf94a4c
-Section: rootless插件
-Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度
-Author: x✨
-Name: 抖音图层调整-rootless
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
-
-Package: com.xx.dyhook
-Version: 1.0.4
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.xx.dyhook_1.0.4_iphoneos-arm64.deb
-Size: 133640
-MD5sum: 31e1748aa984a302cee910acf9e6d231
-SHA1: 09b76d11a94920ac0cf873df5a26e6efeb1a9f64
-SHA256: 5695a6ca77735802b889cc4b4c3070bd1df77bcc41885abbd4268b7c8f3658d0
-Section: rootless插件
-Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度，1.0.4新增视频图片音频解析和去点小广告
-Author: x✨
-Name: 抖音图层调整-rootless
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
-
-Package: com.xx.dyhook
-Version: 1.0.5
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.xx.dyhook_1.0.5_iphoneos-arm64.deb
-Size: 140412
-MD5sum: c702f08523b1551da23a6321e934f875
-SHA1: 2eb0638cb425f5e6a206aebcfe9150c73d18d725
-SHA256: ffc8eb540b21469fc166120c8c015a4a701407186db4d4e581df40a382b43b7c
-Section: rootless插件
-Description: 作者为人低调，这是他自用 (我也用)，首页视频界面双指双击弹出设置UI，作用：抖音顶部或侧面的功能，图层隐藏调节透明度，1.0.4新增视频图片音频解析和去点小广告
-Author: x✨
-Name: 抖音图层调整-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/com.xx.dyhook/dyhook-rootless.json
 
 Package: llld.keyboard
