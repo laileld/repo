@@ -1992,12 +1992,12 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Depends: mobilesubstrate, firmware (>= 11.0), co.dynastic.ios.lib.flora, oldabi
 Filename: ./debs/rootless/shortlook_1.0.23-1_iOS16系统测-arm64.deb
-Size: 1281744
-MD5sum: 13b77d935e17f9debee7ef1b12a15242
-SHA1: c1d9f098be5a5a0047255142b1222ff3149aeafa
-SHA256: 38744be580336d54ac723d4c1f1f2fa2b2107eab1ae34be42a9024ccaf1e3d98
+Size: 1281856
+MD5sum: e6f4ad8bf8243a5f44b398955746b7ca
+SHA1: 1cf5c35f32ba5dabd895733f658b4e18cbaee2d0
+SHA256: 6b5c54cb481db26ff721d928fc212869479a271abf8ea2868ed324a996cbbb4a
 Section: 兼容层oldabi-rootless
-Description: 漂亮的通知动画，需要Legacy arm64e Support，实测几台16机子可用，这插件仅用作测试，能用就留着，不能卸载即可
+Description: 漂亮的通知动画，ios15.16都可，半越狱和roothide别转插，转了就不支持，需要Legacy arm64e Support，实测几台16机子可用，这插件仅用作测试，能用就留着，不能卸载即可
 Author: Dynastic Development
 Name: ShortLook 优雅通知
 
