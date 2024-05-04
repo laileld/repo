@@ -1540,6 +1540,22 @@ Description: Press the key to enter safe mode or logout mode按键进入安全�
 Author: Renaitare
 Name: Panic快捷进入安全注销-rootless
 
+Package: cn.llld.picturemodule
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: firmware(>= 12.0), mobilesubstrate, com.opa334.ccsupport, cn.llld.hhxt, oldabi
+Conflicts: com.4nni3.picturemodule
+Filename: ./debs/rootless/PictureModule自定义控制中心_1.2_arm64.deb
+Size: 6690572
+MD5sum: 4684be4df9ad894cb5e3121f660b4e29
+SHA1: fff13d2f62c5bc2bf71fb87982e55056e38db312
+SHA256: a2981410794fa8aa659cc8e79a2990357fb11c57897c28afe4e487c5abfa8b7b
+Section: 兼容层oldabi-rootless
+Description: 自定义照片，视频和小部件装饰您的控制中心。
+Author: 4nni3
+Name: PictureModule自定义控制中心
+
 Package: cn.llld.playerbj
 Version: 1.0
 Architecture: iphoneos-arm64e
