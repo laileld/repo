@@ -511,12 +511,12 @@ Maintainer: 来了老弟
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/Copy-text-rootless_1.4.4_arm64.deb
-Size: 9066
-MD5sum: f19b0f58ce0d43c9bd52ef4662897163
-SHA1: 802296365c0e645176fa61a11e092b178d3981fa
-SHA256: 3d5703c4589f9dd817954b71d9f61a921deab26ad74ac31ebdc2554f76ad0e5d
+Size: 9212
+MD5sum: 6d3048c6c8cbf208373cf098792acb1a
+SHA1: da1027887336c79340f05afa9fe3a0fe7f3a720a
+SHA256: 6cddf08e32ef6fed94a3216c51e302fa427922c975beb1c0522efff9413f80c0
 Section: rootless插件
-Description: Short-click to copy the text content.***使用方法：短按复制文本内容***，现处于测试阶段等后续更新支持更多,支持应用就不一一列举了，设置，电话，短信，appstore，QQ，贴吧，trollstore等,此版本不支持roothide
+Description: Short-click to copy the text content.***使用方法：短按复制文本内容***，现处于测试阶段等后续更新支持更多,支持应用就不一一列举了，设置，电话，短信，appstore，QQ，trollstore等,此版本不支持roothide，0507:自行choicy手动禁用对于抖音的注入，若还有窗口点击的应用问题也禁用
 Author: 来了老弟 h_h_x_t
 Name: Copy-text-rootless
 
