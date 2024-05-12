@@ -743,6 +743,23 @@ Author: 来了老弟 h_h_x_t
 Name: 自定义电话图片-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.dyy/dyy-rootless.json
 
+Package: cn.llld.errorfilter
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 952
+Depends: mobilesubstrate
+Filename: ./debs/rootless/插件异常崩溃日志过滤XD_1.0-arm64.deb
+Size: 613244
+MD5sum: beb432f7afbfad5399004646f539f360
+SHA1: 1f3bd5db036b52a64368e751abd2e81b88ee731e
+SHA256: 272cd4cae8a299834ebbc2796036ced7a6e02e056d77605113dd6b45ed184422
+Section: rootless插件
+Description: tweak exception error crash log filter, settings to see instructions，插件异常错误崩溃日志过滤器，在设置看说明。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/errorllldprefs.bundle/icons-llld/Errorfilter.png
+Name: 插件异常崩溃日志过滤XD
+
 Package: cn.llld.fivecolumnscc
 Version: 1.0~beta4
 Architecture: iphoneos-arm64
