@@ -222,21 +222,6 @@ Name: AutoScroll-roothide
 
 Package: cn.llld.avphotos
 Version: 1.0.1
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Depends: firmware (>=14.0), mobilesubstrate
-Filename: ./debs/roothide/AVPhotos照片视频画中画-roothide.deb
-Size: 5496
-MD5sum: 050f2e17143a87ee6fd34a75185df237
-SHA1: 49142a1f675386a94b949018edd0243f5b9b34c8
-SHA256: 3a732836f2da2288fd2ebf223d9897af5a693c11f033551346ccd41cfe4438a9
-Section: roothide修复插件
-Description: Playing photos and videos in the album can produce picture-in-picture effects!在相册中播放照片视频可以画中画效果！_________仅测试用,有问题卸载---roothide
-Author: MiRO 来了老弟
-Name: AVPhotos照片视频画中画-roothide
-
-Package: cn.llld.avphotos
-Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: firmware (>=14.0), mobilesubstrate
@@ -249,6 +234,21 @@ Section: rootless修复插件
 Description: Playing photos and videos in the album can produce picture-in-picture effects!在相册中播放照片视频可以画中画效果！_________仅测试，有问题请卸载
 Author: MiRO 来了老弟
 Name: AVPhotos照片视频画中画-rootless
+
+Package: cn.llld.avphotos
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: firmware (>=14.0), mobilesubstrate
+Filename: ./debs/roothide/AVPhotos照片视频画中画-roothide.deb
+Size: 5496
+MD5sum: 050f2e17143a87ee6fd34a75185df237
+SHA1: 49142a1f675386a94b949018edd0243f5b9b34c8
+SHA256: 3a732836f2da2288fd2ebf223d9897af5a693c11f033551346ccd41cfe4438a9
+Section: roothide修复插件
+Description: Playing photos and videos in the album can produce picture-in-picture effects!在相册中播放照片视频可以画中画效果！_________仅测试用,有问题卸载---roothide
+Author: MiRO 来了老弟
+Name: AVPhotos照片视频画中画-roothide
 
 Package: cn.llld.bbqzr
 Version: 0.2
@@ -394,22 +394,6 @@ Name: CocoaTop汉化-roothide
 
 Package: cn.llld.colorbadges
 Version: 1.5.0
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5.000), preferenceloader,oldabi
-Conflicts: com.haoerloveyou.colorbadges
-Filename: ./debs/roothide/ColorBadges 彩色角标-roothide.deb
-Size: 47592
-MD5sum: 69535cfd6b854784b26f5ea9c5240a97
-SHA1: 65a41956fa04f9729721aee0c1bf476227471ff7
-SHA256: b3f3dd80145ecffaebe2caf1cc1909b65f2790b31c7d041923ecb59b2f1c1a10
-Section: roothide修复插件
-Description: The color of the corner mark automatically changes with the color of the App icon角标颜色随App图标颜色自动改变，需要安装Legacy arm64e Support_________仅测试用,有问题卸载---roothide
-Author: David Goldman
-Name: ColorBadges 彩色角标-roothide
-
-Package: cn.llld.colorbadges
-Version: 1.5.0
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5.000), preferenceloader,oldabi
@@ -423,6 +407,22 @@ Section: 兼容层oldabi-rootless
 Description: The color of the corner mark automatically changes with the color of the App icon。角标颜色随App图标颜色自动改变，最受欢迎需要oldabi的插件😆
 Author: David Goldman
 Name: ColorBadges彩色角标-rootless
+
+Package: cn.llld.colorbadges
+Version: 1.5.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5.000), preferenceloader,oldabi
+Conflicts: com.haoerloveyou.colorbadges
+Filename: ./debs/roothide/ColorBadges 彩色角标-roothide.deb
+Size: 47592
+MD5sum: 69535cfd6b854784b26f5ea9c5240a97
+SHA1: 65a41956fa04f9729721aee0c1bf476227471ff7
+SHA256: b3f3dd80145ecffaebe2caf1cc1909b65f2790b31c7d041923ecb59b2f1c1a10
+Section: roothide修复插件
+Description: The color of the corner mark automatically changes with the color of the App icon角标颜色随App图标颜色自动改变，需要安装Legacy arm64e Support_________仅测试用,有问题卸载---roothide
+Author: David Goldman
+Name: ColorBadges 彩色角标-roothide
 
 Package: cn.llld.conditional
 Version: 0.0.1
@@ -490,22 +490,6 @@ Name: Copy-text-rootless
 
 Package: cn.llld.copy1
 Version: 1.4.4
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/Copy-text-roothide_1.4.4_iphoneos-arm64e.deb
-Size: 9026
-MD5sum: f64201fa5421dbe6dcdedcb4582ac39a
-SHA1: 430957ed40e6d61610dca946a8075c47eeb21f0f
-SHA256: 2cfd84775cf80e18e1820414e9d8586f91f633517c4b13967c8beda4f58b3c07
-Section: roothide插件
-Description: Short-click to copy the text content.***使用方法：短按复制文本内容***，现处于测试阶段等后续更新支持更多,支持应用就不一一列举了，设置，电话，短信，appstore，QQ，贴吧，trollstore等,此版本roothide专用，已装用户先卸载旧版本再装此版本
-Author: 来了老弟 h_h_x_t
-Name: Copy-text-roothide
-
-Package: cn.llld.copy1
-Version: 1.4.4
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 172
@@ -519,6 +503,22 @@ Section: rootless插件
 Description: Short-click to copy the text content.***使用方法：短按复制文本内容***，现处于测试阶段等后续更新支持更多,支持应用就不一一列举了，设置，电话，短信，appstore，QQ，trollstore等,此版本不支持roothide，0507:自行choicy手动禁用对于抖音的注入，若还有窗口点击的应用问题也禁用
 Author: 来了老弟 h_h_x_t
 Name: Copy-text-rootless
+
+Package: cn.llld.copy1
+Version: 1.4.4
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/Copy-text-roothide_1.4.4_iphoneos-arm64e.deb
+Size: 9026
+MD5sum: f64201fa5421dbe6dcdedcb4582ac39a
+SHA1: 430957ed40e6d61610dca946a8075c47eeb21f0f
+SHA256: 2cfd84775cf80e18e1820414e9d8586f91f633517c4b13967c8beda4f58b3c07
+Section: roothide插件
+Description: Short-click to copy the text content.***使用方法：短按复制文本内容***，现处于测试阶段等后续更新支持更多,支持应用就不一一列举了，设置，电话，短信，appstore，QQ，贴吧，trollstore等,此版本roothide专用，已装用户先卸载旧版本再装此版本
+Author: 来了老弟 h_h_x_t
+Name: Copy-text-roothide
 
 Package: cn.llld.copy1
 Version: 1.4.4
@@ -711,23 +711,6 @@ Name: DY抖音图层透明-rootless
 
 Package: cn.llld.dyy
 Version: 1.4
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟 h_h_x_t
-Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/自定义电话图片-roothide_1.4_iphoneos-arm64e.deb
-Size: 4244
-MD5sum: d6f0b3e96637bc5a0809e0f077587df0
-SHA1: 18b3f84a04e66c6c894ebd681b9956d83fc403a9
-SHA256: 61b7a34074da861ab9fbe951c5011d2a0f7beb9999913cb802e2a72d950e8bc3
-Section: roothide插件
-Description: Custom phone image, image path （/var/mobile/llld.jpg）png Format is also acceptable.靓仔定制自定义电话图片，图片路径（/var/mobile/llld.jpg）llld.png也可以，作用：拨打电话或来电都是你指定的背景图。已知问题：上下滑通知会闪一下
-Author: 来了老弟 h_h_x_t
-Name: 自定义电话图片-roothide
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.dyy/dyy-rootless.json
-
-Package: cn.llld.dyy
-Version: 1.4
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Installed-Size: 88
@@ -741,6 +724,23 @@ Section: rootless插件
 Description: Custom phone image, image path （/var/mobile/llld.jpg）png Format is also acceptable.靓仔定制自定义电话图片，图片路径（/var/mobile/llld.jpg）llld.png也可以，作用：拨打电话或来电都是你指定的背景图。
 Author: 来了老弟 h_h_x_t
 Name: 自定义电话图片-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.dyy/dyy-rootless.json
+
+Package: cn.llld.dyy
+Version: 1.4
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/自定义电话图片-roothide_1.4_iphoneos-arm64e.deb
+Size: 4244
+MD5sum: d6f0b3e96637bc5a0809e0f077587df0
+SHA1: 18b3f84a04e66c6c894ebd681b9956d83fc403a9
+SHA256: 61b7a34074da861ab9fbe951c5011d2a0f7beb9999913cb802e2a72d950e8bc3
+Section: roothide插件
+Description: Custom phone image, image path （/var/mobile/llld.jpg）png Format is also acceptable.靓仔定制自定义电话图片，图片路径（/var/mobile/llld.jpg）llld.png也可以，作用：拨打电话或来电都是你指定的背景图。已知问题：上下滑通知会闪一下
+Author: 来了老弟 h_h_x_t
+Name: 自定义电话图片-roothide
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.dyy/dyy-rootless.json
 
 Package: cn.llld.errorfilter
@@ -758,6 +758,23 @@ Section: rootless插件
 Description: tweak exception error crash log filter, settings to see instructions，插件异常错误崩溃日志过滤器，在设置看说明。
 Author: 来了老弟
 Icon: file:///var/jb/Library/PreferenceBundles/errorllldprefs.bundle/icons-llld/Errorfilter.png
+Name: 插件异常崩溃日志过滤XD
+
+Package: cn.llld.errorfilter
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 952
+Depends: mobilesubstrate
+Filename: ./debs/rootful/插件异常崩溃日志过滤XD_1.0.1_-arm.deb
+Size: 612916
+MD5sum: e79d7d2c99238c86ae4db0a2b30bda4c
+SHA1: ec38945c3595bd9e6240f4099754971600048fbe
+SHA256: 4b206cd31a66fc5b08c8a45471f0e64b5625e7f8ba2e04baf447d92de741b2f5
+Section: rootful插件
+Description: tweak exception error crash log filter, settings to see instructions，插件异常错误崩溃日志过滤器，在设置看说明。
+Author: 来了老弟
+Icon: file:///Library/PreferenceBundles/errorllldprefs.bundle/icons-llld/Errorfilter.png
 Name: 插件异常崩溃日志过滤XD
 
 Package: cn.llld.fivecolumnscc
@@ -793,22 +810,6 @@ Name: FiveColumnHomeScreen主屏幕五图标-roothide
 
 Package: cn.llld.fixdh
 Version: 0.0.2
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/更改大分辨率后电话键盘移位处理1-roothide.deb
-Size: 4116
-MD5sum: 9938b0df3a8a5d1f7a292841d9343bd8
-SHA1: 08948eca6bed741c4f095932aab925c317c9227c
-SHA256: 804566eaf5c7a5fb31d3c8daf6da6026daa0b1c86cf6a472c29b87945af26744
-Section: roothide插件
-Description: Solve the problem of phone keyboard shrinking and shifting after changing a large resolution.解决更改很大分辨率后电话键盘缩小和移位的问题。（适用于分辨率高度3050-3350）
-Author: 来了老弟 h_h_x_t
-Name: phonefix-roothide
-
-Package: cn.llld.fixdh
-Version: 0.0.2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
@@ -822,6 +823,22 @@ Section: rootless插件
 Description: Solve the problem of phone keyboard shrinking and shifting after changing a large resolution.解决更改很大分辨率后电话键盘缩小和移位的问题。（适用于分辨率高度3050-3350）
 Author: 来了老弟 h_h_x_t
 Name: phonefix-rootless
+
+Package: cn.llld.fixdh
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/更改大分辨率后电话键盘移位处理1-roothide.deb
+Size: 4116
+MD5sum: 9938b0df3a8a5d1f7a292841d9343bd8
+SHA1: 08948eca6bed741c4f095932aab925c317c9227c
+SHA256: 804566eaf5c7a5fb31d3c8daf6da6026daa0b1c86cf6a472c29b87945af26744
+Section: roothide插件
+Description: Solve the problem of phone keyboard shrinking and shifting after changing a large resolution.解决更改很大分辨率后电话键盘缩小和移位的问题。（适用于分辨率高度3050-3350）
+Author: 来了老弟 h_h_x_t
+Name: phonefix-roothide
 
 Package: cn.llld.fixdh1
 Version: 0.0.1
@@ -905,22 +922,6 @@ Name: Flex3开启修改新增补丁-rootless
 
 Package: cn.llld.flexcopy
 Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/Flex3copy-roothide.deb
-Size: 4668
-MD5sum: b39c1c49d765c7bed030140854a1f239
-SHA1: e32d9b89a4172d927558a931d4d922fd87dc22fb
-SHA256: 3c29dadf1bbaedad2d27114a77fa7f2c55f5e53125657514502edb39dc7d318b
-Section: roothide插件
-Description: Specifically customized for Flex3, long press to copy the description or popup content, combined with translation tools or software, making it convenient for you to understand languages you don't know.（专门为Flex3定制，长按描述或者弹窗复制内容，配合翻译工具或者软件，方便你去了解不懂的语言）
-Author: 来了老弟
-Name: Flex3Copy-roothide
-
-Package: cn.llld.flexcopy
-Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
@@ -934,6 +935,22 @@ Section: rootless插件
 Description: Specifically customized for Flex3, long press to copy the description or popup content, combined with translation tools or software, making it convenient for you to understand languages you don't know.（专门为Flex3定制，长按描述或者弹窗复制内容，配合翻译工具或者软件，方便你去了解不懂的语言）
 Author: 来了老弟
 Name: Flex3Copy-rootless
+
+Package: cn.llld.flexcopy
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/Flex3copy-roothide.deb
+Size: 4668
+MD5sum: b39c1c49d765c7bed030140854a1f239
+SHA1: e32d9b89a4172d927558a931d4d922fd87dc22fb
+SHA256: 3c29dadf1bbaedad2d27114a77fa7f2c55f5e53125657514502edb39dc7d318b
+Section: roothide插件
+Description: Specifically customized for Flex3, long press to copy the description or popup content, combined with translation tools or software, making it convenient for you to understand languages you don't know.（专门为Flex3定制，长按描述或者弹窗复制内容，配合翻译工具或者软件，方便你去了解不懂的语言）
+Author: 来了老弟
+Name: Flex3Copy-roothide
 
 Package: cn.llld.flexcopy
 Version: 1.0
@@ -1046,22 +1063,6 @@ Name: 隐藏底部横条-roothide
 
 Package: cn.llld.hidejb
 Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟 h_h_x_t
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/隐藏桌面角标-roothide_1.0_iphoneos-arm64e.deb
-Size: 3552
-MD5sum: e95a578e1011aad75ab0fe4760a8bfec
-SHA1: b284762aeed1623301ed0f7fd02d01b6af6f163a
-SHA256: e0b2428b1c2b9f57c36065ebf946817e47828147f4bbe557ab82674da80f5162
-Section: roothide隐藏专区
-Description: Hide IconBadge。隐藏桌面角标(消息提示)-roothide
-Author: 来了老弟 h_h_x_t
-Name: 隐藏桌面角标-roothide
-
-Package: cn.llld.hidejb
-Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Installed-Size: 168
@@ -1076,20 +1077,21 @@ Description: Hide IconBadge。隐藏桌面角标(消息提示)-rootless
 Author: 来了老弟 h_h_x_t
 Name: 隐藏桌面角标-rootless
 
-Package: cn.llld.hidepagedots
+Package: cn.llld.hidejb
 Version: 1.0
 Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/隐藏桌面翻页点-roothide.deb
-Size: 2580
-MD5sum: 97003bf11fb43c92ae97691f68ecd851
-SHA1: 5b7e03428b64b04a68e281f195263994be58e91f
-SHA256: 5ddea9f739ec92539b136e7b6dad5507bbe7fe33377bac220f0e4b6a7f0960a6
+Filename: ./debs/roothide/隐藏桌面角标-roothide_1.0_iphoneos-arm64e.deb
+Size: 3552
+MD5sum: e95a578e1011aad75ab0fe4760a8bfec
+SHA1: b284762aeed1623301ed0f7fd02d01b6af6f163a
+SHA256: e0b2428b1c2b9f57c36065ebf946817e47828147f4bbe557ab82674da80f5162
 Section: roothide隐藏专区
-Description: hide page dots隐藏页面点---roothide
-Author: 来了老弟
-Name: 隐藏桌面翻页点-roothide
+Description: Hide IconBadge。隐藏桌面角标(消息提示)-roothide
+Author: 来了老弟 h_h_x_t
+Name: 隐藏桌面角标-roothide
 
 Package: cn.llld.hidepagedots
 Version: 1.0
@@ -1106,21 +1108,20 @@ Description: hide page dots隐藏页面点(rootless)
 Author: 来了老弟
 Name: 隐藏桌面翻页点-rootless
 
-Package: cn.llld.htmh
+Package: cn.llld.hidepagedots
 Version: 1.0
 Architecture: iphoneos-arm64e
-Maintainer: 来了老弟 h_h_x_t
-Installed-Size: 168
+Maintainer: 来了老弟
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/切换后台app模糊-roothide_1.0_iphoneos-arm64e.deb
-Size: 3674
-MD5sum: a8db508b4ce4819354f57f6f9883ca1e
-SHA1: 9f4eec668a5c4ce82b17cec10d2042e3a979c79a
-SHA256: 83eae167559f28798331a73fc91c65f6f1297182d8b31b87505c31e9c6025324
-Section: roothide插件
-Description: Switch the background blur effect.切换后台模糊效果,非高斯模糊，没找到好的写法，要么只能五颜六色，先发个版本（低斯模糊）凑合下，有针对所有后台应用时再更新
-Author: 来了老弟 h_h_x_t
-Name: 切换后台app模糊-roothide
+Filename: ./debs/roothide/隐藏桌面翻页点-roothide.deb
+Size: 2580
+MD5sum: 97003bf11fb43c92ae97691f68ecd851
+SHA1: 5b7e03428b64b04a68e281f195263994be58e91f
+SHA256: 5ddea9f739ec92539b136e7b6dad5507bbe7fe33377bac220f0e4b6a7f0960a6
+Section: roothide隐藏专区
+Description: hide page dots隐藏页面点---roothide
+Author: 来了老弟
+Name: 隐藏桌面翻页点-roothide
 
 Package: cn.llld.htmh
 Version: 1.0
@@ -1137,6 +1138,22 @@ Section: rootless插件
 Description: Switch the background blur effect.切换后台模糊效果,非高斯模糊，没找到好的写法，要么只能五颜六色，先发个版本（低斯模糊）凑合下，有针对所有后台应用时再更新
 Author: 来了老弟 h_h_x_t
 Name: 切换后台app模糊-rootless
+
+Package: cn.llld.htmh
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/切换后台app模糊-roothide_1.0_iphoneos-arm64e.deb
+Size: 3674
+MD5sum: a8db508b4ce4819354f57f6f9883ca1e
+SHA1: 9f4eec668a5c4ce82b17cec10d2042e3a979c79a
+SHA256: 83eae167559f28798331a73fc91c65f6f1297182d8b31b87505c31e9c6025324
+Section: roothide插件
+Description: Switch the background blur effect.切换后台模糊效果,非高斯模糊，没找到好的写法，要么只能五颜六色，先发个版本（低斯模糊）凑合下，有针对所有后台应用时再更新
+Author: 来了老弟 h_h_x_t
+Name: 切换后台app模糊-roothide
 
 Package: cn.llld.htmh
 Version: 1.0
@@ -1300,22 +1317,6 @@ Sponsor: 来了老弟
 
 Package: cn.llld.kztm
 Version: 0.0.1
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/控制中心透明-roothide.deb
-Size: 3842
-MD5sum: 01d6d400b42ce05b1fe2b8735b6472aa
-SHA1: 19648461680689c0cb9566bb5f6d415497c77d80
-SHA256: d101f94c3cd9a5746430298b74a015e9b781ae190027980ee5e964d1a9732bc2
-Section: roothide插件
-Description: Only the background of the control center is transparent to the desktop (a single module is not transparent), and it is better to use it with coolcc.仅控制中心背景透明到桌面（单个模块没透明），和coolcc一起使用效果更好
-Author: 来了老弟
-Name: 控制中心透明-roothide
-
-Package: cn.llld.kztm
-Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
@@ -1330,22 +1331,21 @@ Description: 仅控制中心背景透明到桌面（单个模块没透），配�
 Author: 来了老弟
 Name: 控制中心透明-rootless
 
-Package: cn.llld.ldd
-Version: 1.0
+Package: cn.llld.kztm
+Version: 0.0.1
 Architecture: iphoneos-arm64e
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 1108
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/roothide/灵动岛偏移-roothide_1.0_有设置-arm64e.deb
-Size: 776978
-MD5sum: 747acee2121efe4bde599fbeceafa040
-SHA1: 4a4e784db37ec6496e2a69a89c3429d6fb891ed3
-SHA256: 5bb29d0d4b7b956000cbbd2ccfcdb9f1113731484fc6f6ca68f0a290aeaf1981
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/控制中心透明-roothide.deb
+Size: 3842
+MD5sum: 01d6d400b42ce05b1fe2b8735b6472aa
+SHA1: 19648461680689c0cb9566bb5f6d415497c77d80
+SHA256: d101f94c3cd9a5746430298b74a015e9b781ae190027980ee5e964d1a9732bc2
 Section: roothide插件
-Description: Adjust the upper and lower offset, left and right offset of the smart island。设置在手机系统设置中，***调节灵动岛上下的偏移，左右的偏移***,这是辅助工具，自备灵动岛
-Author: 来了老弟 X：h_h_x_t
-Icon: file:///Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/ldd1.png
-Name: 灵动岛偏移-roothide
+Description: Only the background of the control center is transparent to the desktop (a single module is not transparent), and it is better to use it with coolcc.仅控制中心背景透明到桌面（单个模块没透明），和coolcc一起使用效果更好
+Author: 来了老弟
+Name: 控制中心透明-roothide
 
 Package: cn.llld.ldd
 Version: 1.0
@@ -1363,6 +1363,23 @@ Description: Adjust the upper and lower offset, left and right offset of the sma
 Author: 来了老弟 X：h_h_x_t
 Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/ldd1.png
 Name: 灵动岛偏移-rootless
+
+Package: cn.llld.ldd
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 1108
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/roothide/灵动岛偏移-roothide_1.0_有设置-arm64e.deb
+Size: 776978
+MD5sum: 747acee2121efe4bde599fbeceafa040
+SHA1: 4a4e784db37ec6496e2a69a89c3429d6fb891ed3
+SHA256: 5bb29d0d4b7b956000cbbd2ccfcdb9f1113731484fc6f6ca68f0a290aeaf1981
+Section: roothide插件
+Description: Adjust the upper and lower offset, left and right offset of the smart island。设置在手机系统设置中，***调节灵动岛上下的偏移，左右的偏移***,这是辅助工具，自备灵动岛
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/ldd1.png
+Name: 灵动岛偏移-roothide
 
 Package: cn.llld.ldd
 Version: 1.2-1
@@ -1448,22 +1465,6 @@ Name: Aa1空包仅声明作用
 
 Package: cn.llld.nc
 Version: 0.0.1
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/隐藏没有更早的通知-roothide.deb
-Size: 2396
-MD5sum: d8ef63575356f388c2398ea42f836b39
-SHA1: 4a5915add123aa1cb4013edf10ed092d6847044e
-SHA256: 533c2f363c796c8792aa4ac936d280fc4de9773727323b4f06523cbab04692a9
-Section: roothide隐藏专区
-Description: Hide no earlier notification text（隐藏-没有更早的通知文字）——roothide
-Author: 来了老弟
-Name: 隐藏更早的通知-roothide
-
-Package: cn.llld.nc
-Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
@@ -1478,21 +1479,21 @@ Description: Hide no earlier notification text（隐藏-没有更早的通知文
 Author: 来了老弟
 Name: 隐藏更早的通知-rootless
 
-Package: cn.llld.nlrq
+Package: cn.llld.nc
 Version: 0.0.1
 Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
-Installed-Size: 168
+Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/放大锁屏农历日期-rootlhide.deb
-Size: 3414
-MD5sum: 8f4d5a4db253e382b111883ae7f3f22d
-SHA1: c192db702ef9f9991d0a3e461aced051ce92851f
-SHA256: e1c315d0f6e4341cba3b916ffeb5a88c652ac4cb47e0b0bc6efe0b3eb38834f1
-Section: roothide插件
-Description: Enlarge the built-in lunar calendar and date (the default is a little small)放大自带的农历和日期（默认的有点小）
+Filename: ./debs/roothide/隐藏没有更早的通知-roothide.deb
+Size: 2396
+MD5sum: d8ef63575356f388c2398ea42f836b39
+SHA1: 4a5915add123aa1cb4013edf10ed092d6847044e
+SHA256: 533c2f363c796c8792aa4ac936d280fc4de9773727323b4f06523cbab04692a9
+Section: roothide隐藏专区
+Description: Hide no earlier notification text（隐藏-没有更早的通知文字）——roothide
 Author: 来了老弟
-Name: 放大农历日期-roothide
+Name: 隐藏更早的通知-roothide
 
 Package: cn.llld.nlrq
 Version: 0.0.1
@@ -1509,6 +1510,22 @@ Section: rootless插件
 Description: 放大自带的农历和日期（默认的有点小）
 Author: 来了老弟
 Name: 放大农历日期-rootless
+
+Package: cn.llld.nlrq
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/放大锁屏农历日期-rootlhide.deb
+Size: 3414
+MD5sum: 8f4d5a4db253e382b111883ae7f3f22d
+SHA1: c192db702ef9f9991d0a3e461aced051ce92851f
+SHA256: e1c315d0f6e4341cba3b916ffeb5a88c652ac4cb47e0b0bc6efe0b3eb38834f1
+Section: roothide插件
+Description: Enlarge the built-in lunar calendar and date (the default is a little small)放大自带的农历和日期（默认的有点小）
+Author: 来了老弟
+Name: 放大农历日期-roothide
 
 Package: cn.llld.notihh
 Version: 0.0.1
@@ -1575,23 +1592,6 @@ Name: PictureModule自定义控制中心
 
 Package: cn.llld.playerbj
 Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟 h_h_x_t
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/隐藏播放器通知背景-roothide_1.0_iphoneos-arm64e.deb
-Size: 3578
-MD5sum: f23304dd6c5b6d5c83e3571bf72835c1
-SHA1: 34225f7bd304e4562e74144ea2041e23b2c590ee
-SHA256: 674ce95ab0f62aca0557cdd9ecf1be931192b12c54b4c815289f94eb8998c734
-Section: roothide插件
-Description: Hide player Notification background。全透版本，隐藏播放器通知背景-roothide
-Author: 来了老弟 h_h_x_t
-Name: 隐藏播放器通知背景-roothide
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.playerbj/playerbj-rootless.json
-
-Package: cn.llld.playerbj
-Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Installed-Size: 168
@@ -1605,6 +1605,23 @@ Section: rootless隐藏专区
 Description: Hide player Notification background。全透版本，隐藏播放器通知背景-rootless
 Author: 来了老弟 h_h_x_t
 Name: 隐藏播放器通知背景-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.playerbj/playerbj-rootless.json
+
+Package: cn.llld.playerbj
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/隐藏播放器通知背景-roothide_1.0_iphoneos-arm64e.deb
+Size: 3578
+MD5sum: f23304dd6c5b6d5c83e3571bf72835c1
+SHA1: 34225f7bd304e4562e74144ea2041e23b2c590ee
+SHA256: 674ce95ab0f62aca0557cdd9ecf1be931192b12c54b4c815289f94eb8998c734
+Section: roothide插件
+Description: Hide player Notification background。全透版本，隐藏播放器通知背景-roothide
+Author: 来了老弟 h_h_x_t
+Name: 隐藏播放器通知背景-roothide
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.playerbj/playerbj-rootless.json
 
 Package: cn.llld.playerbj
@@ -1989,22 +2006,6 @@ Name: SettingsUDID-roothide
 
 Package: cn.llld.shelly
 Version: 0.0.2
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Installed-Size: 200
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/shelly汉化_0.0.2_iphoneos-arm64e.deb
-Size: 14524
-MD5sum: f722a50ffc4127287f3d34f0966fb965
-SHA1: 9e467f5952191063accab35bd8efa7a22239b693
-SHA256: dec79265edfe41acc25a6abe46b27db65128235c102f9a805ac00e7971f1b623
-Section: roothide汉化补丁
-Description: Shelly--(roothide)简体中文包
-Author: 来了老弟 h_h_x_t
-Name: shelly汉化-roothide
-
-Package: cn.llld.shelly
-Version: 0.0.2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 200
@@ -2018,6 +2019,22 @@ Section: rootless汉化补丁
 Description: Shelly--(rootless)简体中文包
 Author: 来了老弟 h_h_x_t
 Name: shelly汉化-rootless
+
+Package: cn.llld.shelly
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/shelly汉化_0.0.2_iphoneos-arm64e.deb
+Size: 14524
+MD5sum: f722a50ffc4127287f3d34f0966fb965
+SHA1: 9e467f5952191063accab35bd8efa7a22239b693
+SHA256: dec79265edfe41acc25a6abe46b27db65128235c102f9a805ac00e7971f1b623
+Section: roothide汉化补丁
+Description: Shelly--(roothide)简体中文包
+Author: 来了老弟 h_h_x_t
+Name: shelly汉化-roothide
 
 Package: cn.llld.shelly
 Version: 0.0.2
@@ -2068,21 +2085,6 @@ Name: 双击唤醒-roothide
 
 Package: cn.llld.sjsp
 Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Depends: mobilesubstrate
-Filename: ./debs/roothide/双击锁屏-roothide.deb
-Size: 8596
-MD5sum: 724999d297ae2f285daeee788b1c4699
-SHA1: 97b677efc379da23adf97ad257fcad9c57e72406
-SHA256: f22185d6e5150054f6cf01e27973371a6e5c84e717e8d17a0ee42ae269e79f43
-Section: roothide插件
-Description: Double-click the home screen to lock the device双击锁屏---roothide
-Author: 来了老弟
-Name: 双击锁屏-roothide
-
-Package: cn.llld.sjsp
-Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: mobilesubstrate
@@ -2095,6 +2097,21 @@ Section: rootless插件
 Description: Double-click the home screen to lock the device双击锁屏-rootless
 Author: 来了老弟
 Name: 双击锁屏-rootless
+
+Package: cn.llld.sjsp
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Filename: ./debs/roothide/双击锁屏-roothide.deb
+Size: 8596
+MD5sum: 724999d297ae2f285daeee788b1c4699
+SHA1: 97b677efc379da23adf97ad257fcad9c57e72406
+SHA256: f22185d6e5150054f6cf01e27973371a6e5c84e717e8d17a0ee42ae269e79f43
+Section: roothide插件
+Description: Double-click the home screen to lock the device双击锁屏---roothide
+Author: 来了老弟
+Name: 双击锁屏-roothide
 
 Package: cn.llld.smarthh
 Version: 0.0.2
@@ -2210,22 +2227,6 @@ Name: 点击时间显示农历-rootless
 
 Package: cn.llld.swipeextenderx
 Version: 0.0.2
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/SwipeExtenderX汉化-roothide_0.0.2_iphoneos-arm64e.deb
-Size: 10448
-MD5sum: 3ce8f89cf9a4c9dad96160aec8b2489b
-SHA1: 38e8c2be21d710621745efa94073082210b3bdee
-SHA256: 67f23e546e4ac38be463a6c6097259dee4e17105eac728763b2e5dfe838d1234
-Section: roothide汉化补丁
-Description: SwipeExtenderX汉化，swipeextenderx汉化--(rootess)简体中文包，更新：防止与任何汉化冲突，现在任意装
-Author: 来了老弟
-Name: SwipeExtenderX汉化-roothide
-
-Package: cn.llld.swipeextenderx
-Version: 0.0.2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
@@ -2239,6 +2240,22 @@ Section: rootless汉化补丁
 Description: SwipeExtenderX汉化，swipeextenderx汉化--(rootess)简体中文包，更新：防止与任何汉化冲突，现在任意装
 Author: 来了老弟
 Name: SwipeExtenderX汉化-rootless
+
+Package: cn.llld.swipeextenderx
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/SwipeExtenderX汉化-roothide_0.0.2_iphoneos-arm64e.deb
+Size: 10448
+MD5sum: 3ce8f89cf9a4c9dad96160aec8b2489b
+SHA1: 38e8c2be21d710621745efa94073082210b3bdee
+SHA256: 67f23e546e4ac38be463a6c6097259dee4e17105eac728763b2e5dfe838d1234
+Section: roothide汉化补丁
+Description: SwipeExtenderX汉化，swipeextenderx汉化--(rootess)简体中文包，更新：防止与任何汉化冲突，现在任意装
+Author: 来了老弟
+Name: SwipeExtenderX汉化-roothide
 
 Package: cn.llld.tapflash
 Version: 1.0.3
@@ -2731,22 +2748,6 @@ Name: HideNotificationCenterText-rootless
 
 Package: cn.llld.ycst
 Version: 0.0.1
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/隐藏锁头-roothide.deb
-Size: 2968
-MD5sum: 09303a4528837081c6f3e15a7ef61861
-SHA1: 47df8eb952f08bcdfc7934d0df2e538f3b6a0d00
-SHA256: 21fe3a53f7b75abd238a304dc0f7272196c0cdf4f67ebd2b0b1fbb10f0690d99
-Section: roothide隐藏专区
-Description: NoPadlock隐藏锁头-roothide
-Author: 来了老弟
-Name: NoPadlock-roothide
-
-Package: cn.llld.ycst
-Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
@@ -2760,6 +2761,22 @@ Section: rootless隐藏专区
 Description: NoPadlock隐藏锁头-rootless
 Author: 来了老弟
 Name: NoPadlock-rootless
+
+Package: cn.llld.ycst
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/隐藏锁头-roothide.deb
+Size: 2968
+MD5sum: 09303a4528837081c6f3e15a7ef61861
+SHA1: 47df8eb952f08bcdfc7934d0df2e538f3b6a0d00
+SHA256: 21fe3a53f7b75abd238a304dc0f7272196c0cdf4f67ebd2b0b1fbb10f0690d99
+Section: roothide隐藏专区
+Description: NoPadlock隐藏锁头-roothide
+Author: 来了老弟
+Name: NoPadlock-roothide
 
 Package: cn.llld.ycvpn
 Version: 0.0.1-2
@@ -2779,22 +2796,6 @@ Name: ycvpn-rootless
 
 Package: cn.llld.ycwjjbj
 Version: 0.0.1
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/隐藏文件夹背景-roothide.deb
-Size: 2996
-MD5sum: 564c02a5a44f0f77bda1cadf7abac0e2
-SHA1: d01fa8b998678dcd20748526de6d7c9cb3731c4c
-SHA256: 4fbf74c59236bcdd286bde46a361345c97b28b77b0d9d5a4345568751cc8abe4
-Section: roothide隐藏专区
-Description: Hide folder background隐藏文件夹背景-roothide
-Author: 来了老弟
-Name: HideFolderBackground-roothide
-
-Package: cn.llld.ycwjjbj
-Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
@@ -2809,21 +2810,21 @@ Description: Hide folder background隐藏文件夹背景-rootless
 Author: 来了老弟
 Name: HideFolderBackground-rootless
 
-Package: cn.llld.ycwjjmh
+Package: cn.llld.ycwjjbj
 Version: 0.0.1
 Architecture: iphoneos-arm64e
-Maintainer: 来了老弟 h_h_x_t
+Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/隐藏文件夹模糊-roothide_0.0.1_iphoneos-arm64e.deb
-Size: 2986
-MD5sum: 1f7557594a9e2aa1550646ddb0f9f7b9
-SHA1: 11f63da991904e5204b1c133c56258f8c89806e5
-SHA256: c4f48080d13e6517f7397567626fa296059991b42cf883cf205f928cb80c7737
+Filename: ./debs/roothide/隐藏文件夹背景-roothide.deb
+Size: 2996
+MD5sum: 564c02a5a44f0f77bda1cadf7abac0e2
+SHA1: d01fa8b998678dcd20748526de6d7c9cb3731c4c
+SHA256: 4fbf74c59236bcdd286bde46a361345c97b28b77b0d9d5a4345568751cc8abe4
 Section: roothide隐藏专区
-Description: Hide folder blur隐藏打开文件夹时模糊背景(直接透明到桌面)-roothide
-Author: 来了老弟 h_h_x_t
-Name: 隐藏文件夹模糊-roothide
+Description: Hide folder background隐藏文件夹背景-roothide
+Author: 来了老弟
+Name: HideFolderBackground-roothide
 
 Package: cn.llld.ycwjjmh
 Version: 0.0.1
@@ -2843,6 +2844,22 @@ Name: 隐藏文件夹模糊-rootless
 
 Package: cn.llld.ycwjjmh
 Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/隐藏文件夹模糊-roothide_0.0.1_iphoneos-arm64e.deb
+Size: 2986
+MD5sum: 1f7557594a9e2aa1550646ddb0f9f7b9
+SHA1: 11f63da991904e5204b1c133c56258f8c89806e5
+SHA256: c4f48080d13e6517f7397567626fa296059991b42cf883cf205f928cb80c7737
+Section: roothide隐藏专区
+Description: Hide folder blur隐藏打开文件夹时模糊背景(直接透明到桌面)-roothide
+Author: 来了老弟 h_h_x_t
+Name: 隐藏文件夹模糊-roothide
+
+Package: cn.llld.ycwjjmh
+Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: 来了老弟 h_h_x_t
 Installed-Size: 168
@@ -2856,22 +2873,6 @@ Section: rootful隐藏专区
 Description: Hide folder blur隐藏打开文件夹时模糊背景(直接透明到桌面)-rootful
 Author: 来了老弟 h_h_x_t
 Name: 隐藏文件夹模糊-rootful
-
-Package: cn.llld.ycxbt
-Version: 0.0.1
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/隐藏底部小白条-roothide.deb
-Size: 2960
-MD5sum: 098255a102c57d9080ac920b65bd320c
-SHA1: 0d703b1d17f2fa04bc8e5862ae3d7b7a1eed6ec9
-SHA256: fda4ea360b7c11faaac7f2ca68076405101de280a420e9e252101388a4eceabe
-Section: roothide隐藏专区
-Description: HideNoHomeBar隐藏底部小白条-roothide
-Author: 来了老弟 h_h_x_t
-Name: HideNoHomeBar-roothide
 
 Package: cn.llld.ycxbt
 Version: 0.0.1
@@ -2889,21 +2890,21 @@ Description: HideHomeBar隐藏底部小白条-rootless
 Author: 来了老弟 h_h_x_t
 Name: HideHomeBar隐藏底部小白条-rootless
 
-Package: cn.llld.yghsh
-Version: 1.1
+Package: cn.llld.ycxbt
+Version: 0.0.1
 Architecture: iphoneos-arm64e
-Maintainer: 来了老弟 h_h_x_t
+Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/阳光惠生活去越狱提示-roothide_1.1_iphoneos-arm64e.deb
-Size: 2962
-MD5sum: ef3a08e64dd1592c9aecf4d66bc74889
-SHA1: a058c1bb045ff53afd4800ea740bfbc761d7610e
-SHA256: 58591da5d20177b8163689d11fd316054108970c1c35323a0b97fcd697b7d384
-Section: roothide屏蔽弹窗
-Description: 去掉(阳光惠生活)越狱提示，不影响任何插件注入使用
+Filename: ./debs/roothide/隐藏底部小白条-roothide.deb
+Size: 2960
+MD5sum: 098255a102c57d9080ac920b65bd320c
+SHA1: 0d703b1d17f2fa04bc8e5862ae3d7b7a1eed6ec9
+SHA256: fda4ea360b7c11faaac7f2ca68076405101de280a420e9e252101388a4eceabe
+Section: roothide隐藏专区
+Description: HideNoHomeBar隐藏底部小白条-roothide
 Author: 来了老弟 h_h_x_t
-Name: 阳光惠生活去越狱提示-roothide
+Name: HideNoHomeBar-roothide
 
 Package: cn.llld.yghsh
 Version: 1.1
@@ -2923,6 +2924,22 @@ Name: 阳光惠生活去越狱提示-rootless
 
 Package: cn.llld.yghsh
 Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/阳光惠生活去越狱提示-roothide_1.1_iphoneos-arm64e.deb
+Size: 2962
+MD5sum: ef3a08e64dd1592c9aecf4d66bc74889
+SHA1: a058c1bb045ff53afd4800ea740bfbc761d7610e
+SHA256: 58591da5d20177b8163689d11fd316054108970c1c35323a0b97fcd697b7d384
+Section: roothide屏蔽弹窗
+Description: 去掉(阳光惠生活)越狱提示，不影响任何插件注入使用
+Author: 来了老弟 h_h_x_t
+Name: 阳光惠生活去越狱提示-roothide
+
+Package: cn.llld.yghsh
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 来了老弟 h_h_x_t
 Installed-Size: 168
@@ -2939,21 +2956,6 @@ Name: 阳光惠生活去越狱提示-rootful
 
 Package: cn.llld.zenith
 Version: 1.2.6
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14),oldabi
-Filename: ./debs/roothide/zenith堆叠图标-roothide.deb
-Size: 231736
-MD5sum: a72d5c6e7dd8f3c45cf80872d398fda5
-SHA1: b8a8569e899ddd28c810342a09b3eb0f4c008cf2
-SHA256: 6c463f0dd3e0743f5b1b1a66811874567bb53c2c612b68006765c831da954527
-Section: roothide修复插件
-Description: Store desktop apps, stack apps。This is the first version with fixes (the + icon is not displayed but can be used, it will be fixed in the next version)。插件用途：一个桌面图标通过上划或下滑手势，存着多个应用。收纳桌面App，堆叠App，这是发出修复的初版(+号图标不显示但能用，下版本修复)_________仅测试用,有问题卸载---roothide
-Author: Muirey03 来了老弟
-Name: Zenith(Apex)App堆叠-roothide
-
-Package: cn.llld.zenith
-Version: 1.2.6
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14),oldabi
@@ -2967,6 +2969,21 @@ Description: Store desktop apps, stack apps，Requires installation Legacy arm64
 Author: Muirey03 来了老弟
 Name: Zenith(Apex)App堆叠-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.zenith/zenith_rootless.json
+
+Package: cn.llld.zenith
+Version: 1.2.6
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14),oldabi
+Filename: ./debs/roothide/zenith堆叠图标-roothide.deb
+Size: 231736
+MD5sum: a72d5c6e7dd8f3c45cf80872d398fda5
+SHA1: b8a8569e899ddd28c810342a09b3eb0f4c008cf2
+SHA256: 6c463f0dd3e0743f5b1b1a66811874567bb53c2c612b68006765c831da954527
+Section: roothide修复插件
+Description: Store desktop apps, stack apps。This is the first version with fixes (the + icon is not displayed but can be used, it will be fixed in the next version)。插件用途：一个桌面图标通过上划或下滑手势，存着多个应用。收纳桌面App，堆叠App，这是发出修复的初版(+号图标不显示但能用，下版本修复)_________仅测试用,有问题卸载---roothide
+Author: Muirey03 来了老弟
+Name: Zenith(Apex)App堆叠-roothide
 
 Package: cn.llld.zfbb
 Version: 1.0
@@ -3242,22 +3259,6 @@ Name: FUGap控制中心间距-rootless
 
 Package: com.llld.livecalltranslator
 Version: 0.0.1
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/LiveCallTranslator汉化包-roothide_0.0.1_iphoneos-arm64e.deb
-Size: 8326
-MD5sum: 28836a9597bce6ccb8ca15299c482451
-SHA1: 88d4691c83fb6a6b9977376a58aa7056e6be9e23
-SHA256: 974e68a9f5f50fa75a785c5462df85fd3a32054bb05294a78bd9a57ba5a2106d
-Section: roothide汉化补丁
-Description: LiveCallTranslator汉化--(roothide)简体中文包
-Author: 来了老弟 h_h_x_t
-Name: LiveCallTranslator汉化包-roothide
-
-Package: com.llld.livecalltranslator
-Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
@@ -3271,6 +3272,22 @@ Section: rootless汉化补丁
 Description: LiveCallTranslator汉化--(rootless)简体中文包
 Author: 来了老弟 h_h_x_t
 Name: LiveCallTranslator汉化包-rootless
+
+Package: com.llld.livecalltranslator
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/LiveCallTranslator汉化包-roothide_0.0.1_iphoneos-arm64e.deb
+Size: 8326
+MD5sum: 28836a9597bce6ccb8ca15299c482451
+SHA1: 88d4691c83fb6a6b9977376a58aa7056e6be9e23
+SHA256: 974e68a9f5f50fa75a785c5462df85fd3a32054bb05294a78bd9a57ba5a2106d
+Section: roothide汉化补丁
+Description: LiveCallTranslator汉化--(roothide)简体中文包
+Author: 来了老弟 h_h_x_t
+Name: LiveCallTranslator汉化包-roothide
 
 Package: com.llld.livecalltranslator
 Version: 0.0.1
