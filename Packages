@@ -473,22 +473,6 @@ Author: alias20
 Name: CoolCC Reborn-roothide
 
 Package: cn.llld.copy1
-Version: 1.4.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/Copy-text-rootless_1.4.1_iphoneos-arm64.deb
-Size: 8606
-MD5sum: 9ad31d7b1e12283f4288902a01b6d229
-SHA1: a53b65a9bbbfb5f886d3587d707013f8089595b6
-SHA256: 2b93293b326391a69ecc60d400f348ceea9ce912d62d32c397a39c397624bbee
-Section: rootless插件
-Description: Individual text can be copied by long-pressing in the (settings and appstore and message and cocoatop,sileo,saily,QQ), currently in the testing phase, and more support will be added in future updates.***（设置,appstore,短信，cocoatop,sileo,saily,QQ）短按复制文本内容，现处于测试阶段等后续更新支持更多,20231107更新修复交互和点击bug，20231109优化速度反应,20231209新加了数个应用，若按钮或原本的手势异常请反馈并先禁止此插件的注入,20231211处理QQ长按语音和Flexlis，Flexingt编辑框的手势冲突问题***
-Author: 来了老弟 h_h_x_t
-Name: Copy-text-rootless
-
-Package: cn.llld.copy1
 Version: 1.4.4
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
@@ -1008,12 +992,12 @@ Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker
 Conflicts: com.burritoz.cartella, com.thomz.foldy, com.spark.snowboard.dock
 Replaces: com.burritoz.cartella, com.thomz.foldy
 Filename: ./debs/rootless/folded目前最强的文件夹调整rootless.deb
-Size: 416096
-MD5sum: f872251ceaec83f20c33829fcf3b4186
-SHA1: c65d07a3f05b65cf3f07f3ec831ea7ec58e97d3e
-SHA256: 45493e2e3e03fe241310254ff3d244f7610a39d7dbb588c4cd2c841b62529325
+Size: 415860
+MD5sum: fc66abbbbedc165e2ea24358b4d95d57
+SHA1: e9cc0c8e18624d1f28bdd5e87677ac1b7f7f0e17
+SHA256: 7de708d8aeb6fa59a0620d0713d40c6fccf407bd15b5f921e66f9e16b64f3786
 Section: 兼容层oldabi-rootless
-Description: Customize your folders with the most feature-rich folder tweak。自定义你的文件夹，功能最丰富的文件夹插件。
+Description: Customize your folders with the most feature-rich folder tweak。自定义你的文件夹，功能最丰富的文件夹插件。出现弹窗则这个路径创立文件/var/lib/dpkg/info/xyz.burritoz.thomz.folded.list
 Author: Thomz and burrit0z
 Name: Folded文件夹增强-rootless
 
@@ -1798,34 +1782,17 @@ Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyx
 Name: FloatingReplacement悬浮替换翻译汉化
 
 Package: cn.llld.qsyy
-Version: 1.5
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 488
-Depends: mobilesubstrate
-Filename: ./debs/rootless/FloatingReplacement悬浮替换翻译汉化_1.5-arm64.deb
-Size: 88118
-MD5sum: 452d3c39b99dbdcf4b0ddd61cc6d645d
-SHA1: 3617ca1a312c277aafbf081df3b875831c2ee231
-SHA256: b2c05172844cedab7e5cd9b1d0faee27996a3f48c6cb64d86444d636a17d3663
-Section: rootless插件
-Description: A floating window tool that supports batch text replacement, this version adds reddit and iCleaner Pro, as well as phone, support Text replacement in settings, support phone modification of contact, modification of time, modification of call record，Custom text replacement, custom text size, custom text view width, height, custom text view horizontal and vertical coordinates, custom text color, custom text font, custom text transparency etc.,More uses waiting for you to discover, it is strongly recommended to upgrade.***一款支持批量替换文本的悬浮窗工具***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：修改通话时间，修改联系人，修改通话记录，翻译替换文本，自定义文字替换，自定义文字大小，自定义文字视图宽度，高度，自定义文字视图横向纵向的坐标，自定义文字颜色，自定义文字字体，自定义文字透明度，隐藏设备实际信息，靓仔装逼等(非所有文字，个别函数需要等我适配)。之前代码是垃圾，一切以最新版为准，提示：装了非真皮120或全局篡改插件的设备，不要装此插件，这只是应用类插件，不会影响到系统全局或桌面。
-Author: 来了老弟
-Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyxf.png
-Name: FloatingReplacement悬浮替换翻译汉化
-
-Package: cn.llld.qsyy
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 4924
 Depends: mobilesubstrate
-Filename: ./debs/rootless/FT悬浮文本增强翻译汉化-简版_2.0-arm64.deb
-Size: 3897944
-MD5sum: 41152be199c75cb6347e4fcaeb9c6388
-SHA1: a3a78bd27f37f8af9c2b0f8b48b502e2d0d7b0ce
-SHA256: 6f3175b813ea6e276efb869b29b4c454ce0950fc7e56a64a0c78e4fa8dfdfb35
-Section: rootless插件
+Filename: ./debs/rootless/FT悬浮文本增强翻译汉化-简版_2.1-arm64.deb
+Size: 3904562
+MD5sum: 6506f476562607e08cfc8d53579b5347
+SHA1: 8b12a94a19daab7ca44fe41abbf62f8cdec5ec46
+SHA256: 4f97e617ecb7fbfb14b8e78ec9da4eeb0d0b39c381eb8e3963b486aaf7de079d
+Section: rootless应用插件
 Description: A floating window tool that supports batch text replacement, this version adds reddit and iCleaner Pro, as well as phone, support Text replacement in settings, support phone modification of contact, modification of time, modification of call record，Custom text replacement, custom text size, custom text view width, height, custom text view horizontal and vertical coordinates, custom text color, custom text font, custom text transparency etc.,More uses waiting for you to discover, it is strongly recommended to upgrade.***一款支持批量替换文本的悬浮窗工具***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：修改通话时间，修改联系人，修改通话记录，翻译替换文本，自定义文字替换，自定义文字大小，自定义文字视图宽度，高度，自定义文字视图横向纵向的坐标，自定义文字颜色，自定义文字字体，自定义文字透明度，隐藏设备实际信息，靓仔装逼等(非所有文字，个别函数需要等我适配)。之前代码是垃圾，一切以最新版为准，提示：装了非真皮120或全局篡改插件的设备，不要装此插件，这只是应用类插件，不会影响到系统全局或桌面。
 Author: 来了老弟
 Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyxf.png
