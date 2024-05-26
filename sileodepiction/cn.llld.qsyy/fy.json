@@ -60,7 +60,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2.0简版",
+          "text": "2.1简版",
           "title": "最新版本"
         },
         {
@@ -70,7 +70,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2024 年 5 月 10日",
+          "text": "2024 年 5 月 26日",
           "title": "最后更新日期"
         },
         {
@@ -83,6 +83,29 @@
       "class": "DepictionStackView",
       "tabname": "更新日志",
       "views": [
+        {
+                    "class": "DepictionLayerView",
+                    "views": [
+                        {
+                            "class": "DepictionLabelView",
+                            "text": "2.1简版",
+                            "fontWeight": "bold",
+                            "fontSize": 17
+                        },
+                        {
+                            "class": "DepictionLabelView",
+                            "text": "2024-05-26",
+                            "fontWeight": "semibold",
+                            "fontSize": 17,
+                            "textColor": "#696969",
+                            "alignment": 2
+                        }
+                    ]
+                },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "新增一触即达，淘宝，抖音，阿里巴巴，百度云盘的口令或者分享链接，点击（链接跳转）就到你指定的应用界面，不用去浏览器或自己手动找到应用去打开。\n\n之前就有的，支持改 今日水印相机的位置啥的。"
+        },
         {
                     "class": "DepictionLayerView",
                     "views": [
