@@ -8,9 +8,21 @@
       "class": "DepictionStackView",
       "tabname": "插件描述",
       "views": [
-        {
+         {
+                    "text":"FT悬浮翻译Q群",
+                    "action":"https://qm.qq.com/q/boCIKeXoX",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },      
+                {
+                    "text":"低月租高流量卡",
+                    "action":"https://haoka.iosrxwy.com/phone/index?id=51988E4215572FDE7B61C1A06B253F35",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },
+                {
           "class": "DepictionMarkdownView",
-          "markdown": "A floating window tool that supports batch text replacement, this version adds reddit and iCleaner Pro, as well as phone, support Text replacement in settings, support phone modification of contact, modification of time, modification of call record，Custom text replacement, custom text size, custom text view width, height, custom text view horizontal and vertical coordinates, custom text color, custom text font, custom text transparency etc.,More uses waiting for you to discover, it is strongly recommended to upgrade.***一款支持批量替换文本的悬浮窗工具***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：分屏，自动翻译修改通话时间，修改联系人，修改通话记录，翻译替换文本，自定义文字替换，自定义文字大小，自定义文字视图宽度，高度，自定义文字视图横向纵向的坐标，自定义文字颜色，自定义文字字体，自定义文字透明度，隐藏设备实际信息，靓仔装逼等(非所有文字，个别函数需要等我适配)。之前代码是垃圾，一切以最新版为准，提示：装了非真皮120或全局篡改插件的设备，不要装此插件，这只是应用类插件，不会影响到系统全局或桌面。",
+          "markdown": "A floating window tool that supports batch text replacement, this version adds reddit and iCleaner Pro, as well as phone, support Text replacement in settings, support phone modification of contact, modification of time, modification of call record，Custom text replacement, custom text size, custom text view width, height, custom text view horizontal and vertical coordinates, custom text color, custom text font, custom text transparency etc.,More uses waiting for you to discover, it is strongly recommended to upgrade.***一款支持批量替换文本的悬浮窗工具，具体看图或者更新日志***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：分屏，自动翻译修改通话时间，修改联系人，修改通话记录，翻译替换文本，自定义文字替换，自定义文字大小，自定义文字视图宽度，高度，自定义文字视图横向纵向的坐标，自定义文字颜色，自定义文字字体，自定义文字透明度，隐藏设备实际信息，靓仔装逼等(非所有文字，个别函数需要等我适配)。之前代码是垃圾，一切以最新版为准，提示：装了非真皮120或全局篡改插件的设备，不要装此插件，这只是应用类插件，不会影响到系统全局或桌面。",
           "useRawFormat": true
         },
         {
@@ -19,6 +31,14 @@
                     "itemSize": "{160, 346.4533333333333}",
                     "screenshots": [
         {
+              "accessibilityText": "Screenshot",
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/8985.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/8986.PNG"
+            },
+              {
               "accessibilityText": "Screenshot",
               "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/123.png"
             },
