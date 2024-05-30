@@ -1501,11 +1501,11 @@ Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/放大锁屏农历日期-rootlhide.deb
-Size: 3414
-MD5sum: 8f4d5a4db253e382b111883ae7f3f22d
-SHA1: c192db702ef9f9991d0a3e461aced051ce92851f
-SHA256: e1c315d0f6e4341cba3b916ffeb5a88c652ac4cb47e0b0bc6efe0b3eb38834f1
+Filename: ./debs/roothide/放大锁屏农历日期-roothide.deb
+Size: 3500
+MD5sum: cdc7ec7fad190dd8872df79b2afeb1f9
+SHA1: fbbe5be905e0946ea4019b868d381f8fed7fbfd4
+SHA256: 6f424f11f9cef7852b0d6b8f13864b934481067099c182d75565f586a9c5d735
 Section: roothide插件
 Description: Enlarge the built-in lunar calendar and date (the default is a little small)放大自带的农历和日期（默认的有点小）
 Author: 来了老弟

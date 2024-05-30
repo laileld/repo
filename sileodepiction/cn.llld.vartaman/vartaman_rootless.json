@@ -9,6 +9,18 @@
       "tabname": "插件描述",
       "views": [
         {
+                    "text":"FT悬浮翻译Q群",
+                    "action":"https://qm.qq.com/q/boCIKeXoX",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },      
+                {
+                    "text":"低月租高流量卡",
+                    "action":"https://haoka.iosrxwy.com/phone/index?id=51988E4215572FDE7B61C1A06B253F35",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },
+                 {
           "class": "DepictionMarkdownView",
           "markdown": "Regularly update the home screen or lock screen wallpaper (available rootless),The screenshot is in the local language Chinese, but it is actually the English version.。插件作用：定期更新主屏幕或者锁屏壁纸(此包仅rootless可用，因xina2部分环境不读配置，下架了，我再看看)。。。。搬运勿乱改，不生效,修改去除我名更是可耻，不尊重他人劳动成果 X：h_h_x_t",
           "useRawFormat": true

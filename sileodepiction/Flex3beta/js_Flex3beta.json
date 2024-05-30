@@ -8,7 +8,19 @@
       "class": "DepictionStackView",
       "tabname": "插件描述",
       "views": [
-        {
+         {
+                    "text":"FT悬浮翻译Q群",
+                    "action":"https://qm.qq.com/q/boCIKeXoX",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },      
+                {
+                    "text":"低月租高流量卡",
+                    "action":"https://haoka.iosrxwy.com/phone/index?id=51988E4215572FDE7B61C1A06B253F35",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },
+                {
           "class": "DepictionMarkdownView",
           "markdown": "Remove application advertisements, crack members, and modify the application's powerful patch system. The cloud, search, and parsing application functions are all normal (if there are unsupported apps, please check your tweak injection or downgrade apps). System applications do not take effect. Turn off bold fonts. 去除应用广告，破解会员，修改应用的强大补丁系统，云端，搜索，解析应用功能均正常(若有不支持的app，请检查你的调整注入或降级程序)，系统应用不生效，关闭粗体文本使用，Flex3程序修改器-roothide",
           "useRawFormat": true

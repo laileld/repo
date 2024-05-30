@@ -8,7 +8,19 @@
       "class": "DepictionStackView",
       "tabname": "插件描述",
       "views": [
-        {
+         {
+                    "text":"FT悬浮翻译Q群",
+                    "action":"https://qm.qq.com/q/boCIKeXoX",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },      
+                {
+                    "text":"低月租高流量卡",
+                    "action":"https://haoka.iosrxwy.com/phone/index?id=51988E4215572FDE7B61C1A06B253F35",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },
+                {
           "class": "DepictionMarkdownView",
           "markdown": "Change media controls/notifications height,调整通知中心播放器的位置,装了源里另一个不生效的则装这个---rootless",
           "useRawFormat": true

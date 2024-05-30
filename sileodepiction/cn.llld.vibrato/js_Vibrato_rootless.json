@@ -4,7 +4,19 @@
   "tintColor": "#FF4455",
   "minVersion": "0.3",
   "tabs": [
-    {
+     {
+                    "text":"FT悬浮翻译Q群",
+                    "action":"https://qm.qq.com/q/boCIKeXoX",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },      
+                {
+                    "text":"低月租高流量卡",
+                    "action":"https://haoka.iosrxwy.com/phone/index?id=51988E4215572FDE7B61C1A06B253F35",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },
+                {
       "class": "DepictionStackView",
       "tabname": "插件描述",
       "views": [

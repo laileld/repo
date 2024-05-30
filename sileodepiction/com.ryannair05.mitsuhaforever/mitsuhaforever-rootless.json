@@ -8,7 +8,19 @@
       "class": "DepictionStackView",
       "tabname": "插件描述",
       "views": [
-        {
+         {
+                    "text":"FT悬浮翻译Q群",
+                    "action":"https://qm.qq.com/q/boCIKeXoX",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },      
+                {
+                    "text":"低月租高流量卡",
+                    "action":"https://haoka.iosrxwy.com/phone/index?id=51988E4215572FDE7B61C1A06B253F35",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },
+                {
           "class": "DepictionMarkdownView",
           "markdown": "Universal audio visualizer for iOS15。Developer does not support rootless. If you have any questions, please don't bother others。It is recommended to turn off the functions in the control center (one of the two mobile phones will trigger the Resping safe mode)。适用于iOS15的通用音频可视化工具-rootless版，开发者未支持无根，有问题别打扰人家。控制中心里面功能建议关闭(两手机有一台此处会引发注销安全模式)。xina2使用会有问题，不建议装。",
           "useRawFormat": true
