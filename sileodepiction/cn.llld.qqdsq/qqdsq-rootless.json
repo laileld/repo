@@ -8,7 +8,19 @@
       "class": "DepictionStackView",
       "tabname": "插件描述",
       "views": [
-        {
+         {
+                    "text":"FT悬浮翻译Q群",
+                    "action":"https://qm.qq.com/q/boCIKeXoX",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },      
+                {
+                    "text":"低月租高流量卡",
+                    "action":"https://haoka.iosrxwy.com/phone/index?id=51988E4215572FDE7B61C1A06B253F35",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },
+                {
           "class": "DepictionMarkdownView",
           "markdown": "给QQ加亿点小功能，功能在手机系统设置，功能在手机系统设置，功能在手机系统设置。调试版本号：v8.9.58和v9.0+，别的版本需自测。开发纯来自兴趣，231220才发出，不曾比肩任何人或物，我自己也还在用净化，勿带任何言论或上升任何事物，详情看配图，不显示则开梯子，231223：增加一个QQ交流群:928481652，其他看更新日志,,,xina1用户装rootless版本的",
           "useRawFormat": true
