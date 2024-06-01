@@ -1,0 +1,120 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "",
+  "tintColor": "#FF4455",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "插件描述",
+      "views": [
+         {
+                    "text":"FT悬浮翻译Q群",
+                    "action":"https://qm.qq.com/q/boCIKeXoX",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },      
+                {
+                    "text":"低月租高流量卡",
+                    "action":"https://haoka.iosrxwy.com/phone/index?id=51988E4215572FDE7B61C1A06B253F35",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },
+                {
+          "class": "DepictionMarkdownView",
+          "markdown": "Customize your folders with the most feature-rich folder tweak。自定义你的文件夹，功能最丰富的文件夹插件。出现弹窗则这个路径创立文件/var/lib/dpkg/info/xyz.burritoz.thomz.folded.list,只要装4个，不需要过多依赖，群文件可获取。",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.bbqzr/IMG_9222.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.bbqzr/IMG_9223.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.bbqzr/IMG_9224.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.bbqzr/IMG_9225.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.bbqzr/IMG_9226.PNG"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "Thomz and burrit0z",
+          "title": "开发作者"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.2.01",
+          "title": "最新版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "14.0 - 最新",
+          "title": "支持系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 02 月 28 日",
+          "title": "最后更新日期"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionLabelView",
+          "text": "1.2.01",
+          "fontWeight": "bold",
+          "fontSize": 15
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "以图为准，有根改无根支持",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ]
+}

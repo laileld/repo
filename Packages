@@ -305,14 +305,15 @@ Maintainer: 来了老弟
 Installed-Size: 368
 Depends: mobilesubstrate
 Filename: ./debs/rootless/QQ绿化_芭比Q可注入或越狱-rootless_0.4-3-arm64.deb
-Size: 49112
-MD5sum: be495ce14d52599699bed3fbdf21fba6
-SHA1: 7480da65f9a7b2f68bc0d5b4943797961aa5e971
-SHA256: 44b9b9b68f2701fbcf829296e70f2676b024f9fb09771bd6262462b7df440cf5
+Size: 49432
+MD5sum: 6050de71d1a3c17a53b24377718013d6
+SHA1: 660e8aa244124e57ee2f8849849131a779ab9bf6
+SHA256: b476a8a7378a4bab10c09cc0a2faf6aead7be2a8825c52b447092843ba5b593c
 Section: rootless应用插件
 Description: ***给QQ加些精简功能，芭比Q可注入可越狱使用，***。长按侧边栏的（日间）或（设置）图标，弹出设置，还有多处隐藏菜单，长按去发现。240228小更新，排版随便弄了下，QQ更新过快，每次都有新活，开发动力不大了
 Author: 来了老弟
 Name: QQ绿化_芭比Q-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.bbqzr/bbq.json
 
 Package: cn.llld.callblocker13
 Version: 2.0.3
@@ -992,14 +993,15 @@ Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker
 Conflicts: com.burritoz.cartella, com.thomz.foldy, com.spark.snowboard.dock
 Replaces: com.burritoz.cartella, com.thomz.foldy
 Filename: ./debs/rootless/folded目前最强的文件夹调整rootless.deb
-Size: 415860
-MD5sum: fc66abbbbedc165e2ea24358b4d95d57
-SHA1: e9cc0c8e18624d1f28bdd5e87677ac1b7f7f0e17
-SHA256: 7de708d8aeb6fa59a0620d0713d40c6fccf407bd15b5f921e66f9e16b64f3786
+Size: 415964
+MD5sum: 51a186f6526350abcbd68bb648fe558e
+SHA1: 1854090fea181aa068a2319105783b4ed93ba036
+SHA256: 71e993a439c4467afbf416cd06832937953c6b50ea910c64089f0c2a38dc8d60
 Section: 兼容层oldabi-rootless
 Description: Customize your folders with the most feature-rich folder tweak。自定义你的文件夹，功能最丰富的文件夹插件。出现弹窗则这个路径创立文件/var/lib/dpkg/info/xyz.burritoz.thomz.folded.list
 Author: Thomz and burrit0z
 Name: Folded文件夹增强-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.folded/folded.json
 
 Package: cn.llld.ftt
 Version: 0.1
