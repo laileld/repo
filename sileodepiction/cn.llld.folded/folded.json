@@ -22,7 +22,7 @@
                 },
                 {
           "class": "DepictionMarkdownView",
-          "markdown": "Customize your folders with the most feature-rich folder tweak。自定义你的文件夹，功能最丰富的文件夹插件。出现弹窗则这个路径创立文件/var/lib/dpkg/info/xyz.burritoz.thomz.folded.list,只要装4个，不需要过多依赖，群文件可获取。",
+          "markdown": "Customize your folders with the most feature-rich folder tweak。\n\n自定义你的文件夹，功能最丰富的文件夹插件。\n\n出现弹窗则这个路径创立文件/var/lib/dpkg/info/xyz.burritoz.thomz.folded.list,\n\n只要装4个，不需要过多依赖，群文件可获取。",
           "useRawFormat": true
         },
         {
@@ -32,23 +32,23 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.bbqzr/IMG_9222.PNG"
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.folded/IMG_9222.PNG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.bbqzr/IMG_9223.PNG"
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.folded/IMG_9223.PNG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.bbqzr/IMG_9224.PNG"
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.folded/IMG_9224.PNG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.bbqzr/IMG_9225.PNG"
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.folded/IMG_9225.PNG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.bbqzr/IMG_9226.PNG"
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.folded/IMG_9226.PNG"
             }
           ]
         },
