@@ -1260,14 +1260,15 @@ Maintainer: 来了老弟
 Installed-Size: 204
 Depends: mobilesubstrate
 Filename: ./debs/rootless/驾校一点通绿化-rootless_0.5_arm64.deb
-Size: 19784
-MD5sum: fe72b360b9df316c871911fb943dc542
-SHA1: 37647b7f11527e57adfb82a08fdd12fc53d94a47
-SHA256: 6e38ddcc97b5cf6938ce2a15b331cd621e7aa3be3be926103c3879b1f6f66f4f
+Size: 19976
+MD5sum: d249f915a6283e89c0414c67e02d9031
+SHA1: 82594467b8151fd92a04fd8ed30bb3ce9f298ac0
+SHA256: 1b0e947303ccc86aecea2ac5ceeb04e36b15f0527015e841a93a632746b85ffb
 Section: rootless应用插件
 Description: 可注入可越狱使用，祝各位拿证到手。默认去除开屏广告和动画(关梯子使用)，长按首页(底部功能栏)，或任何页面（答题）或（背题）或 (考前直播) 或(直播刷题) 弹出更多功能设置。 调试一点通版本15.4.1
 Author: 来了老弟
 Name: 驾校一点通绿化-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.jxydt/jxydt.json
 
 Package: cn.llld.jyxlss
 Version: 0.0.1
@@ -2312,15 +2313,16 @@ Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 480
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/rootless/全局透明Max-rootless_1.2-arm64.deb
-Size: 125334
-MD5sum: 036ede0551f58f80b9bc36b99c31c74f
-SHA1: ed7926a93f3bc8591500cc1225489cbc1641eab1
-SHA256: 5bbb35872811727f51bac3ba8af85c80ce146da878d82b482a680fd89ff680a9
+Size: 125440
+MD5sum: c24a757fa20b6635dc63a6e7aab5b858
+SHA1: 0b5829fd29f69d97c0206c716e1772a4a36dfafb
+SHA256: 12f011357f9e43a3262993ced8c05a1c0b2e1c0b9d0824d5f2bd875255cc97aa
 Section: rootless插件
 Description: Customize notifications, player，control center, multitasking background module transparency(alpha)，Customize the size and location of the player and control center，Each fill in the blank has a numerical value.自定义播放器大小和控制中心大小及位置，自定义SpringBoard全局透明度(包含 锁屏 ，播放器，负一屏，通知，控制中心，多任务后台模块等)----240305:增加锁屏手电相机透明度，兼顾16.2-16.3.1版本调节播放器透明度，***记得每个填空得有数值，以最新版本为准，之前代码是垃圾***
 Author: 来了老弟 X：h_h_x_t
 Icon: file:///var/jb/Library/PreferenceBundles/tmllldprefs.bundle/icons-llld/qjtmmax.png
 Name: 全局透明Max-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.tmts/tmts.json
 
 Package: cn.llld.togglow
 Version: 1.0.8
@@ -2498,22 +2500,6 @@ Name: 微信小布丁-rootful
 
 Package: cn.llld.wxx
 Version: 1.0.5
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 236
-Depends: mobilesubstrate
-Filename: ./debs/rootless/微信小布丁-rootless_1.0.5_iphoneos-arm64.deb
-Size: 23930
-MD5sum: 96f1169fe77714b750f7fe1216feb2dc
-SHA1: 5def28ef464feca0bb3b27c5e781147402f0fbfa
-SHA256: be16ef9f345fa180519c3db896e1f1f08aa2b4068e7041376c926edc356075d5
-Section: rootless应用插件
-Description: 微信小布丁1.0.5版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告（可自定义关注视频和直播中订阅号），屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***,8.0.31版本专供，高版本仅用部分功能（我自用是8.0.31，没适配高版本）
-Author: 来了老弟 X：h_h_x_t
-Name: 微信小布丁-rootless
-
-Package: cn.llld.wxx
-Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 236
@@ -2551,14 +2537,15 @@ Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 236
 Depends: mobilesubstrate
 Filename: ./debs/rootless/微信小布丁-rootless_1.0.6_arm64.deb
-Size: 26216
-MD5sum: d33158b07e10ca9345c1ae3fe0a77483
-SHA1: 6a60f5570978864599adc2b7b94509db24e5ff80
-SHA256: 116c1fcf3b49dbef84db2cf0bbf8ce1c9100901f986a03eb0a0529b4fe3f0b81
+Size: 26096
+MD5sum: 26af18dfa236c4a13a57b5758666576b
+SHA1: 0f1c0932e348c37b52d70f94545a0be93a4ca951
+SHA256: c1ccc21add41e9416e5dcc6fd35ad965b1c48ddd3b38d71278aa0a7316f33dd2
 Section: rootless应用插件
 Description: 微信小布丁1.0.6版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告（可自定义关注视频和直播中订阅号），屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数，后台模糊，界面透明等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***,8.0.31版本专供，高版本仅用部分功能（我自用是8.0.31，没适配高版本）
 Author: 来了老弟 X：h_h_x_t
 Name: 微信小布丁-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.wxx/wxx.json
 
 Package: cn.llld.wxx
 Version: 1.0.6
@@ -2994,14 +2981,15 @@ Maintainer: 来了老弟
 Installed-Size: 204
 Depends: mobilesubstrate
 Filename: ./debs/rootless/最右绿化-rootless_1.2_iphoneos-arm64.deb
-Size: 16304
-MD5sum: 6351675b1f99c10f4daf015a3fff3fe4
-SHA1: 7bf773da25560990c9dec433bc66eadfa46dec13
-SHA256: af639cdf990b1a62b5c6250fe50031aaba0ed1be09af4fb651b4d50e6c2c9a60
+Size: 16356
+MD5sum: 058342272a03d88866badbde7f45e9b3
+SHA1: bc32a52008ecd3f62fc6a142b0d8e301d6ba6ebb
+SHA256: f79f47c826b5e0a66e16dd6e32de27aa23522415a4c310c790df97206920e284
 Section: rootless应用插件
 Description: 可注入可越狱使用。去除启动页视频图片摇一摇广告，去除首页推荐和帖子评论区广告，去除帖子下群组社区推荐，禁用首页左上角话题，禁用首页右上角搜索，禁用推送广告，禁用消息角标，开启全屏视频浏览模式，开启视频下载无水印，等等。***'我的'页面长按头像下方控件或首页顶栏或任意帖子内顶部，弹出设置***。
 Author: 来了老弟
 Name: 最右绿化-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.zyll/zyll.json
 
 Package: cn.tool.aphrodite-debug
 Version: 0.6.13~Modify
