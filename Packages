@@ -1644,6 +1644,40 @@ Description: ***给皮皮搞笑加点小功能，皮皮搞笑绿化可注入可�
 Author: 来了老弟
 Name: 皮皮搞笑绿化-rootless
 
+Package: cn.llld.ppgxll
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/rootless/皮皮搞笑绿化-rootless_1.1_iphoneos-arm64.deb
+Size: 17748
+MD5sum: 62b191a9f3215fefb2cc298e0b609e3e
+SHA1: 8bb1d4e1e78774eab08bdda3f2ff9202a9654f62
+SHA256: 5cc99918910e80bfeff84cf0310999e2d1f65322e4ad6d4368ae843433733b06
+Section: rootless应用插件
+Description: 皮皮搞笑绿化，可注入可越狱使用，去除视频下载水印，禁用评论区推荐广告，禁用信息流广告，禁用角标红点消息气泡，禁用右下角悬浮刷新按钮，禁用下载视频后的分享界面，禁用启动视频图片摇一摇广告，等等。***在'主页'长按顶栏 和帖子写评论下方长按 和'我的'页面长按下面任意功能，弹出设置。***调试版本：2.90.0，进入播放页右上角无水印下载。
+Author: 来了老弟
+Name: 皮皮搞笑绿化-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.ppgxll/ppgxll.json
+
+Package: cn.llld.ppgxll
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/roothide/皮皮搞笑绿化-roothide_1.1_iphoneos-arm64e.deb
+Size: 17082
+MD5sum: 533d3450b2f619375ae5110ef79d715f
+SHA1: 5ee01fc358651d5d65c934231f7495b98e9f8fb3
+SHA256: 33767facffa25dc3b5e92c659689a061ddae7f31f24836685841a06a3fef6f85
+Section: roothide应用插件
+Description: 皮皮搞笑绿化，可注入可越狱使用，去除视频下载水印，禁用评论区推荐广告，禁用信息流广告，禁用角标红点消息气泡，禁用右下角悬浮刷新按钮，禁用下载视频后的分享界面，禁用启动视频图片摇一摇广告，等等。***在'主页'长按顶栏 和帖子写评论下方长按 和'我的'页面长按下面任意功能，弹出设置。***调试版本：2.90.0，进入播放页右上角无水印下载。
+Author: 来了老弟
+Name: 皮皮搞笑绿化-roothide
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.ppgxll/ppgxll.json
+
 Package: cn.llld.qqdsq
 Version: 0.000001
 Architecture: iphoneos-arm64e

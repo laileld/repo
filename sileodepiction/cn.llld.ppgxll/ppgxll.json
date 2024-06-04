@@ -1,0 +1,126 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "",
+  "tintColor": "#FF4455",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "插件描述",
+      "views": [
+         {
+                    "text":"FT悬浮翻译Q群",
+                    "action":"https://qm.qq.com/q/boCIKeXoX",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },      
+                {
+                    "text":"低月租高流量卡",
+                    "action":"https://haoka.iosrxwy.com/phone/index?id=51988E4215572FDE7B61C1A06B253F35",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },
+                {
+          "class": "DepictionMarkdownView",
+          "markdown": "皮皮搞笑绿化，可注入可越狱使用，去除视频下载水印，禁用评论区推荐广告，禁用信息流广告，禁用角标红点消息气泡，禁用右下角悬浮刷新按钮，禁用下载视频后的分享界面，禁用启动视频图片摇一摇广告，等等。***在'主页'长按顶栏 和帖子写评论下方长按 和'我的'页面长按下面任意功能，弹出设置。***调试版本：2.90.0，进入播放页右上角无水印下载。",
+          "useRawFormat": true
+        },
+        {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+        {
+              "accessibilityText": "Screenshot",
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.ppgxll/9523.jpg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.ppgxll/9524.jpg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.ppgxll/9525.jpg"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "来了老弟 h_h_x_t",
+          "title": "开发作者"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.1",
+          "title": "最新版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "14.0 - 16.5不等",
+          "title": "支持系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 6 月 4日",
+          "title": "最后更新日期"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+               {
+                    "class": "DepictionLayerView",
+                    "views": [
+                        {
+                            "class": "DepictionLabelView",
+                            "text": "0.1",
+                            "fontWeight": "bold",
+                            "fontSize": 17
+                        },
+                        {
+                            "class": "DepictionLabelView",
+                            "text": "2024-6-4",
+                            "fontWeight": "semibold",
+                            "fontSize": 17,
+                            "textColor": "#696969",
+                            "alignment": 2
+                        }
+                    ]
+                },
+
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "无，以图和实际操作为主",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ]
+}
