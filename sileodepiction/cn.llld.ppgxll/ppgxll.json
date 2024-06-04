@@ -100,7 +100,7 @@
                     "views": [
                         {
                             "class": "DepictionLabelView",
-                            "text": "0.1",
+                            "text": "1.1",
                             "fontWeight": "bold",
                             "fontSize": 17
                         },
@@ -117,7 +117,7 @@
 
         {
           "class": "DepictionMarkdownView",
-          "markdown": "无，以图和实际操作为主",
+          "markdown": "无，以图和实际操作为主，最优版本2.90.0",
           "useRawFormat": true
         }
       ]
