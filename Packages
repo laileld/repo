@@ -1818,6 +1818,42 @@ Author: 来了老弟
 Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyxf.png
 Name: FloatingReplacement悬浮替换翻译汉化
 
+Package: cn.llld.qsyy
+Version: 2.2.0-12
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 5408
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/rootless/cn.llld.qsyy_2.2.0-12_arm64.deb
+Size: 1924610
+MD5sum: cb6dc6fee4ae8e189b449c18f4bb83fc
+SHA1: ac43ccc21708942ae8d5269b6ee4d3936d95416e
+SHA256: cd13c72b3fc5e4fd9fe48691708303d3e6c70bc314d66b77a0217c1aaff0635d
+Section: rootless应用插件
+Description: A floating window tool that supports batch text replacement, this version adds reddit and iCleaner Pro, as well as phone, support Text replacement in settings, support phone modification of contact, modification of time, modification of call record，Custom text replacement, custom text size, custom text view width, height, custom text view horizontal and vertical coordinates, custom text color, custom text font, custom text transparency etc.,More uses waiting for you to discover, it is strongly recommended to upgrade.***一款支持批量替换文本的悬浮窗工具***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：分屏，自动翻译修改通话时间，修改联系人，修改通话记录，翻译替换文本，自定义文字替换，自定义文字大小，自定义文字视图宽度，高度，自定义文字视图横向纵向的坐标，自定义文字颜色，自定义文字字体，自定义文字透明度，隐藏设备实际信息，靓仔装逼等(非所有文字，个别函数需要等我适配)。之前代码是垃圾，一切以最新版为准，提示：装了非真皮120或全局篡改插件的设备，不要装此插件，这只是应用类插件，不会影响到系统全局或桌面。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyxf.png
+Name: FT悬浮文本增强替换翻译汉化
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/fy.json
+
+Package: cn.llld.qsyy
+Version: 2.2.0-12
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 5392
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/rootful/cn.llld.qsyy_2.2.0-12_arm.deb
+Size: 1929424
+MD5sum: 9a054fabb2d1c3edf9a7375950bff0a7
+SHA1: 1ff9dc58a3cb96f2f9a21932d46454a4910134c1
+SHA256: 57df7edfbd3e9b630e98868c23cb13ee065117e15b1271548ee0756d5892e267
+Section: rootless应用插件
+Description: A floating window tool that supports batch text replacement, this version adds reddit and iCleaner Pro, as well as phone, support Text replacement in settings, support phone modification of contact, modification of time, modification of call record，Custom text replacement, custom text size, custom text view width, height, custom text view horizontal and vertical coordinates, custom text color, custom text font, custom text transparency etc.,More uses waiting for you to discover, it is strongly recommended to upgrade.***一款支持批量替换文本的悬浮窗工具***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：分屏，自动翻译修改通话时间，修改联系人，修改通话记录，翻译替换文本，自定义文字替换，自定义文字大小，自定义文字视图宽度，高度，自定义文字视图横向纵向的坐标，自定义文字颜色，自定义文字字体，自定义文字透明度，隐藏设备实际信息，靓仔装逼等(非所有文字，个别函数需要等我适配)。之前代码是垃圾，一切以最新版为准，提示：装了非真皮120或全局篡改插件的设备，不要装此插件，这只是应用类插件，不会影响到系统全局或桌面。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyxf.png
+Name: FT Plus
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/fy.json
+
 Package: cn.llld.randomiconsflip
 Version: 0.3-20
 Architecture: iphoneos-arm64
