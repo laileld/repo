@@ -22,7 +22,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "A floating window tool that supports batch text replacement, this version adds reddit and iCleaner Pro, as well as phone, support Text replacement in settings, support phone modification of contact, modification of time, modification of call record，Custom text replacement, custom text size, custom text view width, height, custom text view horizontal and vertical coordinates, custom text color, custom text font, custom text transparency etc.,More uses waiting for you to discover, it is strongly recommended to upgrade.***一款支持批量替换文本的悬浮窗工具，具体看图或者更新日志***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：分屏，自动翻译修改通话时间，修改联系人，修改通话记录，翻译替换文本，自定义文字替换，自定义文字大小，自定义文字视图宽度，高度，自定义文字视图横向纵向的坐标，自定义文字颜色，自定义文字字体，自定义文字透明度，隐藏设备实际信息，靓仔装逼等(非所有文字，个别函数需要等我适配)。之前代码是垃圾，一切以最新版为准，提示：装了非真皮120或全局篡改插件的设备，不要装此插件，这只是应用类插件，不会影响到系统全局或桌面。QQ群375346482",
+          "markdown": "A floating window tool that supports batch text replacement, this version adds reddit and iCleaner Pro, as well as phone, support Text replacement in settings, support phone modification of contact, modification of time, modification of call record，Custom text replacement, custom text size, custom text view width, height, custom text view horizontal and vertical coordinates, custom text color, custom text font, custom text transparency etc.,More uses waiting for you to discover, it is strongly recommended to upgrade.***一款支持批量替换文本的悬浮窗工具（不止于此），具体看图和更新日志***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：分屏，自动翻译修改通话时间，修改联系人，修改通话记录，翻译替换文本，自定义文字替换，自定义文字大小，自定义文字视图宽度，高度，自定义文字视图横向纵向的坐标，自定义文字颜色，自定义文字字体，自定义文字透明度，隐藏设备实际信息，靓仔装逼等(非所有文字，个别函数需要等我适配)。之前代码是垃圾，一切以最新版为准，提示：装了全局篡改插件的设备，不要装此插件，这只是应用类插件，不会影响到系统全局或桌面。QQ群375346482，视频教程或文件在其中",
           "useRawFormat": true
         },
         {
@@ -88,7 +88,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2.2.1-1",
+          "text": "2.2.1-5",
           "title": "最新版本"
         },
         {
@@ -98,7 +98,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2024 年 6 月 11日",
+          "text": "2024 年 6 月 17日",
           "title": "最后更新日期"
         },
         {
@@ -122,7 +122,7 @@
             },
             {
               "class": "DepictionLabelView",
-              "text": "编辑于240603，待发布日期",
+              "text": "2024-06-06",
               "fontWeight": "semibold",
               "fontSize": 17,
               "textColor": "#696969",
