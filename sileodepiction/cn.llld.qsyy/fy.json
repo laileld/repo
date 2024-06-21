@@ -92,17 +92,17 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2.2.2-2",
+          "text": "2.2.2-4",
           "title": "最新版本"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "14-17 有根无根隐根伪根半越狱",
+          "text": "14-17 无根隐根半越狱",
           "title": "支持系统"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2024 年 6 月 19日",
+          "text": "2024 年 6 月 21日",
           "title": "最后更新日期"
         },
         {
@@ -115,6 +115,29 @@
       "class": "DepictionStackView",
       "tabname": "更新日志",
       "views": [
+         {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.2.2-4",
+              "fontWeight": "bold",
+              "fontSize": 17
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "2024-06-21",
+              "fontWeight": "semibold",
+              "fontSize": 17,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "---新增几处UI自定义\n\n---隐藏多处开关和选项，新手更容易懂\n\n---老手新建文件用多功能\n\n---精简一些代码，改错别字，视图变更随你配置走，而非默认值\n\n---去掉几处功能，加入中文分字，一键合并一键拆分，还有几处细节处理，，，，，，"
+        },
         {
           "class": "DepictionLayerView",
           "views": [
