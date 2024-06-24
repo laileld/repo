@@ -3082,6 +3082,22 @@ Description: 可注入可越狱使用。自定义步数，屏蔽越狱检测，�
 Author: 来了老弟 X：h_h_x_t
 Name: 支付宝步数XD-rootful
 
+Package: cn.llld.zfbb
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/rootless/支付宝步数XD-rootless_1.2_iphoneos-arm64.deb
+Size: 18146
+MD5sum: 03fd95ce94a04af56965db05bb753b5a
+SHA1: e363486e15e9b68bec9ed9331e5d770097ed7395
+SHA256: 3dbabe90f6e82ae7103e4b827d550c6624ddef665601e5f0e77b4e298f4cc75b
+Section: rootless应用插件
+Description: 可注入可越狱使用。自定义步数，屏蔽越狱检测(代码半年没动了)，精简主页显示内容.***长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置***,支持任意版本。0303:增加移除理财。自行设置里关了视频，底部就居中了
+Author: 来了老弟 X：h_h_x_t
+Name: 支付宝步数XD-rootless
+
 Package: cn.llld.zyll
 Version: 1.1
 Architecture: iphoneos-arm64
