@@ -1377,15 +1377,16 @@ Maintainer: 来了老弟
 Installed-Size: 9200
 Depends: mobilesubstrate
 Filename: ./debs/rootless/Panel Tools_1.2.0-2-rootless-arm64.deb
-Size: 3647070
-MD5sum: b38394ab200ee30a4b624d857356aef6
-SHA1: e909663ac970cd3886d98c859deaa3ee3454d157
-SHA256: b0204da35177bc9a87003ace3e45bf7b5841e6978ec46d00d27be8c20cbfbf88
+Size: 3645940
+MD5sum: 7c3cbbaa8f7db6821a6b0927ff29ccd0
+SHA1: 6aa0f892b0d0ab06c356a2c97ec7a401720ab9fc
+SHA256: dba2f982107556eba4675fe276e221a71497bf9332b7031262c5b162069efb8e
 Section: rootless插件
 Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色等。更多待新增功能补充。
 Author: 来了老弟
 Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
 Name: Panel-Tools(keyboard)
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
 
 Package: cn.llld.kbtool
 Version: 1.2.0-2
@@ -1394,15 +1395,16 @@ Maintainer: 来了老弟
 Installed-Size: 9216
 Depends: mobilesubstrate
 Filename: ./debs/rootful/Panel Tools_1.2.0-2-rootful-arm.deb
-Size: 3640108
-MD5sum: 0f3cf61fc49a4ad82755ff56819411e8
-SHA1: da1c749cbaea7b1b4a31efad1da2b531628c9d37
-SHA256: 0d2785b0637b13217d711cb9ab9c29350787d0322efa4e62850d21c19b0119da
-Section: rootless插件
+Size: 3640192
+MD5sum: 0aa9866147a69f6ba6ee8c9520f221fc
+SHA1: 6e223cf8164d0f492bfaeff4633d125f8cc6016d
+SHA256: be57dcd621a0858f8c267115fe1e394b215cf528c93a1b448634a24fb9fcb4f5
+Section: rootful插件
 Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色等。更多待新增功能补充。
 Author: 来了老弟
 Icon: file:///Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
 Name: Panel-Tools(keyboard)
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
 
 Package: cn.llld.keyboard
 Version: 1.0

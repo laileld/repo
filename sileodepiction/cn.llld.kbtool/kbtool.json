@@ -1,0 +1,214 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "",
+  "tintColor": "#FF4455",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "插件描述",
+      "views": [
+        {
+          "text": "FT悬浮翻译Q群",
+          "action": "https://qm.qq.com/q/boCIKeXoX",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "text": "低月租高流量卡",
+          "action": "https://haoka.iosrxwy.com/phone/index?id=51988E4215572FDE7B61C1A06B253F35",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。呼出Copyvault和kayoko粘贴板，与snapper2和ft悬浮交互，更多待新增功能补充。",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/IMG_3395.PNG"
+      },
+      {
+       "accessibilityText": "Screenshot",
+       "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/IMG_3396.PNG"
+      },
+      {
+       "accessibilityText": "Screenshot",
+       "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/IMG_3397.PNG"
+      },
+      {
+       "accessibilityText": "Screenshot",
+       "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/IMG_3398.PNG"
+      },
+      {
+       "accessibilityText": "Screenshot",
+       "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/IMG_3399.PNG"
+      },
+      {
+       "accessibilityText": "Screenshot",
+       "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/IMG_3400.PNG"
+      },
+      {
+       "accessibilityText": "Screenshot",
+       "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/IMG_3401.PNG"
+      },
+      {
+       "accessibilityText": "Screenshot",
+       "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/IMG_3402.PNG"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "来了老弟 h_h_x_t",
+          "title": "开发作者"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.2.0-2",
+          "title": "最新版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "14-17有无根隐根半越狱",
+          "title": "支持系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 7 月 6日",
+          "title": "最后更新日期"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+         {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "1.2.0-2",
+              "fontWeight": "bold",
+              "fontSize": 17
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "2024-07-06",
+              "fontWeight": "semibold",
+              "fontSize": 17,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+       {
+          "class": "DepictionMarkdownView",
+          "markdown": "用前请关闭搜索栏显示建，控制搜索按钮排序后再开\n\n\n\n---新增几处UI自定义\n\n---新增搜索栏按键排序\n\n---修改全选上滑，无缝切换单行和双行的显示\n\n---精简一些代码，改错别字，修复部分键盘需要粘贴2次的问题\n\n---去掉2处功能，还有几处细节处理"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "1.1.3",
+              "fontWeight": "bold",
+              "fontSize": 17
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "2024-07-05",
+              "fontWeight": "semibold",
+              "fontSize": 17,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Panel Tools \n\n键盘增强1.1至1.1.3-1版本，更新日志：\n\n1---排版重写，算是大改，重新归类\n\n2---关闭键下滑是清空文本\n\n3---增加粘贴键，把注释得注释键也放回来了\n\n4---长按表情里的长按，改成点击就输出\n\n5---增加换行键的上划手势，也是文生图 (图片名：换行上.jpg)，这个可以控制文字的位置等。\n\n6---单行的(搜索栏和文本框)按钮，可以自己控制开和关，也就是本来默认的键，你自己决定是否显示\n\n7---增加点击振动和手势或长按振动的开关和快捷指令（测试版）。\n\n8---清空文生图加了个开关按钮(有概率图没发出字没了，自己决定去留哈)。新增粘贴下滑呼出Copyvault和kayoko粘贴板\n\n更多处改变看设置"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "1.0",
+              "fontWeight": "bold",
+              "fontSize": 17
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "2024-06-30",
+              "fontWeight": "semibold",
+              "fontSize": 17,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "---PT面板\n\n\n可理解为键盘增强，和以往不同的是这在键盘上方显示(支持iOS自带键盘和任意第三方)，有单行和双行功能\n\n\n支持传统的复制粘贴(文字和图片)\n\n\n注释选中文字，注释全文\n\n\n光标左移和右移，上移和下移\n\n\n换行，关闭键盘\n\n\n也是个迷你计算器，支持数字计算(输入计算公式，长按'关闭'键得出计算结果)\n\n\n\n\n\n---插件特色：和FT悬浮交互(文字复制直接呼出FT功能面板)，和snapper2.3也交互，下滑'复制键'发出图片或粘贴文本，上滑复制弹出截图显示(双击删图，可双指捏放，拖动，悬停)\n\n\n---长按'全选'可统计字符，下滑'全选'可替换全文内容\n\n\n---送个小功能：文生图，下滑'换行'即可把字带图发出或取消(只要应用支持粘贴图片，那都可以。比如：QQ，微信，swiftgram，telegram，nicegram等等)，且文生图的背景可以你自定义，图片放在应用数据目录Documents下，叫做llld.jpg即可。\n\n\n\n\n\n---这是初版，更多待补充"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "0.1",
+              "fontWeight": "bold",
+              "fontSize": 17
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "2024-06-26",
+              "fontWeight": "semibold",
+              "fontSize": 17,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "建立文件夹",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ]
+}
