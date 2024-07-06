@@ -1353,6 +1353,23 @@ Author: 来了老弟
 Icon: file:///Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
 Name: Panel-Tools(keyboard)
 
+Package: cn.llld.kbtool
+Version: 1.2.0-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 9248
+Depends: mobilesubstrate
+Filename: ./debs/rootless/Panel Tools_1.2-rootless-arm64.deb
+Size: 3654440
+MD5sum: 01814c8caefcc80e95bb535c7af492d0
+SHA1: db5d63d831868b73f0613e9256f6e5082df4609d
+SHA256: cb06308c4a552950d315e19d6e2c2a293f078378c27948cb93bc2daebcc5a791
+Section: rootless插件
+Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色等。更多待新增功能补充。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
+Name: Panel-Tools(keyboard)
+
 Package: cn.llld.keyboard
 Version: 1.0
 Architecture: iphoneos-arm64e
