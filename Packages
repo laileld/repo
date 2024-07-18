@@ -2412,6 +2412,23 @@ Description: The ultimate tweak to customize your notifications such as adding c
 Author: Elias Sfeir
 Name: SmartNotifications 2-rootless
 
+Package: cn.llld.snapshottool
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 1560
+Depends: mobilesubstrate
+Filename: ./debs/rootless/SnapshotTool_0.1_iphoneos-arm64.deb
+Size: 1242102
+MD5sum: 6982c1d2da5f52c6fb44a1e76ad6e25e
+SHA1: 6f6cc1bda554c230dd8aa2598f67a301412052bd
+SHA256: 639e00ae4cd311aca51959c24cdbc9fb84e9264b1876b2c06d3fcd6d3b1c565b
+Section: rootless应用插件
+Description: Snapshot sharing and copying, simplified version(Usage: Touch the image with both fingers)---对于图片的共享和复制到剪切板功能，简化版(免费版)。***使用方法：双指触摸图片即可(非100%应用或场景)***
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
+Name: SnapshotTool
+
 Package: cn.llld.speaknotification
 Version: 1.8.19
 Architecture: iphoneos-arm64
