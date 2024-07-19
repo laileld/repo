@@ -2413,21 +2413,38 @@ Author: Elias Sfeir
 Name: SmartNotifications 2-rootless
 
 Package: cn.llld.snapshottool
-Version: 0.1
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
-Installed-Size: 1560
+Installed-Size: 1580
 Depends: mobilesubstrate
-Filename: ./debs/rootless/SnapshotTool_0.1_iphoneos-arm64.deb
-Size: 1242102
-MD5sum: 6982c1d2da5f52c6fb44a1e76ad6e25e
-SHA1: 6f6cc1bda554c230dd8aa2598f67a301412052bd
-SHA256: 639e00ae4cd311aca51959c24cdbc9fb84e9264b1876b2c06d3fcd6d3b1c565b
+Filename: ./debs/rootless/STTool_1.0_iphoneos-arm64.deb
+Size: 1251026
+MD5sum: 81506a67b97b4a32ac40ed54e9e5cd25
+SHA1: 038e712fa3c70651fe08f0bdd0bcfbf8d63028a1
+SHA256: f220155634ca0ec6148f31bab3286d316fe01fcc8593fe3a12c12eb328d863dc
 Section: rootless应用插件
 Description: Snapshot sharing and copying, simplified version(Usage: Touch the image with both fingers)---对于图片的共享和复制到剪切板功能，简化版(免费版)。***使用方法：双指触摸图片即可(非100%应用或场景)***
 Author: 来了老弟
 Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
-Name: SnapshotTool
+Name: STTool
+
+Package: cn.llld.snapshottool
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 1580
+Depends: mobilesubstrate
+Filename: ./debs/rootful/STTool_1.0_iphoneos-arm.deb
+Size: 1251104
+MD5sum: d38f1bea06b9db3f73f9382a92f37577
+SHA1: 639999b3c5a2be9e8156c967d06122f3efd681d0
+SHA256: 558fff49ecc8f2c680045227d5f09ba73a60092f1e05a252942a3a327aee57bb
+Section: rootful应用插件
+Description: Snapshot sharing and copying, simplified version(Usage: Touch the image with both fingers)---对于图片的共享和复制到剪切板功能，简化版(免费版)。***使用方法：双指触摸图片即可(非100%应用或场景)***
+Author: 来了老弟
+Icon: file:///Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
+Name: STTool
 
 Package: cn.llld.speaknotification
 Version: 1.8.19
