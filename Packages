@@ -267,22 +267,6 @@ Author: 来了老弟
 Name: 芭比Q注入版-rootful
 
 Package: cn.llld.bbqzr
-Version: 0.4
-Architecture: iphoneos-arm
-Maintainer: 来了老弟
-Installed-Size: 348
-Depends: mobilesubstrate
-Filename: ./debs/rootful/QQ绿化_芭比Q-rootful_0.4_arm.deb
-Size: 47020
-MD5sum: 20968e06957040b922ffad155a0943c1
-SHA1: ab0b5ec38971ff8734689d1451ff171662b4d4aa
-SHA256: 139440039b5e68ce5f385c62f51e9823faa3d1049cfcc388bbc594af9552e2db
-Section: rootful插件
-Description: ***给QQ加些精简功能，芭比Q可注入可越狱使用，***。长按侧边栏的（日间）或（设置）图标，弹出设置，还有多处隐藏菜单，长按去发现。240228小更新，排版随便弄了下，QQ更新过快，每次都有新活，开发动力不大了
-Author: 来了老弟
-Name: QQ绿化_芭比Q-rootful
-
-Package: cn.llld.bbqzr
 Version: 0.4-4
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
@@ -1420,6 +1404,42 @@ MD5sum: e1c5929337f3cf843b32af5f7515ba09
 SHA1: 786ea165e0a799178378283b67a339bc25bfd7b8
 SHA256: aabd38dbae2c756af76e9582661f9772f5e00e47e991a91fcb0f7651bf64d79c
 Section: rootless应用插件
+Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。粘贴下滑呼出Copyvault和kayoko粘贴板，复制或上下滑snapper2和ft悬浮交互，更多待新增功能补充。
+Author: 来了老弟
+Icon: file:///Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
+Name: Panel-Tools(keyboard)
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
+
+Package: cn.llld.kbtool
+Version: 1.4.0-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 14400
+Depends: mobilesubstrate
+Filename: ./debs/rootless/Panel Tools键盘之上工具栏-1.4-rootless-arm64.deb
+Size: 3713454
+MD5sum: 62fe141cf7a5f9384104d8c616515925
+SHA1: 2d8a63e0895d1bff0ed1bfa78ed0f0d29813fe98
+SHA256: cad05230e507429694f04aeec060151974ab6e54d0d3405cda716cac65c1f8d0
+Section: rootless应用插件
+Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。粘贴下滑呼出Copyvault和kayoko粘贴板，复制或上下滑snapper2和ft悬浮交互，更多待新增功能补充。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
+Name: Panel-Tools(keyboard)
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
+
+Package: cn.llld.kbtool
+Version: 1.4.0-1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 14624
+Depends: mobilesubstrate
+Filename: ./debs/rootful/Panel Tools键盘之上工具栏-1.4-rootful-arm.deb
+Size: 3736432
+MD5sum: e89676903208ed68fd1961ee79feb827
+SHA1: b1bd04374a45aced1174155a72b613ced0736ef0
+SHA256: 802fc897a0fc1a6cb50d4b4ecf154a05d2e95a5837cd526c46c597e34a9325e7
+Section: rootful应用插件
 Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。粘贴下滑呼出Copyvault和kayoko粘贴板，复制或上下滑snapper2和ft悬浮交互，更多待新增功能补充。
 Author: 来了老弟
 Icon: file:///Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
@@ -2747,38 +2767,6 @@ Section: rootless-wx插件
 Description: 允许WX在聊天界面时跟随系统自动锁屏,wx默认是5分钟的
 Author: iBreak
 Name: WX跟随系统锁屏-rootless
-
-Package: cn.llld.wxx
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 220
-Depends: mobilesubstrate
-Filename: ./debs/rootful/微信小布丁-rootful_1.0.3-arm.deb
-Size: 21256
-MD5sum: c67534ef7eff82100715feaddcf6579c
-SHA1: 9e54f0e510aed715382932e34501bedf166ce44e
-SHA256: e49a4344a18f5cbc281adcaf28778dd98ac62dd1f9cb25bc3868cd8699124409
-Section: rootful插件
-Description: 微信小布丁1.0.3版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告，屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***，只限8.0.31微信版本，若是注入用，记得开自动依赖
-Author: 来了老弟 X：h_h_x_t
-Name: 微信小布丁-rootful
-
-Package: cn.llld.wxx
-Version: 1.0.4-2
-Architecture: iphoneos-arm
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 236
-Depends: mobilesubstrate
-Filename: ./debs/rootful/微信小布丁-rootful_1.0.4-2_iphoneos-arm.deb
-Size: 22966
-MD5sum: d8ece4b38ced08ec7f0f71493dc3ecb1
-SHA1: d814947f7729b02ce0514e55b25d9ff94e661fa3
-SHA256: a12c965d095b18763a0948c8498ec7a830f449495fe6feb5fcc4ed35fcf64276
-Section: rootful应用插件
-Description: 微信小布丁1.0.4版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告，屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***,8.0.31版本专供，高版本仅用部分功能（我自用是8.0.31，没适配高版本）
-Author: 来了老弟 X：h_h_x_t
-Name: 微信小布丁-rootful
 
 Package: cn.llld.wxx
 Version: 1.0.5

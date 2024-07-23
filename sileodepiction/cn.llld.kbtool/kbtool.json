@@ -92,7 +92,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.3",
+          "text": "1.4",
           "title": "最新版本"
         },
         {
@@ -102,7 +102,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2024 年 7 月 12日",
+          "text": "2024 年 7 月 23日",
           "title": "最后更新日期"
         },
         {
@@ -120,13 +120,36 @@
           "views": [
             {
               "class": "DepictionLabelView",
-              "text": "1.3",
+              "text": "1.4",
               "fontWeight": "bold",
               "fontSize": 17
             },
             {
               "class": "DepictionLabelView",
-              "text": "2024-07-12",
+              "text": "2024-07-23",
+              "fontWeight": "semibold",
+              "fontSize": 17,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Panel Tools\n\n1.4版本 实际更新日志如下：\n\n\n\n以下是修改后的代码：\n\n1：新增搜索栏 '换行键' 左滑文本开头，右滑文本结尾   手势。\n\n2：新增上划'粘贴键'全选在粘贴 (可理解为清空内容再粘贴)。\n\n3：新增'😄' '注释键' 右滑加入 输入框  (直接输入内容，不用去设置)。比如：  【这可以备注名称】123。点击则输出： 123。\n\n4：改 '笑脸' 上划和 '注释'下滑一致。\n\n5： 新增挺多人需求的，自定义按键文字或 SF 图标  ， 此项会给设置中加入很多输入框 (近 20 个)，Symbols 图标自行选择需要的填入。1，2 秒就生效。\n\n6：设置里新增两个清除键，快捷 api 和 表情 (备忘录，便签)。\n\n7：一键跳配置文件(需安装了 filza)，自己决定是删除还是复制到某个地方备份，我就不指定路径了。\n\n8：/var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/目录下文件，可自己设定 输入框的显示长度，修改 height 值 即可。"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "1.2.0-2",
+              "fontWeight": "bold",
+              "fontSize": 17
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "2024-07-06",
               "fontWeight": "semibold",
               "fontSize": 17,
               "textColor": "#696969",
