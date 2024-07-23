@@ -289,14 +289,15 @@ Maintainer: 来了老弟
 Installed-Size: 368
 Depends: mobilesubstrate
 Filename: ./debs/rootless/QQ绿化_芭比Q-rootless_0.4-4-arm64.deb
-Size: 49762
-MD5sum: 45e585af544d2aa0d2e715491ed07fc0
-SHA1: d6c16aac8812e1ab35481a1298b85eebebded712
-SHA256: d759f15e0000c583d135157b1c0928c3bdde52866025beb0c6134666b17464a5
+Size: 49932
+MD5sum: c9e27775b03b478ca32a824665ca7fc3
+SHA1: 384c70d70f2b175b281962746296df53dee5e301
+SHA256: 837a855372c7942826555b610c355fcfbbc87813d35a9c9e277d436187a06ef2
 Section: rootless插件
 Description: ***给QQ加些精简功能，芭比Q可注入可越狱使用，***。长按侧边栏的（日间）或（设置）图标，弹出设置，还有多处隐藏菜单，长按去发现。240228小更新，排版随便弄了下，QQ更新过快，每次都有新活，开发动力不大了
 Author: 来了老弟
 Name: QQ绿化_芭比Q-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.bbqzr/bbq.json
 
 Package: cn.llld.callblocker13
 Version: 2.0.3
@@ -3173,22 +3174,6 @@ Section: roothide修复插件
 Description: Store desktop apps, stack apps。This is the first version with fixes (the + icon is not displayed but can be used, it will be fixed in the next version)。插件用途：一个桌面图标通过上划或下滑手势，存着多个应用。收纳桌面App，堆叠App，这是发出修复的初版(+号图标不显示但能用，下版本修复)_________仅测试用,有问题卸载---roothide
 Author: Muirey03 来了老弟
 Name: Zenith(Apex)App堆叠-roothide
-
-Package: cn.llld.zfbb
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: ./debs/rootless/支付宝步数XD-rootless_1.0_iphoneos-arm64.deb
-Size: 16604
-MD5sum: fcd85d0a8144f292c7bb63c3eabfe07c
-SHA1: fefe86b5a9b1ae699280ea0fb89e57c01fe3c553
-SHA256: 34979e9f8dbed4e88669f99a29dccbec7fa17e8fff616da5a3a74c79d10992fe
-Section: rootless应用插件
-Description: 可注入可越狱使用。自定义步数，屏蔽越狱检测，精简主页显示内容.***长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置***,支持任意版本。有问题记得反馈，这是初版，芭比Q群探讨
-Author: 来了老弟 X：h_h_x_t
-Name: 支付宝步数XD-rootless
 
 Package: cn.llld.zfbb
 Version: 1.1
