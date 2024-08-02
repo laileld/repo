@@ -3228,21 +3228,20 @@ Author: 来了老弟
 Name: 最右绿化-rootless
 
 Package: cn.llld.zyll
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: ./debs/rootless/最右绿化-rootless_1.2_iphoneos-arm64.deb
-Size: 16404
-MD5sum: 30d232b046317c1d1b8adff28c51ee3b
-SHA1: bcba30eeff0a17292044290a2008856febc7c5c6
-SHA256: 443801c7df7047fe6e1ec947d913fd6a1a9b48e9028c393357dadfa4ef3d8e98
-Section: rootless应用插件
-Description: 可注入可越狱使用。去除启动页视频图片摇一摇广告，去除首页推荐和帖子评论区广告，去除帖子下群组社区推荐，禁用首页左上角话题，禁用首页右上角搜索，禁用推送广告，禁用消息角标，开启全屏视频浏览模式，开启视频下载无水印，等等。***'我的'页面长按头像下方控件或首页顶栏或任意帖子内顶部，弹出设置***高版本最右卡开屏，降到2.3月前的版本，或者装ft悬浮去开屏也行（支持最右任意版本）。
+Filename: ./debs/rootless/最右绿化-rootless_1.3_iphoneos-arm64.deb
+Size: 16184
+MD5sum: 7e4a59133e6957a2de0b50654b8cb8ef
+SHA1: 413af245da8c12a7b1cf8969a5147055ab1e5c23
+SHA256: b0f5074845f3168b856bb2079fc26d672f1d59a8c2deda75e5c9436f91e51abc
+Section: rootless插件
+Description: 可注入可越狱使用。去除启动页视频图片摇一摇广告，去除首页推荐和帖子评论区广告，去除帖子下群组社区推荐，禁用首页左上角话题，禁用首页右上角搜索，禁用推送广告，禁用消息角标，开启全屏视频浏览模式，开启视频下载无水印，等等。***'我的'页面长按头像下方控件或首页顶栏或任意帖子内顶部，弹出设置***。建议用6.0.9版本或以内的，新版本除了臃肿增加广告以外，一无是处。
 Author: 来了老弟
 Name: 最右绿化-rootless
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.zyll/zyll.json
 
 Package: cn.tool.aphrodite-debug
 Version: 0.6.13~Modify
