@@ -92,7 +92,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.4",
+          "text": "1.5.1",
           "title": "最新版本"
         },
         {
@@ -102,7 +102,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2024 年 7 月 23日",
+          "text": "2024 年 7 月 26日",
           "title": "最后更新日期"
         },
         {
@@ -115,6 +115,29 @@
       "class": "DepictionStackView",
       "tabname": "更新日志",
       "views": [
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "1.5.1",
+              "fontWeight": "bold",
+              "fontSize": 17
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "2024-07-26",
+              "fontWeight": "semibold",
+              "fontSize": 17,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "--新增键盘工具明亮和暗黑的底色自定义\n\n--新增上滑剪切调用GPT(可复制答复)"
+        },
         {
           "class": "DepictionLayerView",
           "views": [

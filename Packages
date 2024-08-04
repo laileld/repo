@@ -273,11 +273,11 @@ Maintainer: 来了老弟
 Installed-Size: 368
 Depends: mobilesubstrate
 Filename: ./debs/rootless/QQ绿化_芭比Q-rootless_0.4-4-arm64.deb
-Size: 49932
-MD5sum: c9e27775b03b478ca32a824665ca7fc3
-SHA1: 384c70d70f2b175b281962746296df53dee5e301
-SHA256: 837a855372c7942826555b610c355fcfbbc87813d35a9c9e277d436187a06ef2
-Section: rootless插件
+Size: 50004
+MD5sum: 704827e595275d65d1fee48b9d9cdb2a
+SHA1: e4f86197c43e7bdcae1631375b2eb678968dc6e2
+SHA256: b8b3ee8edb7f55b68ecf05b37c37e01bbb8e31868e6bc7a2ebf98880f74c67d0
+Section: rootless应用插件
 Description: ***给QQ加些精简功能，芭比Q可注入可越狱使用，***。长按侧边栏的（日间）或（设置）图标，弹出设置，还有多处隐藏菜单，长按去发现。240228小更新，排版随便弄了下，QQ更新过快，每次都有新活，开发动力不大了
 Author: 来了老弟
 Name: QQ绿化_芭比Q-rootless
@@ -669,11 +669,11 @@ Maintainer: 来了老弟 h_h_x_t
 Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/自定义电话图片-rootless_1.4_iphoneos-arm64.deb
-Size: 3864
-MD5sum: 594bc5b901822bd3bc60d2bb653e3f67
-SHA1: 49ada2e9f1421d85ac861c2b76374d31f31dda7d
-SHA256: a14dc977c27b4f3d724074411e02b72557b107470da15864c01ee989c7e143cd
-Section: rootless插件
+Size: 3956
+MD5sum: 6a0175c014ea64e33389d1afa6b71354
+SHA1: 408ce9775439a0a86599c64add3029d3d4f2988d
+SHA256: 09eccd13478731736400685932da20eaded235815fa5b6366dd76d51d04e85ad
+Section: rootless应用插件
 Description: Custom phone image, image path （/var/mobile/llld.jpg）png Format is also acceptable.靓仔定制自定义电话图片，图片路径（/var/mobile/llld.jpg）llld.png也可以，作用：拨打电话或来电都是你指定的背景图。
 Author: 来了老弟 h_h_x_t
 Name: 自定义电话图片-rootless
@@ -2202,11 +2202,11 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Depends: firmware (>=13.0), mobilesubstrate
 Filename: ./debs/rootless/最近通话增加搜索栏(rootless).deb
-Size: 6672
-MD5sum: 7306583c1efab306c5cbe4fa060f085f
-SHA1: 0595502abe31ee89c897816e6099ac96652dd124
-SHA256: e107fb6d5a325e3c3dd4392e0f2dec5a3229deffd9e6933121084301c8b4afc8
-Section: rootless插件
+Size: 6668
+MD5sum: 97b0a5a263b57fdfcfce9af27fc6cd77
+SHA1: 2c8b5a3f7cf661c131018de62648d7e3583fdf24
+SHA256: 5ee89907f5be501e4dbc872cc9c4b21179ff9123cd4221cc177bdef592183e18
+Section: rootless应用插件
 Description: Recently, a search box has been added to the call.最近通话添加(搜索栏)，无设置，直接生效。
 Author: 来了老弟
 Name: 最近通话增加搜索框-rootless
@@ -2567,10 +2567,10 @@ Maintainer: 来了老弟
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/rootless/最近通话详细时间(rootless) .deb
 Size: 5608
-MD5sum: c4103e0b3bceec9e18de9550a6431af0
-SHA1: ee530ea3c37f1acc35a940b19094a1a11ef0a80e
-SHA256: 172d56ff7656eb52134bf7a12988e660c780b6d97659cd3f3590176fd1593f08
-Section: rootless插件
+MD5sum: 34cb58f2bffa47db97af0f9c6c6b34a8
+SHA1: 47cc9f246b9075f96a461b84b314569e6a996099
+SHA256: 333e4d315f1ef96adad404447e08bb8d2a2fb9afc3f83efcb2d81fe470d38a5f
+Section: rootless应用插件
 Description: The specific time of the recent call has been increased.最近通话增加具体时间
 Author: 来了老弟
 Name: 最近通话增加具体时间-rootless
@@ -3212,33 +3212,17 @@ Author: 来了老弟 X：h_h_x_t
 Name: 支付宝步数XD-rootless
 
 Package: cn.llld.zyll
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: ./debs/rootless/最右绿化-rootless_1.1_iphoneos-arm64.deb
-Size: 15940
-MD5sum: 2bf956680ab1feceef1c94856c40d1d7
-SHA1: fa406b8ac35aee1e97d44d12616019b1d77b1444
-SHA256: aaac292740d76dde12b76e66e7b2c9d27aecb2107ca61a10bed12b4df1ca10a0
-Section: rootless应用插件
-Description: 可注入可越狱使用。去除启动页视频图片摇一摇广告，去除首页推荐和帖子评论区广告，去除帖子下群组社区推荐，禁用首页左上角话题，禁用首页右上角搜索，禁用推送广告，禁用消息角标，开启全屏视频浏览模式，开启视频下载无水印，等等。***'我的'页面长按头像下方控件或首页顶栏或任意帖子内顶部，弹出设置***。
-Author: 来了老弟
-Name: 最右绿化-rootless
-
-Package: cn.llld.zyll
 Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 204
 Depends: mobilesubstrate
 Filename: ./debs/rootless/最右绿化-rootless_1.3_iphoneos-arm64.deb
-Size: 16184
-MD5sum: 7e4a59133e6957a2de0b50654b8cb8ef
-SHA1: 413af245da8c12a7b1cf8969a5147055ab1e5c23
-SHA256: b0f5074845f3168b856bb2079fc26d672f1d59a8c2deda75e5c9436f91e51abc
-Section: rootless插件
+Size: 16248
+MD5sum: 5af47e332cbc6688df7eaf0a642aee71
+SHA1: 95025df6b652790f59d3edc7bea0978fc8740bd6
+SHA256: 17d0f82621cf542f861688c598024aae23d2ae634270f4a4840d2286d3a4ab21
+Section: rootless应用插件
 Description: 可注入可越狱使用。去除启动页视频图片摇一摇广告，去除首页推荐和帖子评论区广告，去除帖子下群组社区推荐，禁用首页左上角话题，禁用首页右上角搜索，禁用推送广告，禁用消息角标，开启全屏视频浏览模式，开启视频下载无水印，等等。***'我的'页面长按头像下方控件或首页顶栏或任意帖子内顶部，弹出设置***。建议用6.0.9版本或以内的，新版本除了臃肿增加广告以外，一无是处。
 Author: 来了老弟
 Name: 最右绿化-rootless
