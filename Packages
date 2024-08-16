@@ -1238,6 +1238,22 @@ Author: 来了老弟
 Name: 驾校一点通绿化-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.jxydt/jxydt.json
 
+Package: cn.llld.jxydt
+Version: 0.6
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/rootless/驾校一点通绿化-rootless_0.6_iphoneos-arm64.deb
+Size: 20376
+MD5sum: 5a590f3242884987a071212c204ce4cb
+SHA1: da4e20bce938921345314f74143a74d3a083aeff
+SHA256: 8573f285e7d794df9e1207dff1dad18a4f216ae03c1572bd5f2cfd90c9f7e6e7
+Section: rootless应用插件
+Description: 可注入可越狱使用，祝各位拿证到手。默认去除开屏广告和动画(关梯子使用)，长按首页(底部功能栏)，或任何页面（答题）或（背题）或 (考前直播) 或(直播刷题) 弹出更多功能设置。 调试一点通版本15.4.1
+Author: 来了老弟
+Name: 驾校一点通绿化-rootless
+
 Package: cn.llld.jyxlss
 Version: 0.0.1
 Architecture: iphoneos-arm64
