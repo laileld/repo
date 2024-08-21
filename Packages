@@ -1306,22 +1306,6 @@ Name: Panel-Tools(keyboard)
 
 Package: cn.llld.kbtool
 Version: 1.1.2-1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X：h_h_x_t
-Depends: mobilesubstrate
-Filename: ./debs/rootless/Panel Tools_1.1.2-1-rootless-arm64.deb
-Size: 3525156
-MD5sum: b4b36ad8101d29acc0e8e2f774b7d21d
-SHA1: b79d68769228c8a20fee0cf733fc36a413fe9270
-SHA256: 2e2d2913901c02a17d6480b043e3600ca97aa8d702ff203708cd5dbe77bcd972
-Section: rootless插件
-Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图，视图文字颜色，接入快捷指令等。上滑全选切换双行和单行功能，呼出kayoko或Copyvault，更多待新增功能补充。
-Author: 来了老弟
-Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
-Name: Panel-Tools(keyboard)
-
-Package: cn.llld.kbtool
-Version: 1.1.2-1
 Architecture: iphoneos-arm
 Maintainer: 来了老弟
 Installed-Size: 8752
@@ -1336,41 +1320,6 @@ Description: Convenient tools on the keyboard (Used for keyboard enhancement)。
 Author: 来了老弟
 Icon: file:///Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
 Name: Panel-Tools(keyboard)
-
-Package: cn.llld.kbtool
-Version: 1.2.0-1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 9248
-Depends: mobilesubstrate
-Filename: ./debs/rootless/Panel Tools_1.2-rootless-arm64.deb
-Size: 3654440
-MD5sum: 01814c8caefcc80e95bb535c7af492d0
-SHA1: db5d63d831868b73f0613e9256f6e5082df4609d
-SHA256: cb06308c4a552950d315e19d6e2c2a293f078378c27948cb93bc2daebcc5a791
-Section: rootless插件
-Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色等。更多待新增功能补充。
-Author: 来了老弟
-Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
-Name: Panel-Tools(keyboard)
-
-Package: cn.llld.kbtool
-Version: 1.2.0-2
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 9200
-Depends: mobilesubstrate
-Filename: ./debs/rootless/Panel Tools_1.2.0-2-rootless-arm64.deb
-Size: 3645940
-MD5sum: 7c3cbbaa8f7db6821a6b0927ff29ccd0
-SHA1: 6aa0f892b0d0ab06c356a2c97ec7a401720ab9fc
-SHA256: dba2f982107556eba4675fe276e221a71497bf9332b7031262c5b162069efb8e
-Section: rootless插件
-Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色等。更多待新增功能补充。
-Author: 来了老弟
-Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
-Name: Panel-Tools(keyboard)
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
 
 Package: cn.llld.kbtool
 Version: 1.2.0-2
@@ -2434,23 +2383,6 @@ Name: SmartNotifications 2-rootless
 
 Package: cn.llld.snapshottool
 Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 1580
-Depends: mobilesubstrate
-Filename: ./debs/rootless/STTool_1.0_iphoneos-arm64.deb
-Size: 1251026
-MD5sum: 81506a67b97b4a32ac40ed54e9e5cd25
-SHA1: 038e712fa3c70651fe08f0bdd0bcfbf8d63028a1
-SHA256: f220155634ca0ec6148f31bab3286d316fe01fcc8593fe3a12c12eb328d863dc
-Section: rootless应用插件
-Description: Snapshot sharing and copying, simplified version(Usage: Touch the image with both fingers)---对于图片的共享和复制到剪切板功能，简化版(免费版)。***使用方法：双指触摸图片即可(非100%应用或场景)***
-Author: 来了老弟
-Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
-Name: STTool
-
-Package: cn.llld.snapshottool
-Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 来了老弟
 Installed-Size: 1580
@@ -2465,6 +2397,42 @@ Description: Snapshot sharing and copying, simplified version(Usage: Touch the i
 Author: 来了老弟
 Icon: file:///Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
 Name: STTool
+
+Package: cn.llld.snapshottool
+Version: 1.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 2848
+Depends: mobilesubstrate
+Filename: ./debs/rootless/STTool快照图片增强-rootless-arm64.deb
+Size: 753672
+MD5sum: d62fbe201381ec7d44342b314f804937
+SHA1: e59cedce33908c37a4992366d584e34e159516ea
+SHA256: e3e76a1728ad30ada6293f9082cc92c92133e97ff6810f0e476d6495d9deacfe
+Section: rootless应用插件
+Description: ---对于应用软件的图片，（无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
+Name: STTool
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.snapshottool/snapshottool.json
+
+Package: cn.llld.snapshottool
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 3720
+Depends: mobilesubstrate
+Filename: ./debs/rootful/STTool快照图片增强-Rootful-arm.deb
+Size: 937044
+MD5sum: f3e913f0dbcede3d692d171d3417b125
+SHA1: 350deca0793f850b5a4c3fb2b40b93a8ec81bf91
+SHA256: 9b55fc015d493cafeca8c0c623f821d0dc3ecfb7a2b7ed6b9ebcb594aedc9ca2
+Section: rootful应用插件
+Description: ---对于应用软件的图片，（无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
+Author: 来了老弟
+Icon: file:///Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
+Name: STTool
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.snapshottool/snapshottool.json
 
 Package: cn.llld.speaknotification
 Version: 1.8.19
