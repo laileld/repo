@@ -1722,22 +1722,6 @@ Description: Notiblock通知过滤--(rootful)简体中文包
 Author: 来了老弟 X: h_h_x_t
 Name: notiblock通知过滤汉化-rootful
 
-Package: cn.llld.nyyh
-Version: 0.2
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X: h_h_x_t
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/rootless/农业银行llld-rootless_0.2-arm64.deb
-Size: 4996
-MD5sum: bf7c0fea3f167f4148c372c1a803ed8d
-SHA1: c172a5198a9dbe5b1d507856b35562e20fe2d775
-SHA256: bb8ce4f20efc586165acc307c34ccf9ca48aa9fdc09bed3724c01abd89bc43cf
-Section: rootless应用插件
-Description: 作用：使用农业银行的同时允许插件注入。用法：进应用看到检测弹窗(3指触摸0.5秒非弹窗处即可)，录屏检测的遮挡用2指触摸2秒即去掉。
-Author: 来了老弟 X: h_h_x_t
-Name: 农业银行llld-rootless
-
 Package: cn.llld.panic
 Version: 1.1.2
 Architecture: iphoneos-arm64
