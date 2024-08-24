@@ -251,22 +251,6 @@ Author: MiRO 来了老弟
 Name: AVPhotos照片视频画中画-roothide
 
 Package: cn.llld.bbqzr
-Version: 0.2
-Architecture: iphoneos-arm
-Maintainer: 来了老弟
-Installed-Size: 236
-Depends: mobilesubstrate
-Filename: ./debs/rootful/芭比Q注入版-rootful_0.2_iphoneos-arm.deb
-Size: 19004
-MD5sum: b1888cafda8d2bbb7f8175082b171aeb
-SHA1: 24c24cde28c2fe123a069ae5b4e1fd50c59fdf13
-SHA256: 3cff08c2005fa300d3b27887fac34244e080a135df4676896b8a1de8e78a3bcf
-Section: rootful插件
-Description: ***给QQ加点小功能，芭比Q注入版，浓缩版，可越狱可注入，设置排版以后再搞，近期要加的东西多***。长按侧边栏的（日间）或侧边栏（设置）的文字，弹出设置
-Author: 来了老弟
-Name: 芭比Q注入版-rootful
-
-Package: cn.llld.bbqzr
 Version: 0.4-4
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
@@ -2382,23 +2366,6 @@ Author: Elias Sfeir
 Name: SmartNotifications 2-rootless
 
 Package: cn.llld.snapshottool
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 来了老弟
-Installed-Size: 1580
-Depends: mobilesubstrate
-Filename: ./debs/rootful/STTool_1.0_iphoneos-arm.deb
-Size: 1251104
-MD5sum: d38f1bea06b9db3f73f9382a92f37577
-SHA1: 639999b3c5a2be9e8156c967d06122f3efd681d0
-SHA256: 558fff49ecc8f2c680045227d5f09ba73a60092f1e05a252942a3a327aee57bb
-Section: rootful应用插件
-Description: Snapshot sharing and copying, simplified version(Usage: Touch the image with both fingers)---对于图片的共享和复制到剪切板功能，简化版(免费版)。***使用方法：双指触摸图片即可(非100%应用或场景)***
-Author: 来了老弟
-Icon: file:///Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
-Name: STTool
-
-Package: cn.llld.snapshottool
 Version: 1.0.0-1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
@@ -2431,24 +2398,6 @@ Section: rootless应用插件
 Description: ---对于应用软件的图片，（无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
 Author: 来了老弟
 Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
-Name: STTool
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.snapshottool/snapshottool.json
-
-Package: cn.llld.snapshottool
-Version: 1.0.0-2
-Architecture: iphoneos-arm
-Maintainer: 来了老弟
-Installed-Size: 3744
-Depends: mobilesubstrate
-Filename: ./debs/rootful/STTool快照图片增强1-Rootful-arm.deb
-Size: 931420
-MD5sum: 02cecf2e2c13a20b2a2e174dc1227cb1
-SHA1: b7e0a81ad7cd9dd503289f095498d3555a3ec1c5
-SHA256: a1d0dc649fccc89748bb6f06bd24f51d8737e638c10fec647c2bfab92259f6b0
-Section: rootful应用插件
-Description: ---对于应用软件的图片，（无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
-Author: 来了老弟
-Icon: file:///Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
 Name: STTool
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.snapshottool/snapshottool.json
 
@@ -2659,22 +2608,6 @@ Description: Personalized control center lets the outer ring of the control cent
 Author: smokin1337 来了老弟
 Name: Togglow控制中心按钮特效-rootless
 
-Package: cn.llld.touchflow
-Version: 1.0.6
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 h_h_x_t
-Depends: firmware (>= 11.0), mobilesubstrate, com.creaturesurvive.libcscolorpicker, cn.llld.hhxt,oldabi
-Conflicts: netskao.llldshowtouch
-Filename: ./debs/rootless/TouchFlow录屏轨迹_1.0.6-rootless.deb
-Size: 190224
-MD5sum: 6047134bc44717ca8d7bfb107a634cc7
-SHA1: ab5881d4e36c6c53eebcdb1b01e179f438ff36c6
-SHA256: 6bb18b47ad1d117bbb81869c3a77c3b5c2645582f3a784eee631d9b3eb5e1218
-Section: 兼容层oldabi-rootless
-Description: Same touch indicator as ShowTouch。和ShowTouch相同的触摸指示器
-Author: CreatureSurvive
-Name: TouchFlow录屏轨迹-rootless
-
 Package: cn.llld.vartaman
 Version: 1.2.9
 Architecture: iphoneos-arm64
@@ -2707,54 +2640,6 @@ Author: SynnyG 来了老弟
 Name: Vibrato全局自定义震动-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.vibrato/js_Vibrato_rootless.json
 
-Package: cn.llld.wbb
-Version: 0.2
-Architecture: iphoneos-arm
-Maintainer: 来了老弟
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: ./debs/rootful/微博绿了注入版-rootful_0.2_iphoneos-arm.deb
-Size: 11658
-MD5sum: 7774fd31a4862213888d961d43353f04
-SHA1: b8defc4ee577d15a316f97caf95f540a5906b46e
-SHA256: f639545d7eb124a67693922f9876551956039826add7dfd2a8f1d81d0be368ee
-Section: rootful插件
-Description: ***给微博加点小功能，去广告啥的，可注入 可越狱版，随意写的，设置排版以后再搞，近期要加的东西多***。长按'我'页面的（创作中心）或者（浏览记录）的文字，弹出设置,240115:修复闪退，加快微博启动速度。
-Author: 来了老弟
-Name: 微博绿了注入版-rootful
-
-Package: cn.llld.wbb
-Version: 0.4-1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: ./debs/rootless/微博绿化-rootless_0.4-1_iphoneos-arm64.deb
-Size: 17998
-MD5sum: 022d9f5e6871d2256424647ec3c167f1
-SHA1: 97f120aa1b5eb7d64c5d2ced30539b44357df201
-SHA256: 2caf135b46a9afbf7115c22700f3d6f540120c0850cb748bec1d0d7fab63bad8
-Section: rootless应用插件
-Description: 给微博加点小功能，可注入可越狱版使用。***禁用开屏广告，评论区广告，信息流广告，视频流广告，首页上方直播入口。查看视频全屏模式，禁用角标消息红点等功能***。长按'我'页面的（创作中心）周边图标，长按首页的顶栏和底栏均可以弹出设置。240331：网上已有去广告插件，配合这个就行了，微博变来变去的，最近几月版本我都没去广告
-Author: 来了老弟 X：h_h_x_t
-Name: 微博绿化-rootless
-
-Package: cn.llld.wbb
-Version: 0.4-1
-Architecture: iphoneos-arm
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: ./debs/rootful/微博绿化-rootful_0.4-1_-arm.deb
-Size: 17932
-MD5sum: c2a1ff226ac5312d5c23474a28d73855
-SHA1: 22e58b1ef573cd9fa3da627936b70b16a4e83a23
-SHA256: 3d31401db5ddbd66a5506164b3d30727e0e60f23248c1623d8fa61177392f1fe
-Section: rootful插件
-Description: 给微博加点小功能，可注入可越狱版使用。***禁用开屏广告，评论区广告，信息流广告，视频流广告，首页上方直播入口。查看视频全屏模式，禁用角标消息红点等功能***。长按'我'页面的（创作中心）周边图标，长按首页的顶栏和底栏均可以弹出设置。240331：网上已有去广告插件，配合这个就行了，微博变来变去的，最近几月版本我都没去广告
-Author: 来了老弟 X：h_h_x_t
-Name: 微博绿化-rootful
-
 Package: cn.llld.wechatautolock
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -2769,38 +2654,6 @@ Section: rootless-wx插件
 Description: 允许WX在聊天界面时跟随系统自动锁屏,wx默认是5分钟的
 Author: iBreak
 Name: WX跟随系统锁屏-rootless
-
-Package: cn.llld.wxx
-Version: 1.0.5
-Architecture: iphoneos-arm
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 236
-Depends: mobilesubstrate
-Filename: ./debs/rootful/微信小布丁-rootful_1.0.5_iphoneos-arm.deb
-Size: 23888
-MD5sum: 7b39645a649b5427866e8b91e007a4ce
-SHA1: ef8f9409243ee433d1ecc891609e4edac8840327
-SHA256: 31367b1a9a0340563e46c8f40775b97bca8857675903499d9aeda69d100602b3
-Section: rootful应用插件
-Description: 微信小布丁1.0.5版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告（可自定义关注视频和直播中订阅号），屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***,8.0.31版本专供，高版本仅用部分功能（我自用是8.0.31，没适配高版本）
-Author: 来了老弟 X：h_h_x_t
-Name: 微信小布丁-rootful
-
-Package: cn.llld.wxx
-Version: 1.0.6
-Architecture: iphoneos-arm
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 236
-Depends: mobilesubstrate
-Filename: ./debs/rootful/微信小布丁-rootful_1.0.6_-arm.deb
-Size: 26484
-MD5sum: 5969adbe9f5af5e4ad2373d11bbf6d57
-SHA1: 7111b3b349106e0990b446e82ec4c44142bf4a2b
-SHA256: 787c4d3dbb2278026866c70de338b983d5270effa7629556ebfcbaa32ac628bf
-Section: rootful应用插件
-Description: 微信小布丁1.0.6版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告（可自定义关注视频和直播中订阅号），屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数，后台模糊，界面透明等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***,8.0.31版本专供，高版本仅用部分功能（我自用是8.0.31，没适配高版本）
-Author: 来了老弟 X：h_h_x_t
-Name: 微信小布丁-rootful
 
 Package: cn.llld.wxx
 Version: 1.0.6-1
@@ -3258,21 +3111,6 @@ Section: 兼容层oldabi-rootless
 Description: Common Dynastic utilities.
 Author: Dynastic
 Name: libflora
-
-Package: com.ali.touchflowmodule
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 h_h_x_t
-Depends: mobilesubstrate, com.opa334.ccsupport, cn.llld.hhxt,oldabi
-Filename: ./debs/rootless/touchflowmodule_1.0-rootless.deb
-Size: 57684
-MD5sum: fb3b39cfaded88747cbe2ffcb7efaaa8
-SHA1: a651ce715d92a9af2a0b24935ba5aa773ed140b5
-SHA256: 3bf3b384510f2aa75053b21ed6845c87dc98bb325004f741b0c6580cbc3b4233
-Section: 兼容层oldabi-rootless
-Description: Control Center module for TouchFlow。TouchFlow的控制中心模块
-Author: alimaulana 来了老弟
-Name: TouchFlow Module-rootless
 
 Package: com.cokepokes.libnotifications
 Version: 0.3-5
