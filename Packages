@@ -1431,6 +1431,42 @@ Icon: file:///Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
 Name: Panel-Tools(keyboard)
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
 
+Package: cn.llld.kbtool
+Version: 1.6.0-2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 11180
+Depends: mobilesubstrate
+Filename: ./debs/rootless/PT面版键盘增强1.6.0-2无根rootless-arm64.deb
+Size: 3320656
+MD5sum: 62be46f588b3aabfe7f8d4e2716cf9ae
+SHA1: 3d939e206f2eff951b3bbb813086338fad9b7eb5
+SHA256: f88aacfa1864a179b381f76c2244c2b7e56a39435c34fca0fcda4e5fed73e662
+Section: rootless应用插件
+Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义，自定义API使用等。同时加了4.0和3.5的GPT(辅助功能)，默认4.0容易挂，建议开GPT切换(3.5)，粘贴下滑呼出Copyvault和kayoko粘贴板，复制或上下滑snapper2和ft悬浮交互，更多待新增功能补充。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
+Name: Panel-Tools(keyboard)
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
+
+Package: cn.llld.kbtool
+Version: 1.6.0-2
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 11232
+Depends: mobilesubstrate
+Filename: ./debs/rootful/PT面版键盘增强1.6.0-2有根rootful-arm.deb
+Size: 3325548
+MD5sum: e8d0b9da6f72b8ea5f5ac51ff4c5bd1a
+SHA1: db7cf359c8e8b41ca2c63057d6fcf31a7dae71af
+SHA256: 5869978efce11eff33adcc40ccce59f32684dc37a938d601bb50993f7bbb3d81
+Section: rootful应用插件
+Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义，自定义API使用等。同时加了4.0和3.5的GPT(辅助功能)，默认4.0容易挂，建议开GPT切换(3.5)，粘贴下滑呼出Copyvault和kayoko粘贴板，复制或上下滑snapper2和ft悬浮交互，更多待新增功能补充。
+Author: 来了老弟
+Icon: file:///Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
+Name: Panel-Tools(keyboard)
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
+
 Package: cn.llld.keyboard
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -1822,6 +1858,40 @@ Description: 皮皮搞笑绿化，可注入可越狱使用，去除视频下载�
 Author: 来了老弟
 Name: 皮皮搞笑绿化-roothide
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.ppgxll/ppgxll.json
+
+Package: cn.llld.pts
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/rootless/PTs_0.1_可注入可越狱-免费rootless-arm64.deb
+Size: 10500
+MD5sum: 2794ff5d10fa0e7aaaeac8c5f97e1825
+SHA1: 9cbf7b82bc9c84c256f92c1cb3c8ea82e34b35e0
+SHA256: 30f4213f7b09abbc39efc629f64ca36209f6f55aa135964e74c07fa5bbd65e4a
+Section: rootless应用插件
+Description: 可注入可越狱使用，免费。补充iOS原生的不足，给多个网页类型的应用（比如：各种浏览器，Copilot等），在原工具栏的基础上增加功能按钮(撤销，重做，全选，复制，粘贴，剪切板，换行)，顺便也解决我个人插件PT没有对这方面的行为处理.
+Author: 来了老弟
+Name: PTs
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.pts/pts.json
+
+Package: cn.llld.pts
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/rootful/PTs_0.1_可注入可越狱-免费rootful-arm.deb
+Size: 10782
+MD5sum: cbe53fbcefdddbcdda383f605e01b75c
+SHA1: e8d466862dc02d35c8adedb49f0a9055d3ea221d
+SHA256: c8c007c583c10769608fa7d161c09d089d9da4bcfea06bd7b5f63a6bde814801
+Section: rootless应用插件
+Description: 可注入可越狱使用，免费。补充iOS原生的不足，给多个网页类型的应用（比如：各种浏览器，Copilot等），在原工具栏的基础上增加功能按钮(撤销，重做，全选，复制，粘贴，剪切板，换行)，顺便也解决我个人插件PT没有对这方面的行为处理.
+Author: 来了老弟
+Name: PTs
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.pts/pts.json
 
 Package: cn.llld.qqdsq
 Version: 0.000001
