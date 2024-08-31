@@ -2266,6 +2266,21 @@ Description: Recently, a search box has been added to the call.最近通话添�
 Author: 来了老弟
 Name: 最近通话增加搜索框-rootless
 
+Package: cn.llld.selectionplus
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate, firmware (>= 14.0), ws.hbang.alderis, ws.hbang.common (>= 1.14), preferenceloader, cn.llld.hhxt, oldabi
+Filename: ./debs/rootless/SelectionPlus文本显示样式_1.2.3-rootless_arm64.deb
+Size: 126276
+MD5sum: 468eb250645d1fd809794c6891b49de3
+SHA1: 758203ca7d47c7a843cdb4e82af76d3e05fc37b8
+SHA256: b9dfef93aef46592cad50d06f8fdf2507223929c26a066c24cc04de5cf7f8198
+Section: 兼容层oldabi-rootless
+Description: 更换文本选择窗口样式，将文本选择窗口以竖行的方式显示(240831：作者已消失3年+，有问题凑合用或者卸载)
+Author: Satvik
+Name: SelectionPlus文本显示样式
+
 Package: cn.llld.settingsudid
 Version: 1.0
 Architecture: iphoneos-arm64e
