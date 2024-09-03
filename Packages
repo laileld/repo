@@ -2807,22 +2807,6 @@ Description: 原名motherwc，作用：点击wx文本，语音播报信息,应�
 Author: sunweiliang
 Name: wx文本语音播报-rootless
 
-Package: cn.llld.xqq
-Version: 0.0.0.0.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X: h_h_x_t
-Installed-Size: 780
-Depends: mobilesubstrate
-Filename: ./debs/rootless/QQ小不点-rootless_0.0.0.0.1_iphoneos-arm64.deb
-Size: 17022
-MD5sum: 89417e86f63e0a9aee7c73f8c8f57427
-SHA1: 8dabd17a6b9b5594c64baa7b52bce87c7322cb2a
-SHA256: feb706a4b5eb37c304a205d8ca14870634b1869074009d6cb0f937ac88f16923
-Section: rootless插件
-Description: QQ去除首次更新检测和版本推送，默认开启Callkit(后台和无后台2种不同状态形式)，开启选择文件数量大小无上限(版本不同效果不同，发太多封群封号自理)，默认启用VIP功能的语音转文字。---(此版本无设置项)
-Author: 来了老弟 X: h_h_x_t
-Name: QQ小不点-rootless
-
 Package: cn.llld.ycdock
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -3511,22 +3495,6 @@ Description: Customize your Control Center!_________仅测试用,有问题卸载
  Weather Widget.
 Author: Miguelaka95 <miguelaka95@gmail.com>
 Name: BetterCC-roothide
-
-Package: com.miguelaka95.bettercc
-Version: 0.0.54
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 h_h_x_t
-Installed-Size: 1828
-Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
-Filename: ./debs/rootless/BetterCC控制中心排版-rootless.deb
-Size: 150388
-MD5sum: 7540eb5a72e54e1303e5f24e8b0faf54
-SHA1: 1b6e19fbba20427924ee4fd0c9d4f93b028bb73b
-SHA256: 34341ac7b6c5a172adfdcea38080a1afe9310f121efde5d5d6cb5317920ff947
-Section: rootless修复插件
-Description: Customize your Control Center! Invisible Modules.RearrangeConnectivity Toggles.Change Modules Size.Weather Widget.2023-10-13 Fixed weather display null problem，控制中心音乐模块占位，数据链接排版，增加天气等等,2023-10-13修复天气显示null问题_________仅测试，有问题请卸载，作者没对rootless支持，勿扰他
-Author: Miguelaka95 <miguelaka95@gmail.com>
-Name: BetterCC控制中心排版-rootless
 
 Package: com.muirey03.arc
 Version: 1.0.41
