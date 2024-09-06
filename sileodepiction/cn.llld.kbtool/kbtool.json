@@ -1,7 +1,7 @@
 {
   "class": "DepictionTabView",
   "headerImage": "",
-  "tintColor": "#FF4455",
+  "tintColor": "#00BFFF",
   "minVersion": "0.3",
   "tabs": [
     {
@@ -22,7 +22,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,翻译，文本开头，文本结尾，关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色，高度自定义，自定义API使用等，自带3.5-4.0 GPT (辅助使用)。呼出Copyvault和kayoko粘贴板，与snapper2和ft悬浮交互，更多待新增功能补充或查看更新日志。",
+          "markdown": "Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,翻译，文本开头，文本结尾，关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色，高度自定义，自定义API使用等，自带3.5，可自定义GPT (辅助使用)（功能强大，直接把GPT应用带到键盘上，文字直出输入框）。呼出Copyvault和kayoko粘贴板，与snapper2和ft悬浮交互，更多待新增功能补充或查看更新日志。配图为旧版本的，一切已安装包选项为准。",
           "useRawFormat": true
         },
         {
@@ -92,7 +92,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.6",
+          "text": "2.3.5-2",
           "title": "最新版本"
         },
         {
@@ -102,7 +102,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2024 年 8 月 27日",
+          "text": "2024 年 9 月 6日",
           "title": "最后更新日期"
         },
         {
@@ -116,6 +116,29 @@
       "tabname": "更新日志",
       "views": [
          {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.3.5",
+              "fontWeight": "bold",
+              "fontSize": 17
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "2024-09-06",
+              "fontWeight": "semibold",
+              "fontSize": 17,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "20240906更新内容：\n\n---新增自定义GPT，模型获取，人设自编(你说什么它做什么)\n\n\n---有显示PT键盘的应用就有GPT，文字直接到输入框内\n\n\n---用于编程代码,写作,玩耍,改词,语句修正,翻译等等\n\n\n---(人设决定行为)(模型决定质量)\n\n\n---查询使用时默认带动画效果，(也可选择自定义动画)\n\n\n---修复了多个小问题和多处细节改进"
+        },
+        {
           "class": "DepictionLayerView",
           "views": [
             {
