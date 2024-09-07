@@ -32,7 +32,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/IMG_3395.PNG"
+              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/IMG_3281.jpg"
       },
       {
        "accessibilityText": "Screenshot",
@@ -92,7 +92,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2.3.5-2",
+          "text": "2.4.0-2",
           "title": "最新版本"
         },
         {
