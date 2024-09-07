@@ -1,7 +1,7 @@
 {
   "class": "DepictionTabView",
   "headerImage": "",
-  "tintColor": "#FF4455",
+  "tintColor": "#00BFFF",
   "minVersion": "0.3",
   "tabs": [
     {

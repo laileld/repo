@@ -1,7 +1,7 @@
 {
   "class": "DepictionTabView",
   "headerImage": "",
-  "tintColor": "#FF4455",
+  "tintColor": "#00BFFF",
   "minVersion": "0.3",
   "tabs": [
     {
@@ -22,7 +22,7 @@
                 },
                  {
           "class": "DepictionMarkdownView",
-          "markdown": "Store desktop apps, stack apps，Requires installation Legacy arm64e Support。Picture demonstration in Chinese, actual language in English。Make sure you have (Cephei) dependencies, otherwise the settings will not be displayed.装之前确定自己有（Cephei）依赖，否则设置不显示。功能：将多个应用储存在一个图标内，收纳桌面App，堆叠App，需要安装Legacy arm64e Support。。。",
+          "markdown": "Store desktop apps, stack apps，Requires installation Legacy arm64e Support。Picture demonstration in Chinese, actual language in English。Make sure you have (Cephei) dependencies, otherwise the settings will not be displayed.装之前确定自己有（Cephei）依赖，否则设置不显示。功能：将多个应用储存在一个图标内，收纳桌面App，堆叠App，需要安装Legacy arm64e Support。。。\n\n16以上不知，我无设备",
           "useRawFormat": true
         },
         {
