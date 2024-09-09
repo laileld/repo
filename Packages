@@ -1611,6 +1611,42 @@ Icon: file:///Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
 Name: PTools(keyboard)
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
 
+Package: cn.llld.kbtool
+Version: 2.4.0-3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 11300
+Depends: mobilesubstrate
+Filename: ./debs/rootless/cn.llld.kbtool_2.4.0-3_iphoneos-arm64.deb
+Size: 3384252
+MD5sum: 6212e2a8add3c2b281fa6f61b8d53ca2
+SHA1: 553b3c367b30ac13d52e96d7a9c829045358632f
+SHA256: d7d82e7cbc80f753a5e3552348467b0f9fe73074c6599570f3d9c7932692fc48
+Section: rootless应用插件
+Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。粘贴下滑呼出Copyvault和kayoko粘贴板，复制或上下滑snapper2和ft悬浮交互，更多待新增功能补充。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
+Name: PTools(keyboard)
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
+
+Package: cn.llld.kbtool
+Version: 2.4.0-3
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 11252
+Depends: mobilesubstrate
+Filename: ./debs/rootful/cn.llld.kbtool_2.4.0-3_iphoneos-arm.deb
+Size: 3378800
+MD5sum: 783bd1183a757983a43f7962f4259aca
+SHA1: 02174eea96cbbb4e6d14c059567e572f796e6b98
+SHA256: 2789a08dfaa4168fd86fe7257cf432d1b3ddb54a06cb547cc9a6a0f33eb693d0
+Section: rootful应用插件
+Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。粘贴下滑呼出Copyvault和kayoko粘贴板，复制或上下滑snapper2和ft悬浮交互，更多待新增功能补充。
+Author: 来了老弟
+Icon: file:///Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
+Name: PTools(keyboard)
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
+
 Package: cn.llld.keyboard
 Version: 1.0
 Architecture: iphoneos-arm64e
