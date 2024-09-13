@@ -92,17 +92,17 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2.2.2-4",
+          "text": "2.3.1",
           "title": "最新版本"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "14-17 无根隐根半越狱",
+          "text": "14-17 有无根隐根半越狱",
           "title": "支持系统"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2024 年 6 月 21日",
+          "text": "2024 年 9月 13日",
           "title": "最后更新日期"
         },
         {
@@ -116,6 +116,29 @@
       "tabname": "更新日志",
       "views": [
          {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.3.1",
+              "fontWeight": "bold",
+              "fontSize": 17
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "2024-09-13",
+              "fontWeight": "semibold",
+              "fontSize": 17,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "---新增直接预览（各大短视频的链接窗口浏览）\n\n\n---新增 抖音，快手，小红书，今日头条，哔哩哔哩，最右，皮皮虾等几十+的视频或图片无水印下载 （下载的是单图封面，本身有水印的视频与插件无关）\n\n\n下载视频默认存在本地数据目录的tmp文件夹中（临时目录）\n\n接口行为，掉了再补，如是网站问题不可解析则等待站点恢复即可。\n\n若点了'尝试解析'无下载弹窗，把复制的内容放到'手机设置'  或'QQ'应用等能弹窗的中使用，\n\n\n提示：新半越狱（nathanlr）不支持此版"
+        },
+        {
           "class": "DepictionLayerView",
           "views": [
             {
