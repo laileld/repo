@@ -22,7 +22,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "A floating window tool that supports batch text replacement, this version adds reddit and iCleaner Pro, as well as phone, support Text replacement in settings, support phone modification of contact, modification of time, modification of call record，Custom text replacement, custom text size, custom text view width, height, custom text view horizontal and vertical coordinates, custom text color, custom text font, custom text transparency etc.,More uses waiting for you to discover, it is strongly recommended to upgrade.***一款支持批量替换文本的悬浮窗工具（去开屏广告，复制替换翻译文字，快捷跳转网页应用等，不止于此），具体看图和更新日志***，使用场景：翻译修改通话时间，修改联系人，修改通话记录，翻译替换应用文本，自定义文字替换，隐藏设备实际信息，靓仔装逼等(非所有文字，个别函数需要等我适配)。之前代码是垃圾，一切以最新版为准，提示：装了全局篡改插件的设备（或牛磺酸不建议装， 需要切换基板），不要装此插件，这只是应用类插件，不会影响到系统全局或桌面。QQ群375346482，视频教程或文件在其中",
+          "markdown": "A floating window tool that supports batch text replacement, this version adds reddit and iCleaner Pro, as well as phone, support Text replacement in settings, support phone modification of contact, modification of time, modification of call record，Custom text replacement, custom text size, custom text view width, height, custom text view horizontal and vertical coordinates, custom text color, custom text font, custom text transparency etc.,More uses waiting for you to discover, it is strongly recommended to upgrade.***一款支持批量替换文本的悬浮窗工具（去开屏广告，复制替换翻译文字，快捷跳转网页应用，几十个短视频无水印解析等，不止于此），具体看图和更新日志***，使用场景：翻译修改通话时间，修改联系人，修改通话记录，翻译替换应用文本，自定义文字替换，隐藏设备实际信息，靓仔装逼等(非所有文字，个别函数需要等我适配)。这只是应用类插件，不会影响到系统全局或桌面。QQ群375346482，视频教程或文件在其中\n\n\n\n提示：新半越狱（nathanlr）暂时不支持2.2.1.5之后版本",
           "useRawFormat": true
         },
         {
@@ -136,7 +136,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "---新增直接预览（各大短视频的链接窗口浏览）\n\n\n---新增 抖音，快手，小红书，今日头条，哔哩哔哩，最右，皮皮虾等几十+的视频或图片无水印下载 （下载的是单图封面，本身有水印的视频与插件无关）\n\n\n下载视频默认存在本地数据目录的tmp文件夹中（临时目录）\n\n接口行为，掉了再补，如是网站问题不可解析则等待站点恢复即可。\n\n若点了'尝试解析'无下载弹窗，把复制的内容放到'手机设置'  或'QQ'应用等能弹窗的中使用，\n\n\n提示：新半越狱（nathanlr）不支持此版"
+          "markdown": "---新增直接预览（各大短视频的链接窗口浏览）\n\n\n---新增 抖音，快手，小红书，今日头条，哔哩哔哩，最右，皮皮虾等几十+的视频或图片无水印下载 （下载的是单图封面，本身有水印的视频与插件无关）\n\n\n下载视频默认存在本地数据目录的tmp文件夹中（临时目录）\n\n接口行为，掉了再补，如是网站问题不可解析则等待站点恢复即可。\n\n若点了'尝试解析'无下载弹窗，把复制的内容放到'手机设置'  或'QQ'应用等能弹窗的中使用，\n\n\n提示：新半越狱（nathanlr）不支持此版\n\n提示：新半越狱（nathanlr）不支持此版\n\n提示：新半越狱（nathanlr）不支持此版"
         },
         {
           "class": "DepictionLayerView",
@@ -159,7 +159,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "---新增几处UI自定义\n\n---隐藏多处开关和选项，新手更容易懂\n\n---老手新建文件用多功能\n\n---精简一些代码，改错别字，视图变更随你配置走，而非默认值\n\n---去掉几处功能，加入中文分字，一键合并一键拆分，还有几处细节处理，，，，，，"
+          "markdown": "---新增几处UI自定义\n\n---隐藏多处开关和选项，新手更容易懂\n\n---老手新建文件用多功能\n\n---精简一些代码，改错别字，视图变更随你配置走，而非默认值\n\n---去掉几处功能，加入中文分字，一键合并一键拆分，还有几处细节处理，，，，，，\n\n提示：新半越狱（nathanlr）不支持此版\n\n提示：新半越狱（nathanlr）不支持此版"
         },
         {
           "class": "DepictionLayerView",
