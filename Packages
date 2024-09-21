@@ -1815,6 +1815,38 @@ Description: 自定义照片，视频和小部件装饰您的控制中心。
 Author: 4nni3
 Name: PictureModule自定义控制中心
 
+Package: cn.llld.pixactpro
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/Pixact-Pro_0.0.1_iphoneos-arm64.deb
+Size: 5360
+MD5sum: 449cf4ec3b50eb6b73004e9d3f2e1f2d
+SHA1: 1513695afcaaca260431f9522548df6f18e64332
+SHA256: 449b7dbeca6e8c4af7a2e29334fa45a02269fc9a1071a00d6e2aea84ef0a6736
+Section: rootless应用会员
+Description: Pixact专业版
+Author: 来了老弟 X：h_h_x_t
+Name: Pixact-Pro
+
+Package: cn.llld.pixactpro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/Pixact-Pro_0.0.1_iphoneos-arm.deb
+Size: 5296
+MD5sum: 61cb5122c4c2f23201cf56414771d3c4
+SHA1: 58cf532e2ea255c460f8541291126b803a012c1c
+SHA256: 8e33bae3a96fa2b91e1a51cb736ee73b4e867056db4bfe66acabd02bab543b66
+Section: rootful应用会员
+Description: Pixact专业版
+Author: 来了老弟 X：h_h_x_t
+Name: Pixact-Pro
+
 Package: cn.llld.playerbj
 Version: 1.0
 Architecture: iphoneos-arm64
