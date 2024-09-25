@@ -955,6 +955,38 @@ Author: Thomz and burrit0z
 Name: Folded文件夹增强-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.folded/folded.json
 
+Package: cn.llld.fsqsy
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/FaceSwapper去水印_0.0.1_rootless-arm64.deb
+Size: 5832
+MD5sum: db72b8d7c04609ca1209e8dcdffe6605
+SHA1: d58959a9c7cf05e51cd0728a1fec8e9caa0a4be5
+SHA256: 299190bdaf695bf0dba4c75b05fd747d4a292edb91cd30a24ad2ff33ec20078a
+Section: rootless应用会员
+Description: FaceSwapper去除预览水印和导出水印，网上有开心版。
+Author: 来了老弟 X：h_h_x_t
+Name: FaceSwapper
+
+Package: cn.llld.fsqsy
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/FaceSwapper去水印_0.0.1_iphoneos-arm.deb
+Size: 5840
+MD5sum: 8dbd9e6a66930bdeac97f6ea5b731604
+SHA1: 78b99309c22dae4c7af89297ff683d245e2152f8
+SHA256: b93a899493920a69557aa0e08380392864cb0b0173c478e7afa0dd02a195b4af
+Section: rootful应用会员
+Description: FaceSwapper去除预览水印和导出水印，网上有开心版。
+Author: 来了老弟 X：h_h_x_t
+Name: FaceSwapper
+
 Package: cn.llld.ftt
 Version: 0.1
 Architecture: iphoneos-arm64
