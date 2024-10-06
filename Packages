@@ -2644,60 +2644,6 @@ Author: Elias Sfeir
 Name: SmartNotifications 2-rootless
 
 Package: cn.llld.snapshottool
-Version: 1.0.0-1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 2848
-Depends: mobilesubstrate
-Filename: ./debs/rootless/STTool快照图片增强-rootless-arm64.deb
-Size: 753672
-MD5sum: d62fbe201381ec7d44342b314f804937
-SHA1: e59cedce33908c37a4992366d584e34e159516ea
-SHA256: e3e76a1728ad30ada6293f9082cc92c92133e97ff6810f0e476d6495d9deacfe
-Section: rootless应用插件
-Description: ---对于应用软件的图片，（无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
-Author: 来了老弟
-Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
-Name: STTool
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.snapshottool/snapshottool.json
-
-Package: cn.llld.snapshottool
-Version: 1.0.0-2
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 3736
-Depends: mobilesubstrate
-Filename: ./debs/rootless/STTool快照图片增强1-rootless-arm64.deb
-Size: 936716
-MD5sum: 53000b1bf7da2ccd7e4a2a4c5a3d84f5
-SHA1: 77d3089c8db082f4ff3236b14ac1cc9fba26f6ad
-SHA256: 8d0e540285a559b0264d0779b390069a3397b31d802e49c312b2d69c249bc614
-Section: rootless应用插件
-Description: ---对于应用软件的图片，（无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
-Author: 来了老弟
-Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
-Name: STTool
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.snapshottool/snapshottool.json
-
-Package: cn.llld.snapshottool
-Version: 1.1.0-2
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 2240
-Depends: mobilesubstrate
-Filename: ./debs/rootless/sttool_1.1.0-2_iphoneos-arm64.deb
-Size: 633010
-MD5sum: ca01cef938c98f4f4510ef262e80df96
-SHA1: 45e19c7c1854aa8d1caba547d1fd1d0c314fb2bd
-SHA256: 372c16599cab6dac27e33c45f01f081efc094ddd68e66798efa0c74254855845
-Section: rootless应用插件
-Description: ---对于应用软件的图片，（无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
-Author: 来了老弟
-Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
-Name: STTool
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.snapshottool/snapshottool.json
-
-Package: cn.llld.snapshottool
 Version: 1.1.0-2
 Architecture: iphoneos-arm
 Maintainer: 来了老弟
@@ -2712,6 +2658,24 @@ Section: rootless应用插件
 Description: ---对于应用软件的图片，（无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
 Author: 来了老弟
 Icon: file:///Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
+Name: STTool
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.snapshottool/snapshottool.json
+
+Package: cn.llld.snapshottool
+Version: 1.3.0-2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 2996
+Depends: mobilesubstrate
+Filename: ./debs/rootless/ST_1.3.0-2_rootless-arm64.deb
+Size: 854856
+MD5sum: ef047606ab779f2063c3dc63c8396cf7
+SHA1: 082f9e2b7582a863b0e1f2d7bb61377e4e91953f
+SHA256: 4455629fea09f8e16c5610df2f00a6618efa864ede82d873dd9b0e83bde1117b
+Section: rootless应用插件
+Description: ---对于应用软件的图片，（无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
 Name: STTool
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.snapshottool/snapshottool.json
 
