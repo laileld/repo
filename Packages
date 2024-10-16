@@ -1396,24 +1396,6 @@ Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbt
 
 Package: cn.llld.kbtool
 Version: 2.3.4-2
-Architecture: iphoneos-arm
-Maintainer: 来了老弟
-Installed-Size: 13408
-Depends: mobilesubstrate
-Filename: ./debs/rootless/PTools(键盘增强)有根rootful_2.3.4-2_arm.deb
-Size: 3524576
-MD5sum: f5222f6faa3797806eb2e4f07e04eb6a
-SHA1: 230d71b8ee2a8b6c348570e50ea5e6acb6f4a011
-SHA256: d2b612c0594910a890ba9eedd3a68e106d0345bec8a09f11fa965ab01ddfe4ce
-Section: rootful应用插件
-Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。粘贴下滑呼出Copyvault和kayoko粘贴板，复制或上下滑snapper2和ft悬浮交互，更多待新增功能补充。
-Author: 来了老弟
-Icon: file:///Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
-Name: PTools(keyboard)
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
-
-Package: cn.llld.kbtool
-Version: 2.3.4-2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 12940
@@ -1450,24 +1432,6 @@ Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbt
 
 Package: cn.llld.kbtool
 Version: 2.3.5-3
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 7752
-Depends: mobilesubstrate
-Filename: ./debs/rootless/cn.llld.kbtool_2.3.5-3_iphoneos-arm64.deb
-Size: 3123980
-MD5sum: b72ec194388b73ecae71ddfc82986bdd
-SHA1: 2406162a4f5230c1b8d263f49f5ef3863c8295cb
-SHA256: 91b8838bc08e94b028448cc73ec401b60d6b34cd4fbd8ad859c6d0cada77bc49
-Section: rootless应用插件
-Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。粘贴下滑呼出Copyvault和kayoko粘贴板，复制或上下滑snapper2和ft悬浮交互，更多待新增功能补充。
-Author: 来了老弟
-Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
-Name: PTools(keyboard)
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
-
-Package: cn.llld.kbtool
-Version: 2.3.5-3
 Architecture: iphoneos-arm
 Maintainer: 来了老弟
 Installed-Size: 7640
@@ -1481,24 +1445,6 @@ Section: rootless应用插件
 Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。粘贴下滑呼出Copyvault和kayoko粘贴板，复制或上下滑snapper2和ft悬浮交互，更多待新增功能补充。
 Author: 来了老弟
 Icon: file:///Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
-Name: PTools(keyboard)
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
-
-Package: cn.llld.kbtool
-Version: 2.4.0-2
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 11144
-Depends: mobilesubstrate
-Filename: ./debs/rootless/cn.llld.kbtool_2.4.0-2_iphoneos-arm64.deb
-Size: 3368220
-MD5sum: 7b47a5e9bbe600385bff44018b395c68
-SHA1: 449c162f1d900a801f763e10425b167f6bbce03c
-SHA256: 55d7896949f27e50631cf2cfbd996ab657ca5ca6120730c0e4df020238312c8d
-Section: rootless应用插件
-Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。粘贴下滑呼出Copyvault和kayoko粘贴板，复制或上下滑snapper2和ft悬浮交互，更多待新增功能补充。
-Author: 来了老弟
-Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
 Name: PTools(keyboard)
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
 
@@ -3325,6 +3271,22 @@ SHA1: 24da8dbdbd63d163e2893fb42278a4921bde26e9
 SHA256: 7fe66640051f4deebebcb4c3d18d8687ebbbd3b6a4acf5b4e997ecd57f72c28d
 Section: rootless应用插件
 Description: 可注入可越狱使用。自定义步数，屏蔽越狱检测(代码半年没动了)，精简主页显示内容.***长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置***,支持任意版本。0303:增加移除理财。自行设置里关了视频，底部就居中了
+Author: 来了老弟 X：h_h_x_t
+Name: 支付宝步数XD-rootless
+
+Package: cn.llld.zfbb
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/rootless/支付宝步数XD-rootless_1.3_iphoneos-arm64.deb
+Size: 18444
+MD5sum: 6cdcb8f2455b8c5de15b4d89e41bd56b
+SHA1: 22a0b3149ed244b8d8ba84e0b85c254d16ad601e
+SHA256: e961b51ed21c74eaf798b54e6f4b73299a5c914de50402dd78e1e36773c2163e
+Section: rootless应用插件
+Description: 可注入可越狱使用。自定义步数，屏蔽越狱检测(代码半年没动了)，精简主页显示内容.***长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置***,支持任意版本。0303:增加移除理财。自行设置里关了视频，底部就居中了（不建议用这功能）
 Author: 来了老弟 X：h_h_x_t
 Name: 支付宝步数XD-rootless
 
