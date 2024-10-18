@@ -1978,6 +1978,40 @@ Author: 来了老弟
 Name: PTs
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.pts/pts.json
 
+Package: cn.llld.pts
+Version: 0.3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/rootless/PTs_0.3_iphoneos-arm64.deb
+Size: 11210
+MD5sum: 6edb4a7d57a1c996551f240418ca22a8
+SHA1: c8ff8610e183547eac3c026fa4ab3fafe16a3d95
+SHA256: 2912b5d67db3a8421553eed1a3f5ef9b8a4c8a620186a2312883f00366e7a867
+Section: rootless应用插件
+Description: 可注入可越狱使用，免费。补充iOS原生的不足，给多个网页类型的应用或场景（比如：各种浏览器Safari，或Ai工具Copilot，拼多多评价区，QQ我的收藏编辑框等），在原工具栏的基础上增加功能按钮(撤销，重做，全选，复制，粘贴，剪切板，换行)，顺便也解决我个人插件PT没有对这方面的行为处理.240915:修正粘贴问题,241018:加入修改的kayoko支持
+Author: 来了老弟
+Name: PTs
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.pts/pts.json
+
+Package: cn.llld.pts
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/rootful/PTs_0.3_iphoneos-arm.deb
+Size: 11150
+MD5sum: ac1614e25f220a3559cc07816e2efb5b
+SHA1: 733a49855953151d02432cfbc827dcfa120b9e0d
+SHA256: 110d857fcc4bf2adfb2b4d657e10be27dc5e5b93f4a8abfd808ae2296835d11b
+Section: rootful应用插件
+Description: 可注入可越狱使用，免费。补充iOS原生的不足，给多个网页类型的应用或场景（比如：各种浏览器Safari，或Ai工具Copilot，拼多多评价区，QQ我的收藏编辑框等），在原工具栏的基础上增加功能按钮(撤销，重做，全选，复制，粘贴，剪切板，换行)，顺便也解决我个人插件PT没有对这方面的行为处理.240915:修正粘贴问题,241018:加入修改的kayoko支持
+Author: 来了老弟
+Name: PTs
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.pts/pts.json
+
 Package: cn.llld.qqdsq
 Version: 0.000001
 Architecture: iphoneos-arm64e
