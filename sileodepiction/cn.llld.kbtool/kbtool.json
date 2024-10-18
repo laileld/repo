@@ -22,7 +22,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）\n\n---传统的复制,粘贴,全选,换行,左移,右移,翻译，文本开头，文本结尾，关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，\n\n自定义高度宽度按钮，文字大小，文生图文字颜色，高度自定义，自定义API使用等，\n\n自带3.5，可自定义GPT (辅助使用)（功能强大，直接把GPT应用带到键盘上，文字直出输入框）。\n\n呼出Copyvault和kayoko粘贴板，与snapper2和ft悬浮交互，\n\n更多待新增功能补充或查看更新日志。配图为旧版本的，一切已安装包选项为准。\n\n提示：不建议对备忘录使用，因已有工具栏，使用方面有冲突",
+          "markdown": "Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）\n\n---传统的复制,粘贴,全选,换行,左移,右移,翻译，文本开头，文本结尾，关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，\n\n自定义高度宽度按钮，文字大小，文生图文字颜色，高度自定义，自定义API使用等，\n\n自带3.5，可自定义GPT (辅助使用,功能强大，直接把GPT应用带到键盘上，文字直出输入框或弹窗模式）。\n\n呼出Copyvault和kayoko，Copylog剪切板，与snapper2和ft悬浮，妙写 交互，\n\n更多待新增功能补充或查看更新日志。配图为旧版本的，一切已安装包选项为准。",
           "useRawFormat": true
         },
         {
@@ -33,10 +33,6 @@
             {
               "accessibilityText": "Screenshot",
               "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/IMG_3281.jpg"
-      },
-      {
-       "accessibilityText": "Screenshot",
-       "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/IMG_3396.PNG"
       },
       {
        "accessibilityText": "Screenshot",
@@ -92,7 +88,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2.4.0-2",
+          "text": "3.2",
           "title": "最新版本"
         },
         {
@@ -102,7 +98,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2024 年 9 月 6日",
+          "text": "2024 年 10 月 18日",
           "title": "最后更新日期"
         },
         {
@@ -116,6 +112,29 @@
       "tabname": "更新日志",
       "views": [
          {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "3.2",
+              "fontWeight": "bold",
+              "fontSize": 17
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "2024-10-18",
+              "fontWeight": "semibold",
+              "fontSize": 17,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "PT面版\n\n3.2版本更新：\n\n1.：支持上 下 左 右 长按功能自定义\n\n2：修复部分功能对平板的支持\n\n3：处理一下在备忘录中的剪切，还有清空恢复功能\n\n4：多个小功能的优化 (比如呼出FT逻辑之类，或 记事本点击后自动关)\n\n5：GPT加入弹出窗口\n\n(开启就是先出窗口 (有文字直接生图白底图功能)，不开弹窗则是直接在文本框)\n\n6：新增修改版kayoko的支持 ，Copylog，妙写 支持，应用或网页快捷跳转(还有其他几处方法的更改等等)\n\n还有很多处变更，不细说了……"
+        },
+        {
           "class": "DepictionLayerView",
           "views": [
             {
