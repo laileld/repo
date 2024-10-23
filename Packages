@@ -1504,24 +1504,6 @@ Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbt
 
 Package: cn.llld.kbtool
 Version: 3.2.0-5
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 9936
-Depends: mobilesubstrate
-Filename: ./debs/rootless/cn.llld.kbtool_3.2.0-5_iphoneos-arm64.deb
-Size: 3287306
-MD5sum: d739896a32b3680f843727b03cb60208
-SHA1: dc3fdbee612bde71b34c1652b2f97f3ef21f7795
-SHA256: c087536d4d2642efcd2f3976340199e342c1df23deb7bd8513c1d3d96e8c6b3d
-Section: rootless应用插件
-Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。粘贴下滑呼出Copyvault和kayoko粘贴板，复制或上下滑snapper2和ft悬浮交互，更多待新增功能补充。
-Author: 来了老弟
-Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
-Name: PTools(keyboard) (rootless)
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
-
-Package: cn.llld.kbtool
-Version: 3.2.0-5
 Architecture: iphoneos-arm64e
 Maintainer: 来了老弟
 Installed-Size: 10064
@@ -1551,6 +1533,60 @@ SHA1: a6afe5f67ca29aba1b01a4b0e771fd850499a909
 SHA256: cd6769f24e19ae2e40a19ea4f41ee0d282806a8a1399db213368b738ff1f6089
 Section: rootless应用插件
 Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。粘贴下滑呼出Copyvault和kayoko粘贴板，复制或上下滑snapper2和ft悬浮交互，更多待新增功能补充。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
+Name: PTools(keyboard) (rootless) (roothide) (iOS14)
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
+
+Package: cn.llld.kbtool
+Version: 3.3.0-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 10432
+Depends: mobilesubstrate
+Filename: ./debs/rootless/cn.llld.kbtool_3.3.0-1_iphoneos-arm64.deb
+Size: 3306788
+MD5sum: aeb08f0ccccd92a92844b55147c14b8f
+SHA1: 08df7c180a24459b1b42e029f5c9c49923d4fb2e
+SHA256: 0181e6bf9ba7670604cc93fd0a543d8a99a1c5ba6f649cb01ffee5ec91ff5ef4
+Section: rootless应用插件
+Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具条（用于键盘辅助）上下左右长按功能自定义。---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等大几十功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。支持呼出Copylog，Copyvault和kayoko新的旧的改的粘贴板，snapper2和ft悬浮和82妙写 交互，更多待新增功能补充或看更新日志。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
+Name: PTools(keyboard) (rootless)
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
+
+Package: cn.llld.kbtool
+Version: 3.3.0-1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 10484
+Depends: mobilesubstrate
+Filename: ./debs/roothide/cn.llld.kbtool_3.3.0-1_iphoneos-arm64e.deb
+Size: 3294328
+MD5sum: 29f9c2cccb6d2f54671daef650233eeb
+SHA1: 21d2c5d17881fe27d48e99061793556ff397b933
+SHA256: cb1b5b6942e05120a3ada488b1a982c354e8c2d37456df0d4bb8ea42064a7e45
+Section: rootless应用插件
+Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具条（用于键盘辅助）上下左右长按功能自定义。---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等大几十功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。支持呼出Copylog，Copyvault和kayoko新的旧的改的粘贴板，snapper2和ft悬浮和82妙写 交互，更多待新增功能补充或看更新日志。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
+Name: PTools(keyboard) (rootless) (roothide)
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
+
+Package: cn.llld.kbtool
+Version: 3.3.0-1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 10560
+Depends: mobilesubstrate
+Filename: ./debs/rootful/cn.llld.kbtool_3.3.0-1_iphoneos-arm.deb
+Size: 3309282
+MD5sum: 89d62089b03f41b7060d8b7e91367147
+SHA1: 0ecdf1f106f976d9d4b1965e9c06e7ae15433643
+SHA256: 9a4ed48c3d3c4f2139bc0f50384b3ef0c0239211c89e9e75a14c0b4dce952a50
+Section: rootless应用插件
+Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具条（用于键盘辅助）上下左右长按功能自定义。---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等大几十功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。支持呼出Copylog，Copyvault和kayoko新的旧的改的粘贴板，snapper2和ft悬浮和82妙写 交互，更多待新增功能补充或看更新日志。
 Author: 来了老弟
 Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
 Name: PTools(keyboard) (rootless) (roothide) (iOS14)
