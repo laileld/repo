@@ -22,7 +22,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）\n\n---传统的复制,粘贴,全选,换行,左移,右移,翻译，文本开头，文本结尾，关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，\n\n自定义高度宽度按钮，文字大小，文生图文字颜色，高度自定义，自定义API使用等，\n\n自带3.5，可自定义GPT (辅助使用,功能强大，直接把GPT应用带到键盘上，文字直出输入框或弹窗模式）。\n\n呼出Copyvault和kayoko，Copylog剪切板，与snapper2和ft悬浮，妙写 交互，\n\n更多待新增功能补充或查看更新日志。配图为旧版本的，一切已安装包选项为准。",
+          "markdown": "Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）\n\n---工具栏上下左右长按按钮功能自定义，传统的复制,粘贴,全选,换行,左移,右移,翻译，文本开头，文本结尾，关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，\n\n自定义高度宽度按钮，文字大小，文生图文字颜色，高度自定义，自定义API使用等，\n\n自带3.5，也可自定义GPT 链接，模型，人设角色，(支持openai官方样式的所有第三方gpt,功能强大，直接把GPT应用带到键盘上，文字直出输入框或弹窗模式 可出图）。\n\n呼出Copyvault和kayoko，Copylog剪切板，与snapper2和ft悬浮，妙写 交互，\n\n更多待新增功能补充或查看更新日志。配图为旧版本的，一切已安装包选项为准。",
           "useRawFormat": true
         },
         {
@@ -31,24 +31,12 @@
           "itemSize": "{160, 346.4533333333333}",
           "screenshots": [
             {
-              "accessibilityText": "Screenshot",
-              "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/IMG_3281.jpg"
-      },
-      {
        "accessibilityText": "Screenshot",
        "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/IMG_3397.PNG"
       },
       {
        "accessibilityText": "Screenshot",
        "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/IMG_3398.PNG"
-      },
-      {
-       "accessibilityText": "Screenshot",
-       "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/IMG_3399.PNG"
-      },
-      {
-       "accessibilityText": "Screenshot",
-       "url": "https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/IMG_3400.PNG"
       },
       {
        "accessibilityText": "Screenshot",
