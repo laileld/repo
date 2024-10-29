@@ -1415,6 +1415,42 @@ Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbT
 Name: PTools(keyboard) (rootless)
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
 
+Package: cn.llld.kbtool
+Version: 3.5.0-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 10400
+Depends: mobilesubstrate
+Filename: ./debs/rootless/cn.llld.kbtool_3.5.0-1_iphoneos-arm64 (1).deb
+Size: 3319536
+MD5sum: 5119eb3c47993950b6feef4de3cd3513
+SHA1: 0af6c88ccba6de1278e7c508bc5df815583fde3d
+SHA256: 79b80f65d7f339e5d05b6331d1ec4541a7bdcb41f1838af286c0218c1e3a5079
+Section: rootless应用插件
+Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具条（用于键盘辅助）上下左右长按功能自定义。---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等大几十功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。支持呼出Copylog，Copyvault和kayoko新的旧的改的粘贴板，snapper2和ft悬浮和82妙写 交互，更多待新增功能补充或看更新日志。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
+Name: PTools(keyboard) (rootless)
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
+
+Package: cn.llld.kbtool
+Version: 3.5.0-1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 10336
+Depends: mobilesubstrate
+Filename: ./debs/rootful/cn.llld.kbtool_3.5.0-1_iphoneos-arm (1).deb
+Size: 3317836
+MD5sum: b688acf03622c2b4b7172be58373868d
+SHA1: 645a28f877607162506f14f2b636a7e62422ef5f
+SHA256: 2c1c644f358f1106398c5c47b3c310242680e8944e7444561fe4c880be0d9457
+Section: rootless应用插件
+Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具条（用于键盘辅助）上下左右长按功能自定义。---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等大几十功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。支持呼出Copylog，Copyvault和kayoko新的旧的改的粘贴板，snapper2和ft悬浮和82妙写 交互，更多待新增功能补充或看更新日志。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
+Name: PTools(keyboard) (iOS14)
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
+
 Package: cn.llld.keyboard
 Version: 1.0
 Architecture: iphoneos-arm64e
