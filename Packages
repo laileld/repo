@@ -2160,22 +2160,6 @@ Description: The buttons and sliders in the control center have rounded corners.
 Author: neoney
 Name: RoundedCC控制中心圆角化-roothide
 
-Package: cn.llld.ryannair05.snoverlay
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 h_h_x_t
-Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), cn.llld.hhxt,oldabi
-Replaces: com.leftyfl1p.snoverlay
-Filename: ./debs/rootless/snoverlay_1.0.1雪花特效-rootless.deb
-Size: 104632
-MD5sum: 78017f723aecc7c0f213d6440c69689a
-SHA1: 8fb6d0e423c0e28691883905fa4d5c4dcf345f0b
-SHA256: b7c9f8b9a81c3a408f109d17b10d495006ee3f7ec1ce358eddb3f291b577c8f6
-Section: 兼容层oldabi-rootless
-Description: Falling Snowflakes，You can lock the screen only on the desktop or have a global snow effect, and the settings can control the size。可以仅桌面锁屏也可以全局落雪特效，设置可控制大小
-Author: Ryan Nair
-Name: Snoverlay2-雪花特效-rootless
-
 Package: cn.llld.sdxj
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -2860,22 +2844,6 @@ Section: roothide修复插件
 Description: Store desktop apps, stack apps。This is the first version with fixes (the + icon is not displayed but can be used, it will be fixed in the next version)。插件用途：一个桌面图标通过上划或下滑手势，存着多个应用。收纳桌面App，堆叠App，这是发出修复的初版(+号图标不显示但能用，下版本修复)_________仅测试用,有问题卸载---roothide
 Author: Muirey03 来了老弟
 Name: Zenith(Apex)App堆叠-roothide
-
-Package: cn.llld.zfbb
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: ./debs/rootless/支付宝步数XD-rootless_1.1_iphoneos-arm64.deb
-Size: 18394
-MD5sum: 282331925b222819bdc28f0ebc25abd4
-SHA1: f19a8a9c197c0d0f996ad561b0fda5bf7c2aa060
-SHA256: a448b59d80f96fa9a557a6efb987676fb4647ce59f2c982cd1bd6c4970421bbb
-Section: rootless应用插件
-Description: 可注入可越狱使用。自定义步数，屏蔽越狱检测，精简主页显示内容.***长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置***,支持任意版本。0303:增加移除理财。自行设置里关了视频，底部就居中了
-Author: 来了老弟 X：h_h_x_t
-Name: 支付宝步数XD-rootless
 
 Package: cn.llld.zfbb
 Version: 1.1
