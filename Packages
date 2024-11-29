@@ -220,23 +220,6 @@ Description: Playing photos and videos in the album can produce picture-in-pictu
 Author: MiRO 来了老弟
 Name: AVPhotos照片视频画中画-roothide
 
-Package: cn.llld.bbqzr
-Version: 0.4-4
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 368
-Depends: mobilesubstrate
-Filename: ./debs/rootless/QQ绿化_芭比Q-rootless_0.4-4-arm64.deb
-Size: 50004
-MD5sum: 704827e595275d65d1fee48b9d9cdb2a
-SHA1: e4f86197c43e7bdcae1631375b2eb678968dc6e2
-SHA256: b8b3ee8edb7f55b68ecf05b37c37e01bbb8e31868e6bc7a2ebf98880f74c67d0
-Section: rootless应用插件
-Description: ***给QQ加些精简功能，芭比Q可注入可越狱使用，***。长按侧边栏的（日间）或（设置）图标，弹出设置，还有多处隐藏菜单，长按去发现。240228小更新，排版随便弄了下，QQ更新过快，每次都有新活，开发动力不大了
-Author: 来了老弟
-Name: QQ绿化_芭比Q-rootless
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.bbqzr/bbq.json
-
 Package: cn.llld.callblocker13
 Version: 2.0.3
 Architecture: iphoneos-arm64
@@ -1130,94 +1113,6 @@ Author: 来了老弟 X：h_h_x_t
 Name: 禁用主屏幕下拉搜索-rootless
 
 Package: cn.llld.kbtool
-Version: 1.1.0-1
-Architecture: iphoneos-arm
-Maintainer: 来了老弟
-Installed-Size: 7804
-Depends: mobilesubstrate
-Filename: ./debs/rootful/PanelTools面板键盘增强1.1-rootful-arm.deb.deb
-Size: 3283030
-MD5sum: f24eab7e46ce00624f7fb818d5572b41
-SHA1: bcd64b6e77118b0b2455409c6a84f966482f9504
-SHA256: ea738692abde71e5d33dfc267daacf8271e7235c478058b9a1ef2ac30bbe943f
-Section: rootless插件
-Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色等。更多待新增功能补充。
-Author: 来了老弟
-Icon: file:///Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
-Name: Panel-Tools(keyboard)
-
-Package: cn.llld.kbtool
-Version: 1.1.2-1
-Architecture: iphoneos-arm
-Maintainer: 来了老弟
-Installed-Size: 8752
-Depends: mobilesubstrate
-Filename: ./debs/rootful/Panel-Tools(keyboard)1.1.2-1_rootful-arm.deb
-Size: 3525000
-MD5sum: f98dc23d011fc8432e81e607c489b69d
-SHA1: 8c4193478ab3f3d6481e83b44623d03811fc4c09
-SHA256: f30abd8581a92e8a0dff095fb35d94d881cd989c8dbdb53b1de0cb211e1173e5
-Section: rootless插件
-Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度，按钮文字大小，圆角，边框值，文生图，视图文字颜色，接入快捷指令等。上滑全选切换双行和单行功能，呼出kayoko或Copyvault，更多待新增功能补充。
-Author: 来了老弟
-Icon: file:///Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
-Name: Panel-Tools(keyboard)
-
-Package: cn.llld.kbtool
-Version: 1.2.0-2
-Architecture: iphoneos-arm
-Maintainer: 来了老弟
-Installed-Size: 9216
-Depends: mobilesubstrate
-Filename: ./debs/rootful/Panel Tools_1.2.0-2-rootful-arm.deb
-Size: 3640192
-MD5sum: 0aa9866147a69f6ba6ee8c9520f221fc
-SHA1: 6e223cf8164d0f492bfaeff4633d125f8cc6016d
-SHA256: be57dcd621a0858f8c267115fe1e394b215cf528c93a1b448634a24fb9fcb4f5
-Section: rootful插件
-Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色等。更多待新增功能补充。
-Author: 来了老弟
-Icon: file:///Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
-Name: Panel-Tools(keyboard)
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
-
-Package: cn.llld.kbtool
-Version: 1.3.0-1
-Architecture: iphoneos-arm
-Maintainer: 来了老弟
-Installed-Size: 8080
-Depends: mobilesubstrate
-Filename: ./debs/rootful/Panel Tools_1.3-rootful-arm.deb
-Size: 3473356
-MD5sum: e1c5929337f3cf843b32af5f7515ba09
-SHA1: 786ea165e0a799178378283b67a339bc25bfd7b8
-SHA256: aabd38dbae2c756af76e9582661f9772f5e00e47e991a91fcb0f7651bf64d79c
-Section: rootless应用插件
-Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。粘贴下滑呼出Copyvault和kayoko粘贴板，复制或上下滑snapper2和ft悬浮交互，更多待新增功能补充。
-Author: 来了老弟
-Icon: file:///Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
-Name: Panel-Tools(keyboard)
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
-
-Package: cn.llld.kbtool
-Version: 1.4.0-1
-Architecture: iphoneos-arm
-Maintainer: 来了老弟
-Installed-Size: 14624
-Depends: mobilesubstrate
-Filename: ./debs/rootful/Panel Tools键盘之上工具栏-1.4-rootful-arm.deb
-Size: 3736432
-MD5sum: e89676903208ed68fd1961ee79feb827
-SHA1: b1bd04374a45aced1174155a72b613ced0736ef0
-SHA256: 802fc897a0fc1a6cb50d4b4ecf154a05d2e95a5837cd526c46c597e34a9325e7
-Section: rootful应用插件
-Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。粘贴下滑呼出Copyvault和kayoko粘贴板，复制或上下滑snapper2和ft悬浮交互，更多待新增功能补充。
-Author: 来了老弟
-Icon: file:///Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
-Name: Panel-Tools(keyboard)
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
-
-Package: cn.llld.kbtool
 Version: 1.6.0-1
 Architecture: iphoneos-arm
 Maintainer: 来了老弟
@@ -1254,24 +1149,6 @@ Name: Panel-Tools(keyboard)
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
 
 Package: cn.llld.kbtool
-Version: 2.3.5-2
-Architecture: iphoneos-arm
-Maintainer: 来了老弟
-Installed-Size: 13276
-Depends: mobilesubstrate
-Filename: ./debs/rootful/cn.llld.kbtool_2.3.5-2_iphoneos-arm.deb
-Size: 3524752
-MD5sum: 1bd71513431447b931e2275064031027
-SHA1: 6a4a73837fe19528051967b122d63b5a8473bb4b
-SHA256: 266015c85e1cf9fcb5a8bd91f90ee89300f88616f0836a7485c013de8992d255
-Section: rootless应用插件
-Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。粘贴下滑呼出Copyvault和kayoko粘贴板，复制或上下滑snapper2和ft悬浮交互，更多待新增功能补充。
-Author: 来了老弟
-Icon: file:///Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
-Name: PTools(keyboard)
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
-
-Package: cn.llld.kbtool
 Version: 2.3.5-3
 Architecture: iphoneos-arm
 Maintainer: 来了老弟
@@ -1282,24 +1159,6 @@ Size: 3122246
 MD5sum: fc15dfaee970e901fa598d11abd6f4c3
 SHA1: d378ba47ae381b6816d8b30c76ce5af03757051e
 SHA256: 0fa3fa7f7c21af85ba09d100a57a5abf06fd0907a43dddb442d25a05b857171a
-Section: rootless应用插件
-Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。粘贴下滑呼出Copyvault和kayoko粘贴板，复制或上下滑snapper2和ft悬浮交互，更多待新增功能补充。
-Author: 来了老弟
-Icon: file:///Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
-Name: PTools(keyboard)
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
-
-Package: cn.llld.kbtool
-Version: 2.4.0-2
-Architecture: iphoneos-arm
-Maintainer: 来了老弟
-Installed-Size: 11592
-Depends: mobilesubstrate
-Filename: ./debs/rootful/cn.llld.kbtool_2.4.0-2_iphoneos-arm.deb
-Size: 3364538
-MD5sum: 4f1078f7be00dfa0ed7f345698e10f9d
-SHA1: 84f388fc0a387cd33598dcbf3e56a8b8bdf85ac5
-SHA256: 5be032675c4e1df550235dac175dad63207173951fda9b835bbd80b66a9d9e48
 Section: rootless应用插件
 Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。粘贴下滑呼出Copyvault和kayoko粘贴板，复制或上下滑snapper2和ft悬浮交互，更多待新增功能补充。
 Author: 来了老弟
@@ -1808,23 +1667,6 @@ MD5sum: ce0edfdfb74109246a1efe84c7929a5d
 SHA1: da745c0022d639ea0f9a3261ee6a119deb4cf4cd
 SHA256: 05a98fc9c032d0ab1eb03daa25f7c2f757a1239c60f4296bc428a3eb5ea749d1
 Section: rootless应用插件
-Description: 可注入可越狱使用，免费。补充iOS原生的不足，给多个网页类型的应用或场景（比如：各种浏览器Safari，或Ai工具Copilot，拼多多评价区，QQ我的收藏编辑框等），在原工具栏的基础上增加功能按钮(撤销，重做，全选，复制，粘贴，剪切板，换行)，顺便也解决我个人插件PT没有对这方面的行为处理.240915:修正粘贴问题
-Author: 来了老弟
-Name: PTs
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.pts/pts.json
-
-Package: cn.llld.pts
-Version: 0.2
-Architecture: iphoneos-arm
-Maintainer: 来了老弟
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: ./debs/rootful/PTs_0.2_iphoneos-arm.deb
-Size: 10896
-MD5sum: 2338e9e12d4525ffb666e1a8013507ce
-SHA1: 7c57ad9585fd2fa9dfeb1187453176450a1454d2
-SHA256: ee0c0ba287fe8b57872641a7e080d4631d0726f929f1e246326eb36c1236fc81
-Section: rootful应用插件
 Description: 可注入可越狱使用，免费。补充iOS原生的不足，给多个网页类型的应用或场景（比如：各种浏览器Safari，或Ai工具Copilot，拼多多评价区，QQ我的收藏编辑框等），在原工具栏的基础上增加功能按钮(撤销，重做，全选，复制，粘贴，剪切板，换行)，顺便也解决我个人插件PT没有对这方面的行为处理.240915:修正粘贴问题
 Author: 来了老弟
 Name: PTs
@@ -2844,22 +2686,6 @@ Section: roothide修复插件
 Description: Store desktop apps, stack apps。This is the first version with fixes (the + icon is not displayed but can be used, it will be fixed in the next version)。插件用途：一个桌面图标通过上划或下滑手势，存着多个应用。收纳桌面App，堆叠App，这是发出修复的初版(+号图标不显示但能用，下版本修复)_________仅测试用,有问题卸载---roothide
 Author: Muirey03 来了老弟
 Name: Zenith(Apex)App堆叠-roothide
-
-Package: cn.llld.zfbb
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: ./debs/rootful/支付宝步数XD-rootful_1.1_iphoneos-arm.deb
-Size: 17616
-MD5sum: 99ede2d12913abc9a3f2602b3b262347
-SHA1: 74551e1256eb1f3e07ed0abaf1b0fce480c03df0
-SHA256: 08c3aa38dfeea9960839a7b4d213cc0ae4f435ceab3c08c9ac024a05c49b8811
-Section: rootful应用插件
-Description: 可注入可越狱使用。自定义步数，屏蔽越狱检测，精简主页显示内容.***长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置***,支持任意版本。0303:增加移除理财。自行设置里关了视频，底部就居中了
-Author: 来了老弟 X：h_h_x_t
-Name: 支付宝步数XD-rootful
 
 Package: cn.llld.zfbb
 Version: 1.3
