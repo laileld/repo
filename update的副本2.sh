@@ -7,7 +7,7 @@
 
 echo "搜索.DS_Store文件并刪除它們"
 find ./ -iname ".DS_Store" -exec rm {}  \;
-#find ./ -iname "._*" -exec rm {}  \;
+find ./ -iname "._*" -exec rm {}  \;
 echo ".DS_Store 文件已刪除"
 echo "开始重新压缩deb"
 dpkg-scanpackages -m . /dev/null >Packages
