@@ -253,16 +253,16 @@ Author: MiRO 来了老弟
 Name: AVPhotos照片视频画中画-roothide
 
 Package: cn.llld.bbqzr
-Version: 0.6.1
+Version: 0.6.10
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
-Installed-Size: 304
+Installed-Size: 404
 Depends: mobilesubstrate
-Filename: ./debs/rootless/QQ绿化_芭比Q-rootless_0.6.1_iphoneos-arm64.deb
-Size: 38848
-MD5sum: 1ada8c11cd32653ee6606f65bf7605cb
-SHA1: 2a0ed9de5c38550db75838a488f8d8b3b2437b49
-SHA256: 58483d0d6ad3c8c8d600456e077986d2b8d3b90c84e93796152740a664120a74
+Filename: ./debs/rootless/QQ绿化_芭比Q-rootless_0.6.10-arm64.deb
+Size: 66414
+MD5sum: 161459404051a045d2eb20e51c67dcc7
+SHA1: 37c635102da4fdfec2d2d8670e4542fdd25f7f40
+SHA256: 0d5b8527fb5e32ecd4cdc00f45a04589395c48a5b3875e9f32948ea91604cd97
 Section: rootless应用插件
 Description: ***给QQ加些精简功能，芭比Q可注入可越狱使用，***。QQ对话消息页面长按表情，QQ侧边栏长按 日间 天气，QQ设置右上角都可以进入插件窗口。。。因版本不同 某些函数改动也不同
 Author: 来了老弟
